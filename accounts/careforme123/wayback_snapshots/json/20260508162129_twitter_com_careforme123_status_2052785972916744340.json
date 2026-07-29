@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052785911633793024"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2052785972916744340",
+    "created_at": "2026-05-08T16:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052785972916744340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bXghTcmHLA",
+          "end": 111,
+          "expanded_url": "https://x.com/careforme123/status/2052785972916744340/video/1",
+          "media_key": "13_2052785911633793024",
+          "start": 88,
+          "url": "https://t.co/bXghTcmHLA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052785972916744340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "骂河南人的，你们听好了😡\n河南是个好地方🌇\n因为地处在中央🗺️\n都说河南偷井盖🀄\n河南人啥都偷😁\n偷你媳妇偷你妈👯‍♀️\n就TM不偷烂井盖🚗\n河南人不牛逼👐\n骂河南的都砂逼🤬 https://t.co/bXghTcmHLA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17634,
+        "height": 1350,
+        "media_key": "13_2052785911633793024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052785911633793024/img/Bwr6ZVbxDShm0vpV.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052785911633793024/pl/I1ucDiwMpKLcB3AR.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052785911633793024/vid/avc1/320x400/GfGLn6iTt_eFahJQ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052785911633793024/vid/avc1/1080x1350/Df9aK1pSLYXuf2Lf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052785911633793024/vid/avc1/720x900/7IXr0-1V12FG1jpw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052785911633793024/vid/avc1/480x600/bLeIQqeFgB2uGHwP.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052785911633793024"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2052785972916744340",
+        "created_at": "2026-05-08T16:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052785972916744340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXghTcmHLA",
+              "end": 111,
+              "expanded_url": "https://x.com/careforme123/status/2052785972916744340/video/1",
+              "media_key": "13_2052785911633793024",
+              "start": 88,
+              "url": "https://t.co/bXghTcmHLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052785972916744340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骂河南人的，你们听好了😡\n河南是个好地方🌇\n因为地处在中央🗺️\n都说河南偷井盖🀄\n河南人啥都偷😁\n偷你媳妇偷你妈👯‍♀️\n就TM不偷烂井盖🚗\n河南人不牛逼👐\n骂河南的都砂逼🤬 https://t.co/bXghTcmHLA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2052673804934238647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 456,
+          "like_count": 4969,
+          "listed_count": 5,
+          "media_count": 557,
+          "tweet_count": 2042
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

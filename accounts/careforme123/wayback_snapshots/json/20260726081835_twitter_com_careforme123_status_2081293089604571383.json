@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2081003415182946476",
+    "created_at": "2026-07-26T08:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081293089604571383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019112285017632777",
+          "start": 0,
+          "username": "Nyx1131422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081293089604571383",
+    "in_reply_to_user_id": "2019112285017632777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081003415182946476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyx1131422 耍起一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2081003415182946476",
+        "created_at": "2026-07-26T08:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081293089604571383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019112285017632777",
+              "start": 0,
+              "username": "Nyx1131422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081293089604571383",
+        "in_reply_to_user_id": "2019112285017632777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081003415182946476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyx1131422 耍起一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019112285017632777",
+        "conversation_id": "2081003415182946476",
+        "created_at": "2026-07-25T13:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081003415182946476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081003415182946476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 528,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我已搞到蓝v!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2730,
+          "following_count": 801,
+          "like_count": 7869,
+          "listed_count": 8,
+          "media_count": 819,
+          "tweet_count": 3158
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T18:14:29.000Z",
+        "description": "这里是Nyx📍\n绝望的屌丝，忧郁的蠢猪\n二次元鉴证摇滚都沾点\n请找我玩",
+        "id": "2019112285017632777",
+        "name": "Nyx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019114933687074816/-cV2hYOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 213,
+          "like_count": 2417,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "Nyx1131422",
+        "verified": true
+      }
+    ]
+  }
+}

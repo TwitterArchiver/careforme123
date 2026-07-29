@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069020669959192969",
+    "created_at": "2026-06-25T13:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070132948414951715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1534188810623340544",
+          "start": 0,
+          "username": "Uutudo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070132948414951715",
+    "in_reply_to_user_id": "1534188810623340544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069020669959192969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uutudo4 你只有发照片才有流量"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069020659708264448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLajU-7bAAAdy5A.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069020669959192969",
+        "created_at": "2026-06-25T13:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070132948414951715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1534188810623340544",
+              "start": 0,
+              "username": "Uutudo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070132948414951715",
+        "in_reply_to_user_id": "1534188810623340544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069020669959192969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uutudo4 你只有发照片才有流量"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069020659708264448"
+          ]
+        },
+        "author_id": "1534188810623340544",
+        "conversation_id": "2069020669959192969",
+        "created_at": "2026-06-22T11:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069020669959192969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ym2cye2H41",
+              "end": 23,
+              "expanded_url": "https://x.com/Uutudo4/status/2069020669959192969/photo/1",
+              "media_key": "3_2069020659708264448",
+              "start": 0,
+              "url": "https://t.co/Ym2cye2H41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069020669959192969",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1578,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ym2cye2H41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 789,
+          "like_count": 7612,
+          "listed_count": 7,
+          "media_count": 759,
+          "tweet_count": 3015
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-07T15:01:48.000Z",
+        "description": "滚 看你妈逼看",
+        "id": "1534188810623340544",
+        "name": "牙",
+        "pinned_tweet_id": "1965386014228361713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017498187939123204/aCUmHeRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4117,
+          "following_count": 315,
+          "like_count": 4657,
+          "listed_count": 8,
+          "media_count": 258,
+          "tweet_count": 14271
+        },
+        "url": "",
+        "username": "Uutudo4",
+        "verified": false
+      }
+    ]
+  }
+}

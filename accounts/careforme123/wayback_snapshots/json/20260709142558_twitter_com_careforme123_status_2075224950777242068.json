@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075224890282766336"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2075224950777242068",
+    "created_at": "2026-07-09T14:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T15:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075224950777242068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vnB8xC3KFU",
+          "end": 121,
+          "expanded_url": "https://x.com/careforme123/status/2075224950777242068/photo/1",
+          "media_key": "3_2075224890282766336",
+          "start": 98,
+          "url": "https://t.co/vnB8xC3KFU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075224950777242068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如今这个广场是我的坟墓\n\n这个歌声将来是你的挽歌\n\n你会被教育成一个坏人\n\n见死不救吃喝拉撒的动物\n\n请你不要相信他的爱情\n\n你看黎明还没有来临\n\n请你不要相信他的关心\n\n他的手枪正瞄准你的胸膛 https://t.co/vnB8xC3KFU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_2075224890282766336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyuCu5acAAd5Uq.jpg",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075224890282766336"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2075224950777242068",
+        "created_at": "2026-07-09T14:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075224950777242068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnB8xC3KFU",
+              "end": 121,
+              "expanded_url": "https://x.com/careforme123/status/2075224950777242068/photo/1",
+              "media_key": "3_2075224890282766336",
+              "start": 98,
+              "url": "https://t.co/vnB8xC3KFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075224950777242068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如今这个广场是我的坟墓\n\n这个歌声将来是你的挽歌\n\n你会被教育成一个坏人\n\n见死不救吃喝拉撒的动物\n\n请你不要相信他的爱情\n\n你看黎明还没有来临\n\n请你不要相信他的关心\n\n他的手枪正瞄准你的胸膛 https://t.co/vnB8xC3KFU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2544,
+          "following_count": 793,
+          "like_count": 7819,
+          "listed_count": 9,
+          "media_count": 804,
+          "tweet_count": 3112
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

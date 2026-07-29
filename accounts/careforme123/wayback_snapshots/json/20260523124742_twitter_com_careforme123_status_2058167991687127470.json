@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058150082135158962",
+    "created_at": "2026-05-23T12:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058167991687127470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "jusirthree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058167991687127470",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058150082135158962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jusirthree 对中国人的工资来说，日本米价确实有点贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2612,
+        "media_key": "3_2058150062052847616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAEk68bsAAB_R8.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058150082135158962",
+        "created_at": "2026-05-23T12:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058167991687127470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "jusirthree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058167991687127470",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058150082135158962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jusirthree 对中国人的工资来说，日本米价确实有点贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058150062052847616"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2058150082135158962",
+        "created_at": "2026-05-23T11:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058150082135158962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgQDHY5mKh",
+              "end": 66,
+              "expanded_url": "https://x.com/jusirthree/status/2058150082135158962/photo/1",
+              "media_key": "3_2058150062052847616",
+              "start": 43,
+              "url": "https://t.co/qgQDHY5mKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058150082135158962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "地平线6的赛道设在日本的稻田里面，而现实是日本的米价极高，难道外国人不懂珍惜粮食吗？ https://t.co/qgQDHY5mKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 717,
+          "like_count": 6078,
+          "listed_count": 6,
+          "media_count": 650,
+          "tweet_count": 2458
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "name": "jusir",
+        "pinned_tweet_id": "2049539673614418049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 1026,
+          "like_count": 3706,
+          "listed_count": 8,
+          "media_count": 536,
+          "tweet_count": 2080
+        },
+        "username": "jusirthree",
+        "verified": true
+      }
+    ]
+  }
+}

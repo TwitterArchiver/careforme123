@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049120793746198528"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2049120796485054866",
+    "created_at": "2026-04-28T13:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049120796485054866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H6XsSEv0zL",
+          "end": 38,
+          "expanded_url": "https://x.com/careforme123/status/2049120796485054866/photo/1",
+          "media_key": "3_2049120793746198528",
+          "start": 15,
+          "url": "https://t.co/H6XsSEv0zL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049120796485054866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被范哥关注了\n中国人羡慕吗？ https://t.co/H6XsSEv0zL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_2049120793746198528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_wgVUb0AA-JGt.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049120793746198528"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049120796485054866",
+        "created_at": "2026-04-28T13:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049120796485054866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6XsSEv0zL",
+              "end": 38,
+              "expanded_url": "https://x.com/careforme123/status/2049120796485054866/photo/1",
+              "media_key": "3_2049120793746198528",
+              "start": 15,
+              "url": "https://t.co/H6XsSEv0zL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049120796485054866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被范哥关注了\n中国人羡慕吗？ https://t.co/H6XsSEv0zL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互关！男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2048696018045374573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 333,
+          "like_count": 4399,
+          "listed_count": 2,
+          "media_count": 501,
+          "tweet_count": 1797
+        },
+        "username": "careforme123",
+        "verified": false
+      }
+    ]
+  }
+}

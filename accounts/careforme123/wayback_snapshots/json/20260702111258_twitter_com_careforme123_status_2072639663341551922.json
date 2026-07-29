@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2072639663341551922",
+    "created_at": "2026-07-02T11:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072639663341551922"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072639663341551922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "如果有人让你为集体着想，那他口中的集体只是他的利益集团\n\n独裁者总喜欢把他们的利益包装成国家与人民的利益\n\n如果国家不再尊重个人尊严，财产与自由，而是把人当作红利，所谓的历史使命，不过是他们世袭的印钞机\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果有人让你为集体着想，那他口中的集体只是他的利益集团\n\n独裁者总喜欢把他们的利益包装成国家与人民的利益\n\n如果国家不再尊重个人尊严，财产与自由，而是把人当作红利，所谓的历史使命，不过是他们世袭的印钞机\n\n谢谢大家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2072639663341551922",
+        "created_at": "2026-07-02T11:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072639663341551922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072639663341551922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果有人让你为集体着想，那他口中的集体只是他的利益集团\n\n独裁者总喜欢把他们的利益包装成国家与人民的利益\n\n如果国家不再尊重个人尊严，财产与自由，而是把人当作红利，所谓的历史使命，不过是他们世袭的印钞机\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有人让你为集体着想，那他口中的集体只是他的利益集团\n\n独裁者总喜欢把他们的利益包装成国家与人民的利益\n\n如果国家不再尊重个人尊严，财产与自由，而是把人当作红利，所谓的历史使命，不过是他们世袭的印钞机\n\n谢谢大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 788,
+          "like_count": 7732,
+          "listed_count": 8,
+          "media_count": 776,
+          "tweet_count": 3060
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

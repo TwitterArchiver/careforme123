@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050929024277651462",
+    "created_at": "2026-05-03T18:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051004591668707639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1345623428112343040",
+          "start": 0,
+          "username": "yhomg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051004591668707639",
+    "in_reply_to_user_id": "1345623428112343040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050929024277651462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yhomg1 我也来支持一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050929022088118272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZdFE0aAAA98BX.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050929024277651462",
+        "created_at": "2026-05-03T18:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051004591668707639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1345623428112343040",
+              "start": 0,
+              "username": "yhomg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051004591668707639",
+        "in_reply_to_user_id": "1345623428112343040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050929024277651462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhomg1 我也来支持一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050929022088118272"
+          ]
+        },
+        "author_id": "1345623428112343040",
+        "conversation_id": "2050929024277651462",
+        "created_at": "2026-05-03T13:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050929024277651462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2WMs3d9JIU",
+              "end": 50,
+              "expanded_url": "https://x.com/yhomg1/status/2050929024277651462/photo/1",
+              "media_key": "3_2050929022088118272",
+              "start": 27,
+              "url": "https://t.co/2WMs3d9JIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050929024277651462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1227,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感謝支持我的朋友們\n終於3000follow了😭😭😭 https://t.co/2WMs3d9JIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 402,
+          "like_count": 4713,
+          "listed_count": 5,
+          "media_count": 531,
+          "tweet_count": 1947
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-03T06:50:11.000Z",
+        "description": "Web 3深耕6年 | AI developer | 隨機發有潛力的項目\n免費發meme幣：https://t.co/qJMdcAwpUG\n極速建站技術：1小時內將網站由0到完成部署到cloudfare和google 入TG獲專屬粉絲福利 \n接厰商和個體廣告，合作可以私信我TG或X\nhttps://t.co/tfvaCJzB95",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "memelaunchtycoon.com",
+                "end": 69,
+                "expanded_url": "https://memelaunchtycoon.com",
+                "start": 46,
+                "url": "https://t.co/qJMdcAwpUG"
+              },
+              {
+                "display_url": "t.me/yhomg1",
+                "end": 165,
+                "expanded_url": "http://t.me/yhomg1",
+                "start": 142,
+                "url": "https://t.co/tfvaCJzB95"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KzZsTTq0yLtmN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KzZsTTq0yLtmNDg1",
+                "start": 0,
+                "url": "https://t.co/yFZknn8dGV"
+              }
+            ]
+          }
+        },
+        "id": "1345623428112343040",
+        "location": "Hong Kong",
+        "name": "yhomg🦜",
+        "pinned_tweet_id": "2050184387229311429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985327752703291392/ewxSdEET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 3399,
+          "like_count": 4040,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 2922
+        },
+        "url": "https://t.co/yFZknn8dGV",
+        "username": "yhomg1",
+        "verified": true
+      }
+    ]
+  }
+}

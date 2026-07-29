@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062719191304769754",
+    "created_at": "2026-06-05T15:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062920611127570441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1877277569550266370",
+          "start": 0,
+          "username": "Tamz520"
+        },
+        {
+          "end": 25,
+          "id": "1543563046898917379",
+          "start": 9,
+          "username": "icebeer03223446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062920611127570441",
+    "in_reply_to_user_id": "1877277569550266370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062919852415926619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tamz520 @icebeer03223446 有多不一样？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062719191304769754",
+        "created_at": "2026-06-05T15:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062920611127570441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1877277569550266370",
+              "start": 0,
+              "username": "Tamz520"
+            },
+            {
+              "end": 25,
+              "id": "1543563046898917379",
+              "start": 9,
+              "username": "icebeer03223446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062920611127570441",
+        "in_reply_to_user_id": "1877277569550266370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062919852415926619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tamz520 @icebeer03223446 有多不一样？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877277569550266370",
+        "conversation_id": "2062719191304769754",
+        "created_at": "2026-06-05T15:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062919852415926619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1543563046898917379",
+              "start": 0,
+              "username": "icebeer03223446"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tamz520/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/tamz520/status/2062230093351764112",
+              "start": 41,
+              "url": "https://t.co/dZbvhpq9iU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062919852415926619",
+        "in_reply_to_user_id": "1543563046898917379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062230093351764112",
+            "type": "quoted"
+          },
+          {
+            "id": "2062719191304769754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icebeer03223446 我不一样！至于为什么不一样，你来看看就知道了🍻 https://t.co/dZbvhpq9iU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 761,
+          "like_count": 6918,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2760
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-09T08:54:01.000Z",
+        "description": "柒彩云端汇青蓝，\n头顶万象聚飞鸟。\n互助赢来千帆留，\n关山不阻众心步。",
+        "id": "1877277569550266370",
+        "location": "Near 0.5km",
+        "name": "广式柒头🫵",
+        "pinned_tweet_id": "2044117368088232307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047808347836170240/hj9eocM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 1386,
+          "like_count": 3943,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2295
+        },
+        "username": "Tamz520",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-03T11:52:01.000Z",
+        "description": "you follow me\nI follow you back\n$sign 坚定持有者",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "sign"
+              }
+            ]
+          }
+        },
+        "id": "1543563046898917379",
+        "name": "冰啤酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883618360065159168/LKEk6VaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5636,
+          "following_count": 2664,
+          "like_count": 3258,
+          "listed_count": 11,
+          "media_count": 75,
+          "tweet_count": 883
+        },
+        "username": "icebeer03223446",
+        "verified": true
+      }
+    ]
+  }
+}

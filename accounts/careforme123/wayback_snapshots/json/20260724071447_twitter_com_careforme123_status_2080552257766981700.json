@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080552248359419904"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2080263100872425768",
+    "created_at": "2026-07-24T07:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080552257766981700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1611961333096009728",
+          "start": 0,
+          "username": "zhngmnghi1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xRHFvPndQk",
+          "end": 43,
+          "expanded_url": "https://x.com/careforme123/status/2080552257766981700/photo/1",
+          "media_key": "3_2080552248359419904",
+          "start": 20,
+          "url": "https://t.co/xRHFvPndQk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080552257766981700",
+    "in_reply_to_user_id": "1611961333096009728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080548735990583440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngmnghi1 力工也有洋妞梦 https://t.co/xRHFvPndQk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2080552248359419904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-bPyQagAA-6CD.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080552248359419904"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2080263100872425768",
+        "created_at": "2026-07-24T07:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080552257766981700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1611961333096009728",
+              "start": 0,
+              "username": "zhngmnghi1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRHFvPndQk",
+              "end": 43,
+              "expanded_url": "https://x.com/careforme123/status/2080552257766981700/photo/1",
+              "media_key": "3_2080552248359419904",
+              "start": 20,
+              "url": "https://t.co/xRHFvPndQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080552257766981700",
+        "in_reply_to_user_id": "1611961333096009728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080548735990583440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngmnghi1 力工也有洋妞梦 https://t.co/xRHFvPndQk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611961333096009728",
+        "conversation_id": "2080263100872425768",
+        "created_at": "2026-07-24T07:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080548735990583440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080548735990583440",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080263100872425768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 对对对，皿煮的校园枪击，皿煮的流浪汉，这样的六边形可太不够圆了，应该推行全社会😀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 796,
+          "like_count": 7849,
+          "listed_count": 8,
+          "media_count": 817,
+          "tweet_count": 3147
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-08T05:42:03.000Z",
+        "description": "I'm a 36-year-old single Chinese man looking for a woman willing to settle down and live in China. Message me privately if you're interested.",
+        "id": "1611961333096009728",
+        "location": "中国",
+        "name": "小妖怪的夏天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668156641018281988/oPh3lTg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 68,
+          "like_count": 650,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 2672
+        },
+        "url": "",
+        "username": "zhngmnghi1",
+        "verified": false
+      }
+    ]
+  }
+}

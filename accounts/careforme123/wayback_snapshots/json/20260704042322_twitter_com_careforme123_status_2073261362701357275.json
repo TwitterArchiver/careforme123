@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073260513056760156",
+    "created_at": "2026-07-04T04:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073261362701357275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073261362701357275",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073260513056760156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 只会抄袭的互联网公司只能靠着墙吃断头饭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "3_2073005435070664704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTLdb7XUAAcfRx.jpg",
+        "width": 1199
+      },
+      {
+        "height": 378,
+        "media_key": "3_2073005434999283713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTLdbqWIAEXy9v.jpg",
+        "width": 1199
+      },
+      {
+        "height": 680,
+        "media_key": "3_2073005435020279808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTLdbvWgAANm8P.jpg",
+        "width": 1020
+      },
+      {
+        "height": 800,
+        "media_key": "3_2073005435024531456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTLdbwXYAAl7cB.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073260513056760156",
+        "created_at": "2026-07-04T04:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073261362701357275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073261362701357275",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073260513056760156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 只会抄袭的互联网公司只能靠着墙吃断头饭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073005435070664704",
+            "3_2073005434999283713",
+            "3_2073005435020279808",
+            "3_2073005435024531456"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2073260513056760156",
+        "created_at": "2026-07-04T04:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073260513056760156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDMnQqSNRv",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2073260513056760156/photo/1",
+              "media_key": "3_2073005435070664704",
+              "start": 82,
+              "url": "https://t.co/XDMnQqSNRv"
+            },
+            {
+              "display_url": "pic.x.com/XDMnQqSNRv",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2073260513056760156/photo/1",
+              "media_key": "3_2073005434999283713",
+              "start": 82,
+              "url": "https://t.co/XDMnQqSNRv"
+            },
+            {
+              "display_url": "pic.x.com/XDMnQqSNRv",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2073260513056760156/photo/1",
+              "media_key": "3_2073005435020279808",
+              "start": 82,
+              "url": "https://t.co/XDMnQqSNRv"
+            },
+            {
+              "display_url": "pic.x.com/XDMnQqSNRv",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2073260513056760156/photo/1",
+              "media_key": "3_2073005435024531456",
+              "start": 82,
+              "url": "https://t.co/XDMnQqSNRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073260513056760156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国互联网巨头估值跌至历史低位，投资者仍未回流\n\n7月3日，据彭博社报道，尽管中国大型互联网公司的估值已降至历史低位，但市场情绪依然低迷，投资者回流迹象并不明显。\n\n报道称，腾讯今年以来股价累计下跌约28%，市盈率降至约11倍，创历史低位，甚至低于香港公用事业企业中电控股。阿里巴巴6月单月跌幅超过20%，估值也回落至近一年来低点。\n\n分析认为，中国经济增长放缓、消费信心不足，持续拖累依赖消费市场的互联网企业业绩。过去一年，分析师已将恒生科技指数成分股未来盈利预期平均下调超过20%。\n\n数据显示，今年以来，腾讯和阿里巴巴合计市值蒸发约3220亿美元，并拖累恒生科技指数累计下跌19%，成为全球表现最弱的科技指数之一。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1944,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国互联网巨头估值跌至历史低位，投资者仍未回流\n\n7月3日，据彭博社报道，尽管中国大型互联网公司的估值已降至历史低位，但市场情绪依然低迷，投资者回流迹象并不明显。 https://t.co/XDMnQqSNRv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 787,
+          "like_count": 7761,
+          "listed_count": 8,
+          "media_count": 784,
+          "tweet_count": 3077
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243346,
+          "following_count": 1071,
+          "like_count": 9770,
+          "listed_count": 8810,
+          "media_count": 49757,
+          "tweet_count": 56953
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

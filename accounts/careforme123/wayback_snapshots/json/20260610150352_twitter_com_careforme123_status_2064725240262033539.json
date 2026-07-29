@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064725240262033539",
+    "created_at": "2026-06-10T15:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064725240262033539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813561571941183488",
+          "start": 3,
+          "username": "careforme123"
+        },
+        {
+          "end": 33,
+          "id": "1645443201703239680",
+          "start": 18,
+          "username": "Jw012345678901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064725240262033539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064725209031360789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @careforme123: @Jw012345678901 杨兰兰酒后驾车，导致一个无辜的人残疾，法院传唤她她不去，你还在这给他洗，中国人的脸都给他丢尽了，不是人渣是什么，你还要帮人渣说话？\n\n你这种发言就是民族主义害的，建议去看心理医生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064725240262033539",
+        "created_at": "2026-06-10T15:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064725240262033539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813561571941183488",
+              "start": 3,
+              "username": "careforme123"
+            },
+            {
+              "end": 33,
+              "id": "1645443201703239680",
+              "start": 18,
+              "username": "Jw012345678901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064725240262033539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064725209031360789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @careforme123: @Jw012345678901 杨兰兰酒后驾车，导致一个无辜的人残疾，法院传唤她她不去，你还在这给他洗，中国人的脸都给他丢尽了，不是人渣是什么，你还要帮人渣说话？\n\n你这种发言就是民族主义害的，建议去看心理医生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064560693576380545",
+        "created_at": "2026-06-10T15:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064725209031360789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1645443201703239680",
+              "start": 0,
+              "username": "Jw012345678901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064725209031360789",
+        "in_reply_to_user_id": "1645443201703239680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064716871673516211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jw012345678901 杨兰兰酒后驾车，导致一个无辜的人残疾，法院传唤她她不去，你还在这给他洗，中国人的脸都给他丢尽了，不是人渣是什么，你还要帮人渣说话？\n\n你这种发言就是民族主义害的，建议去看心理医生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2134,
+          "following_count": 769,
+          "like_count": 7070,
+          "listed_count": 6,
+          "media_count": 713,
+          "tweet_count": 2826
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-10T15:07:38.000Z",
+        "description": "",
+        "id": "1645443201703239680",
+        "location": "Sydney, New South Wales",
+        "name": "我儿川普有大帝之资",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043926980463341576/evBDld71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 41,
+          "like_count": 33,
+          "listed_count": 5,
+          "media_count": 242,
+          "tweet_count": 4077
+        },
+        "username": "Jw012345678901",
+        "verified": false
+      }
+    ]
+  }
+}

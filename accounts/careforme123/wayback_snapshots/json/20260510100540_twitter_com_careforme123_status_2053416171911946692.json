@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053416159777890304",
+        "3_2053416165683429376"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053416171911946692",
+    "created_at": "2026-05-10T10:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053416171911946692"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n1lSuXY1gG",
+          "end": 82,
+          "expanded_url": "https://x.com/careforme123/status/2053416171911946692/photo/1",
+          "media_key": "3_2053416159777890304",
+          "start": 59,
+          "url": "https://t.co/n1lSuXY1gG"
+        },
+        {
+          "display_url": "pic.x.com/n1lSuXY1gG",
+          "end": 82,
+          "expanded_url": "https://x.com/careforme123/status/2053416171911946692/photo/1",
+          "media_key": "3_2053416165683429376",
+          "start": 59,
+          "url": "https://t.co/n1lSuXY1gG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053416171911946692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢我县城人乌鲁鲁当个艺术生只能混个二本，还要标榜自己为做题蛆🤮🤮，一句脏话都没有就能被说破防吗？\n\n顺便展示野爹证 https://t.co/n1lSuXY1gG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2053416159777890304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8zHiuboAAYELI.jpg",
+        "width": 726
+      },
+      {
+        "height": 972,
+        "media_key": "3_2053416165683429376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8zH4ubAAAXvJf.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053416159777890304",
+            "3_2053416165683429376"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053416171911946692",
+        "created_at": "2026-05-10T10:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053416171911946692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1lSuXY1gG",
+              "end": 82,
+              "expanded_url": "https://x.com/careforme123/status/2053416171911946692/photo/1",
+              "media_key": "3_2053416159777890304",
+              "start": 59,
+              "url": "https://t.co/n1lSuXY1gG"
+            },
+            {
+              "display_url": "pic.x.com/n1lSuXY1gG",
+              "end": 82,
+              "expanded_url": "https://x.com/careforme123/status/2053416171911946692/photo/1",
+              "media_key": "3_2053416165683429376",
+              "start": 59,
+              "url": "https://t.co/n1lSuXY1gG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053416171911946692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我县城人乌鲁鲁当个艺术生只能混个二本，还要标榜自己为做题蛆🤮🤮，一句脏话都没有就能被说破防吗？\n\n顺便展示野爹证 https://t.co/n1lSuXY1gG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 492,
+          "like_count": 5162,
+          "listed_count": 5,
+          "media_count": 569,
+          "tweet_count": 2104
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

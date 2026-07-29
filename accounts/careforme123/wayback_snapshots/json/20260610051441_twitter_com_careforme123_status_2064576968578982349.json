@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064560693576380545",
+    "created_at": "2026-06-10T05:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064576968578982349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2056111545747218432",
+          "start": 0,
+          "username": "JohnSmith38al"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064576968578982349",
+    "in_reply_to_user_id": "2056111545747218432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064571644845179244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnSmith38al 她家里有人可能管得到你😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064560693576380545",
+        "created_at": "2026-06-10T05:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064576968578982349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2056111545747218432",
+              "start": 0,
+              "username": "JohnSmith38al"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064576968578982349",
+        "in_reply_to_user_id": "2056111545747218432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064571644845179244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnSmith38al 她家里有人可能管得到你😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056111545747218432",
+        "conversation_id": "2064560693576380545",
+        "created_at": "2026-06-10T04:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064571644845179244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064571644845179244",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064560693576380545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 不管是谁\n一个狗东西罢了\n管他是谁\n管不到我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 766,
+          "like_count": 7036,
+          "listed_count": 6,
+          "media_count": 711,
+          "tweet_count": 2811
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T20:36:08.000Z",
+        "description": "喂，你们丫的，早点买个Surfshark VPN哈。不然挂了别说我没提醒你们。",
+        "id": "2056111545747218432",
+        "name": "John Smith",
+        "pinned_tweet_id": "2060923018298163339",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 1481,
+          "like_count": 1970,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 3232
+        },
+        "username": "JohnSmith38al",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065619625770201089",
+        "3_2065620291179700224"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2065620318023295349",
+    "created_at": "2026-06-13T02:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T03:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065620318023295349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R11krVM7B4",
+          "end": 165,
+          "expanded_url": "https://x.com/careforme123/status/2065620318023295349/photo/1",
+          "media_key": "3_2065619625770201089",
+          "start": 142,
+          "url": "https://t.co/R11krVM7B4"
+        },
+        {
+          "display_url": "pic.x.com/R11krVM7B4",
+          "end": 165,
+          "expanded_url": "https://x.com/careforme123/status/2065620318023295349/photo/1",
+          "media_key": "3_2065620291179700224",
+          "start": 142,
+          "url": "https://t.co/R11krVM7B4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065620318023295349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "列宁的死因，是梅毒吗？\n\n2004年欧洲的医学期刊上出现了一篇论文:《列宁的致命疾病》\n\n列宁在晚年的精神状态高度符合梅毒：经常出现毫无征兆的暴怒，焦虑和偏执。\n\n他也逐渐失去了写作、说话、控制表情的能力，而渐进式的脑功能受损，与单纯的脑卒中（苏联给的死因）不同\n\n最关键的证据，是 他曾服用过两年的胂凡纳明，这种药物类似砒霜。文章强调，这种药物的毒副作用极大，如果不是确诊梅毒，医生绝不敢给国家领导人盲目使用这种药\n\n负责诊治列宁的德国专家回到欧洲后，对列宁的病情大多三缄其口。文章认为苏联当局给医疗团队施加了政治压力，逼迫他们隐瞒这种性传播疾病\n\n但反对者提出，列宁生前曾做过数次梅毒血清学检测结果均为阴性。虽然当时的准确率不是100%，但也不能直接忽略这些书面阴性报告\n\n参与列宁尸检的病理学家阿布里科索夫也在报告中明确指出，没有发现神经梅毒所特有的主动脉炎、树胶肿或脊髓痨等病理特征\n\n总之，列宁死于梅毒在临床医学上是完全说得通的，但由于缺乏直接的生物学铁证，这个观点至今仍被历史学家归为一种强有力的假说"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "列宁的死因，是梅毒吗？\n\n2004年欧洲的医学期刊上出现了一篇论文:《列宁的致命疾病》\n\n列宁在晚年的精神状态高度符合梅毒：经常出现毫无征兆的暴怒，焦虑和偏执。\n\n他也逐渐失去了写作、说话、控制表情的能力，而渐进式的脑功能受损，与单纯的脑卒中（苏联给的死因）不同\n\n最关键的证据，是 https://t.co/R11krVM7B4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 445,
+        "media_key": "3_2065619625770201089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqOGwMbsAEB2Ns.jpg",
+        "width": 552
+      },
+      {
+        "height": 893,
+        "media_key": "3_2065620291179700224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqOtfCa4AAl4Lb.jpg",
+        "width": 637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065619625770201089",
+            "3_2065620291179700224"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2065620318023295349",
+        "created_at": "2026-06-13T02:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T03:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065620318023295349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R11krVM7B4",
+              "end": 165,
+              "expanded_url": "https://x.com/careforme123/status/2065620318023295349/photo/1",
+              "media_key": "3_2065619625770201089",
+              "start": 142,
+              "url": "https://t.co/R11krVM7B4"
+            },
+            {
+              "display_url": "pic.x.com/R11krVM7B4",
+              "end": 165,
+              "expanded_url": "https://x.com/careforme123/status/2065620318023295349/photo/1",
+              "media_key": "3_2065620291179700224",
+              "start": 142,
+              "url": "https://t.co/R11krVM7B4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065620318023295349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "列宁的死因，是梅毒吗？\n\n2004年欧洲的医学期刊上出现了一篇论文:《列宁的致命疾病》\n\n列宁在晚年的精神状态高度符合梅毒：经常出现毫无征兆的暴怒，焦虑和偏执。\n\n他也逐渐失去了写作、说话、控制表情的能力，而渐进式的脑功能受损，与单纯的脑卒中（苏联给的死因）不同\n\n最关键的证据，是 他曾服用过两年的胂凡纳明，这种药物类似砒霜。文章强调，这种药物的毒副作用极大，如果不是确诊梅毒，医生绝不敢给国家领导人盲目使用这种药\n\n负责诊治列宁的德国专家回到欧洲后，对列宁的病情大多三缄其口。文章认为苏联当局给医疗团队施加了政治压力，逼迫他们隐瞒这种性传播疾病\n\n但反对者提出，列宁生前曾做过数次梅毒血清学检测结果均为阴性。虽然当时的准确率不是100%，但也不能直接忽略这些书面阴性报告\n\n参与列宁尸检的病理学家阿布里科索夫也在报告中明确指出，没有发现神经梅毒所特有的主动脉炎、树胶肿或脊髓痨等病理特征\n\n总之，列宁死于梅毒在临床医学上是完全说得通的，但由于缺乏直接的生物学铁证，这个观点至今仍被历史学家归为一种强有力的假说"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "列宁的死因，是梅毒吗？\n\n2004年欧洲的医学期刊上出现了一篇论文:《列宁的致命疾病》\n\n列宁在晚年的精神状态高度符合梅毒：经常出现毫无征兆的暴怒，焦虑和偏执。\n\n他也逐渐失去了写作、说话、控制表情的能力，而渐进式的脑功能受损，与单纯的脑卒中（苏联给的死因）不同\n\n最关键的证据，是 https://t.co/R11krVM7B4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 771,
+          "like_count": 7148,
+          "listed_count": 6,
+          "media_count": 723,
+          "tweet_count": 2859
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

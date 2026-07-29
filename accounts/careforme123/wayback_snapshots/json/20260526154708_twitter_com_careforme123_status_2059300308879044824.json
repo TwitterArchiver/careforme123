@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059293052326584729",
+    "created_at": "2026-05-26T15:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059300308879044824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2041735253929422850",
+          "start": 0,
+          "username": "DoroDoge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059300308879044824",
+    "in_reply_to_user_id": "2041735253929422850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059293052326584729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoroDoge 你啥时候fo我？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2059293044172873728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQUHPJbYAATTI7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059293052326584729",
+        "created_at": "2026-05-26T15:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059300308879044824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2041735253929422850",
+              "start": 0,
+              "username": "DoroDoge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059300308879044824",
+        "in_reply_to_user_id": "2041735253929422850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059293052326584729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoroDoge 你啥时候fo我？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059293044172873728"
+          ]
+        },
+        "author_id": "2041735253929422850",
+        "conversation_id": "2059293052326584729",
+        "created_at": "2026-05-26T15:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059293052326584729"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0QpwlxxG4",
+              "end": 138,
+              "expanded_url": "https://x.com/DoroDoge/status/2059293052326584729/photo/1",
+              "media_key": "3_2059293044172873728",
+              "start": 115,
+              "url": "https://t.co/x0QpwlxxG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059293052326584729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "蓝V互关"
+              }
+            ]
+          },
+          "text": "开通蓝V第3天，居然已经700粉了。🥺\n说实话，涨粉速度连我自己都有点没想到。\n\n从0开始做到现在，\n真的特别感谢每一个愿意关注、互动、回帖的宝子❤️#蓝V互关 🫶\n\n互联网很大，但能在这里遇到一群愿意互相支持的人，真的很幸运。\n\n现在也许大家都还只是几百粉、几千粉的小号。但谁又能确定，未来不会一起成长成大号呢？🚀\n\n欢迎继续互关互动～\n一起做彼此的原始股，一起成长，一起见证。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开通蓝V第3天，居然已经700粉了。🥺\n说实话，涨粉速度连我自己都有点没想到。\n\n从0开始做到现在，\n真的特别感谢每一个愿意关注、互动、回帖的宝子❤️#蓝V互关 🫶\n\n互联网很大，但能在这里遇到一群愿意互相支持的人，真的很幸运。 https://t.co/x0QpwlxxG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人🚸，现居日本大阪，爱党爱国🇨🇳，常来宛平南路600号🏥，曾因偷吃桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 739,
+          "like_count": 6383,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 2573
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T04:30:35.000Z",
+        "description": "Vibe Coding",
+        "id": "2041735253929422850",
+        "name": "DoroDoge",
+        "pinned_tweet_id": "2059118167704977457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046082643629154304/XsM-1IsX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 788,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 746
+        },
+        "username": "DoroDoge",
+        "verified": true
+      }
+    ]
+  }
+}

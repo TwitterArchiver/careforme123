@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2049120796485054866",
+    "created_at": "2026-04-29T04:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T05:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049345652958888025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "KuaiLe_fengnan1"
+        },
+        {
+          "end": 32,
+          "id": "1973066126956654592",
+          "start": 17,
+          "username": "tt_iphone62659"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049345652958888025",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049301267542134947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuaiLe_fengnan1 @tt_iphone62659 因为你不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049120796485054866",
+        "created_at": "2026-04-29T04:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049345652958888025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "KuaiLe_fengnan1"
+            },
+            {
+              "end": 32,
+              "id": "1973066126956654592",
+              "start": 17,
+              "username": "tt_iphone62659"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049345652958888025",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049301267542134947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuaiLe_fengnan1 @tt_iphone62659 因为你不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811604757670137856",
+        "conversation_id": "2049120796485054866",
+        "created_at": "2026-04-29T01:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049301267542134947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1973066126956654592",
+              "start": 0,
+              "username": "tt_iphone62659"
+            },
+            {
+              "end": 29,
+              "id": "1813561571941183488",
+              "start": 16,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049301267542134947",
+        "in_reply_to_user_id": "1973066126956654592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049154511139402217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tt_iphone62659 @careforme123 同样都是人类，为何你的大脑能推理出此等结论？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049335145208193267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 338,
+          "like_count": 4427,
+          "listed_count": 3,
+          "media_count": 504,
+          "tweet_count": 1809
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "我王梦圆与国铁郑州局不共戴天 |二号机：@puzzlerIee | 过去身：暂无 | 狗与@care1337_禁止入内⛔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "puzzlerIee"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "care1337_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/YXwTSLKCMiw/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/YXwTSLKCMiw/",
+                "start": 0,
+                "url": "https://t.co/vtQnVsJIoV"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "河南省洛阳市",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2042410246405308624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330262199439360/_ITvKxyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 756,
+          "like_count": 1184,
+          "listed_count": 7,
+          "media_count": 768,
+          "tweet_count": 4828
+        },
+        "url": "https://t.co/vtQnVsJIoV",
+        "username": "KuaiLe_fengnan1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T16:43:28.000Z",
+        "description": "取义成仁今日事，人间种遍自由花",
+        "id": "1973066126956654592",
+        "location": "Milan",
+        "name": "LOVE404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037222493426245632/3a5eiiMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 129,
+          "like_count": 2077,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1114
+        },
+        "username": "tt_iphone62659",
+        "verified": false
+      }
+    ]
+  }
+}

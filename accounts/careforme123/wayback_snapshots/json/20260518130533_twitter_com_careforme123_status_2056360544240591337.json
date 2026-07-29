@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056353527531024700",
+    "created_at": "2026-05-18T13:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056360544240591337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "PinTuZhe_s_dad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056360544240591337",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056353527531024700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinTuZhe_s_dad 哥们，这腊肉怎么卖？2块钱一斤，whats up。你这腊里子是金子做的还是腊皮子是金子做的，保熟么？我问你保熟吗？你是故意找茬吧，你要不要吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1521,
+        "media_key": "3_2056353515241664512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImioIia8AAhrQO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056353527531024700",
+        "created_at": "2026-05-18T13:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056360544240591337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "PinTuZhe_s_dad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056360544240591337",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056353527531024700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinTuZhe_s_dad 哥们，这腊肉怎么卖？2块钱一斤，whats up。你这腊里子是金子做的还是腊皮子是金子做的，保熟么？我问你保熟吗？你是故意找茬吧，你要不要吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056353515241664512"
+          ]
+        },
+        "author_id": "1811604757670137856",
+        "conversation_id": "2056353527531024700",
+        "created_at": "2026-05-18T12:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056353527531024700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2HTm9QUgx",
+              "end": 38,
+              "expanded_url": "https://x.com/PinTuZhe_s_dad/status/2056353527531024700/photo/1",
+              "media_key": "3_2056353515241664512",
+              "start": 15,
+              "url": "https://t.co/O2HTm9QUgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056353527531024700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人该追的星，应是民族脊梁 https://t.co/O2HTm9QUgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 610,
+          "like_count": 5747,
+          "listed_count": 6,
+          "media_count": 629,
+          "tweet_count": 2343
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "@puzzlerlee的老木被5033个黑人大汉🗡️砂/狗与@careforme123禁止入内⛔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "careforme123"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "Brisbane, Queensland",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330262199439360/_ITvKxyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 881,
+          "like_count": 1434,
+          "listed_count": 6,
+          "media_count": 872,
+          "tweet_count": 5565
+        },
+        "username": "PinTuZhe_s_dad",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069265010984202580",
+    "created_at": "2026-06-23T08:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069344280381169884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1649395274283094021",
+          "start": 0,
+          "username": "seawindInChips"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069344280381169884",
+    "in_reply_to_user_id": "1649395274283094021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069343810426122346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seawindInChips 82年删除了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069265010984202580",
+        "created_at": "2026-06-23T08:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069344280381169884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1649395274283094021",
+              "start": 0,
+              "username": "seawindInChips"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069344280381169884",
+        "in_reply_to_user_id": "1649395274283094021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069343810426122346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seawindInChips 82年删除了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649395274283094021",
+        "conversation_id": "2069265010984202580",
+        "created_at": "2026-06-23T08:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069343810426122346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069343810426122346",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069265010984202580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 75宪法有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 782,
+          "like_count": 7542,
+          "listed_count": 7,
+          "media_count": 751,
+          "tweet_count": 2987
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-21T12:51:09.000Z",
+        "description": "knowing all Chinese history. it's right to rebel",
+        "id": "1649395274283094021",
+        "name": "blowheart",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062150401995214848/4AoTVlZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 50,
+          "like_count": 9183,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2272
+        },
+        "url": "",
+        "username": "seawindInChips",
+        "verified": false
+      }
+    ]
+  }
+}

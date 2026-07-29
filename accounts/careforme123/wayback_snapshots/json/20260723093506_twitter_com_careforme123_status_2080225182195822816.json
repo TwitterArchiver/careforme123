@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080225164827267072",
+        "3_2080225175841492992"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2080225182195822816",
+    "created_at": "2026-07-23T09:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080225182195822816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jhh9c494kQ",
+          "end": 162,
+          "expanded_url": "https://x.com/careforme123/status/2080225182195822816/photo/1",
+          "media_key": "3_2080225164827267072",
+          "start": 139,
+          "url": "https://t.co/Jhh9c494kQ"
+        },
+        {
+          "display_url": "pic.x.com/Jhh9c494kQ",
+          "end": 162,
+          "expanded_url": "https://x.com/careforme123/status/2080225182195822816/photo/1",
+          "media_key": "3_2080225175841492992",
+          "start": 139,
+          "url": "https://t.co/Jhh9c494kQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080225182195822816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次中国发天灾，就是中国红十字会等一众“慈善机构”发财的时候\n\n你捐的钱30%拿来打点政府，60%他们自己消化掉，10%拿来给灾区买点聊胜于无的泡面\n\n一群连账本都不公开的“慈善机构”，你们这些捐钱的都是助纣为虐，不如捐给国外的公益组织。人家公开所有账单与资金流向\n\n谢谢大家 https://t.co/Jhh9c494kQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2080225164827267072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5xxBJbkAAazmM.jpg",
+        "width": 1156
+      },
+      {
+        "height": 524,
+        "media_key": "3_2080225175841492992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5xxqLbUAAsiCb.jpg",
+        "width": 381
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080225164827267072",
+            "3_2080225175841492992"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2080225182195822816",
+        "created_at": "2026-07-23T09:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080225182195822816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jhh9c494kQ",
+              "end": 162,
+              "expanded_url": "https://x.com/careforme123/status/2080225182195822816/photo/1",
+              "media_key": "3_2080225164827267072",
+              "start": 139,
+              "url": "https://t.co/Jhh9c494kQ"
+            },
+            {
+              "display_url": "pic.x.com/Jhh9c494kQ",
+              "end": 162,
+              "expanded_url": "https://x.com/careforme123/status/2080225182195822816/photo/1",
+              "media_key": "3_2080225175841492992",
+              "start": 139,
+              "url": "https://t.co/Jhh9c494kQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080225182195822816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次中国发天灾，就是中国红十字会等一众“慈善机构”发财的时候\n\n你捐的钱30%拿来打点政府，60%他们自己消化掉，10%拿来给灾区买点聊胜于无的泡面\n\n一群连账本都不公开的“慈善机构”，你们这些捐钱的都是助纣为虐，不如捐给国外的公益组织。人家公开所有账单与资金流向\n\n谢谢大家 https://t.co/Jhh9c494kQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 795,
+          "like_count": 7844,
+          "listed_count": 8,
+          "media_count": 815,
+          "tweet_count": 3144
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064398091327770829",
+    "created_at": "2026-06-09T17:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064399924347965560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064399924347965560",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064398091327770829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 直接把罪犯抓起来，什么都解决了，就算没有适合的法律，寻衅滋事罪绝对担的上\n再发展下去，可能就像当年悼念乌鲁木齐火灾一样，性质就要变了....."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52766,
+        "height": 1280,
+        "media_key": "13_2064397839237632000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064397839237632000/img/v-phgQvd-nHmzV7x.jpg",
+        "public_metrics": {
+          "view_count": 442
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064397839237632000/vid/avc1/320x690/zs1Gw8GM8eiqEkKl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064397839237632000/vid/avc1/480x1036/CLFp5Il8LHyQmWRa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064397839237632000/vid/avc1/592x1280/C07fPLsh_VEn68wh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064397839237632000/pl/KkjA0ygMYZldf6Y4.m3u8"
+          }
+        ],
+        "width": 592
+      },
+      {
+        "duration_ms": 29500,
+        "height": 1280,
+        "media_key": "13_2064397848347627520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064397848347627520/img/a5Yb8PK_ddETTvKQ.jpg",
+        "public_metrics": {
+          "view_count": 97
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064397848347627520/vid/avc1/320x568/VMy9ggSRBZdot0fG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064397848347627520/vid/avc1/480x852/DsWBUHJ7vmTX9VCe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064397848347627520/vid/avc1/720x1280/SfsJ4hM9USQKwiIQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064397848347627520/pl/FUvzjOyfd1eANC3L.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 19166,
+        "height": 848,
+        "media_key": "13_2064397919080292352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064397919080292352/img/1qXJTWalBD_VMz0g.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064397919080292352/vid/avc1/320x424/cVqcDFIYUbAMoePr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064397919080292352/vid/avc1/480x636/5f1_PLoMBxDSRbI-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064397919080292352/vid/avc1/640x848/_H1uZVzhhNjGyYXE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064397919080292352/pl/kdYPaMgvT8zt6N-X.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064398091327770829",
+        "created_at": "2026-06-09T17:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064399924347965560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064399924347965560",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064398091327770829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 直接把罪犯抓起来，什么都解决了，就算没有适合的法律，寻衅滋事罪绝对担的上\n再发展下去，可能就像当年悼念乌鲁木齐火灾一样，性质就要变了....."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064397839237632000",
+            "13_2064397848347627520",
+            "13_2064397919080292352"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2064398091327770829",
+        "created_at": "2026-06-09T17:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064398091327770829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WsF2dYpQy",
+              "end": 69,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2064398091327770829/video/1",
+              "media_key": "13_2064397839237632000",
+              "start": 46,
+              "url": "https://t.co/8WsF2dYpQy"
+            },
+            {
+              "display_url": "pic.x.com/8WsF2dYpQy",
+              "end": 69,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2064398091327770829/video/1",
+              "media_key": "13_2064397848347627520",
+              "start": 46,
+              "url": "https://t.co/8WsF2dYpQy"
+            },
+            {
+              "display_url": "pic.x.com/8WsF2dYpQy",
+              "end": 69,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2064398091327770829/video/1",
+              "media_key": "13_2064397919080292352",
+              "start": 46,
+              "url": "https://t.co/8WsF2dYpQy"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2064374999931339248",
+              "start": 70,
+              "url": "https://t.co/O5hz9FDVM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064398091327770829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2808,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064374999931339248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6月9日晚，重庆“山姆打包哥”虐狗事件现场\n早些时间，抗议者们不断聚集，大喊“放人，放人” https://t.co/8WsF2dYpQy https://t.co/O5hz9FDVM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 767,
+          "like_count": 7023,
+          "listed_count": 6,
+          "media_count": 708,
+          "tweet_count": 2805
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235828,
+          "following_count": 1070,
+          "like_count": 9656,
+          "listed_count": 8800,
+          "media_count": 48262,
+          "tweet_count": 55417
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2060916068940685603",
+    "created_at": "2026-05-31T16:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061124896655073576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032998020401475585",
+          "start": 0,
+          "username": "KangYu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061124896655073576",
+    "in_reply_to_user_id": "2032998020401475585",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060916068940685603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KangYu8964 god bless you"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 701,
+        "media_key": "3_2060916065195225088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnYPfnbcAAPYsf.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2060916068940685603",
+        "created_at": "2026-05-31T16:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061124896655073576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032998020401475585",
+              "start": 0,
+              "username": "KangYu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061124896655073576",
+        "in_reply_to_user_id": "2032998020401475585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060916068940685603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KangYu8964 god bless you"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060916065195225088"
+          ]
+        },
+        "author_id": "2032998020401475585",
+        "conversation_id": "2060916068940685603",
+        "created_at": "2026-05-31T02:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060916068940685603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7B36y58BGx",
+              "end": 212,
+              "expanded_url": "https://x.com/KangYu8964/status/2060916068940685603/photo/1",
+              "media_key": "3_2060916065195225088",
+              "start": 189,
+              "url": "https://t.co/7B36y58BGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060916068940685603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是中国人。我反对中国共产党，反对中国共产党对世界造成的伤害与影响。请支持我的人给予我力量。\n\nEnglish\nI am Chinese. I oppose the Chinese Communist Party and its harmful influence on the world. Please give me your support and strength. https://t.co/7B36y58BGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 742,
+          "like_count": 6596,
+          "listed_count": 5,
+          "media_count": 674,
+          "tweet_count": 2654
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T01:52:22.000Z",
+        "description": "我是中国民主党党员，关注中国人权与自由，记录历史，反对中共极权压迫。\n愿真相被看见，愿自由属于每一个中国人。",
+        "id": "2032998020401475585",
+        "location": "Los Angeles, CA",
+        "name": "康余Kang Yu",
+        "pinned_tweet_id": "2060737069035729222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033000621276819456/BNixHCs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 276,
+          "like_count": 437,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 655
+        },
+        "username": "KangYu8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2049353203377156517",
+    "created_at": "2026-04-29T05:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049353203377156517"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049353203377156517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "东北人吃桌饺🥟\n福建人吃老鼠干🐭\n广东人吃虫子🐛\n四川人吃猪大肠💩\n广西人吃狗肉😡\n云南人吃烤老鼠🐭\n上海人吃腐烂的鱼🐟\n浙江人吃尿卤蛋🌧️\n北京人喝过期豆浆🥛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049353203377156517",
+        "created_at": "2026-04-29T05:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049353203377156517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049353203377156517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东北人吃桌饺🥟\n福建人吃老鼠干🐭\n广东人吃虫子🐛\n四川人吃猪大肠💩\n广西人吃狗肉😡\n云南人吃烤老鼠🐭\n上海人吃腐烂的鱼🐟\n浙江人吃尿卤蛋🌧️\n北京人喝过期豆浆🥛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049335145208193267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 338,
+          "like_count": 4430,
+          "listed_count": 3,
+          "media_count": 504,
+          "tweet_count": 1811
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

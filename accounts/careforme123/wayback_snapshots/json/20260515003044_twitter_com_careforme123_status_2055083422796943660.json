@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2054511299112181969",
+    "created_at": "2026-05-15T00:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T01:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055083422796943660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620839726264750080",
+          "start": 0,
+          "username": "Renminonethree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055083422796943660",
+    "in_reply_to_user_id": "1620839726264750080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054511299112181969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Renminonethree 你觉得推特不好就滚出推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054511299112181969",
+        "created_at": "2026-05-15T00:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055083422796943660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620839726264750080",
+              "start": 0,
+              "username": "Renminonethree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055083422796943660",
+        "in_reply_to_user_id": "1620839726264750080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054511299112181969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Renminonethree 你觉得推特不好就滚出推特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620839726264750080",
+        "conversation_id": "2054511299112181969",
+        "created_at": "2026-05-13T10:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054511299112181969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054511299112181969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "78推特。对着支黑说了一句受着都能被冻结账号，连一个脏字都没，封的演都不带演了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 551,
+          "like_count": 5505,
+          "listed_count": 6,
+          "media_count": 610,
+          "tweet_count": 2252
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-01T17:41:34.000Z",
+        "description": "威权左派主义，人类文明万岁，人类的目标是星辰大海，人类之间的所有战争都是给外星文明递刀子。爱的国是中华人民共和国，爱的党是中国共产党，爱的族是中华民族，爱的地是神州大地，爱的河是长江黄河，祖国必将统一，台湾必将回归「和谐讨论，从来不拉黑别人，机器号别来私信关注，你要是拉黑就是你急了」。来X的目的只为宣传人类大团结。",
+        "id": "1620839726264750080",
+        "location": "宇宙拉尼亚凯亚超星系团银河系太阳系地球亚洲地区中华人民共和国",
+        "name": "国棉厂墨镜王大师🍥🏳️‍⚧️（🌎👊🔥）",
+        "pinned_tweet_id": "1964789236038771133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970787061277003776/G8zaUQgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 171,
+          "like_count": 1303,
+          "listed_count": 8,
+          "media_count": 72,
+          "tweet_count": 3269
+        },
+        "username": "Renminonethree",
+        "verified": false
+      }
+    ]
+  }
+}

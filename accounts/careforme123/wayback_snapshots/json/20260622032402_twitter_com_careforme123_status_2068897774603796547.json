@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068897774603796547",
+    "created_at": "2026-06-22T03:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068897774603796547"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068897774603796547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在国外坑中国人最多的，就是中国人\n\n大家出国后一定要小心中国人，不是当托骗你消费，就是骗你租房，你要是签证有问题，他们还会骗你去打薪水极低的黑工，要发工资了又拿非法移民来威胁你\n\n你要是有点钱，他们会骗你换汇，投资，卷款跑路，或者给你黑钱让你银行账户冻结\n\n特别要小心东北人和河南人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068897774603796547",
+        "created_at": "2026-06-22T03:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068897774603796547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068897774603796547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在国外坑中国人最多的，就是中国人\n\n大家出国后一定要小心中国人，不是当托骗你消费，就是骗你租房，你要是签证有问题，他们还会骗你去打薪水极低的黑工，要发工资了又拿非法移民来威胁你\n\n你要是有点钱，他们会骗你换汇，投资，卷款跑路，或者给你黑钱让你银行账户冻结\n\n特别要小心东北人和河南人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 784,
+          "like_count": 7506,
+          "listed_count": 6,
+          "media_count": 747,
+          "tweet_count": 2973
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

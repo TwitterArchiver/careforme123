@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050444564477997056",
+        "3_2050444487713751041"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050444577253863837",
+    "created_at": "2026-05-02T05:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050444577253863837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PIfJZ1pRGB",
+          "end": 147,
+          "expanded_url": "https://x.com/careforme123/status/2050444577253863837/photo/1",
+          "media_key": "3_2050444564477997056",
+          "start": 124,
+          "url": "https://t.co/PIfJZ1pRGB"
+        },
+        {
+          "display_url": "pic.x.com/PIfJZ1pRGB",
+          "end": 147,
+          "expanded_url": "https://x.com/careforme123/status/2050444577253863837/photo/1",
+          "media_key": "3_2050444487713751041",
+          "start": 124,
+          "url": "https://t.co/PIfJZ1pRGB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050444577253863837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "2012年3月18日凌晨4时许，北京北四环保福寺桥附近，一辆黑色法拉利458 Spider跑车在湿滑路面上失控，撞向护栏后严重解体\n\n车上三人（皆为赤裸）被甩出：24岁的中央办公厅主任令计划之子令谷当场死亡，两名年轻藏族女子重伤（其中一人后死亡） \n\n当时令计划担任中共中央办公厅主任，为胡锦涛重要助手。此事被视为令计划政治生涯转折点，导致其未获预期晋升\n\n2012年3月15日，令计划奉命负责对薄熙来的调查与处置，仅三天后（3月18日），其子令谷便发生法拉利车祸身亡。时机高度敏感，坊间多有猜测。 \n\n据报道，令计划为掩盖丑闻，动用中央警卫局封锁现场，并试图与周永康结盟：要求周帮其保密车祸消息，周则希望令劝说胡锦涛对薄熙来“大事化小”，甚至推动薄案从轻处理，以换取令在十八大上的支持。 \n\n薄熙来事件本让胡锦涛阵营占优，但令计划的掩盖行为遭江泽民等元老质疑“无人性”，成为其无法晋升常委的重要理由。车祸丑闻与薄案相互交织，进一步搅动十八大前高层博弈，最终令计划被边缘化，薄熙来彻底落马。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2012年3月18日凌晨4时许，北京北四环保福寺桥附近，一辆黑色法拉利458 Spider跑车在湿滑路面上失控，撞向护栏后严重解体\n\n车上三人（皆为赤裸）被甩出：24岁的中央办公厅主任令计划之子令谷当场死亡，两名年轻藏族女子重伤（其中一人后死亡） https://t.co/PIfJZ1pRGB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2050444564477997056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSkd7lXcAAjR_c.jpg",
+        "width": 1024
+      },
+      {
+        "height": 450,
+        "media_key": "3_2050444487713751041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSkZdnWAAEiRGL.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050444564477997056",
+            "3_2050444487713751041"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050444577253863837",
+        "created_at": "2026-05-02T05:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050444577253863837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIfJZ1pRGB",
+              "end": 147,
+              "expanded_url": "https://x.com/careforme123/status/2050444577253863837/photo/1",
+              "media_key": "3_2050444564477997056",
+              "start": 124,
+              "url": "https://t.co/PIfJZ1pRGB"
+            },
+            {
+              "display_url": "pic.x.com/PIfJZ1pRGB",
+              "end": 147,
+              "expanded_url": "https://x.com/careforme123/status/2050444577253863837/photo/1",
+              "media_key": "3_2050444487713751041",
+              "start": 124,
+              "url": "https://t.co/PIfJZ1pRGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050444577253863837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2012年3月18日凌晨4时许，北京北四环保福寺桥附近，一辆黑色法拉利458 Spider跑车在湿滑路面上失控，撞向护栏后严重解体\n\n车上三人（皆为赤裸）被甩出：24岁的中央办公厅主任令计划之子令谷当场死亡，两名年轻藏族女子重伤（其中一人后死亡） \n\n当时令计划担任中共中央办公厅主任，为胡锦涛重要助手。此事被视为令计划政治生涯转折点，导致其未获预期晋升\n\n2012年3月15日，令计划奉命负责对薄熙来的调查与处置，仅三天后（3月18日），其子令谷便发生法拉利车祸身亡。时机高度敏感，坊间多有猜测。 \n\n据报道，令计划为掩盖丑闻，动用中央警卫局封锁现场，并试图与周永康结盟：要求周帮其保密车祸消息，周则希望令劝说胡锦涛对薄熙来“大事化小”，甚至推动薄案从轻处理，以换取令在十八大上的支持。 \n\n薄熙来事件本让胡锦涛阵营占优，但令计划的掩盖行为遭江泽民等元老质疑“无人性”，成为其无法晋升常委的重要理由。车祸丑闻与薄案相互交织，进一步搅动十八大前高层博弈，最终令计划被边缘化，薄熙来彻底落马。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2012年3月18日凌晨4时许，北京北四环保福寺桥附近，一辆黑色法拉利458 Spider跑车在湿滑路面上失控，撞向护栏后严重解体\n\n车上三人（皆为赤裸）被甩出：24岁的中央办公厅主任令计划之子令谷当场死亡，两名年轻藏族女子重伤（其中一人后死亡） https://t.co/PIfJZ1pRGB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 386,
+          "like_count": 4647,
+          "listed_count": 5,
+          "media_count": 524,
+          "tweet_count": 1915
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

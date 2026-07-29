@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054852783246114816"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2054852802128781640",
+    "created_at": "2026-05-14T09:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:13:10.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054852509618131263",
+      "2054852802128781640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uXQ4gndxWb",
+          "end": 143,
+          "expanded_url": "https://x.com/careforme123/status/2054852802128781640/photo/1",
+          "media_key": "3_2054852783246114816",
+          "start": 120,
+          "url": "https://t.co/uXQ4gndxWb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054852802128781640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "习近平，特朗普造型解析\n\n习近平：一套深蓝色西装，色调略比左侧亮一些。剪裁更贴合亚洲人的体型，风格稳重，扣子系好了，体现庄重\n\n佩戴了一条深红紫色领带，显得内敛温和，体现了中国在正式场合推崇的稳重与儒雅，没有佩戴额外的饰品，整体造型极简。\n\n习近平的发型是正装头，发流整体向侧后方压紧，没啥好说的\n\n特朗普：一套深蓝色的单排扣西装。剪裁偏向美式传统的宽大风格，肩部线条明显，增强身形的威严感\n\n一条高饱和度的亮红色斜纹领带。红色在外交场合象征力量与活力，也是他个人极具辨识度的色彩选择，领带长度略微超过腰带线，左侧领口佩戴有美国国旗胸针\n\n他的发型被称为“蓬巴杜”，他前额的头发被向上并向后吹起。这种高度不仅增加了视觉身高，还创造了一种“雄狮般”的气场，发色是染的浅金色，在阳光下极为耀眼\n\n两人均选择了深蓝色系西装，这在国际政治中是“安全色”，象征着信任、专业与权威，也都选择了红色系的领带，这种搭配在重大双边会晤中非常常见，契合外交礼仪中的“能量感”\n\n特朗普的风格更加张扬、强调存在感，习近平的风格则更偏向含蓄、稳健"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "习近平，特朗普造型解析\n\n习近平：一套深蓝色西装，色调略比左侧亮一些。剪裁更贴合亚洲人的体型，风格稳重，扣子系好了，体现庄重\n\n佩戴了一条深红紫色领带，显得内敛温和，体现了中国在正式场合推崇的稳重与儒雅，没有佩戴额外的饰品，整体造型极简。 https://t.co/uXQ4gndxWb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_2054852783246114816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRNuCMbgAA6rPc.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054852486339661824"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2054852509618131263",
+        "created_at": "2026-05-14T09:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:13:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054852509618131263",
+          "2054852802128781640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NmS2CvGhO",
+              "end": 145,
+              "expanded_url": "https://x.com/careforme123/status/2054852509618131263/photo/1",
+              "media_key": "3_2054852486339661824",
+              "start": 122,
+              "url": "https://t.co/9NmS2CvGhO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054852509618131263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "习近平，特朗普造型解析\n\n习近平：一套深蓝色西装，色调略比左侧亮一些。剪裁更贴合亚洲人的体型，风格稳重，扣子系好了，体现庄重\n\n佩戴了一条深红紫色斜纹领带，显得内敛温和，体现了中国在正式场合推崇的稳重与儒雅，没有佩戴额外的饰品，整体造型极简。\n\n习近平的发型是正装头，发流整体向侧后方压紧，没啥好说的\n\n特朗普：一套深蓝色的单排扣西装。剪裁偏向美式传统的宽大风格，肩部线条明显，增强身形的威严感\n\n一条高饱和度的亮红色斜纹领带。红色在外交场合象征力量与活力，也是他个人极具辨识度的色彩选择，领带长度略微超过腰带线，左侧领口佩戴有美国国旗胸针\n\n他的发型被称为“蓬巴杜”，他前额的头发被向上并向后吹起。这种高度不仅增加了视觉身高，还创造了一种“雄狮般”的气场，发色是染的浅金色，在阳光下极为耀眼\n\n两人均选择了深蓝色系西装，这在国际政治中是“安全色”，象征着信任、专业与权威，也都选择了红色系的领带，这种搭配在重大双边会晤中非常常见，契合外交礼仪中的“能量感”\n\n特朗普的风格更加张扬、强调存在感，习近平的风格则更偏向含蓄、稳健"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习近平，特朗普造型解析\n\n习近平：一套深蓝色西装，色调略比左侧亮一些。剪裁更贴合亚洲人的体型，风格稳重，扣子系好了，体现庄重\n\n佩戴了一条深红紫色斜纹领带，显得内敛温和，体现了中国在正式场合推崇的稳重与儒雅，没有佩戴额外的饰品，整体造型极简。 https://t.co/9NmS2CvGhO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054852783246114816"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2054852802128781640",
+        "created_at": "2026-05-14T09:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:13:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054852509618131263",
+          "2054852802128781640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXQ4gndxWb",
+              "end": 143,
+              "expanded_url": "https://x.com/careforme123/status/2054852802128781640/photo/1",
+              "media_key": "3_2054852783246114816",
+              "start": 120,
+              "url": "https://t.co/uXQ4gndxWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054852802128781640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "习近平，特朗普造型解析\n\n习近平：一套深蓝色西装，色调略比左侧亮一些。剪裁更贴合亚洲人的体型，风格稳重，扣子系好了，体现庄重\n\n佩戴了一条深红紫色领带，显得内敛温和，体现了中国在正式场合推崇的稳重与儒雅，没有佩戴额外的饰品，整体造型极简。\n\n习近平的发型是正装头，发流整体向侧后方压紧，没啥好说的\n\n特朗普：一套深蓝色的单排扣西装。剪裁偏向美式传统的宽大风格，肩部线条明显，增强身形的威严感\n\n一条高饱和度的亮红色斜纹领带。红色在外交场合象征力量与活力，也是他个人极具辨识度的色彩选择，领带长度略微超过腰带线，左侧领口佩戴有美国国旗胸针\n\n他的发型被称为“蓬巴杜”，他前额的头发被向上并向后吹起。这种高度不仅增加了视觉身高，还创造了一种“雄狮般”的气场，发色是染的浅金色，在阳光下极为耀眼\n\n两人均选择了深蓝色系西装，这在国际政治中是“安全色”，象征着信任、专业与权威，也都选择了红色系的领带，这种搭配在重大双边会晤中非常常见，契合外交礼仪中的“能量感”\n\n特朗普的风格更加张扬、强调存在感，习近平的风格则更偏向含蓄、稳健"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习近平，特朗普造型解析\n\n习近平：一套深蓝色西装，色调略比左侧亮一些。剪裁更贴合亚洲人的体型，风格稳重，扣子系好了，体现庄重\n\n佩戴了一条深红紫色领带，显得内敛温和，体现了中国在正式场合推崇的稳重与儒雅，没有佩戴额外的饰品，整体造型极简。 https://t.co/uXQ4gndxWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 546,
+          "like_count": 5471,
+          "listed_count": 5,
+          "media_count": 608,
+          "tweet_count": 2245
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2051147522031108447",
+    "created_at": "2026-05-04T12:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051281950250537205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2835598267",
+          "start": 0,
+          "username": "Simon346037698"
+        },
+        {
+          "end": 27,
+          "id": "517206806",
+          "start": 16,
+          "username": "benzhou327"
+        },
+        {
+          "end": 33,
+          "id": "1720665183188922368",
+          "start": 28,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051281950250537205",
+    "in_reply_to_user_id": "2835598267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051254339268985129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Simon346037698 @benzhou327 @grok 台湾最低工资平价购买力是中国的几倍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2051147522031108447",
+        "created_at": "2026-05-04T12:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051281950250537205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2835598267",
+              "start": 0,
+              "username": "Simon346037698"
+            },
+            {
+              "end": 27,
+              "id": "517206806",
+              "start": 16,
+              "username": "benzhou327"
+            },
+            {
+              "end": 33,
+              "id": "1720665183188922368",
+              "start": 28,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051281950250537205",
+        "in_reply_to_user_id": "2835598267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051254339268985129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simon346037698 @benzhou327 @grok 台湾最低工资平价购买力是中国的几倍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2835598267",
+        "conversation_id": "2051147522031108447",
+        "created_at": "2026-05-04T10:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051254339268985129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "517206806",
+              "start": 0,
+              "username": "benzhou327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051254339268985129",
+        "in_reply_to_user_id": "517206806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051147522031108447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benzhou327 你看台湾现在那逼样，带着你妈一堆的黄金、外汇和人才跑去那里，2000多万人的小岛都治理不好，还能被鸠占鹊巢。你让他们治理半个中国能给你直接变成印度第二。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2051010408769786079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 446,
+          "like_count": 4779,
+          "listed_count": 5,
+          "media_count": 536,
+          "tweet_count": 1983
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2014-09-29T14:18:20.000Z",
+        "description": "您好，请您先别急，如果您发现被我屏蔽了然后点进了我的主页看到了这句话。那么代表您可以去医院检测一下智力了。得到检测结果之后您会感谢我的。如果此时您已失去理智，可以点开我的关注列表，里面是为您准备的黄推，看完就能冷静了。不用客气。",
+        "id": "2835598267",
+        "name": "SimonChen",
+        "pinned_tweet_id": "2035339086995808683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559733749772070912/vXcMfdUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 400,
+          "like_count": 46,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 522
+        },
+        "username": "Simon346037698",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-07T04:27:44.000Z",
+        "description": "Web3 • Crypto • Stocks • News • Music • sports • Travel • Food\nInteresting soul, sharp viewpoints.\nWeb3 | 加密 | 股市 | 时政吃瓜 | 音乐/体育/旅行/美食\n灵魂有趣，观点锐利，知名毒舌评论员。",
+        "id": "517206806",
+        "name": "𝕏. ALLIN 𝕏.",
+        "pinned_tweet_id": "2027241800864289187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016039534849376256/D2w1OZtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12163,
+          "following_count": 11716,
+          "like_count": 68639,
+          "listed_count": 7,
+          "media_count": 1297,
+          "tweet_count": 9791
+        },
+        "username": "benzhou327",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8692533,
+          "following_count": 4,
+          "like_count": 89,
+          "listed_count": 6789,
+          "media_count": 8890693,
+          "tweet_count": 124654214
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

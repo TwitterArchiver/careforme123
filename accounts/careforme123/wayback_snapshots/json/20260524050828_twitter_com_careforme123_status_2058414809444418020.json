@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058412676720525753",
+    "created_at": "2026-05-24T05:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058414809444418020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058414809444418020",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058412676720525753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 在中国，普通人只有拿命换钱，才能月入过万"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_2058276877341483010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJB36itW4AIyhA0.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2711,
+        "media_key": "3_2058276889131622401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJB37OoWIAETHg6.jpg",
+        "width": 1809
+      },
+      {
+        "height": 2951,
+        "media_key": "3_2058276903195226112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJB38DBXsAAJEOP.jpg",
+        "width": 1417
+      },
+      {
+        "height": 2500,
+        "media_key": "3_2058276911780896768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJB38jAWoAAtk97.jpg",
+        "width": 3334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058412676720525753",
+        "created_at": "2026-05-24T05:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058414809444418020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058414809444418020",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058412676720525753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 在中国，普通人只有拿命换钱，才能月入过万"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058276877341483010",
+            "3_2058276889131622401",
+            "3_2058276903195226112",
+            "3_2058276911780896768"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2058412676720525753",
+        "created_at": "2026-05-24T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058412676720525753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSYXxoISkH",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058412676720525753/photo/1",
+              "media_key": "3_2058276877341483010",
+              "start": 99,
+              "url": "https://t.co/qSYXxoISkH"
+            },
+            {
+              "display_url": "pic.x.com/qSYXxoISkH",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058412676720525753/photo/1",
+              "media_key": "3_2058276889131622401",
+              "start": 99,
+              "url": "https://t.co/qSYXxoISkH"
+            },
+            {
+              "display_url": "pic.x.com/qSYXxoISkH",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058412676720525753/photo/1",
+              "media_key": "3_2058276903195226112",
+              "start": 99,
+              "url": "https://t.co/qSYXxoISkH"
+            },
+            {
+              "display_url": "pic.x.com/qSYXxoISkH",
+              "end": 122,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058412676720525753/photo/1",
+              "media_key": "3_2058276911780896768",
+              "start": 99,
+              "url": "https://t.co/qSYXxoISkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058412676720525753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月23日，财新报道：冰冷数字背后 煤矿工人之痛\n\n据了解，中国煤矿工人的数量在近几年发生了较大的变化。国家统计局发布的权威数据显示截至2023年末，全国煤炭开采和洗选业从业人员为277.2万人。\n\n随着煤炭行业化解过剩产能以及智能化建设的推进，大量小型煤矿被关停，中国煤矿工人总数已经从此前动辄五六百万元的规模，锐减至当下的不足300万人。\n\n尽管人数骤减，但这二百七十余万矿工依然是中国能源命脉的“守夜人”。他们的生存处境在近年来有了显著改善，但也面临着不少现实的痛点。如薪资待遇低，劳动强度大；行业高危属性依然存在；矿工老龄化加剧……\n\n今天的煤矿工人，正处在一个新旧交替的时代夹缝中。\n理解了他们的处境，也就理解了中国能源底座真实的脉动。\n\n（上述图集首发于2013年10月8日，标题《煤矿工人之痛》）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2456,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "5月23日，财新报道：冰冷数字背后 煤矿工人之痛\n\n据了解，中国煤矿工人的数量在近几年发生了较大的变化。国家统计局发布的权威数据显示截至2023年末，全国煤炭开采和洗选业从业人员为277.2万人。 https://t.co/qSYXxoISkH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 718,
+          "like_count": 6134,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 2473
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233270,
+          "following_count": 1063,
+          "like_count": 9596,
+          "listed_count": 8765,
+          "media_count": 47334,
+          "tweet_count": 54462
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

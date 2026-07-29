@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063293507075252224"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2063293536141779380",
+    "created_at": "2026-06-06T16:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063293536141779380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SG4ulWdCWr",
+          "end": 23,
+          "expanded_url": "https://x.com/careforme123/status/2063293536141779380/photo/1",
+          "media_key": "3_2063293507075252224",
+          "start": 0,
+          "url": "https://t.co/SG4ulWdCWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063293536141779380",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/SG4ulWdCWr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2063293507075252224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJKg0yXIAA_3uH.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063293507075252224"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2063293536141779380",
+        "created_at": "2026-06-06T16:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063293536141779380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SG4ulWdCWr",
+              "end": 23,
+              "expanded_url": "https://x.com/careforme123/status/2063293536141779380/photo/1",
+              "media_key": "3_2063293507075252224",
+              "start": 0,
+              "url": "https://t.co/SG4ulWdCWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063293536141779380",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SG4ulWdCWr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 764,
+          "like_count": 6985,
+          "listed_count": 5,
+          "media_count": 706,
+          "tweet_count": 2791
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

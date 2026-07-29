@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062134750090063993",
+    "created_at": "2026-06-04T16:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062569509379068072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051526192227049472",
+          "start": 0,
+          "username": "Xjdjdghhdh"
+        },
+        {
+          "end": 23,
+          "id": "2035758475209572352",
+          "start": 12,
+          "username": "LoveMikuBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062569509379068072",
+    "in_reply_to_user_id": "2051526192227049472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062566345141895289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xjdjdghhdh @LoveMikuBX 作弊和这些有啥关系？把名字改成第一题是A吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062134750090063993",
+        "created_at": "2026-06-04T16:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062569509379068072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051526192227049472",
+              "start": 0,
+              "username": "Xjdjdghhdh"
+            },
+            {
+              "end": 23,
+              "id": "2035758475209572352",
+              "start": 12,
+              "username": "LoveMikuBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062569509379068072",
+        "in_reply_to_user_id": "2051526192227049472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062566345141895289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xjdjdghhdh @LoveMikuBX 作弊和这些有啥关系？把名字改成第一题是A吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051526192227049472",
+        "conversation_id": "2062134750090063993",
+        "created_at": "2026-06-04T16:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062566345141895289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062566345141895289",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062564519352971407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX 每年高考时间为了防作弊限制社交媒体的用户名称和头像更换，刚好撞上了6月4号，给你们这群傻逼整高潮了，一天天就只会躲在自己被窝里发些傻逼言论，还吃雌二醇，打雌激素，我看你是打多了给自己的理性思维都打没了，彻底成为感性动物没有思考能力了是吗？我不反跨，只是求你别发傻逼言论拉低跨圈风评"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 741,
+          "like_count": 6803,
+          "listed_count": 5,
+          "media_count": 694,
+          "tweet_count": 2731
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-05T04:56:17.000Z",
+        "description": "",
+        "id": "2051526192227049472",
+        "name": "Xinsusgsghssh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062115083883515904/fyaNoJ6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "username": "Xjdjdghhdh",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！\n|友跨🏳️‍⚧️🏳️‍🌈|國族主義/大中華主義/❂三民主義/社會民主主義/左翼民族主義/☭中國共產黨中左派|陸統派（也支持華統派）|理性思考，包容不同政治意見（除分裂分子）|\n我是中華統一復興大會會長，歡迎加入「中華統一復興大會」@ChineseURC_BOT\n望友好交流。查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 126,
+                "username": "ChineseURC_BOT"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "🇨🇳中國•福建寧德",
+        "name": "🇨🇳伴下☭",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059623612638961664/GvgHvebX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1401,
+          "like_count": 13340,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 4320
+        },
+        "username": "LoveMikuBX",
+        "verified": true
+      }
+    ]
+  }
+}

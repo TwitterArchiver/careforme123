@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070095141029982209"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2070095610527809734",
+    "created_at": "2026-06-25T10:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070095610527809734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lu8j0HHA2t",
+          "end": 172,
+          "expanded_url": "https://x.com/careforme123/status/2070095610527809734/photo/1",
+          "media_key": "3_2070095141029982209",
+          "start": 149,
+          "url": "https://t.co/Lu8j0HHA2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070095610527809734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "中国房地产崩盘，从2021年到现在，房地产市场缩水了150万亿（瑞银集团等机构的估算）\n\n如果把这150万亿摊到全国14亿人头上，每个人都损失了11万\n\n房地产起飞的时候，普通人并没有分到多少红利，赚钱的是操盘者\n\n房地产崩盘的时候，通过低利率、通胀、福利缩水以及行业资产贬值，我们每个人都在还债"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国房地产崩盘，从2021年到现在，房地产市场缩水了150万亿（瑞银集团等机构的估算）\n\n如果把这150万亿摊到全国14亿人头上，每个人都损失了11万\n\n房地产起飞的时候，普通人并没有分到多少红利，赚钱的是操盘者\n\n房地产崩盘的时候，通过低利率、通胀、福利缩水以及行业资产贬值，我们每个人都在还债 https://t.co/Lu8j0HHA2t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2070095141029982209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp0kBxasAEhZkg.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070095141029982209"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2070095610527809734",
+        "created_at": "2026-06-25T10:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070095610527809734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lu8j0HHA2t",
+              "end": 172,
+              "expanded_url": "https://x.com/careforme123/status/2070095610527809734/photo/1",
+              "media_key": "3_2070095141029982209",
+              "start": 149,
+              "url": "https://t.co/Lu8j0HHA2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070095610527809734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国房地产崩盘，从2021年到现在，房地产市场缩水了150万亿（瑞银集团等机构的估算）\n\n如果把这150万亿摊到全国14亿人头上，每个人都损失了11万\n\n房地产起飞的时候，普通人并没有分到多少红利，赚钱的是操盘者\n\n房地产崩盘的时候，通过低利率、通胀、福利缩水以及行业资产贬值，我们每个人都在还债"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国房地产崩盘，从2021年到现在，房地产市场缩水了150万亿（瑞银集团等机构的估算）\n\n如果把这150万亿摊到全国14亿人头上，每个人都损失了11万\n\n房地产起飞的时候，普通人并没有分到多少红利，赚钱的是操盘者\n\n房地产崩盘的时候，通过低利率、通胀、福利缩水以及行业资产贬值，我们每个人都在还债 https://t.co/Lu8j0HHA2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 789,
+          "like_count": 7593,
+          "listed_count": 7,
+          "media_count": 757,
+          "tweet_count": 3009
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

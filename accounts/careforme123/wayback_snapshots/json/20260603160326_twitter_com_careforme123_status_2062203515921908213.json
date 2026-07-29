@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062178144996458588",
+    "created_at": "2026-06-03T16:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062203515921908213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060632417153503234",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062203515921908213",
+    "in_reply_to_user_id": "2060632417153503234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062178144996458588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure 彩礼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1942,
+        "media_key": "3_2062178133923463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5UFkAWAAA8SGZ.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062178144996458588",
+        "created_at": "2026-06-03T16:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062203515921908213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060632417153503234",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062203515921908213",
+        "in_reply_to_user_id": "2060632417153503234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062178144996458588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure 彩礼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062178133923463168"
+          ]
+        },
+        "author_id": "2060632417153503234",
+        "conversation_id": "2062178144996458588",
+        "created_at": "2026-06-03T14:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062178144996458588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhZmG8qgpM",
+              "end": 55,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2062178144996458588/photo/1",
+              "media_key": "3_2062178133923463168",
+              "start": 32,
+              "url": "https://t.co/hhZmG8qgpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062178144996458588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以你的水平，你怎么翻译？\nNo money, no love. https://t.co/hhZmG8qgpM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 741,
+          "like_count": 6725,
+          "listed_count": 5,
+          "media_count": 689,
+          "tweet_count": 2710
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "新加坡🇸🇬中三学生/14岁/MtF🏳️‍⚧️/尚未HRT/世界计划/mfy激推/不od/可键政/社会自由主义/新号寻fo中/简体中文号/语言🇹🇼🇨🇳🇺🇸🇯🇵🇫🇷均可/格里芬联邦共和国总统/政府官网https://t.co/o8LDTBhpgz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 121,
+                "expanded_url": "http://gov-urg.net",
+                "start": 98,
+                "url": "https://t.co/o8LDTBhpgz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/RUiH6Cf04O"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2061802655391866976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060634013363306496/Hl6bmtdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 424,
+          "like_count": 793,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/RUiH6Cf04O",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

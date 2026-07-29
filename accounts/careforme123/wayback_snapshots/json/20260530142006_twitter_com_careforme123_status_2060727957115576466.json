@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2060698757600346377",
+    "created_at": "2026-05-30T14:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060727957115576466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1008615379885670400",
+          "start": 0,
+          "username": "zhinarensml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060727957115576466",
+    "in_reply_to_user_id": "1008615379885670400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060698757600346377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensml8964 小学生吗，gta5都没玩过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2060698757600346377",
+        "created_at": "2026-05-30T14:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060727957115576466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1008615379885670400",
+              "start": 0,
+              "username": "zhinarensml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060727957115576466",
+        "in_reply_to_user_id": "1008615379885670400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060698757600346377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensml8964 小学生吗，gta5都没玩过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1008615379885670400",
+        "conversation_id": "2060698757600346377",
+        "created_at": "2026-05-30T12:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060698757600346377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060698757600346377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁着steam降价，买了三款打折游戏。神之天平，GTA5，ready or not。花了我210"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 739,
+          "like_count": 6533,
+          "listed_count": 5,
+          "media_count": 670,
+          "tweet_count": 2631
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "新教旨支黑，喜欢日帝反感日本国。不清真的炸猪排爱好者\n右翼威权主义者，秩序高于一切，法律至上\n目前正在学习外语以及研究日本帝国，大韩民国独裁时期和以色列国的历史。喜欢大文豪三岛由纪夫\n一代目@zhinarencnm8964三代目@zhinarensb8964四代目@zhinarencs8964\n⚠️无差别屏蔽垃圾账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1008615379885670400",
+        "location": "支那人民共和国",
+        "name": "古美门 正雄✡️🩵",
+        "pinned_tweet_id": "2060062202531655926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054311077811556352/SHVwh_ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 1011,
+          "like_count": 40658,
+          "listed_count": 6,
+          "media_count": 659,
+          "tweet_count": 3649
+        },
+        "username": "zhinarensml8964",
+        "verified": false
+      }
+    ]
+  }
+}

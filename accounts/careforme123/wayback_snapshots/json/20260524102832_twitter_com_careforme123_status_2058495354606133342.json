@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058482826740486620",
+    "created_at": "2026-05-24T10:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058495354606133342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752343973891641344",
+          "start": 0,
+          "username": "James_69cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058495354606133342",
+    "in_reply_to_user_id": "1752343973891641344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058482826740486620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@James_69cm 你什么时候回我"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14089,
+        "height": 2290,
+        "media_key": "13_2058482741440864257",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058482741440864257/img/TzdJrzenbtKZkbCH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058482741440864257/vid/avc1/720x1286/1SpqfmEVY4l0cqrI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058482741440864257/vid/avc1/480x856/CzVNj69MVDpk42zc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058482741440864257/pl/vMhBBJpi1IJN-zYg.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058482741440864257/vid/avc1/1282x2290/HjzB1Ws8-TcdCGST.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058482741440864257/vid/avc1/320x570/3aW9zuNnOKn-_6wI.mp4"
+          }
+        ],
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058482826740486620",
+        "created_at": "2026-05-24T10:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058495354606133342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752343973891641344",
+              "start": 0,
+              "username": "James_69cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058495354606133342",
+        "in_reply_to_user_id": "1752343973891641344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058482826740486620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@James_69cm 你什么时候回我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058482741440864257"
+          ]
+        },
+        "author_id": "1752343973891641344",
+        "conversation_id": "2058482826740486620",
+        "created_at": "2026-05-24T09:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058482826740486620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lDoXYazZPt",
+              "end": 44,
+              "expanded_url": "https://x.com/James_69cm/status/2058482826740486620/video/1",
+              "media_key": "13_2058482741440864257",
+              "start": 21,
+              "url": "https://t.co/lDoXYazZPt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058482826740486620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内从军过的伙伴们，这是真的吗？\n🤣🤣🤣 https://t.co/lDoXYazZPt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 726,
+          "like_count": 6184,
+          "listed_count": 6,
+          "media_count": 652,
+          "tweet_count": 2495
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-30T14:52:27.000Z",
+        "description": "i am OTHER.",
+        "id": "1752343973891641344",
+        "name": "James",
+        "pinned_tweet_id": "2052758306004058376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053110151083864064/xk38k-_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 885,
+          "like_count": 730,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1413
+        },
+        "username": "James_69cm",
+        "verified": true
+      }
+    ]
+  }
+}

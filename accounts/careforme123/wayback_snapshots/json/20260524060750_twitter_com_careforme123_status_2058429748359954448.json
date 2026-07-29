@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058405489466106001",
+    "created_at": "2026-05-24T06:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058429748359954448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1853327663194324993",
+          "start": 0,
+          "username": "QiZang69816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058429748359954448",
+    "in_reply_to_user_id": "1853327663194324993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058417890341351726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiZang69816 没有人权的人，就不要拙劣的拼凑你所谓的人权了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058405489466106001",
+        "created_at": "2026-05-24T06:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058429748359954448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1853327663194324993",
+              "start": 0,
+              "username": "QiZang69816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058429748359954448",
+        "in_reply_to_user_id": "1853327663194324993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058417890341351726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiZang69816 没有人权的人，就不要拙劣的拼凑你所谓的人权了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853327663194324993",
+        "conversation_id": "2058405489466106001",
+        "created_at": "2026-05-24T05:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058417890341351726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058417890341351726",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058405489466106001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 所以你在阻止人权了？唱不唱难道不是个人自由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 720,
+          "like_count": 6149,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 2481
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-04T06:45:55.000Z",
+        "description": "",
+        "id": "1853327663194324993",
+        "location": "中国山东济南",
+        "name": "PopeyeZang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058207407533441024/AsIznL2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 66
+        },
+        "username": "QiZang69816",
+        "verified": false
+      }
+    ]
+  }
+}

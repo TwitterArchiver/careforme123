@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063142733900840960"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2063143343563948457",
+    "created_at": "2026-06-06T06:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063143343563948457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l2zoPpOY78",
+          "end": 166,
+          "expanded_url": "https://x.com/careforme123/status/2063143343563948457/photo/1",
+          "media_key": "3_2063142733900840960",
+          "start": 143,
+          "url": "https://t.co/l2zoPpOY78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063143343563948457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我鄙视那些不关心政治的人\n\n如果你不关心政治，你的合法权利会被一点一点剥夺，架空，没有人会关心你的利益。自愿加班？欠薪？这就是后果\n\n如果你不关心政治，你就放弃了对未来的管理权，当危机来临，没有人会救你\n\n如果你不关心政治，你以为的岁月静好就会被慢慢的腐蚀，你想要的平静与美好？不存在\n\n如果你不关心政治，极端的声音会占据社会\n\n如果你不关心政治，政治就会来收拾你\n\n参与政治的成本存在，但不参与的代价，往往更加昂贵\n\n你还没意识到吗？你还在以为有人会为你的岁月静好负重前行吗？你还盼望着总有人会帮助你吗？你还没发现自己越来越无力吗？你放弃了知情权，你还哪有tm的话语权？\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我鄙视那些不关心政治的人\n\n如果你不关心政治，你的合法权利会被一点一点剥夺，架空，没有人会关心你的利益。自愿加班？欠薪？这就是后果\n\n如果你不关心政治，你就放弃了对未来的管理权，当危机来临，没有人会救你\n\n如果你不关心政治，你以为的岁月静好就会被慢慢的腐蚀，你想要的平静与美好？不存在 https://t.co/l2zoPpOY78"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2063142733900840960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHBYq8WgAA5DbQ.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063142733900840960"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2063143343563948457",
+        "created_at": "2026-06-06T06:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063143343563948457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2zoPpOY78",
+              "end": 166,
+              "expanded_url": "https://x.com/careforme123/status/2063143343563948457/photo/1",
+              "media_key": "3_2063142733900840960",
+              "start": 143,
+              "url": "https://t.co/l2zoPpOY78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063143343563948457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我鄙视那些不关心政治的人\n\n如果你不关心政治，你的合法权利会被一点一点剥夺，架空，没有人会关心你的利益。自愿加班？欠薪？这就是后果\n\n如果你不关心政治，你就放弃了对未来的管理权，当危机来临，没有人会救你\n\n如果你不关心政治，你以为的岁月静好就会被慢慢的腐蚀，你想要的平静与美好？不存在\n\n如果你不关心政治，极端的声音会占据社会\n\n如果你不关心政治，政治就会来收拾你\n\n参与政治的成本存在，但不参与的代价，往往更加昂贵\n\n你还没意识到吗？你还在以为有人会为你的岁月静好负重前行吗？你还盼望着总有人会帮助你吗？你还没发现自己越来越无力吗？你放弃了知情权，你还哪有tm的话语权？\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我鄙视那些不关心政治的人\n\n如果你不关心政治，你的合法权利会被一点一点剥夺，架空，没有人会关心你的利益。自愿加班？欠薪？这就是后果\n\n如果你不关心政治，你就放弃了对未来的管理权，当危机来临，没有人会救你\n\n如果你不关心政治，你以为的岁月静好就会被慢慢的腐蚀，你想要的平静与美好？不存在 https://t.co/l2zoPpOY78"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 764,
+          "like_count": 6961,
+          "listed_count": 5,
+          "media_count": 699,
+          "tweet_count": 2776
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

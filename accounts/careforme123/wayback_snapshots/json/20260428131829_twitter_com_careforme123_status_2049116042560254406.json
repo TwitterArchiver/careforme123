@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2048819764814897257",
+    "created_at": "2026-04-28T13:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049116042560254406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786249149845000192",
+          "start": 0,
+          "username": "NatsumeAnn91"
+        },
+        {
+          "end": 30,
+          "id": "1968679818808950784",
+          "start": 14,
+          "username": "KawawaDiana7224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049116042560254406",
+    "in_reply_to_user_id": "1786249149845000192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049024024416833638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NatsumeAnn91 @KawawaDiana7224 万一你知道呢，问一下你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2048819764814897257",
+        "created_at": "2026-04-28T13:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049116042560254406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786249149845000192",
+              "start": 0,
+              "username": "NatsumeAnn91"
+            },
+            {
+              "end": 30,
+              "id": "1968679818808950784",
+              "start": 14,
+              "username": "KawawaDiana7224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049116042560254406",
+        "in_reply_to_user_id": "1786249149845000192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049024024416833638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NatsumeAnn91 @KawawaDiana7224 万一你知道呢，问一下你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786249149845000192",
+        "conversation_id": "2048819764814897257",
+        "created_at": "2026-04-28T07:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049024024416833638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "care1337_"
+            },
+            {
+              "end": 27,
+              "id": "1968679818808950784",
+              "start": 11,
+              "username": "KawawaDiana7224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049024024416833638",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048978132640952719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@care1337_ @KawawaDiana7224 关我锤子事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互关！男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2048696018045374573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 329,
+          "like_count": 4396,
+          "listed_count": 2,
+          "media_count": 500,
+          "tweet_count": 1795
+        },
+        "username": "careforme123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T04:19:29.000Z",
+        "description": "我是拼图者@puzzlerlee唯一野爹| 后备隐藏能源@Natsumeann64 好兄弟@mutsumixiaomu 粉蛆骂我兄弟=骂我 电话号码18913023816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "Natsumeann64"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "mutsumixiaomu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goushixijinping.com",
+                "end": 23,
+                "expanded_url": "http://goushixijinping.com",
+                "start": 0,
+                "url": "https://t.co/5RoR4DyO7J"
+              }
+            ]
+          }
+        },
+        "id": "1786249149845000192",
+        "location": "南京市六合区长江路28号荷花新苑6单元201",
+        "name": "识之律者女士🍥🏳️‍⚧️🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048061155227414528/W5n6z8NG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 959,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/5RoR4DyO7J",
+        "username": "NatsumeAnn91",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-18T14:13:54.000Z",
+        "description": "(desk-kun -10hp) 呃啊啊啊啊啊啊!\n某留美然然 (@KawawaDiana8964) 的二号车\n对，这个号你似乎听他说过，或许也没听说过 \nCollege Freshman dude who trying to keep his GPA high\nSupports 🇺🇦🇵🇸☮️↙️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bigalan1949",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bigalan1949",
+                "start": 0,
+                "url": "https://t.co/NEI6OM1FdU"
+              }
+            ]
+          }
+        },
+        "id": "1968679818808950784",
+        "location": "Boston Metropolitan Area ",
+        "name": "ً",
+        "pinned_tweet_id": "2036605214699008466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032931732555702272/Oj0pMQL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 336,
+          "like_count": 3193,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/NEI6OM1FdU",
+        "username": "KawawaDiana7224",
+        "verified": false
+      }
+    ]
+  }
+}

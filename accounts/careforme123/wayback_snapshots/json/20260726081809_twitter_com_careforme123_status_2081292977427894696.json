@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2081241450671722521",
+    "created_at": "2026-07-26T08:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T09:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081292977427894696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1629279250355490821",
+          "start": 0,
+          "username": "cuijason1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081292977427894696",
+    "in_reply_to_user_id": "1629279250355490821",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081241450671722521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuijason1 hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2081240741259644928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOINbWLaEAA0rN5.jpg",
+        "width": 400
+      },
+      {
+        "height": 1721,
+        "media_key": "3_2081241150435049472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOINzKebQAANlCZ.jpg",
+        "width": 1206
+      },
+      {
+        "height": 872,
+        "media_key": "3_2081241442190786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIOEJWagAA_bTY.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2081241450671722521",
+        "created_at": "2026-07-26T08:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081292977427894696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1629279250355490821",
+              "start": 0,
+              "username": "cuijason1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081292977427894696",
+        "in_reply_to_user_id": "1629279250355490821",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081241450671722521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuijason1 hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081240741259644928",
+            "3_2081241150435049472",
+            "3_2081241442190786560"
+          ]
+        },
+        "author_id": "1629279250355490821",
+        "conversation_id": "2081241450671722521",
+        "created_at": "2026-07-26T04:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:50:36.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081240747232399627",
+          "2081241160044191844",
+          "2081241450671722521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziva2OL47Z",
+              "end": 75,
+              "expanded_url": "https://x.com/cuijason1/status/2081241450671722521/photo/1",
+              "media_key": "3_2081240741259644928",
+              "start": 52,
+              "url": "https://t.co/ziva2OL47Z"
+            },
+            {
+              "display_url": "pic.x.com/ziva2OL47Z",
+              "end": 75,
+              "expanded_url": "https://x.com/cuijason1/status/2081241450671722521/photo/1",
+              "media_key": "3_2081241150435049472",
+              "start": 52,
+              "url": "https://t.co/ziva2OL47Z"
+            },
+            {
+              "display_url": "pic.x.com/ziva2OL47Z",
+              "end": 75,
+              "expanded_url": "https://x.com/cuijason1/status/2081241450671722521/photo/1",
+              "media_key": "3_2081241442190786560",
+              "start": 52,
+              "url": "https://t.co/ziva2OL47Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081241450671722521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 破千粉了，换成了自己的动漫新头像🍉\n\n就是临时可能蓝V会消失一段时间\n\n大家稳住哈。蓝v还在 https://t.co/ziva2OL47Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2730,
+          "following_count": 800,
+          "like_count": 7868,
+          "listed_count": 8,
+          "media_count": 819,
+          "tweet_count": 3157
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-25T00:37:12.000Z",
+        "description": "🚀· Apple / Tesla / AI / robots\n外企牛马🐮🐴/ 数字游民\n互动交友",
+        "id": "1629279250355490821",
+        "name": "Jason Cui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081240619863945216/kMePfASg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 567,
+          "like_count": 326,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "cuijason1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070140735014539265"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2070140769378484592",
+    "created_at": "2026-06-25T13:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070140769378484592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oCKvfkGJTX",
+          "end": 169,
+          "expanded_url": "https://x.com/careforme123/status/2070140769378484592/photo/1",
+          "media_key": "3_2070140735014539265",
+          "start": 146,
+          "url": "https://t.co/oCKvfkGJTX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070140769378484592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我选择翻墙，是因为我想了解这个世界\n\n我讨论政治，是因为我爱我的国家\n\n追求民主，不是一种过错\n\n热爱自由，不是一项罪名\n\n如果不为受到压迫，剥削的人呐喊，那他们的悲剧便是我们的明天！\n\n当尖锐的批评不再被允许，温柔的提醒会变得刺耳，当温柔的提醒也被禁止，拒绝赞美也会成为一种罪\n\n醒醒吧！ https://t.co/oCKvfkGJTX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 393,
+        "media_key": "3_2070140735014539265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqeB8mbkAEISLU.png",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070140735014539265"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2070140769378484592",
+        "created_at": "2026-06-25T13:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070140769378484592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCKvfkGJTX",
+              "end": 169,
+              "expanded_url": "https://x.com/careforme123/status/2070140769378484592/photo/1",
+              "media_key": "3_2070140735014539265",
+              "start": 146,
+              "url": "https://t.co/oCKvfkGJTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070140769378484592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我选择翻墙，是因为我想了解这个世界\n\n我讨论政治，是因为我爱我的国家\n\n追求民主，不是一种过错\n\n热爱自由，不是一项罪名\n\n如果不为受到压迫，剥削的人呐喊，那他们的悲剧便是我们的明天！\n\n当尖锐的批评不再被允许，温柔的提醒会变得刺耳，当温柔的提醒也被禁止，拒绝赞美也会成为一种罪\n\n醒醒吧！ https://t.co/oCKvfkGJTX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 789,
+          "like_count": 7619,
+          "listed_count": 7,
+          "media_count": 760,
+          "tweet_count": 3017
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

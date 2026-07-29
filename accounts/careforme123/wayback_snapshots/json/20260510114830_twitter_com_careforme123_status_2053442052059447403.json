@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053366214194520472",
+    "created_at": "2026-05-10T11:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053442052059447403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1594770865408724992",
+          "start": 0,
+          "username": "gyunxioho11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053442052059447403",
+    "in_reply_to_user_id": "1594770865408724992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053366214194520472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gyunxioho11 骗你的，毛泽东也这样想的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053366214194520472",
+        "created_at": "2026-05-10T11:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053442052059447403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1594770865408724992",
+              "start": 0,
+              "username": "gyunxioho11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053442052059447403",
+        "in_reply_to_user_id": "1594770865408724992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053366214194520472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gyunxioho11 骗你的，毛泽东也这样想的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594770865408724992",
+        "conversation_id": "2053366214194520472",
+        "created_at": "2026-05-10T06:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053366214194520472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053366214194520472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 162,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某些人嘴上说的:想当毛泽东，实现共产主义\n心里想的:想当蒋介石，成为独裁者，完成党国和“中华民族”的伟大复兴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 492,
+          "like_count": 5169,
+          "listed_count": 5,
+          "media_count": 570,
+          "tweet_count": 2107
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-21T19:13:06.000Z",
+        "description": "所有fo我的人都可以私信我要求回fo(不會主動取關)◄古月娜☭►2026(任何未在我主页被艾特的账号都是假的)\n小帐 @4280401cdb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "4280401cdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/gyunxioho11",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/gyunxioho11",
+                "start": 0,
+                "url": "https://t.co/scdYGgtgRf"
+              }
+            ]
+          }
+        },
+        "id": "1594770865408724992",
+        "name": "古月娜☭",
+        "pinned_tweet_id": "2031327201295991223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936860901501759488/ADbiuH20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 318,
+          "like_count": 8880,
+          "listed_count": 6,
+          "media_count": 862,
+          "tweet_count": 18001
+        },
+        "url": "https://t.co/scdYGgtgRf",
+        "username": "gyunxioho11",
+        "verified": false
+      }
+    ]
+  }
+}

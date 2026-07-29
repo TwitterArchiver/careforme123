@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074858352799293440"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2074858762700288210",
+    "created_at": "2026-07-08T14:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074858762700288210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/75egPQZrai",
+          "end": 103,
+          "expanded_url": "https://x.com/careforme123/status/2074858762700288210/photo/1",
+          "media_key": "3_2074858352799293440",
+          "start": 80,
+          "url": "https://t.co/75egPQZrai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074858762700288210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广西这场大水，说明了中国所谓“基建狂魔”是站不住脚的：\n\n实际上中国的基建都是想吃房地产红利，房地产崩了，所谓基建也在巨额亏损，没人维护了，都变成了豆腐渣工程 https://t.co/75egPQZrai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2074858352799293440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtgrcXaoAABoXz.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074858352799293440"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2074858762700288210",
+        "created_at": "2026-07-08T14:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074858762700288210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75egPQZrai",
+              "end": 103,
+              "expanded_url": "https://x.com/careforme123/status/2074858762700288210/photo/1",
+              "media_key": "3_2074858352799293440",
+              "start": 80,
+              "url": "https://t.co/75egPQZrai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074858762700288210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广西这场大水，说明了中国所谓“基建狂魔”是站不住脚的：\n\n实际上中国的基建都是想吃房地产红利，房地产崩了，所谓基建也在巨额亏损，没人维护了，都变成了豆腐渣工程 https://t.co/75egPQZrai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 793,
+          "like_count": 7803,
+          "listed_count": 9,
+          "media_count": 800,
+          "tweet_count": 3103
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

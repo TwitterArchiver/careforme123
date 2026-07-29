@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067298753367920710",
+    "created_at": "2026-06-17T18:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067317228446609516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 21,
+          "id": "1795719520939905024",
+          "start": 6,
+          "username": "pyridine_lemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067317228446609516",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067316782902259852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @pyridine_lemon 意思不靠加班费一个月就拿2000多，不是血汗工厂是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067298753367920710",
+        "created_at": "2026-06-17T18:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067317228446609516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 21,
+              "id": "1795719520939905024",
+              "start": 6,
+              "username": "pyridine_lemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067317228446609516",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067316782902259852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @pyridine_lemon 意思不靠加班费一个月就拿2000多，不是血汗工厂是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2067298753367920710",
+        "created_at": "2026-06-17T18:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067316782902259852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            },
+            {
+              "end": 29,
+              "id": "1795719520939905024",
+              "start": 14,
+              "username": "pyridine_lemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067316782902259852",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "正式工/同工同酬底薪目前郑州约2350元/月（试用期同，转正后2450左右）。主要加成：加班费（工作日1.5倍≈20元/小时，周末2倍≈26.7元/小时），夜班补贴、岗位/技术津贴、满勤奖等。正常加班综合月入约4500元，旺季多加班可达6000-8000+。返费工另有90天左右最高7500-8000元奖励金。收入高度依赖加班量和生产旺季，非固定底薪 alone。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067316617844027572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 @pyridine_lemon 正式工/同工同酬底薪目前郑州约2350元/月（试用期同，转正后2450左右）。主要加成：加班费（工作日1.5倍≈20元/小时，周末2倍≈26.7元/小时），夜班补贴、岗位/技术津贴、满勤奖等。正常加班综合月入约4500元，旺季多加班可达6000-8000+。返费工另有90天左右最高7500-8000元奖励金。收入高度依赖加班量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 777,
+          "like_count": 7335,
+          "listed_count": 6,
+          "media_count": 739,
+          "tweet_count": 2925
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8811935,
+          "following_count": 5,
+          "like_count": 106,
+          "listed_count": 7029,
+          "media_count": 9058320,
+          "tweet_count": 129195161
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T07:31:55.000Z",
+        "description": "小平同志最忠实的粉丝，对团派有好感，对胡赵中立偏支持，喜欢李克强和汪洋\n\n社民：中立偏反对\n社自/自由主义：中立偏支持\n古典自由主义/新自由主义：支持\n威权资本主义：非常支持\n温和爱国者：支持\n\n逻辑实证主义/科学实证主义/改革开放/世俗化",
+        "id": "1795719520939905024",
+        "location": "CusetVoidAldehyde's heart",
+        "name": "Cuset Lemon🍥",
+        "pinned_tweet_id": "2055335671418753098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056956792282947584/fJ6_cQEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 42,
+          "like_count": 106,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 116
+        },
+        "username": "pyridine_lemon",
+        "verified": false
+      }
+    ]
+  }
+}

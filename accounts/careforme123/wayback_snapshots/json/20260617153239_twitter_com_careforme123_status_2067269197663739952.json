@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067263808972738565",
+    "created_at": "2026-06-17T15:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067269197663739952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059659704918310913",
+          "start": 0,
+          "username": "dokucs4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067269197663739952",
+    "in_reply_to_user_id": "2059659704918310913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067263808972738565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dokucs4 难受你就滚啊\n\n小粉红不是最爱说觉得外国好就滚出中国吗，你难受就滚回去继续玩你的奶头乐抖音b站啊😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067263808972738565",
+        "created_at": "2026-06-17T15:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067269197663739952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059659704918310913",
+              "start": 0,
+              "username": "dokucs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067269197663739952",
+        "in_reply_to_user_id": "2059659704918310913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067263808972738565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokucs4 难受你就滚啊\n\n小粉红不是最爱说觉得外国好就滚出中国吗，你难受就滚回去继续玩你的奶头乐抖音b站啊😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059659704918310913",
+        "conversation_id": "2067263808972738565",
+        "created_at": "2026-06-17T15:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067263808972738565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067263808972738565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看到外网这么多反贼我真的好难受操他妈的，全都是社会的蛀虫，真希望国家立法，反对共产党全部送去终身劳改，为人民群众做贡献，顽固分子死刑也行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 777,
+          "like_count": 7303,
+          "listed_count": 6,
+          "media_count": 736,
+          "tweet_count": 2911
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T15:39:09.000Z",
+        "description": "在推特这种发言没门槛，造谣无底线的平台，到底还有多少傻子因为大侄子的一句话就去做美西方国家的走狗，在这点上，我为一部分国人感到悲哀",
+        "id": "2059659704918310913",
+        "location": "Poland",
+        "name": "紅星閃耀🇨🇳（愛国互fo）",
+        "pinned_tweet_id": "2066865319159726348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066201187922145281/mGNhbLPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 275,
+          "like_count": 333,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 255
+        },
+        "username": "dokucs4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068562425495044168",
+    "created_at": "2026-06-21T05:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068567185098993982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "136708294",
+          "start": 0,
+          "username": "ningmeng______"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068567185098993982",
+    "in_reply_to_user_id": "136708294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068565406768599283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ningmeng______ 你给我说过了，还有，你怎么换皮了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068562425495044168",
+        "created_at": "2026-06-21T05:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068567185098993982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "136708294",
+              "start": 0,
+              "username": "ningmeng______"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068567185098993982",
+        "in_reply_to_user_id": "136708294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068565406768599283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ningmeng______ 你给我说过了，还有，你怎么换皮了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "136708294",
+        "conversation_id": "2068562425495044168",
+        "created_at": "2026-06-21T05:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068565406768599283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068565406768599283",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068562425495044168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 洼地抖音账号：20603969798\n偷你的头像诶😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 780,
+          "like_count": 7407,
+          "listed_count": 6,
+          "media_count": 741,
+          "tweet_count": 2943
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-24T17:45:44.000Z",
+        "description": "",
+        "id": "136708294",
+        "name": "糖",
+        "pinned_tweet_id": "2054695482312773744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067014599543812096/2wdgdVdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 294,
+          "like_count": 5010,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 2105
+        },
+        "url": "",
+        "username": "ningmeng______",
+        "verified": true
+      }
+    ]
+  }
+}

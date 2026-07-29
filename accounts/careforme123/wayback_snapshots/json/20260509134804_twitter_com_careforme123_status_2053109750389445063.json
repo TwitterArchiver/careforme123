@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053108518501159392",
+    "created_at": "2026-05-09T13:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053109750389445063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053109750389445063",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053108518501159392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 习主席请让我当将军，给我两天时间，我就可以收复台湾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2053107214131273728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4aIigWIAAmoHE.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053108518501159392",
+        "created_at": "2026-05-09T13:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053109750389445063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053109750389445063",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053108518501159392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 习主席请让我当将军，给我两天时间，我就可以收复台湾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053107214131273728"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2053108518501159392",
+        "created_at": "2026-05-09T13:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:42:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053108419809190250",
+          "2053108518501159392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9HSKkNQBd",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2053108518501159392/photo/1",
+              "media_key": "3_2053107214131273728",
+              "start": 137,
+              "url": "https://t.co/b9HSKkNQBd"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2052331355279655280",
+              "start": 161,
+              "url": "https://t.co/PYhtA1vBOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053108518501159392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月9日，纽约时报发布文章《习近平如何对他的将军们失去信任》。\n文章称，习近平正在经历其执政以来最严重的军方信任危机。\n\n习近平以反腐和思想整顿之名，对自己亲手打造的军方高层进行大规模清洗，这反映出他对军队忠诚的深层恐惧，也暴露出中国军队现代化与个人集权之间的结构性矛盾。\n也意味着这场清洗可能削弱中国军队未来数年的战备能力。\n\n文章认为，军方高层清洗规模极大，已经动摇习近平亲手建立的军队体系。\n\n全国人大会议画面中，将军人数从一年前约40人锐减到寥寥数人，被查、被撤、被判刑的对象不再只是边缘人物，而包括前国防部长、火箭军高层、中央军委成员，甚至张有侠这样的习近平长期亲信。\n\n这已经不再是单纯的反腐，而是习近平对军队整体的忠诚度失去信心。\n\n腐败确实存在，但习近平更担心的是“不忠”“心怀二意”和军队脱离党的控制。\n\n他公开警告“军队中绝不能有任何对党怀有分裂之心的人”，说明他把军中腐败、派系、抗命都视为政治威胁。\n\n习近平上台后一直试图避免胡锦涛时代对军队控制不足的问题，因此通过古田会议、军改、主席负责制、战区改革等方式，把军队重新置于自己直接控制之下。但现在的问题是，他亲自挑选、亲自提拔的人也陆续出事，说明他的用人体系本身出现了危机。\n\n张有侠曾是习近平军改和武器现代化的重要执行者，也被视为有战斗经验、有红色家族背景、深受信任的军方核心人物。但文章称，他反对习近平提拔负责军中调查的张胜民担任更高职务，最终与习近平决裂并被清除。\n\n而张胜民的上升代表习近平当前更重视政治控制而非纯粹军事专业能力。张胜民并非典型作战型将领，而是政治工作和纪律调查出身。他的权力上升，说明习近平当前优先事项是清查、监督、思想整顿和确保绝对忠诚，而不是单纯提升军队作战效率。\n\n文章认为，这场清洗可能削弱中国军队未来数年的战备能力。中国军队近年来在航母、高超音速导弹、核武库、联合作战等方面快速现代化，但高层持续震荡、指挥链不稳定、核心将领被撤，可能影响作战准备，尤其是在中美竞争加剧、台海风险升高的背景下。\n\n如今的习近平已经陷入了“红”与“专”的矛盾。所谓“红”，是政治忠诚；所谓“专”，是军事专业能力。习近平既需要一支能打仗的现代军队，又担心专业军人形成独立权力网络、腐败集团或不完全听命于他。\n\n最终，他似乎选择优先保障忠诚。\n\n文章暗示习近平统治进入后期后，对核心圈子的疑心正在增强。寇建文的观点是，习近平越来越担心身边人，尤其是在中共下一次党代会前，他会对任何可能挑战其权威的力量更加敏感。军方清洗因此不仅是军事问题，也是权力继承、政治安全和个人统治稳定的问题。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2857,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052331355279655280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月9日，纽约时报发布文章《习近平如何对他的将军们失去信任》。\n文章称，习近平正在经历其执政以来最严重的军方信任危机。\n\n习近平以反腐和思想整顿之名，对自己亲手打造的军方高层进行大规模清洗，这反映出他对军队忠诚的深层恐惧，也暴露出中国军队现代化与个人集权之间的结构性矛盾。 https://t.co/b9HSKkNQBd https://t.co/PYhtA1vBOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 466,
+          "like_count": 5056,
+          "listed_count": 5,
+          "media_count": 561,
+          "tweet_count": 2071
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218094,
+          "following_count": 1044,
+          "like_count": 9476,
+          "listed_count": 8720,
+          "media_count": 46454,
+          "tweet_count": 53555
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

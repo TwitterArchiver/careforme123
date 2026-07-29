@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067590918610501738",
+    "created_at": "2026-06-18T12:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067590918610501738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067590918610501738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日本就是比中国干净许多，我在东京只在大久保步行街能看见精神小妹丢在地上的垃圾，其他普通街道，地上都是干干净净的（说个事实，类人生物别急）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067590918610501738",
+        "created_at": "2026-06-18T12:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067590918610501738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067590918610501738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本就是比中国干净许多，我在东京只在大久保步行街能看见精神小妹丢在地上的垃圾，其他普通街道，地上都是干干净净的（说个事实，类人生物别急）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 778,
+          "like_count": 7370,
+          "listed_count": 6,
+          "media_count": 740,
+          "tweet_count": 2931
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059270525571252437",
+    "created_at": "2026-05-26T13:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059271812005908503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059271812005908503",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059270525571252437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 这人还是挺神奇的，因为自己职位被架空，降薪，能伪造公司，仓库，证明，自己在地下室拿狗和猫实验各种毒药，还不只想毒死林奇，在其他人的水里加汞，还自学精神病学想装精神病作为后路"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_2059270512044568576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJP_nsbacAAPiGM.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059270525571252437",
+        "created_at": "2026-05-26T13:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059271812005908503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059271812005908503",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059270525571252437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 这人还是挺神奇的，因为自己职位被架空，降薪，能伪造公司，仓库，证明，自己在地下室拿狗和猫实验各种毒药，还不只想毒死林奇，在其他人的水里加汞，还自学精神病学想装精神病作为后路"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059270512044568576"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2059270525571252437",
+        "created_at": "2026-05-26T13:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059270525571252437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fI73EBhsg",
+              "end": 32,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2059270525571252437/photo/1",
+              "media_key": "3_2059270512044568576",
+              "start": 9,
+              "url": "https://t.co/5fI73EBhsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059270525571252437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "降临派这招太狠了 https://t.co/5fI73EBhsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 733,
+          "like_count": 6349,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 2562
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "🌸摆烂博主🍭| 好看的照片都在“亮点”里 | 蓝v互关看到必回",
+        "id": "1573704119516176384",
+        "location": "🚪98 发课表 是男娘",
+        "name": "草莓泡芙🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005637712188194816/7t5VZ4y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95097,
+          "following_count": 938,
+          "like_count": 5700,
+          "listed_count": 213,
+          "media_count": 132,
+          "tweet_count": 1899
+        },
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

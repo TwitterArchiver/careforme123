@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062902475548443099",
+    "created_at": "2026-06-05T15:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062922881617612868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1623672983150624769",
+          "start": 0,
+          "username": "07Billionz"
+        },
+        {
+          "end": 25,
+          "id": "1517538471312822273",
+          "start": 12,
+          "username": "itzskranking"
+        },
+        {
+          "end": 42,
+          "id": "1909866263393796096",
+          "start": 26,
+          "username": "Celebritypuls_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062922881617612868",
+    "in_reply_to_user_id": "1623672983150624769",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062922722175340927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@07Billionz @itzskranking @Celebritypuls_1 fb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062902475548443099",
+        "created_at": "2026-06-05T15:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062922881617612868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1623672983150624769",
+              "start": 0,
+              "username": "07Billionz"
+            },
+            {
+              "end": 25,
+              "id": "1517538471312822273",
+              "start": 12,
+              "username": "itzskranking"
+            },
+            {
+              "end": 42,
+              "id": "1909866263393796096",
+              "start": 26,
+              "username": "Celebritypuls_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062922881617612868",
+        "in_reply_to_user_id": "1623672983150624769",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062922722175340927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@07Billionz @itzskranking @Celebritypuls_1 fb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623672983150624769",
+        "conversation_id": "2062902475548443099",
+        "created_at": "2026-06-05T15:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062922722175340927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1517538471312822273",
+              "start": 0,
+              "username": "itzskranking"
+            },
+            {
+              "end": 30,
+              "id": "1909866263393796096",
+              "start": 14,
+              "username": "Celebritypuls_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062922722175340927",
+        "in_reply_to_user_id": "1517538471312822273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062909355326939485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itzskranking @Celebritypuls_1 Just Followed you \nFollow back."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 762,
+          "like_count": 6924,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2762
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-09T13:20:00.000Z",
+        "description": "🖋️Writing stories worth losing sleep over.\n                ✒️Turning ideas into obsessions✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "odosaprincely.carrd.co",
+                "end": 23,
+                "expanded_url": "https://odosaprincely.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/d4Zdd9aK6a"
+              }
+            ]
+          }
+        },
+        "id": "1623672983150624769",
+        "location": "Nigeria",
+        "name": "ODOSA PRINCELY",
+        "pinned_tweet_id": "2062911587942310224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006222509616553984/0mH5MUAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 704,
+          "like_count": 1823,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2391
+        },
+        "url": "https://t.co/d4Zdd9aK6a",
+        "username": "07Billionz",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T16:19:43.000Z",
+        "description": "CHELSEA MAN.💙💙",
+        "id": "1517538471312822273",
+        "location": "Abuja, Nigeria",
+        "name": "@Enzo8",
+        "pinned_tweet_id": "2062768994675732844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943392786826317824/fApPiE_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10270,
+          "following_count": 9194,
+          "like_count": 134851,
+          "listed_count": 0,
+          "media_count": 3308,
+          "tweet_count": 143716
+        },
+        "username": "itzskranking",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-09T07:09:53.000Z",
+        "description": "Humor, trending ,music  X growth🚨 Riddles",
+        "id": "1909866263393796096",
+        "location": "X Growth, trending , riddles.",
+        "name": "𝟐𝟒𝟕 𝐂𝐞𝐥𝐞𝐛𝐫𝐢𝐭𝐲𝐩𝐮𝐥𝐬𝐞",
+        "pinned_tweet_id": "2062916476714049563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050849224577916928/ebgfpT5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22063,
+          "following_count": 13413,
+          "like_count": 47888,
+          "listed_count": 51,
+          "media_count": 3095,
+          "tweet_count": 67865
+        },
+        "username": "Celebritypuls_1",
+        "verified": true
+      }
+    ]
+  }
+}

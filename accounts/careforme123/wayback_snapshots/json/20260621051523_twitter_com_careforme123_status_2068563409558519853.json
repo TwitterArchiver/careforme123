@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067809595330830776",
+    "created_at": "2026-06-21T05:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068563409558519853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829878816904245248",
+          "start": 0,
+          "username": "mrjiang0104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068563409558519853",
+    "in_reply_to_user_id": "1829878816904245248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068101725182112202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrjiang0104 你应该少来推特撸管，多社交，早结婚，生点孩子为祖国做贡献"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067809595330830776",
+        "created_at": "2026-06-21T05:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068563409558519853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829878816904245248",
+              "start": 0,
+              "username": "mrjiang0104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068563409558519853",
+        "in_reply_to_user_id": "1829878816904245248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068101725182112202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrjiang0104 你应该少来推特撸管，多社交，早结婚，生点孩子为祖国做贡献"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829878816904245248",
+        "conversation_id": "2067809595330830776",
+        "created_at": "2026-06-19T22:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068101725182112202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068101725182112202",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067809595330830776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 你这种杂种啥时候被打死啊，真是为民除害了😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 778,
+          "like_count": 7397,
+          "listed_count": 6,
+          "media_count": 741,
+          "tweet_count": 2940
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T13:48:13.000Z",
+        "description": "Hello everybody",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/EHm1FTn781"
+              }
+            ]
+          }
+        },
+        "id": "1829878816904245248",
+        "location": "Hang Zhou",
+        "name": "XYQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829879847688040448/xxrRZKVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 272,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/EHm1FTn781",
+        "username": "mrjiang0104",
+        "verified": false
+      }
+    ]
+  }
+}

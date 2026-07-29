@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059949230957998187",
+    "created_at": "2026-05-28T10:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059949855531794677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059949855531794677",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059949230957998187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 字不要揉成一团啊喂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2059949093397446657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZoyU9XwAENkch.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059949230957998187",
+        "created_at": "2026-05-28T10:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059949855531794677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059949855531794677",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059949230957998187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 字不要揉成一团啊喂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059949093397446657"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2059949230957998187",
+        "created_at": "2026-05-28T10:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059949230957998187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtW0Yf2nGU",
+              "end": 156,
+              "expanded_url": "https://x.com/satireorcry1/status/2059949230957998187/photo/1",
+              "media_key": "3_2059949093397446657",
+              "start": 133,
+              "url": "https://t.co/HtW0Yf2nGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059949230957998187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想竞选市长为民发声？深圳小伙惨遭伪政权封号清算 \n\n5月25日，沦陷区深圳一名身穿正装的年轻灾胞前往深圳市民中心的行政服务大厅，公开询问如何取得竞选市长的资格与流程。他直言眼见底层灾胞过得太苦，想透过选举「为老百姓做点事」，不料5月27日其抖音帐号即遭到全面封禁。 根据相关影像，该名年轻人因看到深圳街头有许多老人捡垃圾、无数灾胞露宿街头，出于时代责任感而选择挺身而出。然而，在伪政权冰冷的行政大楼内，面对如此理所当然的公民权利询问，台前的政府工作人员竟是一问三不知，荒谬地推托「都不知道」如何参选。 这类扼杀公民参政权的铁腕手段在沦陷区早有先例。伪政权体制内根本没有真正的民选官员，过去如刘萍、姚立法（姚立发），乃至2021年试图以独立候选人身份参选北平区县人大代表的「709案」家属王峭岭与李文足等人，皆遭到伪政权的威胁与打压。在极权体制下，任何未经政治筛选、试图打破黑箱利益结构的独立参选者，都会被当局视为对其政权安全的重大威胁。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想竞选市长为民发声？深圳小伙惨遭伪政权封号清算 \n\n5月25日，沦陷区深圳一名身穿正装的年轻灾胞前往深圳市民中心的行政服务大厅，公开询问如何取得竞选市长的资格与流程。他直言眼见底层灾胞过得太苦，想透过选举「为老百姓做点事」，不料5月27日其抖音帐号即遭到全面封禁。 https://t.co/HtW0Yf2nGU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 741,
+          "like_count": 6485,
+          "listed_count": 5,
+          "media_count": 665,
+          "tweet_count": 2611
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvog37z"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32303,
+          "following_count": 1624,
+          "like_count": 19343,
+          "listed_count": 77,
+          "media_count": 4307,
+          "tweet_count": 5976
+        },
+        "url": "https://t.co/EYxWvog37z",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

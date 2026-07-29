@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069076574474043629",
+    "created_at": "2026-06-23T15:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069444083437928789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "629173873",
+          "start": 0,
+          "username": "SevenUncle"
+        },
+        {
+          "end": 21,
+          "id": "1247724456228737024",
+          "start": 12,
+          "username": "HChiafen"
+        },
+        {
+          "end": 35,
+          "id": "2006032696770977793",
+          "start": 22,
+          "username": "chukuang2018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069444083437928789",
+    "in_reply_to_user_id": "629173873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069247017059221750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SevenUncle @HChiafen @chukuang2018 美国人杀人你就能随便杀人了？你这智商月薪能超过3000？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069076574474043629",
+        "created_at": "2026-06-23T15:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069444083437928789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "629173873",
+              "start": 0,
+              "username": "SevenUncle"
+            },
+            {
+              "end": 21,
+              "id": "1247724456228737024",
+              "start": 12,
+              "username": "HChiafen"
+            },
+            {
+              "end": 35,
+              "id": "2006032696770977793",
+              "start": 22,
+              "username": "chukuang2018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069444083437928789",
+        "in_reply_to_user_id": "629173873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069247017059221750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SevenUncle @HChiafen @chukuang2018 美国人杀人你就能随便杀人了？你这智商月薪能超过3000？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "629173873",
+        "conversation_id": "2069076574474043629",
+        "created_at": "2026-06-23T02:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069247017059221750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247724456228737024",
+              "start": 0,
+              "username": "HChiafen"
+            },
+            {
+              "end": 23,
+              "id": "2006032696770977793",
+              "start": 10,
+              "username": "chukuang2018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069247017059221750",
+        "in_reply_to_user_id": "1247724456228737024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069240333234549097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HChiafen @chukuang2018 哈哈 美国人杀了多少人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 783,
+          "like_count": 7565,
+          "listed_count": 7,
+          "media_count": 751,
+          "tweet_count": 2993
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-07T09:18:28.000Z",
+        "description": "一名骄傲的中国人！支持祖国统一！Chinese! the Great iOS Developer！Taiwan is a part of China！Make one big thing!",
+        "id": "629173873",
+        "location": "Hangzhou",
+        "name": "sevenuncler🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554635977490317312/E0Cewh2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 231,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "SevenUncle",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T03:14:34.000Z",
+        "description": "Hi",
+        "id": "1247724456228737024",
+        "location": "太平洋",
+        "name": "奧斯頓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041868304340676612/6Bsz9259_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 26,
+          "like_count": 911,
+          "listed_count": 15,
+          "media_count": 1023,
+          "tweet_count": 13692
+        },
+        "url": "",
+        "username": "HChiafen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T16:01:05.000Z",
+        "description": "来自云南楚雄，不喜欢私聊，随意看看，不回应不喜欢的言论。",
+        "id": "2006032696770977793",
+        "location": "云南 楚雄",
+        "name": "楚狂",
+        "pinned_tweet_id": "2066900602412777542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006034273988739072/allHiOry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8970,
+          "following_count": 6421,
+          "like_count": 50746,
+          "listed_count": 14,
+          "media_count": 1671,
+          "tweet_count": 34242
+        },
+        "url": "",
+        "username": "chukuang2018",
+        "verified": false
+      }
+    ]
+  }
+}

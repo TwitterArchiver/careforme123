@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058456713909682215",
+    "created_at": "2026-05-24T09:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058478208157143331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "515247081",
+          "start": 0,
+          "username": "vairavem7589"
+        },
+        {
+          "end": 28,
+          "id": "1938285436532887554",
+          "start": 14,
+          "username": "KobeBryantbtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058478208157143331",
+    "in_reply_to_user_id": "515247081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058477144112824553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vairavem7589 @KobeBryantbtc 新个屁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058456713909682215",
+        "created_at": "2026-05-24T09:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058478208157143331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "515247081",
+              "start": 0,
+              "username": "vairavem7589"
+            },
+            {
+              "end": 28,
+              "id": "1938285436532887554",
+              "start": 14,
+              "username": "KobeBryantbtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058478208157143331",
+        "in_reply_to_user_id": "515247081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058477144112824553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vairavem7589 @KobeBryantbtc 新个屁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "515247081",
+        "conversation_id": "2058456713909682215",
+        "created_at": "2026-05-24T09:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058477144112824553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938285436532887554",
+              "start": 0,
+              "username": "KobeBryantbtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058477144112824553",
+        "in_reply_to_user_id": "1938285436532887554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058456713909682215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KobeBryantbtc 来来来我是新面孔大家快来关注一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 723,
+          "like_count": 6171,
+          "listed_count": 6,
+          "media_count": 651,
+          "tweet_count": 2489
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-05T08:35:00.000Z",
+        "description": "。交易教学。一公众号：南帝投研/电报：@BTC153333一手续费8折-CFA金融分析师/一技术分析博主一周一到周五一每晚8:30直播，周六周日每晚10点直播，你的点赞和转发，是对我最大的支持。电报进群：https://t.co/MW82PGcnr7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "BTC153333"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+lsPuYFr_0I40M…",
+                "end": 125,
+                "expanded_url": "https://t.me/+lsPuYFr_0I40Mjc1",
+                "start": 102,
+                "url": "https://t.co/MW82PGcnr7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/1C5iJr4EtH"
+              }
+            ]
+          }
+        },
+        "id": "515247081",
+        "location": "Tamil nadu , India",
+        "name": "南帝一灯大师",
+        "pinned_tweet_id": "2054123398088057064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033543208995803136/PHl8aS3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7928,
+          "following_count": 3036,
+          "like_count": 1864,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 5183
+        },
+        "url": "https://t.co/1C5iJr4EtH",
+        "username": "vairavem7589",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T17:17:27.000Z",
+        "description": "信仰玩家 #BTC #SOL,研究全球资本流动性、周期趋势投资/A man pursuing financial freedom 热爱研究项目分享 #BNB #OKX TG：https://t.co/59KkWUp5Nm合作DM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "BTC"
+              },
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "SOL"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "BNB"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Bit_Kobe",
+                "end": 110,
+                "expanded_url": "https://t.me/Bit_Kobe",
+                "start": 87,
+                "url": "https://t.co/59KkWUp5Nm"
+              }
+            ]
+          }
+        },
+        "id": "1938285436532887554",
+        "location": "油尖旺, 香港",
+        "name": "田姥爷🔶BNB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029535777915633665/7ROWrps6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 2714,
+          "like_count": 4916,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 4032
+        },
+        "username": "KobeBryantbtc",
+        "verified": true
+      }
+    ]
+  }
+}

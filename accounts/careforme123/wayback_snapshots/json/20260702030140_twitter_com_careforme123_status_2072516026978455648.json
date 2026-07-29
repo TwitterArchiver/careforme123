@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2072515616410681454",
+    "created_at": "2026-07-02T03:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072516026978455648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072516026978455648",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072515616410681454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 什么无证，背后有官比证有用"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 180117,
+        "height": 1280,
+        "media_key": "13_2072443753579659264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072443753579659264/img/SqE4BMRKYmkwH5te.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072443753579659264/vid/avc1/320x568/HZhdt8JnvtL64F4H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072443753579659264/vid/avc1/480x852/4tdF4RJen80_R9LN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072443753579659264/vid/avc1/720x1280/W-Qy3cS9vedFNZHt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072443753579659264/pl/rsb41P4iQwpAwvgl.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 180047,
+        "height": 1280,
+        "media_key": "13_2072443753537675266",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072443753537675266/img/vgduvhRNpBdjj2lP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072443753537675266/vid/avc1/320x568/nXkNFATfQXR7TK3r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072443753537675266/vid/avc1/480x852/I2ypByL4C4a_oJh9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072443753537675266/vid/avc1/720x1280/qjrduYrIvgMhaD3H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072443753537675266/pl/kBPurenaY6Hpmv6e.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 180093,
+        "height": 848,
+        "media_key": "13_2072443753554452480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072443753554452480/img/g0T52nGPsq4lWkgK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072443753554452480/vid/avc1/320x584/jBdltIFgYbGDoz1X.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072443753554452480/vid/avc1/464x848/wZiIl2-3qbt28XIV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072443753554452480/pl/hExjoXYXXt2t7Kww.m3u8"
+          }
+        ],
+        "width": 464
+      },
+      {
+        "height": 673,
+        "media_key": "3_2072443086756560896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLMAdNWwAAAltj.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2072515616410681454",
+        "created_at": "2026-07-02T03:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072516026978455648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072516026978455648",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072515616410681454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 什么无证，背后有官比证有用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072443753579659264",
+            "13_2072443753537675266",
+            "13_2072443753554452480",
+            "3_2072443086756560896"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072515616410681454",
+        "created_at": "2026-07-02T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072515616410681454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YW19n2jCt",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2072515616410681454/video/1",
+              "media_key": "13_2072443753579659264",
+              "start": 97,
+              "url": "https://t.co/0YW19n2jCt"
+            },
+            {
+              "display_url": "pic.x.com/0YW19n2jCt",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2072515616410681454/video/1",
+              "media_key": "13_2072443753537675266",
+              "start": 97,
+              "url": "https://t.co/0YW19n2jCt"
+            },
+            {
+              "display_url": "pic.x.com/0YW19n2jCt",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2072515616410681454/video/1",
+              "media_key": "13_2072443753554452480",
+              "start": 97,
+              "url": "https://t.co/0YW19n2jCt"
+            },
+            {
+              "display_url": "pic.x.com/0YW19n2jCt",
+              "end": 120,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2072515616410681454/video/1",
+              "media_key": "3_2072443086756560896",
+              "start": 97,
+              "url": "https://t.co/0YW19n2jCt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072515616410681454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月1日，山东省菏泽市单县曹庄镇。村民手持铁锤等工具，围堵一家无证黑加工厂。\n\n据反映，该工厂没有营业执照，也未办理任何合规经营手续，日常加工病死鸭、病死鹅、病死猪等病死畜禽，并制成颗粒产品。\n\n生产过程中会散发出浓烈刺鼻的异味，周边长期臭味弥漫。产生的污水未经任何处理便随意排放，对周边环境造成污染，也严重影响附近居民的日常生活。\n\n此外，工厂内部生产环境也十分恶劣，卫生状况令人堪忧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1208,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7月1日，山东省菏泽市单县曹庄镇。村民手持铁锤等工具，围堵一家无证黑加工厂。\n\n据反映，该工厂没有营业执照，也未办理任何合规经营手续，日常加工病死鸭、病死鹅、病死猪等病死畜禽，并制成颗粒产品。 https://t.co/0YW19n2jCt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 789,
+          "like_count": 7727,
+          "listed_count": 8,
+          "media_count": 776,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242822,
+          "following_count": 1071,
+          "like_count": 9770,
+          "listed_count": 8810,
+          "media_count": 49636,
+          "tweet_count": 56828
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

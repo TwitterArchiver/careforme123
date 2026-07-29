@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080622526355705856"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2080622534899462433",
+    "created_at": "2026-07-24T11:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080622534899462433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eeQiavHUps",
+          "end": 48,
+          "expanded_url": "https://x.com/careforme123/status/2080622534899462433/photo/1",
+          "media_key": "3_2080622526355705856",
+          "start": 25,
+          "url": "https://t.co/eeQiavHUps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080622534899462433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（思想教育十分钟以后）现在可以提供手机密码了吗？ https://t.co/eeQiavHUps"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 927,
+        "media_key": "3_2080622526355705856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_bKgMbkAAcaIQ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080622526355705856"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2080622534899462433",
+        "created_at": "2026-07-24T11:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080622534899462433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeQiavHUps",
+              "end": 48,
+              "expanded_url": "https://x.com/careforme123/status/2080622534899462433/photo/1",
+              "media_key": "3_2080622526355705856",
+              "start": 25,
+              "url": "https://t.co/eeQiavHUps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080622534899462433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（思想教育十分钟以后）现在可以提供手机密码了吗？ https://t.co/eeQiavHUps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2721,
+          "following_count": 798,
+          "like_count": 7856,
+          "listed_count": 8,
+          "media_count": 818,
+          "tweet_count": 3150
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

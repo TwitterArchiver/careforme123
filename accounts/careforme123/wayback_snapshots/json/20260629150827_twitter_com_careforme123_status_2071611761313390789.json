@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071611735971336192"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2071611761313390789",
+    "created_at": "2026-06-29T15:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071611761313390789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mvVLFnrFtR",
+          "end": 32,
+          "expanded_url": "https://x.com/careforme123/status/2071611761313390789/photo/1",
+          "media_key": "3_2071611735971336192",
+          "start": 9,
+          "url": "https://t.co/mvVLFnrFtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071611761313390789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "央视对普京的跪舔 https://t.co/mvVLFnrFtR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2071611735971336192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_X5eMaEAA0c7W.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071611735971336192"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2071611761313390789",
+        "created_at": "2026-06-29T15:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071611761313390789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mvVLFnrFtR",
+              "end": 32,
+              "expanded_url": "https://x.com/careforme123/status/2071611761313390789/photo/1",
+              "media_key": "3_2071611735971336192",
+              "start": 9,
+              "url": "https://t.co/mvVLFnrFtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071611761313390789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "央视对普京的跪舔 https://t.co/mvVLFnrFtR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2409,
+          "following_count": 789,
+          "like_count": 7695,
+          "listed_count": 6,
+          "media_count": 769,
+          "tweet_count": 3043
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

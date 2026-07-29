@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067539370534645760",
+        "3_2067539560238809088"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067544325945503773",
+    "created_at": "2026-06-18T09:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067544325945503773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NWYWSXoecZ",
+          "end": 165,
+          "expanded_url": "https://x.com/careforme123/status/2067544325945503773/photo/1",
+          "media_key": "3_2067539370534645760",
+          "start": 142,
+          "url": "https://t.co/NWYWSXoecZ"
+        },
+        {
+          "display_url": "pic.x.com/NWYWSXoecZ",
+          "end": 165,
+          "expanded_url": "https://x.com/careforme123/status/2067544325945503773/photo/1",
+          "media_key": "3_2067539560238809088",
+          "start": 142,
+          "url": "https://t.co/NWYWSXoecZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067544325945503773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国男人天天用下流的语言攻击高市早苗女士，造她的黄谣\n\n然而高市早苗比他们的母亲，妻子，或者喜欢的女明星优秀了太多，她年轻的时候也是一个美女\n\n只要是与中国关系不好的领导人，就会被中国网民疯狂的人身攻击，他们不在乎事实。官方怎么引导他们，他们就去骂谁\n\n我代表中国人给日本网友道歉😢 https://t.co/NWYWSXoecZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 427,
+        "media_key": "3_2067539370534645760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFgGmvaMAAViAQ.jpg",
+        "width": 427
+      },
+      {
+        "height": 544,
+        "media_key": "3_2067539560238809088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFgRpcaAAAOGP_.jpg",
+        "width": 562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067539370534645760",
+            "3_2067539560238809088"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067544325945503773",
+        "created_at": "2026-06-18T09:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067544325945503773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWYWSXoecZ",
+              "end": 165,
+              "expanded_url": "https://x.com/careforme123/status/2067544325945503773/photo/1",
+              "media_key": "3_2067539370534645760",
+              "start": 142,
+              "url": "https://t.co/NWYWSXoecZ"
+            },
+            {
+              "display_url": "pic.x.com/NWYWSXoecZ",
+              "end": 165,
+              "expanded_url": "https://x.com/careforme123/status/2067544325945503773/photo/1",
+              "media_key": "3_2067539560238809088",
+              "start": 142,
+              "url": "https://t.co/NWYWSXoecZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067544325945503773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国男人天天用下流的语言攻击高市早苗女士，造她的黄谣\n\n然而高市早苗比他们的母亲，妻子，或者喜欢的女明星优秀了太多，她年轻的时候也是一个美女\n\n只要是与中国关系不好的领导人，就会被中国网民疯狂的人身攻击，他们不在乎事实。官方怎么引导他们，他们就去骂谁\n\n我代表中国人给日本网友道歉😢 https://t.co/NWYWSXoecZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 779,
+          "like_count": 7363,
+          "listed_count": 6,
+          "media_count": 740,
+          "tweet_count": 2929
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

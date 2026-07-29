@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068518883766472975",
+    "created_at": "2026-06-21T18:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068757796544467132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "935558614915395584",
+          "start": 0,
+          "username": "AmoaHamlet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068757796544467132",
+    "in_reply_to_user_id": "935558614915395584",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068518883766472975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmoaHamlet so true"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068518883766472975",
+        "created_at": "2026-06-21T18:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068757796544467132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "935558614915395584",
+              "start": 0,
+              "username": "AmoaHamlet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068757796544467132",
+        "in_reply_to_user_id": "935558614915395584",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068518883766472975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmoaHamlet so true"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "935558614915395584",
+        "conversation_id": "2068518883766472975",
+        "created_at": "2026-06-21T02:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068518883766472975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068518883766472975",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "☭ Lenin los estafó una y otra vez, y aún así le erigieron estatuas.\n\n☭ Stalin les tomó el pelo una y otra vez, y aún así le erigieron estatuas.\n\n☭ Mao los embaucó una y otra vez, y aún así le erigieron estatuas.\n\n☭ Fidel los desfalcó una y otra vez, y aún así le erigieron estatuas.\n\n☭ El Che Guevara los tomó por tontos una y otra vez, y aún así le erigieron estatuas.\n\n☭ Perón los desplumó una y otra vez, y aún así le erigieron estatuas.\n\n☭ Chávez los expolió una y otra vez, y aún así le erigieron estatuas.\n\n🤡 Ya va siendo hora de agregar otro sinónimo a la palabra masoquista: zurdo."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 2977,
+          "like_count": 147,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "☭ Lenin los estafó una y otra vez, y aún así le erigieron estatuas.\n\n☭ Stalin les tomó el pelo una y otra vez, y aún así le erigieron estatuas.\n\n☭ Mao los embaucó una y otra vez, y aún así le erigieron estatuas.\n\n☭ Fidel los desfalcó una y otra vez, y aún así le erigieron"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 790,
+          "like_count": 7506,
+          "listed_count": 6,
+          "media_count": 747,
+          "tweet_count": 2972
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-28T17:18:50.000Z",
+        "description": "Economista. Liberalismo. 𝐿𝑎𝑖𝑠𝑠𝑒𝑧-𝑓𝑎𝑖𝑟𝑒 🌽",
+        "id": "935558614915395584",
+        "name": "Diego Angulo",
+        "pinned_tweet_id": "2057138138925908013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046450870964064256/JF8n2nSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 1156,
+          "like_count": 7455,
+          "listed_count": 14,
+          "media_count": 192,
+          "tweet_count": 6444
+        },
+        "url": "",
+        "username": "AmoaHamlet",
+        "verified": true
+      }
+    ]
+  }
+}

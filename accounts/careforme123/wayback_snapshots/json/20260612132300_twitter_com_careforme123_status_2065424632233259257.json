@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2065399978772848761",
+    "created_at": "2026-06-12T13:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065424632233259257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991445291825000451",
+          "start": 0,
+          "username": "FreeEastAsia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065424632233259257",
+    "in_reply_to_user_id": "1991445291825000451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065424367497138181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeEastAsia 旅行者找到自己的飞船之后，到现在发生了什么？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "16_2065424361528635393",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKncg4NaMAEVcHt.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKncg4NaMAEVcHt.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2065399978772848761",
+        "created_at": "2026-06-12T13:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065424632233259257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991445291825000451",
+              "start": 0,
+              "username": "FreeEastAsia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065424632233259257",
+        "in_reply_to_user_id": "1991445291825000451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065424367497138181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeEastAsia 旅行者找到自己的飞船之后，到现在发生了什么？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2065424361528635393"
+          ]
+        },
+        "author_id": "1991445291825000451",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2065399978772848761",
+        "created_at": "2026-06-12T13:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065424367497138181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxLK6CKO06",
+              "end": 47,
+              "expanded_url": "https://x.com/FreeEastAsia/status/2065424367497138181/photo/1",
+              "media_key": "16_2065424361528635393",
+              "start": 24,
+              "url": "https://t.co/RxLK6CKO06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065424367497138181",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065422436473192955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 嗯嗯，原神很好玩哦 https://t.co/RxLK6CKO06"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 772,
+          "like_count": 7130,
+          "listed_count": 6,
+          "media_count": 721,
+          "tweet_count": 2851
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-20T09:55:43.000Z",
+        "description": "苍山负雪，明烛天南。",
+        "id": "1991445291825000451",
+        "name": "💐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057392060433616896/Y_YSde4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 211,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 685
+        },
+        "username": "FreeEastAsia",
+        "verified": false
+      }
+    ]
+  }
+}

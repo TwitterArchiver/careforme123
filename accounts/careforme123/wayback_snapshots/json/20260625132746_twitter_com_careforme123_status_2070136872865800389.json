@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069020669959192969",
+    "created_at": "2026-06-25T13:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070136872865800389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "Pintuzhesima"
+        },
+        {
+          "end": 22,
+          "id": "1534188810623340544",
+          "start": 14,
+          "username": "Uutudo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070136872865800389",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070136253459333528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pintuzhesima @Uutudo4 呵呵，我和她聊天的那个时代你还在抠鼻屎吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069020669959192969",
+        "created_at": "2026-06-25T13:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070136872865800389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "Pintuzhesima"
+            },
+            {
+              "end": 22,
+              "id": "1534188810623340544",
+              "start": 14,
+              "username": "Uutudo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070136872865800389",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070136253459333528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pintuzhesima @Uutudo4 呵呵，我和她聊天的那个时代你还在抠鼻屎吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811604757670137856",
+        "conversation_id": "2069020669959192969",
+        "created_at": "2026-06-25T13:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070136253459333528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            },
+            {
+              "end": 22,
+              "id": "1534188810623340544",
+              "start": 14,
+              "username": "Uutudo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070136253459333528",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070132948414951715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 @Uutudo4 炫压抑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 789,
+          "like_count": 7617,
+          "listed_count": 7,
+          "media_count": 759,
+          "tweet_count": 3016
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "拼图者的野爹/不孝子@puzzlerlee/小号@maybe_FuckU/狗与@careforme123禁止入内⛔️/报名拼图者野爹请点下方链接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 36,
+                "start": 24,
+                "username": "maybe_FuckU"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "careforme123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20556…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2055632908568887528",
+                "start": 0,
+                "url": "https://t.co/LIaeSkwnh0"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "Brisbane, Queensland",
+        "name": "Sager Wang🍥🏳️‍⚧️（拼儿严父）",
+        "pinned_tweet_id": "2062151847935426640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067861763807387649/Tue0lqZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 1262,
+          "like_count": 1818,
+          "listed_count": 6,
+          "media_count": 1045,
+          "tweet_count": 6805
+        },
+        "url": "https://t.co/LIaeSkwnh0",
+        "username": "Pintuzhesima",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-07T15:01:48.000Z",
+        "description": "滚 看你妈逼看",
+        "id": "1534188810623340544",
+        "name": "牙",
+        "pinned_tweet_id": "1965386014228361713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017498187939123204/aCUmHeRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4117,
+          "following_count": 315,
+          "like_count": 4657,
+          "listed_count": 8,
+          "media_count": 258,
+          "tweet_count": 14271
+        },
+        "url": "",
+        "username": "Uutudo4",
+        "verified": false
+      }
+    ]
+  }
+}

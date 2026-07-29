@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053651030500606367",
+    "created_at": "2026-05-14T04:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T05:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054784766839562566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2037174780554883072",
+          "start": 0,
+          "username": "Chenercheck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054784766839562566",
+    "in_reply_to_user_id": "2037174780554883072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053835014383825050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chenercheck 🤢🤢🤢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053835010998947840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICwD5HaUAAhzX7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053651030500606367",
+        "created_at": "2026-05-14T04:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054784766839562566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037174780554883072",
+              "start": 0,
+              "username": "Chenercheck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054784766839562566",
+        "in_reply_to_user_id": "2037174780554883072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053835014383825050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chenercheck 🤢🤢🤢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053835010998947840"
+          ]
+        },
+        "author_id": "2037174780554883072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053651030500606367",
+        "created_at": "2026-05-11T13:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053835014383825050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QfCwJHx4u",
+              "end": 55,
+              "expanded_url": "https://x.com/Chenercheck/status/2053835014383825050/photo/1",
+              "media_key": "3_2053835010998947840",
+              "start": 32,
+              "url": "https://t.co/9QfCwJHx4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053835014383825050",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053651030500606367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 我平时自己在家做的，羡慕吗傻逼倭奴 https://t.co/9QfCwJHx4u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 546,
+          "like_count": 5464,
+          "listed_count": 5,
+          "media_count": 605,
+          "tweet_count": 2239
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T14:28:41.000Z",
+        "description": "",
+        "id": "2037174780554883072",
+        "name": "Checkchen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044665652892540928/D4usQ_Pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 58,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 73
+        },
+        "username": "Chenercheck",
+        "verified": false
+      }
+    ]
+  }
+}

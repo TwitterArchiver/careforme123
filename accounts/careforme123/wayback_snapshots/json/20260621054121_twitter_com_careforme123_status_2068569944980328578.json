@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068542868122444234",
+    "created_at": "2026-06-21T05:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068569944980328578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1388580104050196482",
+          "start": 0,
+          "username": "yumeng9963"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068569944980328578",
+    "in_reply_to_user_id": "1388580104050196482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068542868122444234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumeng9963 绑86干嘛，等着被喝茶吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2068542399148929024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTwWjgbMAAattp.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068542868122444234",
+        "created_at": "2026-06-21T05:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068569944980328578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1388580104050196482",
+              "start": 0,
+              "username": "yumeng9963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068569944980328578",
+        "in_reply_to_user_id": "1388580104050196482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068542868122444234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeng9963 绑86干嘛，等着被喝茶吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068542399148929024"
+          ]
+        },
+        "author_id": "1388580104050196482",
+        "conversation_id": "2068542868122444234",
+        "created_at": "2026-06-21T03:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068542868122444234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1aUXIgdva",
+              "end": 57,
+              "expanded_url": "https://x.com/yumeng9963/status/2068542868122444234/photo/1",
+              "media_key": "3_2068542399148929024",
+              "start": 34,
+              "url": "https://t.co/A1aUXIgdva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068542868122444234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都说x可以绑定手机号了，我怎么不不行！#x绑定手机号码#x身份认证 https://t.co/A1aUXIgdva"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 782,
+          "like_count": 7421,
+          "listed_count": 6,
+          "media_count": 741,
+          "tweet_count": 2944
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-01T19:44:44.000Z",
+        "description": "深耕Web3|专注Web3与加密领域 | 持续分享空投与行业动态 | 理性探索链上机会，拒绝盲目梭哈 | 同频伙伴友好交流，长期主义同行",
+        "id": "1388580104050196482",
+        "location": "Huntington Beach, CA",
+        "name": "枕星河🚢",
+        "pinned_tweet_id": "2051189434822115545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052559879139938304/qtj5jBbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 1106,
+          "like_count": 437,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 1979
+        },
+        "url": "",
+        "username": "yumeng9963",
+        "verified": true
+      }
+    ]
+  }
+}

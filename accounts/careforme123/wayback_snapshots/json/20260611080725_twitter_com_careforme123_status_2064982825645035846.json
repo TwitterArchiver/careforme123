@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064709255773446473",
+    "created_at": "2026-06-11T08:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064982825645035846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604181895721504771",
+          "start": 0,
+          "username": "mengtunwudaimu"
+        },
+        {
+          "end": 25,
+          "id": "1356882113069514753",
+          "start": 16,
+          "username": "gabrrlgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064982825645035846",
+    "in_reply_to_user_id": "1604181895721504771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064975585978585318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengtunwudaimu @gabrrlgh 不新鲜的食材可以用火锅掩盖住味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064709255773446473",
+        "created_at": "2026-06-11T08:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064982825645035846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            },
+            {
+              "end": 25,
+              "id": "1356882113069514753",
+              "start": 16,
+              "username": "gabrrlgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064982825645035846",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064975585978585318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu @gabrrlgh 不新鲜的食材可以用火锅掩盖住味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604181895721504771",
+        "conversation_id": "2064709255773446473",
+        "created_at": "2026-06-11T07:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064975585978585318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1356882113069514753",
+              "start": 0,
+              "username": "gabrrlgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064975585978585318",
+        "in_reply_to_user_id": "1356882113069514753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064709255773446473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gabrrlgh 火锅的起源是中国古代河道的纤夫，为了果腹而想出的廉价又高热量的食物，为了高强度的体力劳动。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 768,
+          "like_count": 7089,
+          "listed_count": 6,
+          "media_count": 714,
+          "tweet_count": 2833
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "带你了解一个真实的中国",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011343699327000576/ngvpFLui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14332,
+          "following_count": 3066,
+          "like_count": 30007,
+          "listed_count": 159,
+          "media_count": 2750,
+          "tweet_count": 17250
+        },
+        "username": "mengtunwudaimu",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-03T08:28:15.000Z",
+        "description": "solo son tweets…. promo y colab Dm 📩",
+        "id": "1356882113069514753",
+        "name": "henriqez",
+        "pinned_tweet_id": "2064801564640899124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053480985790947337/O-7GLn9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70136,
+          "following_count": 1154,
+          "like_count": 67268,
+          "listed_count": 103,
+          "media_count": 3849,
+          "tweet_count": 38574
+        },
+        "username": "gabrrlgh",
+        "verified": true
+      }
+    ]
+  }
+}

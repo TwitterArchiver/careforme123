@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2055977338509156459",
+    "created_at": "2026-05-17T11:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055981047406305285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913474935596683264",
+          "start": 0,
+          "username": "wxw2014371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055981047406305285",
+    "in_reply_to_user_id": "1913474935596683264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055977338509156459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxw2014371 大家一起来嘲笑他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055977338509156459",
+        "created_at": "2026-05-17T11:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055981047406305285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913474935596683264",
+              "start": 0,
+              "username": "wxw2014371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055981047406305285",
+        "in_reply_to_user_id": "1913474935596683264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055977338509156459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxw2014371 大家一起来嘲笑他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913474935596683264",
+        "conversation_id": "2055977338509156459",
+        "created_at": "2026-05-17T11:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055977338509156459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055977338509156459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已抵达学校"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055940757920362627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 582,
+          "like_count": 5679,
+          "listed_count": 6,
+          "media_count": 627,
+          "tweet_count": 2320
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T06:09:17.000Z",
+        "description": "高二牲/？？09年8月7日/性别购物袋/梦想是能看遍全世界的轻小说和轻文学/如果可以希望一切都可以结束在夏天",
+        "id": "1913474935596683264",
+        "location": "深圳",
+        "name": "春秋フユ",
+        "pinned_tweet_id": "2053118333785166318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046115743767638016/FTHp71R8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 229,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 80
+        },
+        "username": "wxw2014371",
+        "verified": true
+      }
+    ]
+  }
+}

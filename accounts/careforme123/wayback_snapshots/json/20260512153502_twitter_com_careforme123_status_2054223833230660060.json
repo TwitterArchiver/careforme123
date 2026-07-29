@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054223826817630209"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2054223833230660060",
+    "created_at": "2026-05-12T15:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054223833230660060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1950548412140494848",
+          "start": 15,
+          "username": "realQinYuele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dVORXzLPko",
+          "end": 52,
+          "expanded_url": "https://x.com/careforme123/status/2054223833230660060/photo/1",
+          "media_key": "3_2054223826817630209",
+          "start": 29,
+          "url": "https://t.co/dVORXzLPko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054223833230660060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "芙宁娜娜，爆发，美式按摩革命\n@realQinYuele https://t.co/dVORXzLPko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_2054223826817630209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIRr86bwAE5Cmv.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054223826817630209"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054223833230660060",
+        "created_at": "2026-05-12T15:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054223833230660060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1950548412140494848",
+              "start": 15,
+              "username": "realQinYuele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVORXzLPko",
+              "end": 52,
+              "expanded_url": "https://x.com/careforme123/status/2054223833230660060/photo/1",
+              "media_key": "3_2054223826817630209",
+              "start": 29,
+              "url": "https://t.co/dVORXzLPko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054223833230660060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芙宁娜娜，爆发，美式按摩革命\n@realQinYuele https://t.co/dVORXzLPko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 536,
+          "like_count": 5379,
+          "listed_count": 5,
+          "media_count": 594,
+          "tweet_count": 2196
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "Senior correspondent at Langxin News focusing on East Asian socio-political dynamics, digital civil rights, and emerging internet subcultures.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "location": "Prague, Czech Republic",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26082,
+          "following_count": 344,
+          "like_count": 1981,
+          "listed_count": 71,
+          "media_count": 1640,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "realQinYuele",
+        "verified": false
+      }
+    ]
+  }
+}

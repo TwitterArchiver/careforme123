@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2079168842719510563",
+    "created_at": "2026-07-20T11:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079169473622483194"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079169473622483194",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079168842719510563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以上均按照美国全职工工资中位数5200美元进行计算"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2079168834066657280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqxCeabMAAGrUQ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2079168842719510563",
+        "created_at": "2026-07-20T11:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079169473622483194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079169473622483194",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079168842719510563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以上均按照美国全职工工资中位数5200美元进行计算"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079168834066657280"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079168842719510563",
+        "created_at": "2026-07-20T11:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079168842719510563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOjl1VZvUy",
+              "end": 175,
+              "expanded_url": "https://x.com/careforme123/status/2079168842719510563/photo/1",
+              "media_key": "3_2079168834066657280",
+              "start": 152,
+              "url": "https://t.co/XOjl1VZvUy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079168842719510563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一说美国工资是中国四倍，就有傻子跳出来说物价\n\n那你知道吗？美国人买一部手机只需工作24小时\n\n买笔记本电脑只需工作40小时\n\n买新车只需要10个月\n\n加满一箱油只需工作1个多小时\n\n买房只用5年\n\n还有，他们买一斤牛肉只需要工作20分钟，所以不用靠我们引以为豪的便宜大米躲避斩杀线....\n\n谢谢大家 https://t.co/XOjl1VZvUy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2691,
+          "following_count": 789,
+          "like_count": 7817,
+          "listed_count": 8,
+          "media_count": 813,
+          "tweet_count": 3133
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

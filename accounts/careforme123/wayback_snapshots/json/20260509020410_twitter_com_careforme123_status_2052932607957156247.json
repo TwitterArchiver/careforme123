@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2052592558774083750",
+    "created_at": "2026-05-09T02:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052932607957156247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "419185969",
+          "start": 0,
+          "username": "farragutmrg"
+        },
+        {
+          "end": 28,
+          "id": "1896345858784088065",
+          "start": 13,
+          "username": "Detect_Illness"
+        },
+        {
+          "end": 44,
+          "id": "1689932211716288512",
+          "start": 29,
+          "username": "SankarasLawyer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052932607957156247",
+    "in_reply_to_user_id": "419185969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052885531810271482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@farragutmrg @Detect_Illness @SankarasLawyer 好了，闭嘴吧，我一个中国人都看不下去你说的这堆弱智发言"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1399,
+        "media_key": "3_2052884700767621124",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1PwjoWkAQzON0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2052592558774083750",
+        "created_at": "2026-05-09T02:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052932607957156247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "419185969",
+              "start": 0,
+              "username": "farragutmrg"
+            },
+            {
+              "end": 28,
+              "id": "1896345858784088065",
+              "start": 13,
+              "username": "Detect_Illness"
+            },
+            {
+              "end": 44,
+              "id": "1689932211716288512",
+              "start": 29,
+              "username": "SankarasLawyer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052932607957156247",
+        "in_reply_to_user_id": "419185969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052885531810271482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@farragutmrg @Detect_Illness @SankarasLawyer 好了，闭嘴吧，我一个中国人都看不下去你说的这堆弱智发言"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052884700767621124"
+          ]
+        },
+        "author_id": "419185969",
+        "conversation_id": "2052592558774083750",
+        "created_at": "2026-05-08T22:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052885531810271482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1896345858784088065",
+              "start": 0,
+              "username": "Detect_Illness"
+            },
+            {
+              "end": 31,
+              "id": "1689932211716288512",
+              "start": 16,
+              "username": "SankarasLawyer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0If76rahQ",
+              "end": 300,
+              "expanded_url": "https://x.com/farragutmrg/status/2052885531810271482/photo/1",
+              "media_key": "3_2052884700767621124",
+              "start": 277,
+              "url": "https://t.co/W0If76rahQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052885531810271482",
+        "in_reply_to_user_id": "1896345858784088065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2122,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052872606903046209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Detect_Illness @SankarasLawyer What does it tell, tho? Here's the same pic, but with higher resolution. Zoom in. Do you see any blood? Every \"dead\" body has his head up, looking around. People died, just at Tiananmen Square, nor in the quantities we're being told, I suspect. https://t.co/W0If76rahQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2052673804934238647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 456,
+          "like_count": 4979,
+          "listed_count": 5,
+          "media_count": 557,
+          "tweet_count": 2045
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-23T02:11:06.000Z",
+        "description": "Just a guy, worried about his sons' futures...",
+        "id": "419185969",
+        "location": "Virginia, USA",
+        "name": "farragut",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1296830570945806341/xKGk0dt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 191,
+          "like_count": 6867,
+          "listed_count": 1,
+          "media_count": 1635,
+          "tweet_count": 22874
+        },
+        "username": "farragutmrg",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T23:45:49.000Z",
+        "description": "",
+        "id": "1896345858784088065",
+        "name": "Mental Illness Detector",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896346696860188673/pRS3Mpzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 34,
+          "like_count": 5882,
+          "listed_count": 4,
+          "media_count": 214,
+          "tweet_count": 1835
+        },
+        "username": "Detect_Illness",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T09:30:29.000Z",
+        "description": "Liverpool FC || Military high graduate ||\nLawyer || Workers of the world unite ||\nPineapples belong on pizza || Back up @sankarasguitar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "sankarasguitar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/sankar…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/sankarasguitar.bsky.social",
+                "start": 0,
+                "url": "https://t.co/thLfvfarpU"
+              }
+            ]
+          }
+        },
+        "id": "1689932211716288512",
+        "location": "Burlington,VT / Nairobi, Kenya",
+        "name": "Nicholas M. Kimani",
+        "pinned_tweet_id": "2052287467433177308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006631281883312128/biokIK16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3976,
+          "following_count": 1862,
+          "like_count": 147731,
+          "listed_count": 65,
+          "media_count": 6994,
+          "tweet_count": 57425
+        },
+        "url": "https://t.co/thLfvfarpU",
+        "username": "SankarasLawyer",
+        "verified": false
+      }
+    ]
+  }
+}

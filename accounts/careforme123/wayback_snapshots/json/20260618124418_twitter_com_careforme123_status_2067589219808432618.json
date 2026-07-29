@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067579161762541622",
+    "created_at": "2026-06-18T12:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067589219808432618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705630684117610498",
+          "start": 0,
+          "username": "LemonTreeandSea"
+        },
+        {
+          "end": 32,
+          "id": "136708294",
+          "start": 17,
+          "username": "ningmeng______"
+        },
+        {
+          "end": 42,
+          "id": "1950548412140494848",
+          "start": 33,
+          "username": "QinYueLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067589219808432618",
+    "in_reply_to_user_id": "1705630684117610498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067585462902874605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonTreeandSea @ningmeng______ @QinYueLe 这个就是正版"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067579161762541622",
+        "created_at": "2026-06-18T12:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067589219808432618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705630684117610498",
+              "start": 0,
+              "username": "LemonTreeandSea"
+            },
+            {
+              "end": 32,
+              "id": "136708294",
+              "start": 17,
+              "username": "ningmeng______"
+            },
+            {
+              "end": 42,
+              "id": "1950548412140494848",
+              "start": 33,
+              "username": "QinYueLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067589219808432618",
+        "in_reply_to_user_id": "1705630684117610498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067585462902874605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonTreeandSea @ningmeng______ @QinYueLe 这个就是正版"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705630684117610498",
+        "conversation_id": "2067579161762541622",
+        "created_at": "2026-06-18T12:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067585462902874605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "136708294",
+              "start": 0,
+              "username": "ningmeng______"
+            },
+            {
+              "end": 25,
+              "id": "1950548412140494848",
+              "start": 16,
+              "username": "QinYueLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067585462902874605",
+        "in_reply_to_user_id": "136708294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067579161762541622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ningmeng______ @QinYueLe 这是盗版芙宁娜🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 778,
+          "like_count": 7369,
+          "listed_count": 6,
+          "media_count": 740,
+          "tweet_count": 2930
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-23T17:10:27.000Z",
+        "description": "是学生♥️一个向往幸福生活的孩子😋在爱尔兰上学，希望能在世界上交到更多的朋友～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ban-gfw.com",
+                "end": 23,
+                "expanded_url": "https://ban-gfw.com/",
+                "start": 0,
+                "url": "https://t.co/VORKWLZa19"
+              }
+            ]
+          }
+        },
+        "id": "1705630684117610498",
+        "location": "Dublin City, Ireland",
+        "name": "派大星派小萌～🇮🇪",
+        "pinned_tweet_id": "1875285401700884900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873912756128153600/b7Q3bgbJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 1030,
+          "like_count": 31789,
+          "listed_count": 32,
+          "media_count": 621,
+          "tweet_count": 15689
+        },
+        "url": "https://t.co/VORKWLZa19",
+        "username": "LemonTreeandSea",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-24T17:45:44.000Z",
+        "description": "",
+        "id": "136708294",
+        "name": "糖",
+        "pinned_tweet_id": "2054695482312773744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067014599543812096/2wdgdVdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 428,
+          "like_count": 4836,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2040
+        },
+        "username": "ningmeng______",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "武汉大学法学毕业\n江西鹰潭本地人，有个差10岁的弟弟\n五战考研，备战考公\n爱好养猫、瑜伽、旅游、轻食、烘焙、骑行\n性格慢热、独立、感性\n爱看小红书，爱玩乙游\n一墙散兵手办，时代少年团粉丝\n防失联请关注浪人新闻（极速版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTTDE"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "秦悦乐",
+        "pinned_tweet_id": "2053147597280358477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062423474459598848/D20tYyXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26697,
+          "following_count": 365,
+          "like_count": 2420,
+          "listed_count": 74,
+          "media_count": 1946,
+          "tweet_count": 2444
+        },
+        "url": "https://t.co/CFxkcvTTDE",
+        "username": "QinYueLe",
+        "verified": false
+      }
+    ]
+  }
+}

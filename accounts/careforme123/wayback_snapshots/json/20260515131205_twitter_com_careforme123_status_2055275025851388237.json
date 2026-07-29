@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055275017676693504"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2055275025851388237",
+    "created_at": "2026-05-15T13:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055275025851388237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j7ZhPo0u30",
+          "end": 170,
+          "expanded_url": "https://x.com/careforme123/status/2055275025851388237/photo/1",
+          "media_key": "3_2055275017676693504",
+          "start": 147,
+          "url": "https://t.co/j7ZhPo0u30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055275025851388237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "大案回顾：被百度害死的大学生，魏则西\n\n​魏则西是西安电子科技大学的一名计算机专业学生，2014年他被诊断出患有滑膜肉瘤，一种罕见的软组织肿瘤。在经历多次手术、放化疗却效果不佳后，他通过百度搜索寻找治疗方案\n\n​他在页面的最上方看到了一家自称与斯坦福大学合作的机构——北京武警二院生物诊疗中心\n\n该中心写着它是与斯坦福大学合作的机构，其“DC-CIK生物免疫疗法”具有极高的治愈率。\n\n魏则西及其家属被告知该疗法有效率极高，且能保命二十年，随后他们筹借了超过20万人民币进行治疗。但其实该疗法在国外已被淘汰，且武警二院的相关科室实际上被外包给了莆田系公司运营\n\n2016年4月12日，魏则西因病去世，他死前在知乎上详述了自己受骗的经历，直指百度广告竞价排名机制和武警二院的虚假宣传，该回答引爆网络，引发了全社会对百度、莆田医院和医疗监管制度的集体声讨\n\n​事件引爆后，国家多迅速组建两个专项调查组，分别进驻百度公司和武警二院，调查组认为，百度竞价排名机制存在标题意义不明确、提醒标识不显著等问题，其实就是虚假宣传，还不说自己是广告！严重误导了网民，给予涉事医院主要负责人行政撤职、撤销党内职务等处分。​涉嫌犯罪的相关聘用人员及外部合作方人员移送司法机关，军队及武警部队随后开展了全面清理“科室外包”和“有偿服务”的专项行动，严格禁止任何形式的科室变相承包。\n\n根据魏则西父母在2016年及2020年的多次发声，百度方面在事件初期并未主动联系家人提供经济赔偿方案，以至于被家属指责“在说谎”\n\n现在在搜索医疗关键词时，主流搜索引擎往往会优先显示“百科”或知名三甲医院官网，而非商业推广，这一切，也许都是魏则西用命换来的\n\n该事件最令人遗憾的一点是，一个普通人虽然推动了国家的制度进步，但是代价是生命\n\n而这片土地上，有太多这样的人了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大案回顾：被百度害死的大学生，魏则西\n\n​魏则西是西安电子科技大学的一名计算机专业学生，2014年他被诊断出患有滑膜肉瘤，一种罕见的软组织肿瘤。在经历多次手术、放化疗却效果不佳后，他通过百度搜索寻找治疗方案\n\n​他在页面的最上方看到了一家自称与斯坦福大学合作的机构——北京武警二院生物诊疗中心 https://t.co/j7ZhPo0u30"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_2055275017676693504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXNvUBaoAAMk3L.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055275017676693504"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2055275025851388237",
+        "created_at": "2026-05-15T13:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055275025851388237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7ZhPo0u30",
+              "end": 170,
+              "expanded_url": "https://x.com/careforme123/status/2055275025851388237/photo/1",
+              "media_key": "3_2055275017676693504",
+              "start": 147,
+              "url": "https://t.co/j7ZhPo0u30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055275025851388237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大案回顾：被百度害死的大学生，魏则西\n\n​魏则西是西安电子科技大学的一名计算机专业学生，2014年他被诊断出患有滑膜肉瘤，一种罕见的软组织肿瘤。在经历多次手术、放化疗却效果不佳后，他通过百度搜索寻找治疗方案\n\n​他在页面的最上方看到了一家自称与斯坦福大学合作的机构——北京武警二院生物诊疗中心\n\n该中心写着它是与斯坦福大学合作的机构，其“DC-CIK生物免疫疗法”具有极高的治愈率。\n\n魏则西及其家属被告知该疗法有效率极高，且能保命二十年，随后他们筹借了超过20万人民币进行治疗。但其实该疗法在国外已被淘汰，且武警二院的相关科室实际上被外包给了莆田系公司运营\n\n2016年4月12日，魏则西因病去世，他死前在知乎上详述了自己受骗的经历，直指百度广告竞价排名机制和武警二院的虚假宣传，该回答引爆网络，引发了全社会对百度、莆田医院和医疗监管制度的集体声讨\n\n​事件引爆后，国家多迅速组建两个专项调查组，分别进驻百度公司和武警二院，调查组认为，百度竞价排名机制存在标题意义不明确、提醒标识不显著等问题，其实就是虚假宣传，还不说自己是广告！严重误导了网民，给予涉事医院主要负责人行政撤职、撤销党内职务等处分。​涉嫌犯罪的相关聘用人员及外部合作方人员移送司法机关，军队及武警部队随后开展了全面清理“科室外包”和“有偿服务”的专项行动，严格禁止任何形式的科室变相承包。\n\n根据魏则西父母在2016年及2020年的多次发声，百度方面在事件初期并未主动联系家人提供经济赔偿方案，以至于被家属指责“在说谎”\n\n现在在搜索医疗关键词时，主流搜索引擎往往会优先显示“百科”或知名三甲医院官网，而非商业推广，这一切，也许都是魏则西用命换来的\n\n该事件最令人遗憾的一点是，一个普通人虽然推动了国家的制度进步，但是代价是生命\n\n而这片土地上，有太多这样的人了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大案回顾：被百度害死的大学生，魏则西\n\n​魏则西是西安电子科技大学的一名计算机专业学生，2014年他被诊断出患有滑膜肉瘤，一种罕见的软组织肿瘤。在经历多次手术、放化疗却效果不佳后，他通过百度搜索寻找治疗方案\n\n​他在页面的最上方看到了一家自称与斯坦福大学合作的机构——北京武警二院生物诊疗中心 https://t.co/j7ZhPo0u30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055179927515984326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 554,
+          "like_count": 5574,
+          "listed_count": 6,
+          "media_count": 616,
+          "tweet_count": 2280
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059271164070121716",
+    "created_at": "2026-05-26T14:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059274810857816513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795760823887175680",
+          "start": 0,
+          "username": "ctbz1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059274810857816513",
+    "in_reply_to_user_id": "1795760823887175680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059271164070121716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctbz1234 右边是啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 452,
+        "media_key": "3_2059271156457410560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQANNDaEAAoJgU.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059271164070121716",
+        "created_at": "2026-05-26T14:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059274810857816513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795760823887175680",
+              "start": 0,
+              "username": "ctbz1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059274810857816513",
+        "in_reply_to_user_id": "1795760823887175680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059271164070121716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctbz1234 右边是啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059271156457410560"
+          ]
+        },
+        "author_id": "1795760823887175680",
+        "conversation_id": "2059271164070121716",
+        "created_at": "2026-05-26T13:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059271164070121716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCcRMi5rwM",
+              "end": 28,
+              "expanded_url": "https://x.com/ctbz1234/status/2059271164070121716/photo/1",
+              "media_key": "3_2059271156457410560",
+              "start": 5,
+              "url": "https://t.co/pCcRMi5rwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059271164070121716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "选谁？😁 https://t.co/pCcRMi5rwM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人🚸，现居日本大阪，爱党爱国🇨🇳，常来宛平南路600号🏥，曾因偷吃桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 736,
+          "like_count": 6361,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 2564
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T10:15:39.000Z",
+        "description": "喜歡嘲笑世界就是一個草台班子～\n反對PUA男性。\nLuv Games. Luv Meme. Don’t like WOKE.\nLuv Noodles！",
+        "id": "1795760823887175680",
+        "location": "Hong Kong",
+        "name": "Mess",
+        "pinned_tweet_id": "2056532939249525059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053662448025210880/rLEnjMW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1013,
+          "like_count": 8043,
+          "listed_count": 4,
+          "media_count": 649,
+          "tweet_count": 4981
+        },
+        "username": "ctbz1234",
+        "verified": true
+      }
+    ]
+  }
+}

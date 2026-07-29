@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073744949825421504",
+    "created_at": "2026-07-05T17:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073828549581263117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688360500202270720",
+          "start": 0,
+          "username": "guanyong390700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073828549581263117",
+    "in_reply_to_user_id": "1688360500202270720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073816088136319107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanyong390700 你这智商没人想和你谈论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073744949825421504",
+        "created_at": "2026-07-05T17:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073828549581263117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688360500202270720",
+              "start": 0,
+              "username": "guanyong390700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073828549581263117",
+        "in_reply_to_user_id": "1688360500202270720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073816088136319107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanyong390700 你这智商没人想和你谈论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688360500202270720",
+        "conversation_id": "2073744949825421504",
+        "created_at": "2026-07-05T17:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073816088136319107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073816088136319107",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 395,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073810992572903440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 你先去以色列高喊解放巴勒斯坦，打倒bb\n去印度街头高喊藏南是中国，打倒莫迪\n去日本街头高喊钓鱼岛是中国的，要求复辟军国主义对外侵略\n去德国反对现政府，支持重现法西斯\n去美国街头喊犹太人都是种族灭绝者，打倒犹太人\n你做到其中任何一个我们再谈言论自由这件事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 790,
+          "like_count": 7784,
+          "listed_count": 10,
+          "media_count": 790,
+          "tweet_count": 3091
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-07T01:24:57.000Z",
+        "description": "",
+        "id": "1688360500202270720",
+        "name": "冠永",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688360551376900096/gsuuj1e3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 29,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "guanyong390700",
+        "verified": false
+      }
+    ]
+  }
+}

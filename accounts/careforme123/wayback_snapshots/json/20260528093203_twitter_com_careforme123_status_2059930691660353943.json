@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059930177757458593",
+    "created_at": "2026-05-28T09:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059930691660353943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059930691660353943",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059930177757458593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 此次结果的取得，充分彰显了我国在处理相关事务上的主动权与坚定立场。这也暴露出德国在法治建设与规则运行层面尚存明显的短板与漏洞。我方此举，恰恰从客观上为德方补齐制度短板、完善法治建设起到了重要的警示与启发作用，足见我方治理体系与治理能力的应对效能"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2059925945973198848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZTu-FX0AAf0-A.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1370,
+        "media_key": "3_2059925956236648452",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZTvkUXoAQFIVk.jpg",
+        "width": 1027
+      },
+      {
+        "height": 1715,
+        "media_key": "3_2059925967250833410",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZTwNWWwAIoCeQ.jpg",
+        "width": 1286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059930177757458593",
+        "created_at": "2026-05-28T09:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059930691660353943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059930691660353943",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059930177757458593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 此次结果的取得，充分彰显了我国在处理相关事务上的主动权与坚定立场。这也暴露出德国在法治建设与规则运行层面尚存明显的短板与漏洞。我方此举，恰恰从客观上为德方补齐制度短板、完善法治建设起到了重要的警示与启发作用，足见我方治理体系与治理能力的应对效能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059925945973198848",
+            "3_2059925956236648452",
+            "3_2059925967250833410"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2059930177757458593",
+        "created_at": "2026-05-28T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059930177757458593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXVMUHQESR",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2059930177757458593/photo/1",
+              "media_key": "3_2059925945973198848",
+              "start": 121,
+              "url": "https://t.co/sXVMUHQESR"
+            },
+            {
+              "display_url": "pic.x.com/sXVMUHQESR",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2059930177757458593/photo/1",
+              "media_key": "3_2059925956236648452",
+              "start": 121,
+              "url": "https://t.co/sXVMUHQESR"
+            },
+            {
+              "display_url": "pic.x.com/sXVMUHQESR",
+              "end": 144,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2059930177757458593/photo/1",
+              "media_key": "3_2059925967250833410",
+              "start": 121,
+              "url": "https://t.co/sXVMUHQESR"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2044712402349117551",
+              "start": 145,
+              "url": "https://t.co/vG6IaA0Tp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059930177757458593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044712402349117551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“在德中国留学生迷奸案 推动  德国立法”\n\n据多个外媒联合报道，“在德中国留学生邵之霆迷奸案”开庭之际，德国联邦内阁又通过了一项法律草案。\n法案加重对使用“迷奸药”实施强奸罪的处罚，将 相关罪行的最低刑期 将从 现行的3年 提高 至5年。 https://t.co/sXVMUHQESR https://t.co/vG6IaA0Tp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 741,
+          "like_count": 6473,
+          "listed_count": 5,
+          "media_count": 665,
+          "tweet_count": 2605
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234596,
+          "following_count": 1067,
+          "like_count": 9599,
+          "listed_count": 8778,
+          "media_count": 47538,
+          "tweet_count": 54673
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

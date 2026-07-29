@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2049900762487259474",
+    "created_at": "2026-05-01T07:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050118187606278331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050118187606278331",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049900762487259474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot 67"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2049900755122040832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHK14D3asAADdG0.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049900762487259474",
+        "created_at": "2026-05-01T07:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050118187606278331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050118187606278331",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049900762487259474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 67"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049900755122040832"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "2049900762487259474",
+        "created_at": "2026-04-30T17:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049900762487259474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L5ZRunJHkr",
+              "end": 28,
+              "expanded_url": "https://x.com/xijinping_bot/status/2049900762487259474/photo/1",
+              "media_key": "3_2049900755122040832",
+              "start": 5,
+              "url": "https://t.co/L5ZRunJHkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049900762487259474",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/L5ZRunJHkr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049645815967473705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 342,
+          "like_count": 4524,
+          "listed_count": 5,
+          "media_count": 515,
+          "tweet_count": 1861
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "第二人格/📕🔪/异端毛派/苏系严父/社会医学家/利伯塔利亚通/杨兰兰、北极鲶鱼曲线救国功德无量/破旧比立新更重要，新秩序会自己出现但旧秩序必须人为破除/毛泽东思想拯救濒死的共产主义，苏联竭泽而渔的行为必将遭到清算/揪一小撮预制人/资本是特权的储蓄罐/#我的史观 #神左合流/慰安女权主义，女男平等",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "我的史观"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "神左合流"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5ZMa"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "毛主席纪念堂｜愿文明的春风吹走西伯利亚的严寒",
+        "name": "羽泽东🇮🇷🚩（斯大林转世灵童）",
+        "pinned_tweet_id": "2049903369779847513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049900739347247104/8q_RDnvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 1578,
+          "like_count": 24316,
+          "listed_count": 16,
+          "media_count": 922,
+          "tweet_count": 18608
+        },
+        "url": "https://t.co/ZQF7vW5ZMa",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

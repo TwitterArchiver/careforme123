@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064560693576380545",
+    "created_at": "2026-06-10T09:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064638003356799377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1645443201703239680",
+          "start": 0,
+          "username": "Jw012345678901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064638003356799377",
+    "in_reply_to_user_id": "1645443201703239680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064634521723850906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jw012345678901 我说他是谁了吗？你应激啥？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064560693576380545",
+        "created_at": "2026-06-10T09:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064638003356799377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1645443201703239680",
+              "start": 0,
+              "username": "Jw012345678901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064638003356799377",
+        "in_reply_to_user_id": "1645443201703239680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064634521723850906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jw012345678901 我说他是谁了吗？你应激啥？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645443201703239680",
+        "conversation_id": "2064560693576380545",
+        "created_at": "2026-06-10T09:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064634521723850906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064634521723850906",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064560693576380545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 还炒杨兰兰呢？咋不说她两万亿存款了？🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 765,
+          "like_count": 7037,
+          "listed_count": 6,
+          "media_count": 711,
+          "tweet_count": 2812
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-10T15:07:38.000Z",
+        "description": "",
+        "id": "1645443201703239680",
+        "location": "Sydney, New South Wales",
+        "name": "我儿川普有大帝之资",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043926980463341576/evBDld71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 41,
+          "like_count": 33,
+          "listed_count": 5,
+          "media_count": 242,
+          "tweet_count": 4063
+        },
+        "username": "Jw012345678901",
+        "verified": false
+      }
+    ]
+  }
+}

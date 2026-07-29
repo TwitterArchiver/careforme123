@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065029158154182657"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2065029329017557130",
+    "created_at": "2026-06-11T11:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065029329017557130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K3ra2bNYyP",
+          "end": 54,
+          "expanded_url": "https://x.com/careforme123/status/2065029329017557130/photo/1",
+          "media_key": "3_2065029158154182657",
+          "start": 31,
+          "url": "https://t.co/K3ra2bNYyP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065029329017557130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对于同一件事\n\n记载的方式代表不同的世界（依旧受害者当主语） https://t.co/K3ra2bNYyP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 291,
+        "media_key": "3_2065029158154182657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh1FA6aoAEvTBM.png",
+        "width": 469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065029158154182657"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2065029329017557130",
+        "created_at": "2026-06-11T11:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065029329017557130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3ra2bNYyP",
+              "end": 54,
+              "expanded_url": "https://x.com/careforme123/status/2065029329017557130/photo/1",
+              "media_key": "3_2065029158154182657",
+              "start": 31,
+              "url": "https://t.co/K3ra2bNYyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065029329017557130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于同一件事\n\n记载的方式代表不同的世界（依旧受害者当主语） https://t.co/K3ra2bNYyP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 768,
+          "like_count": 7090,
+          "listed_count": 6,
+          "media_count": 715,
+          "tweet_count": 2834
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

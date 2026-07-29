@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062874580780236929",
+    "created_at": "2026-06-05T14:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062909038459859120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2051552484397916160",
+          "start": 0,
+          "username": "KKCJKM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062909038459859120",
+    "in_reply_to_user_id": "2051552484397916160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062903097425584245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKCJKM 你说的击败纳粹，是指的和希特勒瓜分波兰和罗马尼亚吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062874580780236929",
+        "created_at": "2026-06-05T14:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062909038459859120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2051552484397916160",
+              "start": 0,
+              "username": "KKCJKM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062909038459859120",
+        "in_reply_to_user_id": "2051552484397916160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062903097425584245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKCJKM 你说的击败纳粹，是指的和希特勒瓜分波兰和罗马尼亚吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051552484397916160",
+        "conversation_id": "2062874580780236929",
+        "created_at": "2026-06-05T14:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062903097425584245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062903097425584245",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062874580780236929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 斯大林是全世界公认的革命导师，即使他做错了部分事情，也绝不能简单全面否认其成就和历史贡献。没有斯大林的领导苏联拿什么击败纳粹？如何团结国家？怎样迈向工业化？当然 ，历史虚无主义者是不会考虑这些的，因为你们不学无术贪婪自私，你们诋毁斯大林的目的就是否定社会主义然后服务于你们的主子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 750,
+          "like_count": 6885,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2755
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-05T06:40:25.000Z",
+        "description": "头像越萌，怼人越狠",
+        "id": "2051552484397916160",
+        "name": "K",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051558545897017344/MJBDvjK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 66,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 108
+        },
+        "username": "KKCJKM",
+        "verified": false
+      }
+    ]
+  }
+}

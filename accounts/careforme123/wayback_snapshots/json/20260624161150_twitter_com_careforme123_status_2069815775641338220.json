@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069749043623063655",
+    "created_at": "2026-06-24T16:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069815775641338220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037575598730584064",
+          "start": 0,
+          "username": "SerenAzuma_HK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069815775641338220",
+    "in_reply_to_user_id": "2037575598730584064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069749043623063655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenAzuma_HK 已黑化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069749043623063655",
+        "created_at": "2026-06-24T16:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069815775641338220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "SerenAzuma_HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069815775641338220",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069749043623063655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenAzuma_HK 已黑化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037575598730584064",
+        "conversation_id": "2069749043623063655",
+        "created_at": "2026-06-24T11:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069749043623063655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069749043623063655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "支持中共的没有一个无辜 我直接闭着眼睛扫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 783,
+          "like_count": 7588,
+          "listed_count": 7,
+          "media_count": 755,
+          "tweet_count": 3002
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "蓮の贰号機|一般通过社民入🌹🇪🇺坚定的进步主义战士|友跨暂未翻车 激挺LGBT🏳️‍🌈🏳️‍⚧️",
+        "id": "2037575598730584064",
+        "name": "東洋蓮花酥🇯🇵🎌⛩️🎇反🐜🐉紧急状态",
+        "pinned_tweet_id": "2069651092095586772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054195788482506752/IvaYamSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 272,
+          "like_count": 3282,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "SerenAzuma_HK",
+        "verified": false
+      }
+    ]
+  }
+}

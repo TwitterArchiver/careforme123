@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067544325945503773",
+    "created_at": "2026-06-18T15:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067628816810537243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057444646813573120",
+          "start": 0,
+          "username": "WenCoco7bfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067628816810537243",
+    "in_reply_to_user_id": "2057444646813573120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067621408310690171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WenCoco7bfy 所有人年轻的时候都很好看，然而他们要用长相来攻击一个65岁的女生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067544325945503773",
+        "created_at": "2026-06-18T15:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067628816810537243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057444646813573120",
+              "start": 0,
+              "username": "WenCoco7bfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067628816810537243",
+        "in_reply_to_user_id": "2057444646813573120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067621408310690171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WenCoco7bfy 所有人年轻的时候都很好看，然而他们要用长相来攻击一个65岁的女生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057444646813573120",
+        "conversation_id": "2067544325945503773",
+        "created_at": "2026-06-18T14:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067621408310690171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067621408310690171",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067544325945503773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 高市早苗年轻时候的确很漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 778,
+          "like_count": 7373,
+          "listed_count": 6,
+          "media_count": 740,
+          "tweet_count": 2933
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-21T12:54:26.000Z",
+        "description": "",
+        "id": "2057444646813573120",
+        "name": "Wen Coco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057445050771202048/XXkOc8AE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 11,
+          "like_count": 847,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "WenCoco7bfy",
+        "verified": false
+      }
+    ]
+  }
+}

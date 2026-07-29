@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072507935612383232"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2072508757461139856",
+    "created_at": "2026-07-02T02:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T03:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072508757461139856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kTIVlGyLvV",
+          "end": 55,
+          "expanded_url": "https://x.com/careforme123/status/2072508757461139856/photo/1",
+          "media_key": "3_2072507935612383232",
+          "start": 32,
+          "url": "https://t.co/kTIVlGyLvV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072508757461139856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "某组织操纵中国舆论，罪大恶极，应该把这个组织的人都抓起来😡😡😡 https://t.co/kTIVlGyLvV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2072507935612383232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMG_KBasAAA7yH.png",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072507935612383232"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2072508757461139856",
+        "created_at": "2026-07-02T02:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072508757461139856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTIVlGyLvV",
+              "end": 55,
+              "expanded_url": "https://x.com/careforme123/status/2072508757461139856/photo/1",
+              "media_key": "3_2072507935612383232",
+              "start": 32,
+              "url": "https://t.co/kTIVlGyLvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072508757461139856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某组织操纵中国舆论，罪大恶极，应该把这个组织的人都抓起来😡😡😡 https://t.co/kTIVlGyLvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 789,
+          "like_count": 7722,
+          "listed_count": 8,
+          "media_count": 776,
+          "tweet_count": 3057
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2065797405514305888",
+    "created_at": "2026-06-13T14:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065810358359753168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999183937546145792",
+          "start": 0,
+          "username": "tangangqinmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065810358359753168",
+    "in_reply_to_user_id": "1999183937546145792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065797405514305888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangangqinmao 腊肉就是很好吃啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2065797405514305888",
+        "created_at": "2026-06-13T14:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065810358359753168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999183937546145792",
+              "start": 0,
+              "username": "tangangqinmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065810358359753168",
+        "in_reply_to_user_id": "1999183937546145792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065797405514305888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangangqinmao 腊肉就是很好吃啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999183937546145792",
+        "conversation_id": "2065797405514305888",
+        "created_at": "2026-06-13T14:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065797405514305888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SerenAzuma_HK/…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/SerenAzuma_HK/status/2065795424901017906",
+              "start": 66,
+              "url": "https://t.co/dg4TNoZ9Nf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065797405514305888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065795424901017906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对的 只要你没用腊这个词侮辱过毛主席你骂我我都不会理你 人总不会跟动物计较 可惜搜索你大号的历史记录来看你没少用 那我只能下狠手了 https://t.co/dg4TNoZ9Nf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 770,
+          "like_count": 7161,
+          "listed_count": 6,
+          "media_count": 725,
+          "tweet_count": 2867
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T18:26:17.000Z",
+        "description": "伟大的领袖毛主席万岁 人民万岁\n小号 @tangangqinmao1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "tangangqinmao1"
+              }
+            ]
+          }
+        },
+        "id": "1999183937546145792",
+        "name": "弹钢琴☭",
+        "pinned_tweet_id": "2046151394194006277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999187680337494016/LfFh8OfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 74,
+          "like_count": 1261,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 1469
+        },
+        "username": "tangangqinmao",
+        "verified": false
+      }
+    ]
+  }
+}

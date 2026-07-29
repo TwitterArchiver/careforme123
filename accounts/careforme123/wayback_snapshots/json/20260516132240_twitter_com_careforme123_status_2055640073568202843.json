@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2055580412815065151",
+    "created_at": "2026-05-16T13:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055640073568202843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1973066126956654592",
+          "start": 0,
+          "username": "tt_iphone62659"
+        },
+        {
+          "end": 31,
+          "id": "1817183112130179072",
+          "start": 16,
+          "username": "g3015619149543"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055640073568202843",
+    "in_reply_to_user_id": "1973066126956654592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055621063049093457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tt_iphone62659 @g3015619149543 不是民不民逗的问题，清场的枪声全世界都听到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055580412815065151",
+        "created_at": "2026-05-16T13:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055640073568202843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1973066126956654592",
+              "start": 0,
+              "username": "tt_iphone62659"
+            },
+            {
+              "end": 31,
+              "id": "1817183112130179072",
+              "start": 16,
+              "username": "g3015619149543"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055640073568202843",
+        "in_reply_to_user_id": "1973066126956654592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055621063049093457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tt_iphone62659 @g3015619149543 不是民不民逗的问题，清场的枪声全世界都听到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973066126956654592",
+        "conversation_id": "2055580412815065151",
+        "created_at": "2026-05-16T12:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055621063049093457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817183112130179072",
+              "start": 0,
+              "username": "g3015619149543"
+            },
+            {
+              "end": 29,
+              "id": "1813561571941183488",
+              "start": 16,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055621063049093457",
+        "in_reply_to_user_id": "1817183112130179072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055597508148257269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g3015619149543 @careforme123 你们民逗都这样吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055179927515984326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 565,
+          "like_count": 5633,
+          "listed_count": 6,
+          "media_count": 621,
+          "tweet_count": 2303
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-30T16:43:28.000Z",
+        "description": "我们终于又见面了，活着的人没有一个是无辜的",
+        "id": "1973066126956654592",
+        "location": "Camp Higashi-Chitose",
+        "name": "131ª Divisione Corazzata “Centauro”",
+        "pinned_tweet_id": "2055579129827975437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055533585361436672/D9rkcxfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 158,
+          "like_count": 2340,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1536
+        },
+        "username": "tt_iphone62659",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T13:00:03.000Z",
+        "description": "瞎叭叭",
+        "id": "1817183112130179072",
+        "name": "满洲战线",
+        "pinned_tweet_id": "2038169909675659622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993691035210588160/QrfCfoR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 184,
+          "like_count": 2696,
+          "listed_count": 7,
+          "media_count": 190,
+          "tweet_count": 3620
+        },
+        "username": "g3015619149543",
+        "verified": false
+      }
+    ]
+  }
+}

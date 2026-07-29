@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2063567373244764602",
+    "created_at": "2026-06-07T13:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063607299860500705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012587477857361920",
+          "start": 0,
+          "username": "bai_qiu15178"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063607299860500705",
+    "in_reply_to_user_id": "2012587477857361920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063598250309869690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai_qiu15178 何意味？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063598246732140545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNfrAeWkAE6O7y.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2063567373244764602",
+        "created_at": "2026-06-07T13:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063607299860500705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012587477857361920",
+              "start": 0,
+              "username": "bai_qiu15178"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063607299860500705",
+        "in_reply_to_user_id": "2012587477857361920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063598250309869690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_qiu15178 何意味？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063598246732140545"
+          ]
+        },
+        "author_id": "2012587477857361920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063567373244764602",
+        "created_at": "2026-06-07T12:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063598250309869690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsMjsUBwGf",
+              "end": 37,
+              "expanded_url": "https://x.com/bai_qiu15178/status/2063598250309869690/photo/1",
+              "media_key": "3_2063598246732140545",
+              "start": 14,
+              "url": "https://t.co/tsMjsUBwGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063598250309869690",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063567373244764602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 https://t.co/tsMjsUBwGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 763,
+          "like_count": 7011,
+          "listed_count": 5,
+          "media_count": 708,
+          "tweet_count": 2800
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T18:07:26.000Z",
+        "description": "渴望被愛/1314520/本人是百合控/喜歡改車/喜歡玩電摩/喜歡繪畫/天天開心/喜歡釣魚/喜歡擼哈基咪/想你了/寶_520♥/喜歡打三角州/喜歡撒嬌",
+        "id": "2012587477857361920",
+        "name": "bai qiu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063185196220833792/gnQ2OGt__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 30,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 29
+        },
+        "username": "bai_qiu15178",
+        "verified": false
+      }
+    ]
+  }
+}

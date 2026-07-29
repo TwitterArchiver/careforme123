@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050589479409254400"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050589735299568083",
+    "created_at": "2026-05-02T14:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050589735299568083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hfS2dDsnLo",
+          "end": 36,
+          "expanded_url": "https://x.com/careforme123/status/2050589735299568083/video/1",
+          "media_key": "13_2050589479409254400",
+          "start": 13,
+          "url": "https://t.co/hfS2dDsnLo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050589735299568083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "毛泽东的后人，毛新宇将军"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "毛泽东的后人，毛新宇将军 https://t.co/hfS2dDsnLo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14164,
+        "height": 1920,
+        "media_key": "13_2050589479409254400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050589479409254400/img/nVIf1BgjON9RGvtj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050589479409254400/vid/avc1/480x852/entUUdxiouIKxWv7.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050589479409254400/vid/avc1/720x1280/RVEs0U_Vv40QdYs4.mp4?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050589479409254400/vid/avc1/320x568/ErfIedQY9_p9LihE.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050589479409254400/pl/Kxtqn-HppoUsiBxg.m3u8?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050589479409254400/vid/avc1/1080x1920/bgOrvbI_CJJbb7L7.mp4?tag=27"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050589479409254400"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050589735299568083",
+        "created_at": "2026-05-02T14:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050589735299568083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hfS2dDsnLo",
+              "end": 36,
+              "expanded_url": "https://x.com/careforme123/status/2050589735299568083/video/1",
+              "media_key": "13_2050589479409254400",
+              "start": 13,
+              "url": "https://t.co/hfS2dDsnLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050589735299568083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "毛泽东的后人，毛新宇将军"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毛泽东的后人，毛新宇将军 https://t.co/hfS2dDsnLo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 392,
+          "like_count": 4661,
+          "listed_count": 5,
+          "media_count": 526,
+          "tweet_count": 1923
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050270696690024457",
+    "created_at": "2026-05-02T05:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050441519027372486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050441519027372486",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050270696690024457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 我令哥有黑色法拉利"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2050270688674795521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQGVBvbUAE_UbJ.jpg",
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050270696690024457",
+        "created_at": "2026-05-02T05:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050441519027372486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050441519027372486",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050270696690024457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 我令哥有黑色法拉利"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050270688674795521"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "conversation_id": "2050270696690024457",
+        "created_at": "2026-05-01T17:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050270696690024457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZC9uKdPODV",
+              "end": 54,
+              "expanded_url": "https://x.com/quasarne/status/2050270696690024457/photo/1",
+              "media_key": "3_2050270688674795521",
+              "start": 31,
+              "url": "https://t.co/ZC9uKdPODV"
+            },
+            {
+              "display_url": "x.com/zhutouiii/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/zhutouiii/status/2050256504067100722",
+              "start": 55,
+              "url": "https://t.co/cBipAjuJlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050270696690024457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2673,
+          "like_count": 89,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050256504067100722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "红色法拉利又不是很贵的车，我重庆市委书记的儿子开一辆很奇怪吗 https://t.co/ZC9uKdPODV https://t.co/cBipAjuJlg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 386,
+          "like_count": 4646,
+          "listed_count": 5,
+          "media_count": 523,
+          "tweet_count": 1914
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "猫！@kyrinxo｜數碼/科幻/策略/音游 Wikier UNIX 用户｜🏳️‍🌈pan/gay｜🚩🏴Тавлува, Эа 自由·平等🌹｜🌐漢語 吴、普/English OK/法語 學習中/日德西世道語 擱淺中｜Knowledge is key to the universe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "kyrinxo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quasarne14546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quasarne14546",
+                "start": 0,
+                "url": "https://t.co/av1wKCkdLM"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない🏳️‍⚧️",
+        "pinned_tweet_id": "2043336938221170970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015318609091026944/HsmCBNSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1032,
+          "like_count": 77032,
+          "listed_count": 6,
+          "media_count": 1096,
+          "tweet_count": 14506
+        },
+        "url": "https://t.co/av1wKCkdLM",
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

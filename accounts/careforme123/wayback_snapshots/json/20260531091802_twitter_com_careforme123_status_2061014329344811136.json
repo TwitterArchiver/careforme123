@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061014157428666374"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061014329344811136",
+    "created_at": "2026-05-31T09:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T10:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061014329344811136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UhlWcyCeYy",
+          "end": 43,
+          "expanded_url": "https://x.com/careforme123/status/2061014329344811136/photo/1",
+          "media_key": "3_2061014157428666374",
+          "start": 20,
+          "url": "https://t.co/UhlWcyCeYy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061014329344811136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经典回顾之小学生上网，被温总理当场抓住 https://t.co/UhlWcyCeYy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2061014157428666374",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoxdNqWMAYH2o9.jpg",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061014157428666374"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061014329344811136",
+        "created_at": "2026-05-31T09:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061014329344811136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhlWcyCeYy",
+              "end": 43,
+              "expanded_url": "https://x.com/careforme123/status/2061014329344811136/photo/1",
+              "media_key": "3_2061014157428666374",
+              "start": 20,
+              "url": "https://t.co/UhlWcyCeYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061014329344811136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾之小学生上网，被温总理当场抓住 https://t.co/UhlWcyCeYy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 739,
+          "like_count": 6562,
+          "listed_count": 5,
+          "media_count": 673,
+          "tweet_count": 2643
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073787708699480223",
+    "created_at": "2026-07-05T18:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073829773227516264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491637520354127872",
+          "start": 0,
+          "username": "daaiwujiang13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073829773227516264",
+    "in_reply_to_user_id": "1491637520354127872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073822163682115962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daaiwujiang13 中国：77年\n中国政府：77年\n中华民族才是5000年\n那么，我说的有问题吗😅😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073787708699480223",
+        "created_at": "2026-07-05T18:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073829773227516264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491637520354127872",
+              "start": 0,
+              "username": "daaiwujiang13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073829773227516264",
+        "in_reply_to_user_id": "1491637520354127872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073822163682115962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daaiwujiang13 中国：77年\n中国政府：77年\n中华民族才是5000年\n那么，我说的有问题吗😅😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491637520354127872",
+        "conversation_id": "2073787708699480223",
+        "created_at": "2026-07-05T17:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073822163682115962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073822163682115962",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073787708699480223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 台湾学校里不教什么是国家？什么是政府？什么是民族的？还是台湾压根上学犯法的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 790,
+          "like_count": 7784,
+          "listed_count": 10,
+          "media_count": 790,
+          "tweet_count": 3092
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-10T04:58:02.000Z",
+        "description": "大陆普通人的真实生活",
+        "id": "1491637520354127872",
+        "location": "Shanghai",
+        "name": "ReeeAJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525628745410695169/ZBwPEkWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 156,
+          "like_count": 75,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 862
+        },
+        "url": "",
+        "username": "daaiwujiang13",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054458815421239296"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054458825466659018",
+    "created_at": "2026-05-13T07:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054458825466659018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/THD7zlzrtb",
+          "end": 164,
+          "expanded_url": "https://x.com/careforme123/status/2054458825466659018/photo/1",
+          "media_key": "3_2054458815421239296",
+          "start": 141,
+          "url": "https://t.co/THD7zlzrtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054458825466659018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "本小姐给年轻人的14条忠告\n\n1.要有文化自信，一定要把文言文学好。读不懂《道德经》《庄子》，怎么算有根的中国人？\n\n2.别出国旅游，签证就是浪费时间。外面都是陷阱，国内玩玩就够了，何必花那个冤枉钱。\n\n3.一定要学会人情世故，尤其是酒桌文化。不会敬酒、不懂劝酒，就别想办成大事。\n\n4.要学会存钱，人生最大的花销必须是结婚。要大办、特办、狠狠地办，场面越大越有面子。\n\n5.消费就认准国产，坚决抵制洋货和日系。支持国货，人人有责。\n\n6.凡是被禁止、被封禁的内容都不要碰，那都是境外势力想洗你的脑；凡是被鼓励、被推的，一定要积极拥护，因为那才是真正有价值、有意义的东西。\n\n7.不用去碰国外那些3A大作，全是资本主义文化渗透。多玩玩原神，提升本土审美就够了。\n\n8.生病了就吃中药，多喝热水、多喝粥。少吃肉，米面才是真正养人的东西，西医治标不治本。\n\n9.房子是绝对的好东西，有贷款也没关系。适当的资产负债表能让你更“有压力地奋斗”，这是正能量。\n\n10.要敢于消费、敢于生孩子。社会有托底能力，能对冲风险。现在交的养老保险，以后肯定能用得上，放心。\n\n11不要学英语，那是西方文化入侵的工具，这辈子基本用不上。不如把《弟子规》《三字经》多背几遍，真正传承传统文化。\n\n12.坚决不用苹果手机，苹果会窃取你的所有个人信息。所有外国电子产品都有后门，只有华为才是真爱国、真安全。\n\n13.不要点外卖，也不要下馆子。外面的饭全是地沟油、烂菜叶和科技与狠活，吃多了早晚得癌。再忙也要自己回家做饭，干净、健康、养人。\n\n14.不要吹空调，也不要用冰箱。空调是西方人发明出来害中国人的，会把寒气打进骨头里，老了一身病；冰箱里的食物都带阴寒之气，伤脾胃。夏天就扇扇子，顿顿吃现做的，最养生。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本小姐给年轻人的14条忠告\n\n1.要有文化自信，一定要把文言文学好。读不懂《道德经》《庄子》，怎么算有根的中国人？\n\n2.别出国旅游，签证就是浪费时间。外面都是陷阱，国内玩玩就够了，何必花那个冤枉钱。\n\n3.一定要学会人情世故，尤其是酒桌文化。不会敬酒、不懂劝酒，就别想办成大事。 https://t.co/THD7zlzrtb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2054458815421239296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILnaFraUAAqaKn.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054458815421239296"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054458825466659018",
+        "created_at": "2026-05-13T07:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054458825466659018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/THD7zlzrtb",
+              "end": 164,
+              "expanded_url": "https://x.com/careforme123/status/2054458825466659018/photo/1",
+              "media_key": "3_2054458815421239296",
+              "start": 141,
+              "url": "https://t.co/THD7zlzrtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054458825466659018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本小姐给年轻人的14条忠告\n\n1.要有文化自信，一定要把文言文学好。读不懂《道德经》《庄子》，怎么算有根的中国人？\n\n2.别出国旅游，签证就是浪费时间。外面都是陷阱，国内玩玩就够了，何必花那个冤枉钱。\n\n3.一定要学会人情世故，尤其是酒桌文化。不会敬酒、不懂劝酒，就别想办成大事。\n\n4.要学会存钱，人生最大的花销必须是结婚。要大办、特办、狠狠地办，场面越大越有面子。\n\n5.消费就认准国产，坚决抵制洋货和日系。支持国货，人人有责。\n\n6.凡是被禁止、被封禁的内容都不要碰，那都是境外势力想洗你的脑；凡是被鼓励、被推的，一定要积极拥护，因为那才是真正有价值、有意义的东西。\n\n7.不用去碰国外那些3A大作，全是资本主义文化渗透。多玩玩原神，提升本土审美就够了。\n\n8.生病了就吃中药，多喝热水、多喝粥。少吃肉，米面才是真正养人的东西，西医治标不治本。\n\n9.房子是绝对的好东西，有贷款也没关系。适当的资产负债表能让你更“有压力地奋斗”，这是正能量。\n\n10.要敢于消费、敢于生孩子。社会有托底能力，能对冲风险。现在交的养老保险，以后肯定能用得上，放心。\n\n11不要学英语，那是西方文化入侵的工具，这辈子基本用不上。不如把《弟子规》《三字经》多背几遍，真正传承传统文化。\n\n12.坚决不用苹果手机，苹果会窃取你的所有个人信息。所有外国电子产品都有后门，只有华为才是真爱国、真安全。\n\n13.不要点外卖，也不要下馆子。外面的饭全是地沟油、烂菜叶和科技与狠活，吃多了早晚得癌。再忙也要自己回家做饭，干净、健康、养人。\n\n14.不要吹空调，也不要用冰箱。空调是西方人发明出来害中国人的，会把寒气打进骨头里，老了一身病；冰箱里的食物都带阴寒之气，伤脾胃。夏天就扇扇子，顿顿吃现做的，最养生。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本小姐给年轻人的14条忠告\n\n1.要有文化自信，一定要把文言文学好。读不懂《道德经》《庄子》，怎么算有根的中国人？\n\n2.别出国旅游，签证就是浪费时间。外面都是陷阱，国内玩玩就够了，何必花那个冤枉钱。\n\n3.一定要学会人情世故，尤其是酒桌文化。不会敬酒、不懂劝酒，就别想办成大事。 https://t.co/THD7zlzrtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 542,
+          "like_count": 5429,
+          "listed_count": 5,
+          "media_count": 600,
+          "tweet_count": 2221
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

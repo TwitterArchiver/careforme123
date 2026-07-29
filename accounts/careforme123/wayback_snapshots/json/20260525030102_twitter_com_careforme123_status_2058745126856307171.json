@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058734021438541901",
+    "created_at": "2026-05-25T03:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058745126856307171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "853876410758250496",
+          "start": 0,
+          "username": "millioncrypto88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058745126856307171",
+    "in_reply_to_user_id": "853876410758250496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058734021438541901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@millioncrypto88 那你啥时候回我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058734021438541901",
+        "created_at": "2026-05-25T03:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058745126856307171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "853876410758250496",
+              "start": 0,
+              "username": "millioncrypto88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058745126856307171",
+        "in_reply_to_user_id": "853876410758250496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058734021438541901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@millioncrypto88 那你啥时候回我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "853876410758250496",
+        "conversation_id": "2058734021438541901",
+        "created_at": "2026-05-25T02:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058734021438541901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/millioncrypto8…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/millioncrypto88/status/2058732817354571820",
+              "start": 82,
+              "url": "https://t.co/sPfo0pllQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058734021438541901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058732817354571820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "漏说一种，就是骗完关注后面又偷偷取关的。你好歹骗点钱，我还能高看你一眼。😂骗关注是图啥？直接买粉也行啊。还有就是连续关注会被限制，所以可能会有回关慢点的情况存在。 https://t.co/sPfo0pllQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058489714726846617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 733,
+          "like_count": 6259,
+          "listed_count": 6,
+          "media_count": 654,
+          "tweet_count": 2526
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-17T07:42:55.000Z",
+        "description": "负债百万，失业翻身\n撸过百万结果，奈何债务太多。\n温暖热线:0xc492d347999069B1e744FFd5Ced3DC1f5d574626",
+        "id": "853876410758250496",
+        "name": "Rich Alone",
+        "pinned_tweet_id": "1760503554069192774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058061476339101696/UK7x-IGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 1697,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 281
+        },
+        "username": "millioncrypto88",
+        "verified": true
+      }
+    ]
+  }
+}

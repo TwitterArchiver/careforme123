@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2057091624690446772",
+    "created_at": "2026-05-20T13:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057097908441186529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870336533342932992",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057097908441186529",
+    "in_reply_to_user_id": "1870336533342932992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057091624690446772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure 运营商是不是太脏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2057091578808631298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxB5FlWAAI18d3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1636,
+        "media_key": "3_2057091578787758080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxB5FgXgAA-387.jpg",
+        "width": 1702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2057091624690446772",
+        "created_at": "2026-05-20T13:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057097908441186529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870336533342932992",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057097908441186529",
+        "in_reply_to_user_id": "1870336533342932992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057091624690446772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure 运营商是不是太脏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057091578808631298",
+            "3_2057091578787758080"
+          ]
+        },
+        "author_id": "1870336533342932992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2057091624690446772",
+        "created_at": "2026-05-20T13:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057091624690446772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YE8dZMTxtx",
+              "end": 254,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2057091624690446772/photo/1",
+              "media_key": "3_2057091578808631298",
+              "start": 231,
+              "url": "https://t.co/YE8dZMTxtx"
+            },
+            {
+              "display_url": "pic.x.com/YE8dZMTxtx",
+              "end": 254,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2057091624690446772/photo/1",
+              "media_key": "3_2057091578787758080",
+              "start": 231,
+              "url": "https://t.co/YE8dZMTxtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057091624690446772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "求助：我的X帳號莫名奇妙被標註了使用VPN！\n目前已經向官方多次發送report都無任何作用，我一直都是使用家裡的Wi-Fi直連X的。\nHelp: My X account is inexplicably marked as using VPN!\nAt present, I have sent reports to the X many times, but it has no effect. I have been using Wi-Fi at home to directly connect to X without using VPN."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求助：我的X帳號莫名奇妙被標註了使用VPN！\n目前已經向官方多次發送report都無任何作用，我一直都是使用家裡的Wi-Fi直連X的。\nHelp: My X account is inexplicably marked as using VPN!\nAt present, I have sent reports to the X many times, but it has no effect. I have been using Wi-Fi at home https://t.co/YE8dZMTxtx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2057038855040016499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 650,
+          "like_count": 5904,
+          "listed_count": 6,
+          "media_count": 639,
+          "tweet_count": 2409
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "Singaporean🇸🇬/Junior High Sec 3 student/MtF🏳️‍⚧️/Radical transgenderism/Project Sekai/Langs:🇺🇸🇹🇼🇯🇵/President of the Union Republic of Griffin格里芬聯邦共和國總統",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "Asahina Shikure 朝比奈丶志暮🏳️‍⚧️",
+        "pinned_tweet_id": "2055944120376447137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040272432788058113/m7xH-w8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 478,
+          "like_count": 2102,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

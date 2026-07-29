@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058160219419730149",
+    "created_at": "2026-05-23T12:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058168626423697887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "PinTuZhe_s_dad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058168626423697887",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058160219419730149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinTuZhe_s_dad 党徽有emoji吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058160219419730149",
+        "created_at": "2026-05-23T12:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058168626423697887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "PinTuZhe_s_dad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058168626423697887",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058160219419730149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinTuZhe_s_dad 党徽有emoji吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811604757670137856",
+        "conversation_id": "2058160219419730149",
+        "created_at": "2026-05-23T12:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058160219419730149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058160219419730149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些轮教的天天吹自己多牛逼，你们至少能不能把你们的教徽加到emoji上啊，这样谁想给你们声援也就是打个字的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 717,
+          "like_count": 6080,
+          "listed_count": 6,
+          "media_count": 650,
+          "tweet_count": 2459
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "本人真名陈超，现居悉尼/小号@maybe_FuckU/本人电话+61427982702/@puzzlerlee的老木被5033个黑人大汉🗡️砂/狗与@careforme123禁止入内⛔️/本人住址在下方，不服来线下/报名拼图者野爹请找@pintuzhe_NMSL/蓝v关注必回，没回私",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "maybe_FuckU"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "careforme123"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "pintuzhe_NMSL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "骂完光速拉黑的劝架包庇.cn",
+                "end": 23,
+                "expanded_url": "http://xn--54q35a6i340adzd16hisji04asf2cwyv10k.cn",
+                "start": 0,
+                "url": "https://t.co/9InZ849M9H"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "Sydney, New South Wales",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2057358561387401277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330262199439360/_ITvKxyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 954,
+          "like_count": 1541,
+          "listed_count": 6,
+          "media_count": 906,
+          "tweet_count": 5816
+        },
+        "url": "https://t.co/9InZ849M9H",
+        "username": "PinTuZhe_s_dad",
+        "verified": true
+      }
+    ]
+  }
+}

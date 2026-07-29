@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073030935965323482",
+    "created_at": "2026-07-03T14:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073045139698925886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1895972748238704640",
+          "start": 0,
+          "username": "politica_china"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073045139698925886",
+    "in_reply_to_user_id": "1895972748238704640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073041733378580712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@politica_china anything happens for a reason"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073030935965323482",
+        "created_at": "2026-07-03T14:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073045139698925886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1895972748238704640",
+              "start": 0,
+              "username": "politica_china"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073045139698925886",
+        "in_reply_to_user_id": "1895972748238704640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073041733378580712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@politica_china anything happens for a reason"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895972748238704640",
+        "conversation_id": "2073030935965323482",
+        "created_at": "2026-07-03T13:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073041733378580712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073041733378580712",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073030935965323482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 关键中国游客容易应激\n一不小心就哪里刺痛他们奇怪的心理\n然后就狂暴\n这谁受得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498,
+          "following_count": 788,
+          "like_count": 7754,
+          "listed_count": 8,
+          "media_count": 783,
+          "tweet_count": 3073
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-01T23:02:01.000Z",
+        "description": "将军！请下令吧",
+        "id": "1895972748238704640",
+        "name": "Diablo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900876050806304773/OIP8pFQA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 1904,
+          "like_count": 83024,
+          "listed_count": 9,
+          "media_count": 1227,
+          "tweet_count": 15853
+        },
+        "url": "",
+        "username": "politica_china",
+        "verified": true
+      }
+    ]
+  }
+}

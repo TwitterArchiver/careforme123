@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057692876742537216"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057693312606228721",
+    "created_at": "2026-05-22T05:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057693312606228721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fWXWzfCxAW",
+          "end": 91,
+          "expanded_url": "https://x.com/careforme123/status/2057693312606228721/photo/1",
+          "media_key": "3_2057692876742537216",
+          "start": 68,
+          "url": "https://t.co/fWXWzfCxAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057693312606228721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "俺们河南农民天天就吃这些\n\n种地的时候还要吃安乃近，不然痛得动不了\n\n不过一想到日本人只有天皇才吃得起俺们这大白米饭，我脸都要笑烂了！ https://t.co/fWXWzfCxAW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_2057692876742537216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5kxO8XMAA5nqy.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057692876742537216"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057693312606228721",
+        "created_at": "2026-05-22T05:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057693312606228721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWXWzfCxAW",
+              "end": 91,
+              "expanded_url": "https://x.com/careforme123/status/2057693312606228721/photo/1",
+              "media_key": "3_2057692876742537216",
+              "start": 68,
+              "url": "https://t.co/fWXWzfCxAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057693312606228721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺们河南农民天天就吃这些\n\n种地的时候还要吃安乃近，不然痛得动不了\n\n不过一想到日本人只有天皇才吃得起俺们这大白米饭，我脸都要笑烂了！ https://t.co/fWXWzfCxAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2057309116607971605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 684,
+          "like_count": 5977,
+          "listed_count": 6,
+          "media_count": 643,
+          "tweet_count": 2432
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

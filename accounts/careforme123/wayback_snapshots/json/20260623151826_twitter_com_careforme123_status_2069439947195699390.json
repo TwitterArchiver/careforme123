@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069439947195699390",
+    "created_at": "2026-06-23T15:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069439947195699390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mizhouqaq/stat…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Mizhouqaq/status/2069336191103557866",
+          "start": 39,
+          "url": "https://t.co/zT2zmjFM4d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069439947195699390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069336191103557866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冷知识，中国对贫困的定义（返贫线）是885美元\n\n哦对了，不是月薪，是年收入 https://t.co/zT2zmjFM4d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069439947195699390",
+        "created_at": "2026-06-23T15:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069439947195699390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mizhouqaq/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Mizhouqaq/status/2069336191103557866",
+              "start": 39,
+              "url": "https://t.co/zT2zmjFM4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069439947195699390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069336191103557866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识，中国对贫困的定义（返贫线）是885美元\n\n哦对了，不是月薪，是年收入 https://t.co/zT2zmjFM4d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058276420661776384",
+        "conversation_id": "2069328089566388701",
+        "created_at": "2026-06-23T08:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069336191103557866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247724456228737024",
+              "start": 0,
+              "username": "HChiafen"
+            },
+            {
+              "end": 18,
+              "id": "2059659704918310913",
+              "start": 10,
+              "username": "dokucs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069336191103557866",
+        "in_reply_to_user_id": "1247724456228737024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069334968468484178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HChiafen @dokucs4 单论全面脱贫你们的老赖一辈子都不会有这样的政绩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 783,
+          "like_count": 7555,
+          "listed_count": 7,
+          "media_count": 751,
+          "tweet_count": 2991
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T20:00:39.000Z",
+        "description": "全世界的无产阶级联合起来！\nWorkers of the world, unite!",
+        "id": "2058276420661776384",
+        "name": "Miz🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067249565720313856/hcpWw42d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 28,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Mizhouqaq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072318573855612928"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2072318657628430792",
+    "created_at": "2026-07-01T13:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072318657628430792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cwmqjQ3LWy",
+          "end": 166,
+          "expanded_url": "https://x.com/careforme123/status/2072318657628430792/photo/1",
+          "media_key": "3_2072318573855612928",
+          "start": 143,
+          "url": "https://t.co/cwmqjQ3LWy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072318657628430792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "圆明园被英法联军摧毁，是一件天大的好事\n\n圆明园，本来就是独裁者的私人园林，当时清朝老百姓要是敢靠近圆明园，轻则发配边疆，重则斩立决\n\n根据记载，当地民众，甚至是底层旗人，都主动给英法联军带路，欢呼，并加入队伍一起搜刮\n\n更别说抢的文物在英国博物馆还保存的好好的，不像某些地方监守自盗 https://t.co/cwmqjQ3LWy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2072318573855612928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJaw2gboAAeZwP.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072318573855612928"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2072318657628430792",
+        "created_at": "2026-07-01T13:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072318657628430792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwmqjQ3LWy",
+              "end": 166,
+              "expanded_url": "https://x.com/careforme123/status/2072318657628430792/photo/1",
+              "media_key": "3_2072318573855612928",
+              "start": 143,
+              "url": "https://t.co/cwmqjQ3LWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072318657628430792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圆明园被英法联军摧毁，是一件天大的好事\n\n圆明园，本来就是独裁者的私人园林，当时清朝老百姓要是敢靠近圆明园，轻则发配边疆，重则斩立决\n\n根据记载，当地民众，甚至是底层旗人，都主动给英法联军带路，欢呼，并加入队伍一起搜刮\n\n更别说抢的文物在英国博物馆还保存的好好的，不像某些地方监守自盗 https://t.co/cwmqjQ3LWy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 788,
+          "like_count": 7719,
+          "listed_count": 8,
+          "media_count": 775,
+          "tweet_count": 3056
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

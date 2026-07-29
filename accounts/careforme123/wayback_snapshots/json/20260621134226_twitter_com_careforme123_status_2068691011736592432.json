@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068683583452237850",
+    "created_at": "2026-06-21T13:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068691011736592432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960095876543844352",
+          "start": 0,
+          "username": "BlockView0214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068691011736592432",
+    "in_reply_to_user_id": "1960095876543844352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068683583452237850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlockView0214 燕子，你快回来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068683583452237850",
+        "created_at": "2026-06-21T13:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068691011736592432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960095876543844352",
+              "start": 0,
+              "username": "BlockView0214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068691011736592432",
+        "in_reply_to_user_id": "1960095876543844352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068683583452237850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlockView0214 燕子，你快回来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960095876543844352",
+        "conversation_id": "2068683583452237850",
+        "created_at": "2026-06-21T13:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068683583452237850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BlockView0214/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/BlockView0214/status/2068582959238484166",
+              "start": 22,
+              "url": "https://t.co/2KQuqv9MDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068683583452237850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068582959238484166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人工说让我等两天，\n一周搞不定你们就忘了我 https://t.co/2KQuqv9MDP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 788,
+          "like_count": 7479,
+          "listed_count": 6,
+          "media_count": 745,
+          "tweet_count": 2960
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T21:44:28.000Z",
+        "description": "捕捉每一丝灵感，将天马行空落地为产品\nAI Agent Builder | \nBitcoin Core Dev |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "btcrank.site",
+                "end": 23,
+                "expanded_url": "https://btcrank.site",
+                "start": 0,
+                "url": "https://t.co/EhMk5HoEvB"
+              }
+            ]
+          }
+        },
+        "id": "1960095876543844352",
+        "location": "Global",
+        "name": "Irving",
+        "pinned_tweet_id": "2068582959238484166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041311519716134912/3A7SoHDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1359,
+          "like_count": 2324,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 2991
+        },
+        "url": "https://t.co/EhMk5HoEvB",
+        "username": "BlockView0214",
+        "verified": false
+      }
+    ]
+  }
+}

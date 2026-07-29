@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073417799167512762",
+    "created_at": "2026-07-05T02:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073598466987823375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048745058804105216",
+          "start": 0,
+          "username": "TaoistYouth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073598466987823375",
+    "in_reply_to_user_id": "2048745058804105216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073417799167512762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoistYouth 我呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1329,
+        "media_key": "3_2073417796575428608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZCgCPaAAApUho.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073417799167512762",
+        "created_at": "2026-07-05T02:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073598466987823375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048745058804105216",
+              "start": 0,
+              "username": "TaoistYouth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073598466987823375",
+        "in_reply_to_user_id": "2048745058804105216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073417799167512762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth 我呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073417796575428608"
+          ]
+        },
+        "author_id": "2048745058804105216",
+        "conversation_id": "2073417799167512762",
+        "created_at": "2026-07-04T14:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073417799167512762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZrimwbFXyn",
+              "end": 48,
+              "expanded_url": "https://x.com/TaoistYouth/status/2073417799167512762/photo/1",
+              "media_key": "3_2073417796575428608",
+              "start": 25,
+              "url": "https://t.co/ZrimwbFXyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073417799167512762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9821,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "尝试做了个梗图，不知道芙宁娜娜的脸为啥红温了😂🤣 https://t.co/ZrimwbFXyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 788,
+          "like_count": 7770,
+          "listed_count": 8,
+          "media_count": 787,
+          "tweet_count": 3083
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "右翼自由派/永远铭记六四/\n一入玄门终不悔，永做三清不二臣/\n日本留学生/道教善信☯/友跨非跨🏳️‍⚧️/\n小粉红行为特征如下：\n1. 行为割裂：翻墙享受言论自由，精神筑墙赞美信息禁锢。\n2.认知防卫：逻辑无法自洽时，迅速启动宏大叙事与自我感动催眠。\n3.去智识化：无法进行逻辑辩论，只会扣帽、比烂、人身攻击与举报",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20682…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2068245264130093343",
+                "start": 0,
+                "url": "https://t.co/tdMqKrrl6Y"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2062141364662636669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 327,
+          "like_count": 8190,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 2756
+        },
+        "url": "https://t.co/tdMqKrrl6Y",
+        "username": "TaoistYouth",
+        "verified": false
+      }
+    ]
+  }
+}

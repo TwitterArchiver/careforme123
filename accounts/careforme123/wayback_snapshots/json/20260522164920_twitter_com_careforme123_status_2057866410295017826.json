@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057866233341513728"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2057866410295017826",
+    "created_at": "2026-05-22T16:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057866410295017826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gZuNIszQet",
+          "end": 45,
+          "expanded_url": "https://x.com/careforme123/status/2057866410295017826/photo/1",
+          "media_key": "3_2057866233341513728",
+          "start": 22,
+          "url": "https://t.co/gZuNIszQet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057866410295017826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲爱的推友们，晚安\n\n愿我们每一天都能再见 https://t.co/gZuNIszQet"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2057866233341513728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI8Cb6mXkAAM_vM.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057866233341513728"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2057866410295017826",
+        "created_at": "2026-05-22T16:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057866410295017826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZuNIszQet",
+              "end": 45,
+              "expanded_url": "https://x.com/careforme123/status/2057866410295017826/photo/1",
+              "media_key": "3_2057866233341513728",
+              "start": 22,
+              "url": "https://t.co/gZuNIszQet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057866410295017826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的推友们，晚安\n\n愿我们每一天都能再见 https://t.co/gZuNIszQet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 704,
+          "like_count": 6031,
+          "listed_count": 6,
+          "media_count": 647,
+          "tweet_count": 2449
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058405489466106001",
+    "created_at": "2026-05-24T04:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058405489466106001"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058405489466106001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "政府做的一切事情，都是天经地义\n\n如果你觉得政府干的好\n\n最大的支持，就是好好纳税，仅此而已\n\n天天唱赞歌，感恩戴德的，一律视为斯德哥尔摩综合症"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058405489466106001",
+        "created_at": "2026-05-24T04:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058405489466106001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058405489466106001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "政府做的一切事情，都是天经地义\n\n如果你觉得政府干的好\n\n最大的支持，就是好好纳税，仅此而已\n\n天天唱赞歌，感恩戴德的，一律视为斯德哥尔摩综合症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 718,
+          "like_count": 6132,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 2472
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

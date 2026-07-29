@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2074858762700288210",
+    "created_at": "2026-07-08T16:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074898746421518519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057147601712283648",
+          "start": 0,
+          "username": "Miogotyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074898746421518519",
+    "in_reply_to_user_id": "2057147601712283648",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074859852581769514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miogotyou hey let's speak english"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2074858762700288210",
+        "created_at": "2026-07-08T16:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074898746421518519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057147601712283648",
+              "start": 0,
+              "username": "Miogotyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074898746421518519",
+        "in_reply_to_user_id": "2057147601712283648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074859852581769514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miogotyou hey let's speak english"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057147601712283648",
+        "conversation_id": "2074858762700288210",
+        "created_at": "2026-07-08T14:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074859852581769514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074859852581769514",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074858762700288210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 이왕 물에 잠긴거 물좀 더 넣어서 현대판 아틀란티스 관광자원으로 개발하죠.\n\n谢谢大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 792,
+          "like_count": 7806,
+          "listed_count": 9,
+          "media_count": 800,
+          "tweet_count": 3104
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-20T17:14:15.000Z",
+        "description": "",
+        "id": "2057147601712283648",
+        "name": "Mio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057148146753675265/WOcdhyE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 166,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "Miogotyou",
+        "verified": false
+      }
+    ]
+  }
+}

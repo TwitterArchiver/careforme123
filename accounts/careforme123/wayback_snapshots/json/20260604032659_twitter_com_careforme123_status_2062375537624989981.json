@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062375385904422912"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062375537624989981",
+    "created_at": "2026-06-04T03:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062375537624989981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/95wMX8Oq17",
+          "end": 141,
+          "expanded_url": "https://x.com/careforme123/status/2062375537624989981/photo/1",
+          "media_key": "3_2062375385904422912",
+          "start": 118,
+          "url": "https://t.co/95wMX8Oq17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062375537624989981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "考考推友\n\n一个信仰基督教的店主，拒绝给一位小药娘定制变性主题蛋糕\n\n如果店主拒绝给小药娘定制蛋糕，那么他违反了反歧视法\n\n但如果强迫店主为小药娘定制蛋糕，则违反了他的信仰，侵犯了宪法保障的宗教自由，信仰自由\n\n你是法官，你会怎么判？ https://t.co/95wMX8Oq17"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2062375385904422912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8HfI5XoAAybVw.jpg",
+        "width": 777
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062375385904422912"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062375537624989981",
+        "created_at": "2026-06-04T03:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062375537624989981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95wMX8Oq17",
+              "end": 141,
+              "expanded_url": "https://x.com/careforme123/status/2062375537624989981/photo/1",
+              "media_key": "3_2062375385904422912",
+              "start": 118,
+              "url": "https://t.co/95wMX8Oq17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062375537624989981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考考推友\n\n一个信仰基督教的店主，拒绝给一位小药娘定制变性主题蛋糕\n\n如果店主拒绝给小药娘定制蛋糕，那么他违反了反歧视法\n\n但如果强迫店主为小药娘定制蛋糕，则违反了他的信仰，侵犯了宪法保障的宗教自由，信仰自由\n\n你是法官，你会怎么判？ https://t.co/95wMX8Oq17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 740,
+          "like_count": 6759,
+          "listed_count": 5,
+          "media_count": 692,
+          "tweet_count": 2717
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

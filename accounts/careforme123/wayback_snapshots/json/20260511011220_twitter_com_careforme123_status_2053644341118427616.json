@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053448462755061767",
+    "created_at": "2026-05-11T01:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053644341118427616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960095876543844352",
+          "start": 0,
+          "username": "BlockView0214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053644341118427616",
+    "in_reply_to_user_id": "1960095876543844352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053448462755061767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlockView0214 想让别人怎么对你就怎么对别人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053448453951283201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9QfT5XYAEzoMk.jpg",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053448462755061767",
+        "created_at": "2026-05-11T01:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053644341118427616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960095876543844352",
+              "start": 0,
+              "username": "BlockView0214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053644341118427616",
+        "in_reply_to_user_id": "1960095876543844352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053448462755061767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlockView0214 想让别人怎么对你就怎么对别人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053448453951283201"
+          ]
+        },
+        "author_id": "1960095876543844352",
+        "conversation_id": "2053448462755061767",
+        "created_at": "2026-05-10T12:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053448462755061767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tkvyUBwo3h",
+              "end": 158,
+              "expanded_url": "https://x.com/BlockView0214/status/2053448462755061767/photo/1",
+              "media_key": "3_2053448453951283201",
+              "start": 135,
+              "url": "https://t.co/tkvyUBwo3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053448462755061767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于流量今天终于醒悟一件事：\n\n我的关注——才是流量的发源地。一直没有领悟最基本的流量法则，整天跑去mask/sam 下面蹭流量，其实大部分被淹没。\n\n真实的交往是你助力了别人，别人反过来祝你，你发出去的帖子评论区就不会安静的连只猫都看不到，就不会永远死在初始流量池。\n\n道理很简单，但是我们通常被自己的私心控制。原来X也是讲人性的地方。还好，今天已经改正并且行动起来！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 462,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于流量今天终于醒悟一件事：\n\n我的关注——才是流量的发源地。一直没有领悟最基本的流量法则，整天跑去mask/sam 下面蹭流量，其实大部分被淹没。\n\n真实的交往是你助力了别人，别人反过来祝你，你发出去的帖子评论区就不会安静的连只猫都看不到，就不会永远死在初始流量池。 https://t.co/tkvyUBwo3h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 504,
+          "like_count": 5212,
+          "listed_count": 5,
+          "media_count": 572,
+          "tweet_count": 2122
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T21:44:28.000Z",
+        "description": "Builder with each idea — turning every spark into a working product.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "btcrank.site",
+                "end": 23,
+                "expanded_url": "http://btcrank.site",
+                "start": 0,
+                "url": "https://t.co/RcRGlhZHm6"
+              }
+            ]
+          }
+        },
+        "id": "1960095876543844352",
+        "location": "Global",
+        "name": "Irving",
+        "pinned_tweet_id": "2053448462755061767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041311519716134912/3A7SoHDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 217,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/RcRGlhZHm6",
+        "username": "BlockView0214",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2060321743193977192",
+    "created_at": "2026-05-30T06:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060611833673760918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2015931381642416128",
+          "start": 0,
+          "username": "Diaodaquan250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060611833673760918",
+    "in_reply_to_user_id": "2015931381642416128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060321743193977192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diaodaquan250 三个书签是啥意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060321735476428802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJe7s84WwAIfng2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2060321743193977192",
+        "created_at": "2026-05-30T06:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060611833673760918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2015931381642416128",
+              "start": 0,
+              "username": "Diaodaquan250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060611833673760918",
+        "in_reply_to_user_id": "2015931381642416128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060321743193977192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diaodaquan250 三个书签是啥意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060321735476428802"
+          ]
+        },
+        "author_id": "2015931381642416128",
+        "conversation_id": "2060321743193977192",
+        "created_at": "2026-05-29T11:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060321743193977192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWJ87W3wM3",
+              "end": 39,
+              "expanded_url": "https://x.com/Diaodaquan250/status/2060321743193977192/photo/1",
+              "media_key": "3_2060321735476428802",
+              "start": 16,
+              "url": "https://t.co/aWJ87W3wM3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060321743193977192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3566,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无聊的周五，跟白皮平游泳中…… https://t.co/aWJ87W3wM3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 739,
+          "like_count": 6504,
+          "listed_count": 5,
+          "media_count": 667,
+          "tweet_count": 2621
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-26T23:35:34.000Z",
+        "description": "此生无悔入华夏，来世还做中国人\n上推特之前：习近平是谁，不认识\n上推特之后：老人瞻仰，轻关易道，通商宽衣，金科绿玉，精甚细腻，颐使气指，疯狂宇宙，萨格尔王，PM250，疫情迁灭战，兵帮外交",
+        "id": "2015931381642416128",
+        "location": "以色列",
+        "name": "正球级包蜜🇮🇱🇺🇸",
+        "pinned_tweet_id": "2057151215113318907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053787950261952512/42vCJSo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 82,
+          "like_count": 8490,
+          "listed_count": 3,
+          "media_count": 2801,
+          "tweet_count": 5054
+        },
+        "username": "Diaodaquan250",
+        "verified": true
+      }
+    ]
+  }
+}

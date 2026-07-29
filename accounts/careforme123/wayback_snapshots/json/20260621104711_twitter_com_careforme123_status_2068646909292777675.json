@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068561075050889239",
+    "created_at": "2026-06-21T10:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068646909292777675"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068646909292777675",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068561075050889239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "美国要真一败涂地了，国内媒体大可以直接讲出来这“赔款”到底是怎么组成的，让大家看看美国输的有多惨\n\n然而并没有，来就是一句“美国赔了3000亿”，你们能不能告诉我这是为啥呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068561075050889239",
+        "created_at": "2026-06-21T10:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068646909292777675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068646909292777675",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068561075050889239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国要真一败涂地了，国内媒体大可以直接讲出来这“赔款”到底是怎么组成的，让大家看看美国输的有多惨\n\n然而并没有，来就是一句“美国赔了3000亿”，你们能不能告诉我这是为啥呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068561075050889239",
+        "created_at": "2026-06-21T05:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068561075050889239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068561075050889239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 891,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墙内已经对着“美国赔伊朗三千亿”狂欢了\n\n然而这三千亿其实是日本，阿拉伯，韩国，新加坡等国私企在美国协调下的投资，并且伊朗必须拆除核设施，并且接受监督\n\n美国纳税人一分钱也不用出\n\n哎，国内的“媒体”断章取义的样子，真的很恶心，主要是还有傻子信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 788,
+          "like_count": 7457,
+          "listed_count": 6,
+          "media_count": 744,
+          "tweet_count": 2952
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

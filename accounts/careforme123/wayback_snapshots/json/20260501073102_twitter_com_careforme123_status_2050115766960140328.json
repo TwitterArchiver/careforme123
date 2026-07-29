@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050115766960140328",
+    "created_at": "2026-05-01T07:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050115766960140328"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050115766960140328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "谁还记得五年前的推特\n\n全是涩情内容，每日大赛，不打码的血腥图片，极端言论\n\n但五年前也很纯粹，有不受控的生命力，大家都是纯发泄，交朋友，现在就是一群人想着怎么吃流量🤔"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁还记得五年前的推特\n\n全是涩情内容，每日大赛，不打码的血腥图片，极端言论\n\n但五年前也很纯粹，有不受控的生命力，大家都是纯发泄，交朋友，现在就是一群人想着怎么吃流量🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050115766960140328",
+        "created_at": "2026-05-01T07:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050115766960140328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050115766960140328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "谁还记得五年前的推特\n\n全是涩情内容，每日大赛，不打码的血腥图片，极端言论\n\n但五年前也很纯粹，有不受控的生命力，大家都是纯发泄，交朋友，现在就是一群人想着怎么吃流量🤔"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁还记得五年前的推特\n\n全是涩情内容，每日大赛，不打码的血腥图片，极端言论\n\n但五年前也很纯粹，有不受控的生命力，大家都是纯发泄，交朋友，现在就是一群人想着怎么吃流量🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049645815967473705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 342,
+          "like_count": 4522,
+          "listed_count": 5,
+          "media_count": 515,
+          "tweet_count": 1860
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2065827377008329071",
+    "created_at": "2026-06-14T03:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065996338400227542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1815915784817795128",
+          "start": 0,
+          "username": "LinAn315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065996338400227542",
+    "in_reply_to_user_id": "1815915784817795128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065827377008329071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinAn315 我来围观傻子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2065827377008329071",
+        "created_at": "2026-06-14T03:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065996338400227542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1815915784817795128",
+              "start": 0,
+              "username": "LinAn315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065996338400227542",
+        "in_reply_to_user_id": "1815915784817795128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065827377008329071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinAn315 我来围观傻子了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815915784817795128",
+        "conversation_id": "2065827377008329071",
+        "created_at": "2026-06-13T16:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065827377008329071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065827377008329071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2644,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国越好，润人汉奸就越会摸黑中国，不为别的，纯因为中国的好显得他们的决定是错的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 770,
+          "like_count": 7176,
+          "listed_count": 6,
+          "media_count": 725,
+          "tweet_count": 2869
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-24T01:04:17.000Z",
+        "description": "",
+        "id": "1815915784817795128",
+        "name": "摸得透彻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952349352627761152/ZRZ-4Xpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 541,
+          "like_count": 71,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 111
+        },
+        "username": "LinAn315",
+        "verified": false
+      }
+    ]
+  }
+}

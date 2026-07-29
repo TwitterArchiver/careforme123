@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2054171036971835608",
+    "created_at": "2026-05-13T01:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054373426882826729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904551331869937664",
+          "start": 0,
+          "username": "chiikawajy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054373426882826729",
+    "in_reply_to_user_id": "1904551331869937664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054350995115708499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiikawajy 都是些十多岁的小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054171036971835608",
+        "created_at": "2026-05-13T01:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054373426882826729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904551331869937664",
+              "start": 0,
+              "username": "chiikawajy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054373426882826729",
+        "in_reply_to_user_id": "1904551331869937664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054350995115708499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiikawajy 都是些十多岁的小孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904551331869937664",
+        "conversation_id": "2054171036971835608",
+        "created_at": "2026-05-13T00:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054350995115708499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054350995115708499",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054171036971835608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 所以我常说毛左大多其实没什么历史底蕴或者人性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 538,
+          "like_count": 5399,
+          "listed_count": 5,
+          "media_count": 597,
+          "tweet_count": 2208
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-25T15:10:07.000Z",
+        "description": "小粉红以及毛左🚫穆斯林🚫极端支黑🚫偏右，喜欢chiikawa和水豚 ，LGBT友好，欢迎互fo，会给互关点赞，和我说悄悄话https://t.co/7DCip4ht0T，非常讨厌女拳和和稀泥的反战分子，只站正义不占群体，坚决抵制任何形式的道德绑架",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chiikawa537",
+                "end": 84,
+                "expanded_url": "https://ngl.link/chiikawa537",
+                "start": 61,
+                "url": "https://t.co/7DCip4ht0T"
+              }
+            ]
+          }
+        },
+        "id": "1904551331869937664",
+        "name": "重生之我是粉男先生",
+        "pinned_tweet_id": "1962803448035811610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904551495762374656/w_cLiYMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 257,
+          "like_count": 32959,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 6833
+        },
+        "username": "chiikawajy",
+        "verified": false
+      }
+    ]
+  }
+}

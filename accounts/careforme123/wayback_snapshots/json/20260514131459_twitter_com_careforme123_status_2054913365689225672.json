@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054913084146503680"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2054913365689225672",
+    "created_at": "2026-05-14T13:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T14:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054913365689225672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R6d70CD9iS",
+          "end": 97,
+          "expanded_url": "https://x.com/careforme123/status/2054913365689225672/video/1",
+          "media_key": "13_2054913084146503680",
+          "start": 74,
+          "url": "https://t.co/R6d70CD9iS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054913365689225672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1989年5月戈尔巴乔夫访华\n\n尽管学生占领了天安门广场，正式的国宴、会晤和祝酒活动仍安排在人民大会堂进行。\n\n邓小平宣布，中苏两国关系从此正常化 https://t.co/R6d70CD9iS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29837,
+        "height": 1280,
+        "media_key": "13_2054913084146503680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054913084146503680/img/XTxjDXtWOSxw_Ig7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054913084146503680/vid/avc1/320x568/5grZKG_I076M54oH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054913084146503680/vid/avc1/480x852/v84jZ8nksoU4mdU9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054913084146503680/vid/avc1/720x1280/reDtSkzXRwQ8RQj7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054913084146503680/pl/I9-2QxKkFhDpChZx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054913084146503680"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054913365689225672",
+        "created_at": "2026-05-14T13:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054913365689225672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6d70CD9iS",
+              "end": 97,
+              "expanded_url": "https://x.com/careforme123/status/2054913365689225672/video/1",
+              "media_key": "13_2054913084146503680",
+              "start": 74,
+              "url": "https://t.co/R6d70CD9iS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054913365689225672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1989年5月戈尔巴乔夫访华\n\n尽管学生占领了天安门广场，正式的国宴、会晤和祝酒活动仍安排在人民大会堂进行。\n\n邓小平宣布，中苏两国关系从此正常化 https://t.co/R6d70CD9iS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 547,
+          "like_count": 5479,
+          "listed_count": 6,
+          "media_count": 610,
+          "tweet_count": 2248
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

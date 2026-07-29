@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2070067954189041998",
+    "created_at": "2026-06-25T08:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070067954189041998"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070067954189041998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欧洲为何发达？祖上是强盗！家底好！\n\n美国为何发达？发战争财！搞霸权！\n\n新加坡为何发达？地理位置好，收过路费！\n\n加拿大为何发达？地广人稀，资源丰富！\n\n日本，韩国为何发达？财阀压榨！美国驻军！\n\n台湾为何发达？因为给美国当狗！有台积电！\n\n香港为何发达？英国人送钱！挑拨离间！\n\n😅😅😅😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2070067954189041998",
+        "created_at": "2026-06-25T08:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070067954189041998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070067954189041998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欧洲为何发达？祖上是强盗！家底好！\n\n美国为何发达？发战争财！搞霸权！\n\n新加坡为何发达？地理位置好，收过路费！\n\n加拿大为何发达？地广人稀，资源丰富！\n\n日本，韩国为何发达？财阀压榨！美国驻军！\n\n台湾为何发达？因为给美国当狗！有台积电！\n\n香港为何发达？英国人送钱！挑拨离间！\n\n😅😅😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 789,
+          "like_count": 7586,
+          "listed_count": 7,
+          "media_count": 756,
+          "tweet_count": 3005
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

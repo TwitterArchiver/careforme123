@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058722017025958180",
+    "created_at": "2026-05-25T01:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T02:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058728628066590897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "975993224052404229",
+          "start": 0,
+          "username": "php_martin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058728628066590897",
+    "in_reply_to_user_id": "975993224052404229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058722017025958180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@php_martin 你怎么这么多转发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2058721872578297856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIMorJbQAAzsRm.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058722017025958180",
+        "created_at": "2026-05-25T01:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058728628066590897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "975993224052404229",
+              "start": 0,
+              "username": "php_martin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058728628066590897",
+        "in_reply_to_user_id": "975993224052404229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058722017025958180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@php_martin 你怎么这么多转发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058721872578297856"
+          ]
+        },
+        "author_id": "975993224052404229",
+        "conversation_id": "2058722017025958180",
+        "created_at": "2026-05-25T01:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058722017025958180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6WYGmWO1EK",
+              "end": 176,
+              "expanded_url": "https://x.com/php_martin/status/2058722017025958180/photo/1",
+              "media_key": "3_2058721872578297856",
+              "start": 153,
+              "url": "https://t.co/6WYGmWO1EK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058722017025958180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔥 蓝V互关3.0 防骗核弹版\n\n各位蓝V大佬：\n3.0直接进化！真诚互关 + 严打骗子。\n核心铁律：\n\n✅ 100%秒回关\n✅ 永不主动取关\n✅ 互相点赞评论互动\n✅ 连续3次违规直接进蓝黑榜\n\n🚫 蓝黑榜规则：\n求关不回、回关后取关、0互动者，一经举报+核实立即上榜。欢迎评论区@我 + 发截图举报。 https://t.co/6WYGmWO1EK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058489714726846617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 732,
+          "like_count": 6256,
+          "listed_count": 6,
+          "media_count": 654,
+          "tweet_count": 2525
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-20T07:11:32.000Z",
+        "description": "AI Coding Workflow 探索者｜React / Next.js 前端工程师\n长期研究 Cursor / Codex / Claude Code 提效体系\n前 Web3 交易所工程师｜独立开发者\n专注 Agent 自动化、工程化效率与 AI 内容工作流\n撸铁 / 露营 / 钓鱼 / 皮划艇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/imartinstudio",
+                "end": 23,
+                "expanded_url": "https://github.com/imartinstudio",
+                "start": 0,
+                "url": "https://t.co/e5840pSai2"
+              }
+            ]
+          }
+        },
+        "id": "975993224052404229",
+        "name": "Martin",
+        "pinned_tweet_id": "2058225816685924684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054477793799585792/0fiAtQsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 892,
+          "like_count": 355,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/e5840pSai2",
+        "username": "php_martin",
+        "verified": true
+      }
+    ]
+  }
+}

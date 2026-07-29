@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073744949825421504",
+    "created_at": "2026-07-05T15:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073789817369043121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009025613592674304",
+          "start": 0,
+          "username": "JoeKevin84824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073789817369043121",
+    "in_reply_to_user_id": "2009025613592674304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073781455860412537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoeKevin84824 你年纪不小啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073744949825421504",
+        "created_at": "2026-07-05T15:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073789817369043121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009025613592674304",
+              "start": 0,
+              "username": "JoeKevin84824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073789817369043121",
+        "in_reply_to_user_id": "2009025613592674304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073781455860412537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoeKevin84824 你年纪不小啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009025613592674304",
+        "conversation_id": "2073744949825421504",
+        "created_at": "2026-07-05T14:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073781455860412537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073781455860412537",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073744949825421504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 我大学时的上海同学，请我去看笑侃三十年，周立波当时什么都能说！🤣🤣🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 789,
+          "like_count": 7782,
+          "listed_count": 9,
+          "media_count": 790,
+          "tweet_count": 3089
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T22:13:47.000Z",
+        "description": "",
+        "id": "2009025613592674304",
+        "name": "Joe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029164658419200000/Qtsuuaja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 124,
+          "like_count": 2302,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "JoeKevin84824",
+        "verified": false
+      }
+    ]
+  }
+}

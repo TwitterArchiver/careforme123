@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2063084808579015110",
+    "created_at": "2026-06-06T02:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063086847517978781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1621709543750385664",
+          "start": 0,
+          "username": "quarktalksss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063086847517978781",
+    "in_reply_to_user_id": "1621709543750385664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063084808579015110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quarktalksss 现在资源越来越大于学历了，更别说是在中国"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2063084774231867392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGMq-WbgAAVByp.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2063084808579015110",
+        "created_at": "2026-06-06T02:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063086847517978781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621709543750385664",
+              "start": 0,
+              "username": "quarktalksss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063086847517978781",
+        "in_reply_to_user_id": "1621709543750385664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063084808579015110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quarktalksss 现在资源越来越大于学历了，更别说是在中国"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063084774231867392"
+          ]
+        },
+        "author_id": "1621709543750385664",
+        "conversation_id": "2063084808579015110",
+        "created_at": "2026-06-06T02:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063084808579015110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fESbrYYGP",
+              "end": 29,
+              "expanded_url": "https://x.com/quarktalksss/status/2063084808579015110/photo/1",
+              "media_key": "3_2063084774231867392",
+              "start": 6,
+              "url": "https://t.co/2fESbrYYGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063084808579015110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新一期： https://t.co/2fESbrYYGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 765,
+          "like_count": 6955,
+          "listed_count": 5,
+          "media_count": 698,
+          "tweet_count": 2773
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-04T03:18:05.000Z",
+        "description": "youtube账号：夸克说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%A4%B8%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%A4%B8%E5%85%8B%E8%AF%B4",
+                "start": 0,
+                "url": "https://t.co/eZ6ILrdttM"
+              }
+            ]
+          }
+        },
+        "id": "1621709543750385664",
+        "location": "Canada",
+        "name": "夸克说",
+        "pinned_tweet_id": "2063084808579015110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969808918886105090/skT7BSEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35378,
+          "following_count": 39,
+          "like_count": 2491,
+          "listed_count": 199,
+          "media_count": 1358,
+          "tweet_count": 6742
+        },
+        "url": "https://t.co/eZ6ILrdttM",
+        "username": "quarktalksss",
+        "verified": true
+      }
+    ]
+  }
+}

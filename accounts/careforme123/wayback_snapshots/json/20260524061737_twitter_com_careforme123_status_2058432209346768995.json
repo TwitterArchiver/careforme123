@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058427777968193556",
+    "created_at": "2026-05-24T06:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058432209346768995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058432209346768995",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058427777968193556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 这和放两个移动红绿灯有什么区别"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18645,
+        "height": 1920,
+        "media_key": "13_2058339410542821376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058339410542821376/img/AwASTrR4l8__YItX.jpg",
+        "public_metrics": {
+          "view_count": 2258
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058339410542821376/vid/avc1/720x1280/Hk-NNRwrGah0r6pv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058339410542821376/pl/ihQMaPt91SoGCwlQ.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058339410542821376/vid/avc1/1080x1920/Bm7qrASYdLpR4jlN.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058339410542821376/vid/avc1/320x568/ttAhbL81oET3XKnl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058339410542821376/vid/avc1/480x852/uFQ-AtcI0cYU6jVK.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2058339410509172738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJCwyc6WEAIFLxh.jpg",
+        "width": 899
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2058339410505031680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJCwyc5W4AAU9Lu.jpg",
+        "width": 899
+      },
+      {
+        "duration_ms": 22407,
+        "height": 1920,
+        "media_key": "13_2058339410542788608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058339410542788608/img/gQ7lI8wSLlSmhNFO.jpg",
+        "public_metrics": {
+          "view_count": 484
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058339410542788608/pl/i8Rg4ovjAd-o-qAT.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058339410542788608/vid/avc1/720x1280/8jC6ECmoArogVgzt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058339410542788608/vid/avc1/480x852/J0hSwi2wBilznQF3.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058339410542788608/vid/avc1/320x568/6ptvy_yvqrZyJnO9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058339410542788608/vid/avc1/1080x1920/Kyh1hhys1Ojqqp9q.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058427777968193556",
+        "created_at": "2026-05-24T06:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058432209346768995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058432209346768995",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058427777968193556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 这和放两个移动红绿灯有什么区别"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058339410542821376",
+            "3_2058339410509172738",
+            "3_2058339410505031680",
+            "13_2058339410542788608"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058427777968193556",
+        "created_at": "2026-05-24T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058427777968193556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fnhNIzgxv8",
+              "end": 49,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058427777968193556/video/1",
+              "media_key": "13_2058339410542821376",
+              "start": 26,
+              "url": "https://t.co/fnhNIzgxv8"
+            },
+            {
+              "display_url": "pic.x.com/fnhNIzgxv8",
+              "end": 49,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058427777968193556/video/1",
+              "media_key": "3_2058339410509172738",
+              "start": 26,
+              "url": "https://t.co/fnhNIzgxv8"
+            },
+            {
+              "display_url": "pic.x.com/fnhNIzgxv8",
+              "end": 49,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058427777968193556/video/1",
+              "media_key": "3_2058339410505031680",
+              "start": 26,
+              "url": "https://t.co/fnhNIzgxv8"
+            },
+            {
+              "display_url": "pic.x.com/fnhNIzgxv8",
+              "end": 49,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058427777968193556/video/1",
+              "media_key": "13_2058339410542788608",
+              "start": 26,
+              "url": "https://t.co/fnhNIzgxv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058427777968193556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5689,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近日，在苏州街头，机器人交警开始“上岗”指挥交通。 https://t.co/fnhNIzgxv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 720,
+          "like_count": 6155,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 2484
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233329,
+          "following_count": 1063,
+          "like_count": 9596,
+          "listed_count": 8766,
+          "media_count": 47335,
+          "tweet_count": 54463
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

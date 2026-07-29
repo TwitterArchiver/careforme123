@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049703867194175488"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049704300134461725",
+    "created_at": "2026-04-30T04:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:14:18.000Z",
+      "edits_remaining": 2,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049703870079881248",
+      "2049704144945209495",
+      "2049704221109543224",
+      "2049704300134461725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/samHJ5LwS6",
+          "end": 54,
+          "expanded_url": "https://x.com/careforme123/status/2049704300134461725/photo/1",
+          "media_key": "3_2049703867194175488",
+          "start": 31,
+          "url": "https://t.co/samHJ5LwS6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049704300134461725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我们刻晴玩家的手机壁纸\n美国人，日本人，加拿大人羡慕吗？ https://t.co/samHJ5LwS6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2049703867194175488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHICzrLacAAps2M.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049703867194175488"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049703870079881248",
+        "created_at": "2026-04-30T04:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:14:18.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049703870079881248",
+          "2049704144945209495",
+          "2049704221109543224",
+          "2049704300134461725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6O2VvK5eBU",
+              "end": 45,
+              "expanded_url": "https://x.com/careforme123/status/2049703870079881248/photo/1",
+              "media_key": "3_2049703867194175488",
+              "start": 22,
+              "url": "https://t.co/6O2VvK5eBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049703870079881248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我们刻晴玩家的手机壁纸\n中国人羡慕吗？ https://t.co/6O2VvK5eBU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049703867194175488"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049704144945209495",
+        "created_at": "2026-04-30T04:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:14:18.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049703870079881248",
+          "2049704144945209495",
+          "2049704221109543224",
+          "2049704300134461725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f54uplgmIh",
+              "end": 57,
+              "expanded_url": "https://x.com/careforme123/status/2049704144945209495/photo/1",
+              "media_key": "3_2049703867194175488",
+              "start": 34,
+              "url": "https://t.co/f54uplgmIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049704144945209495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我们刻晴玩家的手机壁纸美国人，美国人，日本人，加拿大人羡慕吗？ https://t.co/f54uplgmIh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049703867194175488"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049704221109543224",
+        "created_at": "2026-04-30T04:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:14:18.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049703870079881248",
+          "2049704144945209495",
+          "2049704221109543224",
+          "2049704300134461725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EC7x08Vnkn",
+              "end": 59,
+              "expanded_url": "https://x.com/careforme123/status/2049704221109543224/photo/1",
+              "media_key": "3_2049703867194175488",
+              "start": 36,
+              "url": "https://t.co/EC7x08Vnkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049704221109543224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我们刻晴玩家的手机壁纸\n美国人，美国人，日本人，加拿大人\n羡慕吗？ https://t.co/EC7x08Vnkn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049703867194175488"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049704300134461725",
+        "created_at": "2026-04-30T04:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:14:18.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049703870079881248",
+          "2049704144945209495",
+          "2049704221109543224",
+          "2049704300134461725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/samHJ5LwS6",
+              "end": 54,
+              "expanded_url": "https://x.com/careforme123/status/2049704300134461725/photo/1",
+              "media_key": "3_2049703867194175488",
+              "start": 31,
+              "url": "https://t.co/samHJ5LwS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049704300134461725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我们刻晴玩家的手机壁纸\n美国人，日本人，加拿大人羡慕吗？ https://t.co/samHJ5LwS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049335145208193267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 341,
+          "like_count": 4507,
+          "listed_count": 5,
+          "media_count": 514,
+          "tweet_count": 1855
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

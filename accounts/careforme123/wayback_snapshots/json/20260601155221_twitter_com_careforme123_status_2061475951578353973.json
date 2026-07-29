@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061465652913664155",
+    "created_at": "2026-06-01T15:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061475951578353973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1240035904351322116",
+          "start": 0,
+          "username": "XF88239433"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061475951578353973",
+    "in_reply_to_user_id": "1240035904351322116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061471317455503443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XF88239433 不管网红还是小丑，他的政治成就除了华盛顿无人能比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061465652913664155",
+        "created_at": "2026-06-01T15:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061475951578353973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1240035904351322116",
+              "start": 0,
+              "username": "XF88239433"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061475951578353973",
+        "in_reply_to_user_id": "1240035904351322116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061471317455503443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XF88239433 不管网红还是小丑，他的政治成就除了华盛顿无人能比"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240035904351322116",
+        "conversation_id": "2061465652913664155",
+        "created_at": "2026-06-01T15:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061471317455503443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061471317455503443",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061465652913664155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 你说的不是美国称职的总统而是一个网红应该做的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 743,
+          "like_count": 6660,
+          "listed_count": 5,
+          "media_count": 683,
+          "tweet_count": 2676
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-17T22:03:05.000Z",
+        "description": "好一座危楼谁是主人谁是客\n只三间老屋时宜明月时宜风\n天下没有不散的宴席",
+        "id": "1240035904351322116",
+        "location": "France",
+        "name": "布五评论",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748105877616205824/0A9aRJ6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 400,
+          "like_count": 1158,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 16875
+        },
+        "username": "XF88239433",
+        "verified": false
+      }
+    ]
+  }
+}

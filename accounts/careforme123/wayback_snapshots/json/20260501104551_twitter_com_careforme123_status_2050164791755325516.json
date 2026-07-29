@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050163954505355508",
+    "created_at": "2026-05-01T10:45:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T11:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050164791755325516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2013215200712048642",
+          "start": 0,
+          "username": "Nybuzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050164791755325516",
+    "in_reply_to_user_id": "2013215200712048642",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050163954505355508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nybuzi hi buddy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2050163951644839936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOlQHUaEAAPAFb.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050163954505355508",
+        "created_at": "2026-05-01T10:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050164791755325516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2013215200712048642",
+              "start": 0,
+              "username": "Nybuzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050164791755325516",
+        "in_reply_to_user_id": "2013215200712048642",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050163954505355508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nybuzi hi buddy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050163951644839936"
+          ]
+        },
+        "author_id": "2013215200712048642",
+        "conversation_id": "2050163954505355508",
+        "created_at": "2026-05-01T10:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050163954505355508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/najpqi1BSo",
+              "end": 105,
+              "expanded_url": "https://x.com/Nybuzi/status/2050163954505355508/photo/1",
+              "media_key": "3_2050163951644839936",
+              "start": 82,
+              "url": "https://t.co/najpqi1BSo"
+            },
+            {
+              "display_url": "x.com/Nybuzi/status/…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/Nybuzi/status/2050158975992344825",
+              "start": 106,
+              "url": "https://t.co/65hkKoOttE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050163954505355508",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 63,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050158975992344825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Need 2000+ active followers \n\nJust reply - hello 👋 \n\nLet’s follow you instantly ✅ https://t.co/najpqi1BSo https://t.co/65hkKoOttE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049645815967473705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 362,
+          "like_count": 4574,
+          "listed_count": 5,
+          "media_count": 516,
+          "tweet_count": 1886
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T11:41:30.000Z",
+        "description": "Crypto & Web3 Enthusiast | Content Creator ✍️ | Alpha Sharing | Ambassador | Airdrops & Insights | 📩 Open for Collabs & Ambassador Roles",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Nazmul2052",
+                "end": 23,
+                "expanded_url": "http://t.me/Nazmul2052",
+                "start": 0,
+                "url": "https://t.co/AAc0LjNtzV"
+              }
+            ]
+          }
+        },
+        "id": "2013215200712048642",
+        "name": "JACK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038602870451482624/XhwunPeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10075,
+          "following_count": 7797,
+          "like_count": 29621,
+          "listed_count": 7,
+          "media_count": 908,
+          "tweet_count": 34189
+        },
+        "url": "https://t.co/AAc0LjNtzV",
+        "username": "Nybuzi",
+        "verified": true
+      }
+    ]
+  }
+}

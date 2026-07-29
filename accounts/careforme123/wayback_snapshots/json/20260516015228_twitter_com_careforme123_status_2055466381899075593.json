@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2055179927515984326",
+    "created_at": "2026-05-16T01:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055466381899075593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1358687424163946496",
+          "start": 0,
+          "username": "94iSxmywd4LwrN5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20554…",
+          "end": 40,
+          "expanded_url": "https://x.com/i/status/2055465198329475112",
+          "start": 17,
+          "url": "https://t.co/0IEkHAWc9q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055466381899075593",
+    "in_reply_to_user_id": "1358687424163946496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055465198329475112",
+        "type": "quoted"
+      },
+      {
+        "id": "2055411090822189459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@94iSxmywd4LwrN5 https://t.co/0IEkHAWc9q\n我相信你这种人是会似权➕的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2055411088590782464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZJfrraQAAPcAn.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055179927515984326",
+        "created_at": "2026-05-16T01:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055466381899075593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1358687424163946496",
+              "start": 0,
+              "username": "94iSxmywd4LwrN5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20554…",
+              "end": 40,
+              "expanded_url": "https://x.com/i/status/2055465198329475112",
+              "start": 17,
+              "url": "https://t.co/0IEkHAWc9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055466381899075593",
+        "in_reply_to_user_id": "1358687424163946496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055465198329475112",
+            "type": "quoted"
+          },
+          {
+            "id": "2055411090822189459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@94iSxmywd4LwrN5 https://t.co/0IEkHAWc9q\n我相信你这种人是会似权➕的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055465198329475112",
+        "created_at": "2026-05-16T01:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055465198329475112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/94iSxmywd4LwrN…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/94iSxmywd4LwrN5/status/2055411090822189459",
+              "start": 144,
+              "url": "https://t.co/8OXbAabGxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055465198329475112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "卧槽拟吗，有些中国人真的为了洗人性都没有了\n\n你但凡去真正了解一下，就知道三鹿事件是唯一一个主观故意的事件，唯一一个明知有毒还要继续掩盖继续卖的案件\n\n你但凡去真正了解一下，除了三鹿受害者，其他企业哪个不是给的天价赔偿？够你打工几十辈子了\n\n雅培案导致肠道坏死案例，每名婴儿一千多万美元\n\n其次只有你三鹿的规模是最大的，波及三十万婴儿\n\n你甚至他妈的不知道最后一个肉毒杆菌是闹出来的乌龙事件\n\n还有，你再说别人的不好，也没法证明你的优秀，操你妈！我无法想象你这种魔鬼的人生！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055411090822189459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽拟吗，有些中国人真的为了洗人性都没有了\n\n你但凡去真正了解一下，就知道三鹿事件是唯一一个主观故意的事件，唯一一个明知有毒还要继续掩盖继续卖的案件\n\n你但凡去真正了解一下，除了三鹿受害者，其他企业哪个不是给的天价赔偿？够你打工几十辈子了\n\n雅培案导致肠道坏死案例，每名婴儿一千多万美元 https://t.co/8OXbAabGxf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055411088590782464"
+          ]
+        },
+        "author_id": "1358687424163946496",
+        "conversation_id": "2055179927515984326",
+        "created_at": "2026-05-15T22:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T23:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055411090822189459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DsvnI8SQqw",
+              "end": 37,
+              "expanded_url": "https://x.com/94iSxmywd4LwrN5/status/2055411090822189459/photo/1",
+              "media_key": "3_2055411088590782464",
+              "start": 14,
+              "url": "https://t.co/DsvnI8SQqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055411090822189459",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055179927515984326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 https://t.co/DsvnI8SQqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055179927515984326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 554,
+          "like_count": 5584,
+          "listed_count": 6,
+          "media_count": 617,
+          "tweet_count": 2284
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-08T08:01:54.000Z",
+        "description": "",
+        "id": "1358687424163946496",
+        "name": "宇航",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025992653951893504/CIFKPGCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 171
+        },
+        "username": "94iSxmywd4LwrN5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072905195085066240",
+        "3_2072905310390652928"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2072905531300491550",
+    "created_at": "2026-07-03T04:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T05:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072905531300491550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CRu6i20wDb",
+          "end": 130,
+          "expanded_url": "https://x.com/careforme123/status/2072905531300491550/photo/1",
+          "media_key": "3_2072905195085066240",
+          "start": 107,
+          "url": "https://t.co/CRu6i20wDb"
+        },
+        {
+          "display_url": "pic.x.com/CRu6i20wDb",
+          "end": 130,
+          "expanded_url": "https://x.com/careforme123/status/2072905531300491550/photo/1",
+          "media_key": "3_2072905310390652928",
+          "start": 107,
+          "url": "https://t.co/CRu6i20wDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072905531300491550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国看电视的人越来越少，是因为现在的媒体太垃圾\n\n敢呼吁宪政、限权的南方周末，曝光三鹿毒奶粉的东方早报，还有批评历史教科书洗脑的中国青年报，早已不复存在了\n\n他们现在既想让你一无所知，又想让你深信不疑\n\n谢谢大家 https://t.co/CRu6i20wDb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2072905195085066240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRwSs4bcAAXmk4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 960,
+        "media_key": "3_2072905310390652928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRwZabbEAAM8cc.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072905195085066240",
+            "3_2072905310390652928"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2072905531300491550",
+        "created_at": "2026-07-03T04:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072905531300491550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CRu6i20wDb",
+              "end": 130,
+              "expanded_url": "https://x.com/careforme123/status/2072905531300491550/photo/1",
+              "media_key": "3_2072905195085066240",
+              "start": 107,
+              "url": "https://t.co/CRu6i20wDb"
+            },
+            {
+              "display_url": "pic.x.com/CRu6i20wDb",
+              "end": 130,
+              "expanded_url": "https://x.com/careforme123/status/2072905531300491550/photo/1",
+              "media_key": "3_2072905310390652928",
+              "start": 107,
+              "url": "https://t.co/CRu6i20wDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072905531300491550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国看电视的人越来越少，是因为现在的媒体太垃圾\n\n敢呼吁宪政、限权的南方周末，曝光三鹿毒奶粉的东方早报，还有批评历史教科书洗脑的中国青年报，早已不复存在了\n\n他们现在既想让你一无所知，又想让你深信不疑\n\n谢谢大家 https://t.co/CRu6i20wDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 786,
+          "like_count": 7742,
+          "listed_count": 8,
+          "media_count": 780,
+          "tweet_count": 3064
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

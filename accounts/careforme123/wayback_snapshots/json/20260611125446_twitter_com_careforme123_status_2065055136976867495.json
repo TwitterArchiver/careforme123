@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064982149477052697",
+    "created_at": "2026-06-11T12:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065055136976867495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018351856850788352",
+          "start": 0,
+          "username": "7dxjp530615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065055136976867495",
+    "in_reply_to_user_id": "2018351856850788352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065040489934430225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7dxjp530615 讨厌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064982149477052697",
+        "created_at": "2026-06-11T12:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065055136976867495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018351856850788352",
+              "start": 0,
+              "username": "7dxjp530615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065055136976867495",
+        "in_reply_to_user_id": "2018351856850788352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065040489934430225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7dxjp530615 讨厌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018351856850788352",
+        "conversation_id": "2064982149477052697",
+        "created_at": "2026-06-11T11:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065040489934430225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065040489934430225",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064982149477052697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 B罩杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 769,
+          "like_count": 7093,
+          "listed_count": 6,
+          "media_count": 715,
+          "tweet_count": 2835
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-02T15:52:49.000Z",
+        "description": "亲，你违法翻墙是来舔中华民国吗？人家台湾人不理你哟！\n亲，你在推上骂习主席改变不了你在中国的幸福生活哟！\n亲，举报我也改变不了你在中国的幸福生活哟！\n中国共产党好！\n习主席好！\n祝你和你的后代永世中国人！",
+        "id": "2018351856850788352",
+        "location": "习主席的细胞",
+        "name": "🦥我是习粉(爱国互fo🇨🇳)",
+        "pinned_tweet_id": "2021310574819156046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018352227446820864/P-m9LzEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 297,
+          "like_count": 8014,
+          "listed_count": 8,
+          "media_count": 64,
+          "tweet_count": 3487
+        },
+        "username": "7dxjp530615",
+        "verified": false
+      }
+    ]
+  }
+}

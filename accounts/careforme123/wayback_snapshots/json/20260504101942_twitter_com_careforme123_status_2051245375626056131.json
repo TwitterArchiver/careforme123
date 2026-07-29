@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2051139687746543977",
+    "created_at": "2026-05-04T10:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051245375626056131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622893548457828353",
+          "start": 0,
+          "username": "Tangduck_2023"
+        },
+        {
+          "end": 26,
+          "id": "1987964782591528961",
+          "start": 15,
+          "username": "cozytomcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051245375626056131",
+    "in_reply_to_user_id": "1622893548457828353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051185551223693608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tangduck_2023 @cozytomcat 同等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2051139687746543977",
+        "created_at": "2026-05-04T10:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051245375626056131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622893548457828353",
+              "start": 0,
+              "username": "Tangduck_2023"
+            },
+            {
+              "end": 26,
+              "id": "1987964782591528961",
+              "start": 15,
+              "username": "cozytomcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051245375626056131",
+        "in_reply_to_user_id": "1622893548457828353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051185551223693608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tangduck_2023 @cozytomcat 同等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622893548457828353",
+        "conversation_id": "2051139687746543977",
+        "created_at": "2026-05-04T06:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051185551223693608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987964782591528961",
+              "start": 0,
+              "username": "cozytomcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051185551223693608",
+        "in_reply_to_user_id": "1987964782591528961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051139687746543977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cozytomcat 算我一个，等你回关🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2051010408769786079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 439,
+          "like_count": 4771,
+          "listed_count": 5,
+          "media_count": 535,
+          "tweet_count": 1977
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-07T09:42:33.000Z",
+        "description": "😂 时而搞笑解压；🍔时而美食烟火；\n☘️时而感慨人生冷暖；🌎时而政治观点；\n❤️真实分享，欢迎交流故事与想法。",
+        "id": "1622893548457828353",
+        "name": "扎根成长",
+        "pinned_tweet_id": "2042176646451765602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032745583140810752/9CzgVXV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 2041,
+          "like_count": 8763,
+          "listed_count": 5,
+          "media_count": 2500,
+          "tweet_count": 16106
+        },
+        "username": "Tangduck_2023",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T19:25:26.000Z",
+        "description": "Cat lover 🐈 | Web3 & AI | Software Engineer | Indie Hacker | Traveler Building cozy things on the internet.",
+        "id": "1987964782591528961",
+        "location": "New York, USA",
+        "name": "Tomcat",
+        "pinned_tweet_id": "2051170148837371952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050593521317404672/H3GPfMME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 430,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 412
+        },
+        "username": "cozytomcat",
+        "verified": true
+      }
+    ]
+  }
+}

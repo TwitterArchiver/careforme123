@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058564396922917016",
+    "created_at": "2026-05-24T15:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058574092706476043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "PinTuZhe_s_dad"
+        },
+        {
+          "end": 32,
+          "id": "1714510407006851072",
+          "start": 16,
+          "username": "hhhhhhhhhh68887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058574092706476043",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058568223797436790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinTuZhe_s_dad @hhhhhhhhhh68887 关你啥事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058564396922917016",
+        "created_at": "2026-05-24T15:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058574092706476043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "PinTuZhe_s_dad"
+            },
+            {
+              "end": 32,
+              "id": "1714510407006851072",
+              "start": 16,
+              "username": "hhhhhhhhhh68887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058574092706476043",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058568223797436790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinTuZhe_s_dad @hhhhhhhhhh68887 关你啥事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811604757670137856",
+        "conversation_id": "2058564396922917016",
+        "created_at": "2026-05-24T15:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058568223797436790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714510407006851072",
+              "start": 0,
+              "username": "hhhhhhhhhh68887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058568223797436790",
+        "in_reply_to_user_id": "1714510407006851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058564396922917016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhhhhhhh68887 你怎么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058489714726846617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 729,
+          "like_count": 6230,
+          "listed_count": 6,
+          "media_count": 653,
+          "tweet_count": 2515
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "本人真名陈超，现居悉尼/小号@maybe_FuckU/本人电话+61427982702/@puzzlerlee的老木被5033个黑人大汉🗡️砂/狗与@careforme123禁止入内⛔️/本人住址在下方，不服来线下/报名拼图者野爹请找点下方链接/蓝v关注必回，没回私",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "maybe_FuckU"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "careforme123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20556…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2055632908568887528",
+                "start": 0,
+                "url": "https://t.co/LIaeSkwnh0"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "Sydney, New South Wales",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2057358561387401277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330262199439360/_ITvKxyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 998,
+          "like_count": 1567,
+          "listed_count": 6,
+          "media_count": 912,
+          "tweet_count": 5881
+        },
+        "url": "https://t.co/LIaeSkwnh0",
+        "username": "PinTuZhe_s_dad",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T05:15:24.000Z",
+        "description": "希腊裔法国人、未来主义者、超现实主义诗人、残酷戏剧创造者、法兰西护国主与极速弥赛亚。\n\n放弃和弥漫的虚无作斗争吧...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/sharedfiles/fi…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2587855526",
+                "start": 0,
+                "url": "https://t.co/M2EioLD2t1"
+              }
+            ]
+          }
+        },
+        "id": "1714510407006851072",
+        "location": "“太阳”",
+        "name": "⚡️安托南•阿尔托Antonin Artaud🇫🇷",
+        "pinned_tweet_id": "1821412705938629078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053222646314401792/TEFjqA7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 838,
+          "like_count": 22447,
+          "listed_count": 2,
+          "media_count": 1007,
+          "tweet_count": 9501
+        },
+        "url": "https://t.co/M2EioLD2t1",
+        "username": "hhhhhhhhhh68887",
+        "verified": false
+      }
+    ]
+  }
+}

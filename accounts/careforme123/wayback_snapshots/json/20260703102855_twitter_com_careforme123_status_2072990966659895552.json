@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2072988721981628746",
+    "created_at": "2026-07-03T10:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072990966659895552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072990966659895552",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072988721981628746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 当敌人露出一点马脚，大家一定要团结一致，一起上！！！这个道理在任何方面都使用"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 137000,
+        "height": 1450,
+        "media_key": "13_2072981789094625280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072981789094625280/img/7hKGAOVvx1ugRAEE.jpg",
+        "public_metrics": {
+          "view_count": 730
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072981789094625280/vid/avc1/720x968/Ff5vuKTHZ9LWKT4F.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072981789094625280/vid/avc1/320x430/6rCpM7dfE9qhNif9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072981789094625280/pl/dJOpxJ4Kp-SduSGL.m3u8?v=c43"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072981789094625280/vid/avc1/1078x1450/2YIvD2cIYi-jCCU_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072981789094625280/vid/avc1/480x644/d9D2U6iZr5Sm8_kT.mp4"
+          }
+        ],
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2072988721981628746",
+        "created_at": "2026-07-03T10:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072990966659895552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072990966659895552",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072988721981628746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 当敌人露出一点马脚，大家一定要团结一致，一起上！！！这个道理在任何方面都使用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072981789094625280"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072988721981628746",
+        "created_at": "2026-07-03T10:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072988721981628746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ra0tUXfyBf",
+              "end": 100,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2072988721981628746/video/1",
+              "media_key": "13_2072981789094625280",
+              "start": 77,
+              "url": "https://t.co/Ra0tUXfyBf"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2072314277902401959",
+              "start": 101,
+              "url": "https://t.co/DQiklWG1BA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072988721981628746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月3日，陕西省浙江商会常务副会长林孙忠发布视频，实名举报西安赛格集团赵贵、刘耀文涉嫌重大刑事犯罪，称自己投资2亿、五年营收近580亿，却落得血本无归。\n​据林孙忠描述，其于2007年自筹2亿元投资长安大学科技综合楼项目，该项目自2013年开业后经营状况火爆，5年内累计营业额近580亿元。林孙忠持有项目主体陕西浙乐商贸49%股份。\n​林孙忠称，赵贵等人以合作经营为由介入公司，逐步掌控实际经营权后，不仅未进行正常运营，反而通过职务便利大肆转移公司资金，将数亿元资金划转至自家关联企业。随后，赵贵等人又通过伪造虚假债务、签订虚假协议等手段，制造企业资不抵债的假象，从而策划了一场“虚假破产”大戏。\n​林孙忠表示，这场圈套导致其当初投入的2亿元本金血本无归，理应分得的近50亿元收益也被非法剥夺。\n​林孙忠提到，该案最高法已裁定发回重审，多名人大代表曾实名向上级部门反映，亦有六位国内知名刑法专家出具法律意见书，认定对方存在职务侵占、虚假破产、虚假诉讼重大嫌疑。\n​林孙忠称，由于对方依靠当地关系干扰案件办理，多名涉案人员至今未被追责。2026年3月2日，其已将整套证据递交中纪委，恳请上级部门彻查，并追回被非法侵占的资产。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4314,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072314277902401959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7月3日，陕西省浙江商会常务副会长林孙忠发布视频，实名举报西安赛格集团赵贵、刘耀文涉嫌重大刑事犯罪，称自己投资2亿、五年营收近580亿，却落得血本无归。 https://t.co/Ra0tUXfyBf https://t.co/DQiklWG1BA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 787,
+          "like_count": 7741,
+          "listed_count": 8,
+          "media_count": 780,
+          "tweet_count": 3066
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243240,
+          "following_count": 1072,
+          "like_count": 9769,
+          "listed_count": 8811,
+          "media_count": 49717,
+          "tweet_count": 56912
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

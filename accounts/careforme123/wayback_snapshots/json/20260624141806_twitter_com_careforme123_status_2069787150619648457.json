@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069786122620936193"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069787150619648457",
+    "created_at": "2026-06-24T14:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T15:17:44.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069787060479873530",
+      "2069787150619648457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3v8R40luu",
+          "end": 159,
+          "expanded_url": "https://x.com/careforme123/status/2069787150619648457/photo/1",
+          "media_key": "3_2069786122620936193",
+          "start": 136,
+          "url": "https://t.co/S3v8R40luu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069787150619648457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "连央视都开始造谣了\n\n这个国家的媒体还有什么权威性？以前他们只是玩春秋笔法，选择性报道。现在倒好，把俄罗斯被炸的视频套在乌克兰头上，鉴于这个视频那么火，很难相信他们不是故意的\n\n他们已经没有任何可信度了，他们说的任何一句话，报道的任何一个新闻，一个字也不要信\n\n谢谢大家 https://t.co/S3v8R40luu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2069786122620936193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlbgyfaoAE9cB2.jpg",
+        "width": 1181
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069786122620936193"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069787060479873530",
+        "created_at": "2026-06-24T14:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:17:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069787060479873530",
+          "2069787150619648457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTecadZPxT",
+              "end": 164,
+              "expanded_url": "https://x.com/careforme123/status/2069787060479873530/photo/1",
+              "media_key": "3_2069786122620936193",
+              "start": 141,
+              "url": "https://t.co/qTecadZPxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069787060479873530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连央视都开始造谣了\n\n这个国家的新闻还有什么权威性？以前他们只是玩春秋笔法，选择性报道。现在倒好，把俄罗斯被炸的视频套在乌克兰头上，鉴于这个视频那么火，很难相信他们不是故意的\n\n这个国家的媒体已经没有任何可信度了，他们说的任何一句话，报道的任何一个新闻，一个字也不要信\n\n谢谢大家 https://t.co/qTecadZPxT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069786122620936193"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069787150619648457",
+        "created_at": "2026-06-24T14:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:17:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069787060479873530",
+          "2069787150619648457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3v8R40luu",
+              "end": 159,
+              "expanded_url": "https://x.com/careforme123/status/2069787150619648457/photo/1",
+              "media_key": "3_2069786122620936193",
+              "start": 136,
+              "url": "https://t.co/S3v8R40luu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069787150619648457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连央视都开始造谣了\n\n这个国家的媒体还有什么权威性？以前他们只是玩春秋笔法，选择性报道。现在倒好，把俄罗斯被炸的视频套在乌克兰头上，鉴于这个视频那么火，很难相信他们不是故意的\n\n他们已经没有任何可信度了，他们说的任何一句话，报道的任何一个新闻，一个字也不要信\n\n谢谢大家 https://t.co/S3v8R40luu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 782,
+          "like_count": 7577,
+          "listed_count": 7,
+          "media_count": 756,
+          "tweet_count": 3000
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

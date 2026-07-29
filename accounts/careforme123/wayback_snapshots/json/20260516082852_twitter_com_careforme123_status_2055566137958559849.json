@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2055543105777180995",
+    "created_at": "2026-05-16T08:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T09:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055566137958559849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845607538512797696",
+          "start": 0,
+          "username": "Justice53_07_27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055566137958559849",
+    "in_reply_to_user_id": "1845607538512797696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055543105777180995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Justice53_07_27 谣言制造者又在玩田忌赛马了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055543105777180995",
+        "created_at": "2026-05-16T08:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055566137958559849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845607538512797696",
+              "start": 0,
+              "username": "Justice53_07_27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055566137958559849",
+        "in_reply_to_user_id": "1845607538512797696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055543105777180995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Justice53_07_27 谣言制造者又在玩田忌赛马了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845607538512797696",
+        "conversation_id": "2055543105777180995",
+        "created_at": "2026-05-16T06:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055543105777180995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RealAirPower1/…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/RealAirPower1/status/2055483931898581371",
+              "start": 74,
+              "url": "https://t.co/qNQFGV7exM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055543105777180995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055483931898581371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人拍到了F18带着最新的Aim-260导弹，据称射程达到甚至超过了120英里/200公里，成功追赶上了2013年解放军PL-15导弹的技术水平。 https://t.co/qNQFGV7exM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055179927515984326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 559,
+          "like_count": 5603,
+          "listed_count": 6,
+          "media_count": 619,
+          "tweet_count": 2290
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T23:28:34.000Z",
+        "description": "理科男，喜欢搬运事实，喜欢怼谣棍，喜欢原神，喜欢中国，喜欢加州，正义必胜。",
+        "id": "1845607538512797696",
+        "location": "SoCal",
+        "name": "谣言终结者",
+        "pinned_tweet_id": "2048327234189205813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041199539512836096/lor_xCDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3585,
+          "following_count": 306,
+          "like_count": 1907,
+          "listed_count": 48,
+          "media_count": 1377,
+          "tweet_count": 4370
+        },
+        "username": "Justice53_07_27",
+        "verified": true
+      }
+    ]
+  }
+}

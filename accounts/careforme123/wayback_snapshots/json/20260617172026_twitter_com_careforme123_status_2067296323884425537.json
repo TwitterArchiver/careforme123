@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067296297712066560"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067263808972738565",
+    "created_at": "2026-06-17T17:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067296323884425537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "SB_Puzzlerlee"
+        },
+        {
+          "end": 23,
+          "id": "2059659704918310913",
+          "start": 15,
+          "username": "dokucs4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MCoJUmQuWe",
+          "end": 51,
+          "expanded_url": "https://x.com/careforme123/status/2067296323884425537/photo/1",
+          "media_key": "3_2067296297712066560",
+          "start": 28,
+          "url": "https://t.co/MCoJUmQuWe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067296323884425537",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067292920701673979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SB_Puzzlerlee @dokucs4 拿上了 https://t.co/MCoJUmQuWe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 957,
+        "media_key": "3_2067296297712066560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCDB56boAAiN0n.jpg",
+        "width": 718
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067292908475293696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLB_8oBaoAAkhLi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067296297712066560"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067263808972738565",
+        "created_at": "2026-06-17T17:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067296323884425537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "SB_Puzzlerlee"
+            },
+            {
+              "end": 23,
+              "id": "2059659704918310913",
+              "start": 15,
+              "username": "dokucs4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCoJUmQuWe",
+              "end": 51,
+              "expanded_url": "https://x.com/careforme123/status/2067296323884425537/photo/1",
+              "media_key": "3_2067296297712066560",
+              "start": 28,
+              "url": "https://t.co/MCoJUmQuWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067296323884425537",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067292920701673979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SB_Puzzlerlee @dokucs4 拿上了 https://t.co/MCoJUmQuWe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067292908475293696"
+          ]
+        },
+        "author_id": "1811604757670137856",
+        "conversation_id": "2067263808972738565",
+        "created_at": "2026-06-17T17:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067292920701673979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            },
+            {
+              "end": 22,
+              "id": "2059659704918310913",
+              "start": 14,
+              "username": "dokucs4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDmbXlvkjc",
+              "end": 60,
+              "expanded_url": "https://x.com/SB_Puzzlerlee/status/2067292920701673979/photo/1",
+              "media_key": "3_2067292908475293696",
+              "start": 37,
+              "url": "https://t.co/jDmbXlvkjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067292920701673979",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067269197663739952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 @dokucs4 给你护照，拿上赶紧滚出中国 https://t.co/jDmbXlvkjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 777,
+          "like_count": 7319,
+          "listed_count": 6,
+          "media_count": 738,
+          "tweet_count": 2918
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "@puzzlerlee为什么天天拿我䒑他女马的贴文当宝供着，因为拼图者野爹之一@domesere早已得出拼图者是恋母癖的结论/小号@maybe_FuckU/狗与@careforme123禁止入内⛔️/报名拼图者野爹请点下方链接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "domesere"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "maybe_FuckU"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "careforme123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20556…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2055632908568887528",
+                "start": 0,
+                "url": "https://t.co/LIaeSkwnh0"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "QLD,Australia",
+        "name": "Sager Wang🍥🏳️‍⚧️（拼图者已急哭）",
+        "pinned_tweet_id": "2062151847935426640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065062692357095424/Dj3gLHPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 1240,
+          "like_count": 1743,
+          "listed_count": 3,
+          "media_count": 996,
+          "tweet_count": 6561
+        },
+        "url": "https://t.co/LIaeSkwnh0",
+        "username": "SB_Puzzlerlee",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T15:39:09.000Z",
+        "description": "在推特这种发言没门槛，造谣无底线的平台，到底还有多少傻子因为大侄子的一句话就去做美西方国家的走狗，在这点上，我为一部分国人感到悲哀",
+        "id": "2059659704918310913",
+        "location": "Poland",
+        "name": "紅星閃耀🇨🇳（愛国互fo）",
+        "pinned_tweet_id": "2066865319159726348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066201187922145281/mGNhbLPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 276,
+          "like_count": 333,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "dokucs4",
+        "verified": false
+      }
+    ]
+  }
+}

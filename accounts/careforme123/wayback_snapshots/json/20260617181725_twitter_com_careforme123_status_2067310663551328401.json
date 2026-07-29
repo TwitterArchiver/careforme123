@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067267047659102422",
+    "created_at": "2026-06-17T18:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067310663551328401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067310663551328401",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067267047659102422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 我比你们大了十岁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_2067267036200275968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBoaqSXkAA4pD-.jpg",
+        "width": 1800
+      },
+      {
+        "height": 1382,
+        "media_key": "3_2067267037324251137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBoaueWEAEaK5i.jpg",
+        "width": 1800
+      },
+      {
+        "height": 1465,
+        "media_key": "3_2067267034212081664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBoai4WIAAxYmC.jpg",
+        "width": 1800
+      },
+      {
+        "height": 1471,
+        "media_key": "3_2067267042881712128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBobDLWMAARssW.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067267047659102422",
+        "created_at": "2026-06-17T18:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067310663551328401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067310663551328401",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067267047659102422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 我比你们大了十岁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067267036200275968",
+            "3_2067267037324251137",
+            "3_2067267034212081664",
+            "3_2067267042881712128"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067267047659102422",
+        "created_at": "2026-06-17T15:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067267047659102422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xa5uELGhgP",
+              "end": 37,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2067267047659102422/photo/1",
+              "media_key": "3_2067267036200275968",
+              "start": 14,
+              "url": "https://t.co/Xa5uELGhgP"
+            },
+            {
+              "display_url": "pic.x.com/Xa5uELGhgP",
+              "end": 37,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2067267047659102422/photo/1",
+              "media_key": "3_2067267037324251137",
+              "start": 14,
+              "url": "https://t.co/Xa5uELGhgP"
+            },
+            {
+              "display_url": "pic.x.com/Xa5uELGhgP",
+              "end": 37,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2067267047659102422/photo/1",
+              "media_key": "3_2067267034212081664",
+              "start": 14,
+              "url": "https://t.co/Xa5uELGhgP"
+            },
+            {
+              "display_url": "pic.x.com/Xa5uELGhgP",
+              "end": 37,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2067267047659102422/photo/1",
+              "media_key": "3_2067267042881712128",
+              "start": 14,
+              "url": "https://t.co/Xa5uELGhgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067267047659102422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 474,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是四只同龄的猫🐱🥰😘🥺🥺 https://t.co/Xa5uELGhgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 778,
+          "like_count": 7329,
+          "listed_count": 6,
+          "media_count": 739,
+          "tweet_count": 2921
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "亟待潜入雨中去往大河以北，于西班牙的余晖下跟随博苏伯爵\n🤍@LibDems|2nd @AbsolutelyWP|3rd @KUKMonarchy8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "LibDems"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "AbsolutelyWP"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "KUKMonarchy8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2066953660291219488/BuXO6njq65",
+                "start": 0,
+                "url": "https://t.co/w2ff5ToOvL"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Den Haag, Nederland",
+        "name": "🇹🇼Wellington † Pixel🪩",
+        "pinned_tweet_id": "2066206560251212138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067301817763971072/8-r-DltG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 3662,
+          "like_count": 21849,
+          "listed_count": 3,
+          "media_count": 412,
+          "tweet_count": 4511
+        },
+        "url": "https://t.co/w2ff5ToOvL",
+        "username": "WellingtonPixel",
+        "verified": false
+      }
+    ]
+  }
+}

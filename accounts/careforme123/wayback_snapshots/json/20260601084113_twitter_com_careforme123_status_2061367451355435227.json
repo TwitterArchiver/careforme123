@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061367451355435227",
+    "created_at": "2026-06-01T08:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:39:41.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061367067899539666",
+      "2061367451355435227"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061367451355435227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们这些给高市早苗p低俗图片的人，国男味太重了\n\n面对一个女性政治人物，你们攻击他的方式不是反驳她的观点与政绩，而是通过这种下三滥的手段来攻击她的贞洁与尊严\n\n你们倒高兴了，日本人嘲笑我们没素质不是没有原因的\n\n还有，不要再展示你们的性压抑了，没发现推上的黄色广告机器人都说的中文吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061367067899539666",
+        "created_at": "2026-06-01T08:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:39:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061367067899539666",
+          "2061367451355435227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061367067899539666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些给高市早苗p低俗图片的人，国男味太重了\n\n面对一个女性政治人物，你们攻击他的方式不是反驳她的观点与政绩，而是通过色情化手段来攻击她的贞洁与尊严\n\n你们倒高兴了，日本人嘲笑我们没素质不是没有原因的\n\n还有，不要再展示你们的性压抑了，没发现推上的色情广告机器人都说的中文吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061367451355435227",
+        "created_at": "2026-06-01T08:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:39:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061367067899539666",
+          "2061367451355435227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061367451355435227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些给高市早苗p低俗图片的人，国男味太重了\n\n面对一个女性政治人物，你们攻击他的方式不是反驳她的观点与政绩，而是通过这种下三滥的手段来攻击她的贞洁与尊严\n\n你们倒高兴了，日本人嘲笑我们没素质不是没有原因的\n\n还有，不要再展示你们的性压抑了，没发现推上的黄色广告机器人都说的中文吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 741,
+          "like_count": 6627,
+          "listed_count": 5,
+          "media_count": 679,
+          "tweet_count": 2664
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

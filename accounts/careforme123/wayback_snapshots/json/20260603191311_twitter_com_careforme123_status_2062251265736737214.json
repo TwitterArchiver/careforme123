@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062251265736737214",
+    "created_at": "2026-06-03T19:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T20:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062251265736737214"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062251265736737214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安，推友们\n\n天黑了，请闭上你的眼睛\n\n天暗了，请静静地睡去\n\n一阵喧哗\n\n一片寂静\n\n别害怕，鸟儿会呼唤你\n\n别担心，鸟儿会叫醒你\n\n睁眼吧，天亮了\n\n醒来吧，世界不再黑暗了\n\n你会见到我\n\n我也会看见你\n\n热泪盈眶\n\n无语凝噎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062251265736737214",
+        "created_at": "2026-06-03T19:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062251265736737214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062251265736737214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安，推友们\n\n天黑了，请闭上你的眼睛\n\n天暗了，请静静地睡去\n\n一阵喧哗\n\n一片寂静\n\n别害怕，鸟儿会呼唤你\n\n别担心，鸟儿会叫醒你\n\n睁眼吧，天亮了\n\n醒来吧，世界不再黑暗了\n\n你会见到我\n\n我也会看见你\n\n热泪盈眶\n\n无语凝噎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 742,
+          "like_count": 6743,
+          "listed_count": 5,
+          "media_count": 689,
+          "tweet_count": 2714
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

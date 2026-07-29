@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069787150619648457",
+    "created_at": "2026-06-25T12:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070122961500250285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046115578558218240",
+          "start": 0,
+          "username": "SandyKuhn998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070122961500250285",
+    "in_reply_to_user_id": "2046115578558218240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069994391150952495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SandyKuhn998 评论区还有说p图的，哎，不知道他们要干啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069994377804697600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoY61ga0AA1aEs.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069787150619648457",
+        "created_at": "2026-06-25T12:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070122961500250285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046115578558218240",
+              "start": 0,
+              "username": "SandyKuhn998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070122961500250285",
+        "in_reply_to_user_id": "2046115578558218240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069994391150952495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SandyKuhn998 评论区还有说p图的，哎，不知道他们要干啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069994377804697600"
+          ]
+        },
+        "author_id": "2046115578558218240",
+        "conversation_id": "2069787150619648457",
+        "created_at": "2026-06-25T04:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069994391150952495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmQvArogE3",
+              "end": 40,
+              "expanded_url": "https://x.com/SandyKuhn998/status/2069994391150952495/photo/1",
+              "media_key": "3_2069994377804697600",
+              "start": 17,
+              "url": "https://t.co/gmQvArogE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069994391150952495",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2425,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069787150619648457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 补充 https://t.co/gmQvArogE3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2322,
+          "following_count": 789,
+          "like_count": 7605,
+          "listed_count": 7,
+          "media_count": 759,
+          "tweet_count": 3013
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T06:36:53.000Z",
+        "description": "Learning every day | Focus on self-improvement and cross-cultural understanding",
+        "id": "2046115578558218240",
+        "name": "Sandy Kuhn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050902725244973057/VB7DpiRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 70,
+          "like_count": 1507,
+          "listed_count": 6,
+          "media_count": 58,
+          "tweet_count": 700
+        },
+        "url": "",
+        "username": "SandyKuhn998",
+        "verified": false
+      }
+    ]
+  }
+}

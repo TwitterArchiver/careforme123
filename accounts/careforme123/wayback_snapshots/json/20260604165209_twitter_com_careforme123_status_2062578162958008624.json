@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2062578161062207488"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062578162958008624",
+    "created_at": "2026-06-04T16:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062578162958008624"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062578162958008624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安，推友们"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-06-05T16:52:09.000Z",
+        "id": "2062578161062207488",
+        "options": [
+          {
+            "label": "晚",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "安",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2062578161062207488"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062578162958008624",
+        "created_at": "2026-06-04T16:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062578162958008624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062578162958008624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安，推友们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 743,
+          "like_count": 6810,
+          "listed_count": 5,
+          "media_count": 694,
+          "tweet_count": 2734
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

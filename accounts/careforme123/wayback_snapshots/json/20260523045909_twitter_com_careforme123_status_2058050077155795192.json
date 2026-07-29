@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058036853727449111",
+    "created_at": "2026-05-23T04:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058050077155795192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904551331869937664",
+          "start": 0,
+          "username": "chiikawajy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058050077155795192",
+    "in_reply_to_user_id": "1904551331869937664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058045511211643160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiikawajy 😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058036853727449111",
+        "created_at": "2026-05-23T04:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058050077155795192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904551331869937664",
+              "start": 0,
+              "username": "chiikawajy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058050077155795192",
+        "in_reply_to_user_id": "1904551331869937664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058045511211643160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiikawajy 😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904551331869937664",
+        "conversation_id": "2058036853727449111",
+        "created_at": "2026-05-23T04:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058045511211643160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058045511211643160",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058036853727449111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 穆斯林确实该图，我不针对任何民族我只针对穆斯林"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 713,
+          "like_count": 6048,
+          "listed_count": 6,
+          "media_count": 648,
+          "tweet_count": 2452
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-25T15:10:07.000Z",
+        "description": "小粉红以及毛左🚫穆斯林🚫极端支黑🚫偏右，喜欢chiikawa和水豚 ，LGBT友好，欢迎互fo，会给互关点赞，和我说悄悄话https://t.co/7DCip4ht0T，非常讨厌女拳和和稀泥的反战分子，只站正义不占群体，坚决抵制任何形式的道德绑架",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chiikawa537",
+                "end": 84,
+                "expanded_url": "https://ngl.link/chiikawa537",
+                "start": 61,
+                "url": "https://t.co/7DCip4ht0T"
+              }
+            ]
+          }
+        },
+        "id": "1904551331869937664",
+        "name": "重生之我是粉男先生",
+        "pinned_tweet_id": "1962803448035811610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904551495762374656/w_cLiYMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 262,
+          "like_count": 33196,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 6950
+        },
+        "username": "chiikawajy",
+        "verified": false
+      }
+    ]
+  }
+}

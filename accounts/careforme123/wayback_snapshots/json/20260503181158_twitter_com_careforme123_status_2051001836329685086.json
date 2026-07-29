@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050998060671709345",
+    "created_at": "2026-05-03T18:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051001836329685086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1792158516096180224",
+          "start": 0,
+          "username": "Dr_Duckter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051001836329685086",
+    "in_reply_to_user_id": "1792158516096180224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050998060671709345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dr_Duckter 这样翻译还真没问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_2050998058566246400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHab3hvbYAAgQjT.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050998060671709345",
+        "created_at": "2026-05-03T18:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051001836329685086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1792158516096180224",
+              "start": 0,
+              "username": "Dr_Duckter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051001836329685086",
+        "in_reply_to_user_id": "1792158516096180224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050998060671709345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dr_Duckter 这样翻译还真没问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050998058566246400"
+          ]
+        },
+        "author_id": "1792158516096180224",
+        "conversation_id": "2050998060671709345",
+        "created_at": "2026-05-03T17:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T18:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050998060671709345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CPK0JkPM7h",
+              "end": 43,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2050998060671709345/photo/1",
+              "media_key": "3_2050998058566246400",
+              "start": 20,
+              "url": "https://t.co/CPK0JkPM7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050998060671709345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道从相册的哪个犄角旮旯翻出来的图片 https://t.co/CPK0JkPM7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 396,
+          "like_count": 4706,
+          "listed_count": 5,
+          "media_count": 531,
+          "tweet_count": 1944
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "逃生仓 @Dr__Duckter  \n\n不主动B人，被B了就是你友链的原因  \n\n查成分回关\n\nemail（吃灰中）：drduckter@proton.me\n\n想要premium",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "1603 Matthews Ave, Vancouver",
+        "name": "Dr Ducky Drizzy Duckter Duckworth DingDongji",
+        "pinned_tweet_id": "2049065986897412581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041732131186208769/TvZD5dx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 1105,
+          "like_count": 20060,
+          "listed_count": 20,
+          "media_count": 483,
+          "tweet_count": 2693
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

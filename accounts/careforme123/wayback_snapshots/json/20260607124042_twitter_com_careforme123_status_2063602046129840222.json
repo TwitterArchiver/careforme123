@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2063602046129840222",
+    "created_at": "2026-06-07T12:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T13:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063602046129840222"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063602046129840222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我是一个中国人，我是一个党员，我爱我的祖国\n\n所以我讨厌那些天天选择性报道，制造假消息的媒体的媒体和博主，让我的同胞们以为全世界都在水深火热之中，活在楚门的世界\n\n我希望有人对社会问题提出批评时，少一点人说非洲又怎么怎么样，美国又怎么怎么样，仿佛这些问题是合理的，人类需要共同发展，而不是比烂\n\n我们只有正视自己的问题，认识到我们与欧洲，美国的差距，做的好的就保持，不好的就认真改变，而不是将别人也做错的事拿来比较，这样只会让我们失去发展的动力\n\n如果社会缺乏尖锐的批评，那么那些腐败的官员与相互勾结的企业家，只会越来越猖狂\n\n中国的发展需要大家的努力与监督，谎言的温床只会阻碍我们发展的脚步\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是一个中国人，我是一个党员，我爱我的祖国\n\n所以我讨厌那些天天选择性报道，制造假消息的媒体的媒体和博主，让我的同胞们以为全世界都在水深火热之中，活在楚门的世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2063602046129840222",
+        "created_at": "2026-06-07T12:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063602046129840222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063602046129840222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是一个中国人，我是一个党员，我爱我的祖国\n\n所以我讨厌那些天天选择性报道，制造假消息的媒体的媒体和博主，让我的同胞们以为全世界都在水深火热之中，活在楚门的世界\n\n我希望有人对社会问题提出批评时，少一点人说非洲又怎么怎么样，美国又怎么怎么样，仿佛这些问题是合理的，人类需要共同发展，而不是比烂\n\n我们只有正视自己的问题，认识到我们与欧洲，美国的差距，做的好的就保持，不好的就认真改变，而不是将别人也做错的事拿来比较，这样只会让我们失去发展的动力\n\n如果社会缺乏尖锐的批评，那么那些腐败的官员与相互勾结的企业家，只会越来越猖狂\n\n中国的发展需要大家的努力与监督，谎言的温床只会阻碍我们发展的脚步\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个中国人，我是一个党员，我爱我的祖国\n\n所以我讨厌那些天天选择性报道，制造假消息的媒体的媒体和博主，让我的同胞们以为全世界都在水深火热之中，活在楚门的世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 763,
+          "like_count": 7004,
+          "listed_count": 5,
+          "media_count": 708,
+          "tweet_count": 2799
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

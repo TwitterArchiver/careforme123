@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2060908935129809039",
+    "created_at": "2026-05-31T05:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060961559208165742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2008898135104348160",
+          "start": 0,
+          "username": "Ava198801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060961559208165742",
+    "in_reply_to_user_id": "2008898135104348160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060960167408095240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ava198801 美国确实没打压性少数，川普的意思就是不要宣传和鼓励这些我觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2060908935129809039",
+        "created_at": "2026-05-31T05:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060961559208165742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2008898135104348160",
+              "start": 0,
+              "username": "Ava198801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060961559208165742",
+        "in_reply_to_user_id": "2008898135104348160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060960167408095240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ava198801 美国确实没打压性少数，川普的意思就是不要宣传和鼓励这些我觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008898135104348160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2060908935129809039",
+        "created_at": "2026-05-31T05:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060960167408095240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060960167408095240",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060908935129809039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 川普是支持变性！他手下还很多同性恋呢.他是停止把跨性别议题当作优先级、停止用纳税人钱推激进医疗和社会实验。禁止联邦资金用于未成年人的化学/手术“性别肯定”干预（保护儿童免于不可逆伤害） 体育方面禁止生物男性参加女性项目维护女权！保护常识儿童和女性.回归自然才是川普他们的目的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 739,
+          "like_count": 6562,
+          "listed_count": 5,
+          "media_count": 672,
+          "tweet_count": 2640
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T13:49:39.000Z",
+        "description": "自由主义者觉醒者经济学者.假新闻终结者",
+        "id": "2008898135104348160",
+        "location": "Los Angeles, CA",
+        "name": "Ava",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050307667889930240/jBBOB8MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 44,
+          "like_count": 4298,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1615
+        },
+        "username": "Ava198801",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073403335630327808"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073404465680691470",
+    "created_at": "2026-07-04T13:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073404465680691470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nJp8MjfFmO",
+          "end": 166,
+          "expanded_url": "https://x.com/careforme123/status/2073404465680691470/photo/1",
+          "media_key": "3_2073403335630327808",
+          "start": 143,
+          "url": "https://t.co/nJp8MjfFmO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073404465680691470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有选票，才有民主；有选票，才有为人民服务\n\n西方政客为了选票，还会想方设法讨好民众，改善民众生活，兑现选举时的承诺\n\n但在独裁国家，这是不可能的，因为他们不用在意你，只需要把石油、采矿、电信、烟草、房地产给同党经营，形成一个利益集团，便可以稳坐王位\n\n没有虚假的民主，也没有真诚的独裁 https://t.co/nJp8MjfFmO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2073403335630327808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY1WTBbEAAOBQS.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073403335630327808"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073404465680691470",
+        "created_at": "2026-07-04T13:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073404465680691470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJp8MjfFmO",
+              "end": 166,
+              "expanded_url": "https://x.com/careforme123/status/2073404465680691470/photo/1",
+              "media_key": "3_2073403335630327808",
+              "start": 143,
+              "url": "https://t.co/nJp8MjfFmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073404465680691470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有选票，才有民主；有选票，才有为人民服务\n\n西方政客为了选票，还会想方设法讨好民众，改善民众生活，兑现选举时的承诺\n\n但在独裁国家，这是不可能的，因为他们不用在意你，只需要把石油、采矿、电信、烟草、房地产给同党经营，形成一个利益集团，便可以稳坐王位\n\n没有虚假的民主，也没有真诚的独裁 https://t.co/nJp8MjfFmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 785,
+          "like_count": 7767,
+          "listed_count": 8,
+          "media_count": 786,
+          "tweet_count": 3080
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

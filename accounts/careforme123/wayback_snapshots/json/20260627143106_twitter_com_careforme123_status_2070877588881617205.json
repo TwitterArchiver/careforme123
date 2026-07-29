@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2070877310325071975",
+    "created_at": "2026-06-27T14:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070877588881617205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070877588881617205",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070877310325071975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 官商勾结，就是这样子"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46300,
+        "height": 1280,
+        "media_key": "13_2070793507414159360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070793507414159360/img/sBOeIzYzGY6Elns_.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070793507414159360/vid/avc1/320x568/TIdf05R9Bf6Bew_i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070793507414159360/vid/avc1/480x852/JhWNWxJf2A3CvUKX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070793507414159360/vid/avc1/720x1280/Li2CMFm2_n8XUzBv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070793507414159360/pl/0dfAv3YuHhnnJ0u2.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2070877310325071975",
+        "created_at": "2026-06-27T14:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070877588881617205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070877588881617205",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070877310325071975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 官商勾结，就是这样子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070793507414159360"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070877310325071975",
+        "created_at": "2026-06-27T14:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070877310325071975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrsdmJlaXP",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2070877310325071975/video/1",
+              "media_key": "13_2070793507414159360",
+              "start": 137,
+              "url": "https://t.co/nrsdmJlaXP"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2070406708263075960",
+              "start": 161,
+              "url": "https://t.co/9sMPgP5jFh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070877310325071975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "纸尿裤甲酰胺事件最新进展：检测机构称报告“无效”，但此前官网曾可查询下载\n\n近日，纸尿裤甲酰胺风波持续发酵。据国内媒体报道，知情人士提供的视频录屏显示，6月25日仍可通过联信检测官网，使用报告编号“LX20260621060”查询并下载一份样品名称为“尿不湿”的检测报告。\n\n报告显示，样品检出甲酰胺含量为414mg/kg，报告中包含主检、审核、批准人员签名，并加盖联信检测检验检测专用章。\n\n不过，到了6月26日，记者再次输入同一报告编号查询时，相关报告已无法搜索到。\n\n此外，知情人士提供的一段通话录音显示，联信检测工作人员曾表示，近两天送检纸尿裤样品数量明显增加，已收到近百份检测申请，其中约六七成样品检出了甲酰胺。工作人员称，由于检测检出限较低，“大多数样品都是有的”。\n\n值得注意的是，此前涉事品牌均表示，自检或委托第三方检测结果显示“未检出”甲酰胺；联信检测方面也回应称，目前网络流传的相关检测报告属于“无效报告”。\n\n目前，各方检测结果存在差异，相关产品是否存在质量问题，仍有待监管部门开展独立抽检和复检，并以最终官方调查结果为准。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1292,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070406708263075960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纸尿裤甲酰胺事件最新进展：检测机构称报告“无效”，但此前官网曾可查询下载\n\n近日，纸尿裤甲酰胺风波持续发酵。据国内媒体报道，知情人士提供的视频录屏显示，6月25日仍可通过联信检测官网，使用报告编号“LX20260621060”查询并下载一份样品名称为“尿不湿”的检测报告。 https://t.co/nrsdmJlaXP https://t.co/9sMPgP5jFh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 787,
+          "like_count": 7657,
+          "listed_count": 7,
+          "media_count": 763,
+          "tweet_count": 3031
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240535,
+          "following_count": 1072,
+          "like_count": 9748,
+          "listed_count": 8802,
+          "media_count": 49365,
+          "tweet_count": 56543
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

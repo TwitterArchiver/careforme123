@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2054421967168848079",
+    "created_at": "2026-05-13T18:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T19:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054630132279820778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1008615379885670400",
+          "start": 0,
+          "username": "zhinarensml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054630132279820778",
+    "in_reply_to_user_id": "1008615379885670400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054421967168848079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensml8964 挫折教育"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054421967168848079",
+        "created_at": "2026-05-13T18:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054630132279820778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1008615379885670400",
+              "start": 0,
+              "username": "zhinarensml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054630132279820778",
+        "in_reply_to_user_id": "1008615379885670400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054421967168848079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensml8964 挫折教育"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1008615379885670400",
+        "conversation_id": "2054421967168848079",
+        "created_at": "2026-05-13T04:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054421967168848079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zmx8067/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/zmx8067/status/2054121281608700346",
+              "start": 16,
+              "url": "https://t.co/q6rDncmBoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054421967168848079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054121281608700346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多难兴邦，希望这种好事多来几次 https://t.co/q6rDncmBoV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 547,
+          "like_count": 5459,
+          "listed_count": 5,
+          "media_count": 603,
+          "tweet_count": 2234
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "主账号@zhinarencnm8964\n逃生舱@zhinarensb8964\n究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1008615379885670400",
+        "location": "支那人民共和国",
+        "name": "萨麦尔之子✡️🩵",
+        "pinned_tweet_id": "2053154231121838124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054311077811556352/SHVwh_ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 862,
+          "like_count": 34605,
+          "listed_count": 5,
+          "media_count": 623,
+          "tweet_count": 2888
+        },
+        "username": "zhinarensml8964",
+        "verified": false
+      }
+    ]
+  }
+}

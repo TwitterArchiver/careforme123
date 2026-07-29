@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2071095981744284138",
+    "created_at": "2026-06-28T12:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071210185960624308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969737940994756608",
+          "start": 0,
+          "username": "hai_yu47149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071210185960624308",
+    "in_reply_to_user_id": "1969737940994756608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071145869831983127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hai_yu47149 我不表达什么。我在陈述一个事实，而不是观点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2071095981744284138",
+        "created_at": "2026-06-28T12:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071210185960624308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969737940994756608",
+              "start": 0,
+              "username": "hai_yu47149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071210185960624308",
+        "in_reply_to_user_id": "1969737940994756608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071145869831983127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hai_yu47149 我不表达什么。我在陈述一个事实，而不是观点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969737940994756608",
+        "conversation_id": "2071095981744284138",
+        "created_at": "2026-06-28T08:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071145869831983127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071145869831983127",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071095981744284138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 所以呢？你想表达什么？我们的国家在20世纪的时候，有些人民都吃不饱，现在的我们正在慢慢进步，人民都能吃饱，可以有更高的追求，全面脱贫，追求复兴，我们会一步步的变好，时间会证明一切"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 791,
+          "like_count": 7675,
+          "listed_count": 7,
+          "media_count": 765,
+          "tweet_count": 3037
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-21T12:18:40.000Z",
+        "description": "",
+        "id": "1969737940994756608",
+        "name": "雾与海",
+        "pinned_tweet_id": "2068291626389402022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969738330658209792/UAiYzi3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 48,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "hai_yu47149",
+        "verified": false
+      }
+    ]
+  }
+}

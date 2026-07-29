@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2066862656284217554",
+    "created_at": "2026-06-17T00:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067044179088453904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1840008766135103488",
+          "start": 0,
+          "username": "nande198900"
+        },
+        {
+          "end": 29,
+          "id": "184604955",
+          "start": 13,
+          "username": "agustin_avenali"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067044179088453904",
+    "in_reply_to_user_id": "1840008766135103488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066979943775392087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nande198900 @agustin_avenali 西兰花，没有吃过吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2066862656284217554",
+        "created_at": "2026-06-17T00:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067044179088453904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1840008766135103488",
+              "start": 0,
+              "username": "nande198900"
+            },
+            {
+              "end": 29,
+              "id": "184604955",
+              "start": 13,
+              "username": "agustin_avenali"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067044179088453904",
+        "in_reply_to_user_id": "1840008766135103488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066979943775392087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nande198900 @agustin_avenali 西兰花，没有吃过吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840008766135103488",
+        "conversation_id": "2066862656284217554",
+        "created_at": "2026-06-16T20:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066979943775392087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "184604955",
+              "start": 0,
+              "username": "agustin_avenali"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066979943775392087",
+        "in_reply_to_user_id": "184604955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 562,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066862656284217554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@agustin_avenali 啥是新西兰？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 773,
+          "like_count": 7263,
+          "listed_count": 6,
+          "media_count": 733,
+          "tweet_count": 2898
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "🍊- 蓝v互关必回 - He/him Femboy/boy. 🤍RT 4 RT - 男娘捏- 🇨🇳🇨🇭",
+        "id": "1840008766135103488",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "2053170473484370330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022830944953212929/1PF9XsE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25694,
+          "following_count": 4012,
+          "like_count": 9638,
+          "listed_count": 104,
+          "media_count": 1660,
+          "tweet_count": 22568
+        },
+        "username": "nande198900",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-30T00:44:10.000Z",
+        "description": "Flâneur. Ghostwriter. Contador de historias y curiosidades. | 📚 Libros en @SelvaCanelaEd |🎙️ Hago podcasts en @HomeOPodcast | ▶️ Y videos en YouTube:",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "SelvaCanelaEd"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "HomeOPodcast"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/agustin_avenali",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/agustin_avenali",
+                "start": 0,
+                "url": "https://t.co/NmgBjrjK5X"
+              }
+            ]
+          }
+        },
+        "id": "184604955",
+        "name": "Ave",
+        "pinned_tweet_id": "1322580563086184449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1307004794591207425/8ufwkjIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8210,
+          "following_count": 1832,
+          "like_count": 261836,
+          "listed_count": 19,
+          "media_count": 8164,
+          "tweet_count": 31145
+        },
+        "url": "https://t.co/NmgBjrjK5X",
+        "username": "agustin_avenali",
+        "verified": false
+      }
+    ]
+  }
+}

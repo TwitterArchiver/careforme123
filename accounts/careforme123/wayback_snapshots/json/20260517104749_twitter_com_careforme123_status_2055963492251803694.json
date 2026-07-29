@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2055940757920362627",
+    "created_at": "2026-05-17T10:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055963492251803694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2042872504205680640",
+          "start": 0,
+          "username": "zi_zhong17043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055963492251803694",
+    "in_reply_to_user_id": "2042872504205680640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055959862329380872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zi_zhong17043 还好吧，不会强迫你干活，主要上面觉得流浪汉影响市容，都是联系家人来接回去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055940757920362627",
+        "created_at": "2026-05-17T10:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055963492251803694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2042872504205680640",
+              "start": 0,
+              "username": "zi_zhong17043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055963492251803694",
+        "in_reply_to_user_id": "2042872504205680640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055959862329380872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zi_zhong17043 还好吧，不会强迫你干活，主要上面觉得流浪汉影响市容，都是联系家人来接回去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042872504205680640",
+        "conversation_id": "2055940757920362627",
+        "created_at": "2026-05-17T10:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055959862329380872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055959862329380872",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055940757920362627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 现在的救助站是不是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055940757920362627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 577,
+          "like_count": 5669,
+          "listed_count": 6,
+          "media_count": 627,
+          "tweet_count": 2317
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T07:49:46.000Z",
+        "description": "大号@Mrzhongziyi冻结了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "Mrzhongziyi"
+              }
+            ]
+          }
+        },
+        "id": "2042872504205680640",
+        "name": "钟子奕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043957630721536000/hNn-guWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 30,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 86
+        },
+        "username": "zi_zhong17043",
+        "verified": false
+      }
+    ]
+  }
+}

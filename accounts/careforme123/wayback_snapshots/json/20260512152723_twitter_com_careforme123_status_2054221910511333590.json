@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2054217865578852526",
+    "created_at": "2026-05-12T15:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054221910511333590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054221910511333590",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054217865578852526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 李老师请雇佣我当保镖，我200斤精通泰拳，有克格勃工作经验，李老师你带我走吧😭😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2054217506823249920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIL8FGWoAA-XOE.jpg",
+        "width": 742
+      },
+      {
+        "height": 1017,
+        "media_key": "3_2054217513911631872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIL8fgWwAAChUO.jpg",
+        "width": 517
+      },
+      {
+        "height": 571,
+        "media_key": "3_2054217537223540736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIL92WWQAAcI55.png",
+        "width": 817
+      },
+      {
+        "height": 621,
+        "media_key": "3_2054217547621269505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIL-dFXAAEmrca.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054217865578852526",
+        "created_at": "2026-05-12T15:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054221910511333590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054221910511333590",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054217865578852526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 李老师请雇佣我当保镖，我200斤精通泰拳，有克格勃工作经验，李老师你带我走吧😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054217506823249920",
+            "3_2054217513911631872",
+            "3_2054217537223540736",
+            "3_2054217547621269505"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2054217865578852526",
+        "created_at": "2026-05-12T15:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054217865578852526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GW0lCkHvg",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054217865578852526/photo/1",
+              "media_key": "3_2054217506823249920",
+              "start": 95,
+              "url": "https://t.co/6GW0lCkHvg"
+            },
+            {
+              "display_url": "pic.x.com/6GW0lCkHvg",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054217865578852526/photo/1",
+              "media_key": "3_2054217513911631872",
+              "start": 95,
+              "url": "https://t.co/6GW0lCkHvg"
+            },
+            {
+              "display_url": "pic.x.com/6GW0lCkHvg",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054217865578852526/photo/1",
+              "media_key": "3_2054217537223540736",
+              "start": 95,
+              "url": "https://t.co/6GW0lCkHvg"
+            },
+            {
+              "display_url": "pic.x.com/6GW0lCkHvg",
+              "end": 118,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054217865578852526/photo/1",
+              "media_key": "3_2054217547621269505",
+              "start": 95,
+              "url": "https://t.co/6GW0lCkHvg"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2054198924127178832",
+              "start": 119,
+              "url": "https://t.co/sxQltm4csA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054217865578852526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6226,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054198924127178832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2024年9月至10月，意大利都灵。\n在中共多次向李老师及其家人威胁要“抓捕他”之后，五名中国公民对李老师住所进行了监视和拍照。\n后续的相关文件显示，这些人与当地的中国商会或学生会有关联。 https://t.co/6GW0lCkHvg https://t.co/sxQltm4csA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 536,
+          "like_count": 5378,
+          "listed_count": 5,
+          "media_count": 593,
+          "tweet_count": 2195
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219034,
+          "following_count": 1047,
+          "like_count": 9484,
+          "listed_count": 8720,
+          "media_count": 46589,
+          "tweet_count": 53695
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

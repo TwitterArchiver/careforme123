@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2055612311474405394",
+    "created_at": "2026-05-16T11:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055614627900223530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1952199689769742336",
+          "start": 0,
+          "username": "derolla_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055614627900223530",
+    "in_reply_to_user_id": "1952199689769742336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055612311474405394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@derolla_ 没有偷偷吃吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055612311474405394",
+        "created_at": "2026-05-16T11:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055614627900223530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952199689769742336",
+              "start": 0,
+              "username": "derolla_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055614627900223530",
+        "in_reply_to_user_id": "1952199689769742336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055612311474405394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@derolla_ 没有偷偷吃吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952199689769742336",
+        "conversation_id": "2055612311474405394",
+        "created_at": "2026-05-16T11:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055612311474405394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055612311474405394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "向妈妈出柜了，意外地成功\n原来我也可以是家长党吗\n但是为什么我不早点这么做，现在的身体已经变得很难看了......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055179927515984326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 564,
+          "like_count": 5624,
+          "listed_count": 6,
+          "media_count": 620,
+          "tweet_count": 2298
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-04T02:47:46.000Z",
+        "description": "你的电脑遇到问题，需要重启。\n我们只收集某些错误信息，然后你可以重新启动。\n˙\n99% 完成",
+        "id": "1952199689769742336",
+        "location": "垃圾桶",
+        "name": "德萝拉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054530568126332928/X3CRxjXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 32,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "username": "derolla_",
+        "verified": true
+      }
+    ]
+  }
+}

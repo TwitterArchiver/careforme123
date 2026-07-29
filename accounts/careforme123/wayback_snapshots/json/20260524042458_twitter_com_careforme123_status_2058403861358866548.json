@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058380087192408126",
+    "created_at": "2026-05-24T04:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058403861358866548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794617194954850304",
+          "start": 0,
+          "username": "Baixiaoming0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058403861358866548",
+    "in_reply_to_user_id": "1794617194954850304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058380087192408126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baixiaoming0707 不见郑玩什么推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058380087192408126",
+        "created_at": "2026-05-24T04:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058403861358866548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058403861358866548",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058380087192408126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming0707 不见郑玩什么推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794617194954850304",
+        "conversation_id": "2058380087192408126",
+        "created_at": "2026-05-24T02:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058380087192408126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058380087192408126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从不鉴证之后，我的粉丝数几乎停滞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 717,
+          "like_count": 6127,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 2470
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "我回归了，是本人，不是晶哥，不鉴证 | 不著名螺蛳粉与学校蛋挞爱好者 | 08年广西土著 | 简中/正體/En | 政史地亡命文科生 | 助ta们涨粉:@virtual_kaf @gen_senden @pp71294406 @IzayoiMarin @brandon94623 @oldsddl4gunmu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "gen_senden"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "pp71294406"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "IzayoiMarin"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "brandon94623"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "username": "oldsddl4gunmu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TvdkBws4WA",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TvdkBws4WA",
+                "start": 0,
+                "url": "https://t.co/XlFsCAnMQ6"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "↓discord群→",
+        "name": "白小铭",
+        "pinned_tweet_id": "1961780054662295565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 1568,
+          "like_count": 18592,
+          "listed_count": 11,
+          "media_count": 970,
+          "tweet_count": 5785
+        },
+        "url": "https://t.co/XlFsCAnMQ6",
+        "username": "Baixiaoming0707",
+        "verified": false
+      }
+    ]
+  }
+}

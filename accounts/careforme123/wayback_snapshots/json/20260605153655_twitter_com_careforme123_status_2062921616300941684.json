@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062818860500156750",
+    "created_at": "2026-06-05T15:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062921616300941684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795760823887175680",
+          "start": 0,
+          "username": "ctbz1234"
+        },
+        {
+          "end": 24,
+          "id": "1780150306447278081",
+          "start": 10,
+          "username": "Queen00850085"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062921616300941684",
+    "in_reply_to_user_id": "1795760823887175680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062916608956522573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctbz1234 @Queen00850085 不要发电"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062818860500156750",
+        "created_at": "2026-06-05T15:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062921616300941684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795760823887175680",
+              "start": 0,
+              "username": "ctbz1234"
+            },
+            {
+              "end": 24,
+              "id": "1780150306447278081",
+              "start": 10,
+              "username": "Queen00850085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062921616300941684",
+        "in_reply_to_user_id": "1795760823887175680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062916608956522573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctbz1234 @Queen00850085 不要发电"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795760823887175680",
+        "conversation_id": "2062818860500156750",
+        "created_at": "2026-06-05T15:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062916608956522573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780150306447278081",
+              "start": 0,
+              "username": "Queen00850085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062916608956522573",
+        "in_reply_to_user_id": "1780150306447278081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062818860500156750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Queen00850085 美！\n好美！\n真的美！\n真的好美！\n难道不美吗？\n怎么会那么美！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 761,
+          "like_count": 6922,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2761
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T10:15:39.000Z",
+        "description": "喜歡嘲笑世界就是一個草台班子～\n反對PUA男性。\nLuv Games. Luv Meme. Don’t like WOKE.\nLuv Noodles！",
+        "id": "1795760823887175680",
+        "location": "Hong Kong",
+        "name": "Mess",
+        "pinned_tweet_id": "2056532939249525059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053662448025210880/rLEnjMW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1416,
+          "like_count": 9045,
+          "listed_count": 5,
+          "media_count": 786,
+          "tweet_count": 6559
+        },
+        "username": "ctbz1234",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T08:25:47.000Z",
+        "description": "Living in Budapest, sharing everyday moments.   ⸻  怎么能忙碌一生，只为供养终将衰老的躯体， 却忽略了与我相伴至死的灵魂。",
+        "id": "1780150306447278081",
+        "location": "Budapest, Hungary",
+        "name": "vina in Budapest",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054930163029221376/XOqGcMTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3681,
+          "following_count": 3138,
+          "like_count": 2587,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 3688
+        },
+        "username": "Queen00850085",
+        "verified": true
+      }
+    ]
+  }
+}

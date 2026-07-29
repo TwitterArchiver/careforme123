@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053448300158935426",
+    "created_at": "2026-05-10T12:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053455109573824989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053455109573824989",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "lt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053448300158935426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq Ziduobukan"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053448300158935426",
+        "created_at": "2026-05-10T12:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053455109573824989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053455109573824989",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053448300158935426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq Ziduobukan"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2053448300158935426",
+        "created_at": "2026-05-10T12:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053448300158935426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053448300158935426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "记梦\n我家好像出什么事了\n爸妈好像在急切地讨论着什么，好像是钱马上就没有了一样。我下意识想到他们投资的那个亲戚的公司。\n我们出去吃饭。不是开车去的，而是骑着一种很奇怪的自行车。这车很矮，让我难以发力。坐在我后座的妹妹，因为后座没什么空间，只能跟我挨在一起。我们这样子骑了一段时间，走在很荒的地方，四周的建筑都是一些破烂的围墙或者废弃的烂尾楼，水泥地上有不少烟尘，路边还长着杂草。走着走着父母好像不见了。连接前轮和座位的车架上有一个连接处可以伸缩，但是这辆车因为太过老旧，伸缩处的限位失效了。一旦这样不小心让它伸出，整个车架延长，直到伸到两边车架的末端，就会滑脱，这样就彻底散开了，两边的车架只剩两根链条连在一起（不是驱动后轮的链条，而是连接两边车架的链条。）\n我生气的下了自行车，不想再骑。不知道谁出现了一下（?），她把自行车不知道怎么收了一下，然后自行车的前轮和半个车架就被不知道什么东西包起来，固定住，既不会散架，又骑不了了。\n我气愤的不知往何处开始走“没钱出来吃饭干什么？又不是急着吃。等会吃不是一样的吗？”我念叨着这句话。因为我看他们吵着什么东西，但是似乎一会就能弄好。（但似乎很难弄好）\n我看见了，前面有淋浴间。于是我脱下衣服，进去洗了个澡。清凉的水浇灭了我的愤怒。水顺着身体流下。\n衣服好像不见了，但我并没有管。我关上水，向外走去，然后我一回神，却突然走到了另一个花洒下。冰冷的水，淋得我再次回神。我看见我在房间尽头，回头发现我刚才洗的是第一个花洒，而现在走到了第二个花洒下。于是我回头向那边走，走出了门口。\n正当我思考没有衣服怎么办的时候，和这个门口紧挨的一个门口走出来一个人。那人有些诧异的看着我。“这里是男厕!”\n男厕?我思考着这句话的含义。刚刚那里不是淋浴间吗，以及这里是什么公共的，有管理的地方吗？\n“这是公共游泳池的淋浴间!”他依然诧异的看着我，好像我有什么问题。\n我有些窘迫。这时候我看见了父母在不远处。窘迫之下，衣服突然出现了，穿在我身上。然后我跟着父母走了。\n父母说要用我的支付宝。然后我的第一反应是我的支付宝里并没有什么钱。“国营单位就是搞不了这些，出麻烦就完了，还是不要用我的来搞这些了。”他好像说了这么一句话，大概是这个意思。我想起来这句话，是在他拒绝帮我搞wise时说的。\n“你给我们弄一下，然后我们就去吃饭。”\n于是我把我的手机给他们了。他们捣鼓了一会，搞好了，把手机还给我了。然而把手机递给我的时候，界面并不是支付宝。他给我介绍了两句，我才意识到这是那个公司的软件。“你看这是他们公司在建的一个地方的示意图。”\n一圈建筑沿着一个海岸伸出去，像一条条触手。而另一面一直延伸。延伸到一个河岸边，高度便像极陡的坡一样迅速的降下去。\n我看到的地图是像素风的。\n他们好像确实在mc里做了一个地图。\n我顿时看到了，立体的建筑，地形起伏，像旁观者模式一样，一路的从海湾那边，滑到海岸边。只不过是在mc里。\n“你可以进他们的服务器里玩一玩”\n我点击进入，然而需要填一张表单。我填了一些东西后，看见了性别这一栏。我顿时皱起了眉头。点开下拉栏\n男\n女\n不愿透露\n我顿时舒展了眉头，选择了不愿透露\n剩下的都是一些莫名其妙的选项，好多都看不懂，好像是让我勾选玩过的游戏。我看见了「元气骑士」，勾了那一项，然后点了进入。\n我进入了mc，乍一看周围好像就是那个地图。然后我再看了一眼，却不是。房子有破洞有蜘蛛网，一看就像是废弃村庄。我赶紧点了退出。然而却退不出去，点了退出之后又重新加载进入一张地图。\n这张地图还是这样。\n我慌乱地退出软件。然后我看见，在后台的几个应用窗口也一个个变成了那个mc世界。我急忙把它们都关掉了。\n梦醒了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记梦\n我家好像出什么事了\n爸妈好像在急切地讨论着什么，好像是钱马上就没有了一样。我下意识想到他们投资的那个亲戚的公司。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 492,
+          "like_count": 5173,
+          "listed_count": 5,
+          "media_count": 571,
+          "tweet_count": 2109
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 1623,
+          "like_count": 4869,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 3307
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

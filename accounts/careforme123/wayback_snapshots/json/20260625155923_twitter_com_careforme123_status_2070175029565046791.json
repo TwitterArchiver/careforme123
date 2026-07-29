@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2070140769378484592",
+    "created_at": "2026-06-25T15:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070175029565046791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881197678035599362",
+          "start": 0,
+          "username": "Caucasus50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070175029565046791",
+    "in_reply_to_user_id": "1881197678035599362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070159187058053311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caucasus50 你翻墙了都要活在自己的世界，我们也没啥办法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2070140769378484592",
+        "created_at": "2026-06-25T15:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070175029565046791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881197678035599362",
+              "start": 0,
+              "username": "Caucasus50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070175029565046791",
+        "in_reply_to_user_id": "1881197678035599362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070159187058053311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caucasus50 你翻墙了都要活在自己的世界，我们也没啥办法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881197678035599362",
+        "conversation_id": "2070140769378484592",
+        "created_at": "2026-06-25T14:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070159187058053311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070159187058053311",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070140769378484592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 我翻墙，就是来看看尖锐的批评，结果比墙内更尖锐的批评没见到，反而全是造谣，纯造谣。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 789,
+          "like_count": 7626,
+          "listed_count": 7,
+          "media_count": 760,
+          "tweet_count": 3020
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-20T04:31:20.000Z",
+        "description": "I urge you, drink one more cup of wine with me, Beyond the Yang Pass westward, no old friends you’ll see.",
+        "id": "1881197678035599362",
+        "name": "Friend From West",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984438800979017732/DNEtGLe9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 82,
+          "like_count": 62,
+          "listed_count": 9,
+          "media_count": 148,
+          "tweet_count": 5133
+        },
+        "url": "",
+        "username": "Caucasus50",
+        "verified": false
+      }
+    ]
+  }
+}

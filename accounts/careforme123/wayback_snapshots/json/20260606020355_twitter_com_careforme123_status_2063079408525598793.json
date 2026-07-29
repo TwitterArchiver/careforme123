@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062852064623898703",
+    "created_at": "2026-06-06T02:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063079408525598793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "13506932",
+          "start": 0,
+          "username": "kejinlu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063079408525598793",
+    "in_reply_to_user_id": "13506932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063071544121970750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kejinlu 其实全地球的人类都看得懂这图，不用你说...."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2063071411993038848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGAhMIb0AA1qoc.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062852064623898703",
+        "created_at": "2026-06-06T02:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063079408525598793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "13506932",
+              "start": 0,
+              "username": "kejinlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063079408525598793",
+        "in_reply_to_user_id": "13506932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063071544121970750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kejinlu 其实全地球的人类都看得懂这图，不用你说...."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063071411993038848"
+          ]
+        },
+        "author_id": "13506932",
+        "conversation_id": "2062852064623898703",
+        "created_at": "2026-06-06T01:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063071544121970750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFJ8eGxOyR",
+              "end": 68,
+              "expanded_url": "https://x.com/kejinlu/status/2063071544121970750/photo/1",
+              "media_key": "3_2063071411993038848",
+              "start": 45,
+              "url": "https://t.co/eFJ8eGxOyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063071544121970750",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062852064623898703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 特么的不能多做几套图吗，全特么的用一张图，日本外务省太抠了。 https://t.co/eFJ8eGxOyR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 765,
+          "like_count": 6947,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2767
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2008-02-15T07:16:31.000Z",
+        "description": "Mac,iOS开发",
+        "id": "13506932",
+        "location": "shanghai",
+        "name": "Luke",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/583185760477564928/aGM4yKfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 184,
+          "like_count": 776,
+          "listed_count": 13,
+          "media_count": 149,
+          "tweet_count": 2878
+        },
+        "username": "kejinlu",
+        "verified": false
+      }
+    ]
+  }
+}

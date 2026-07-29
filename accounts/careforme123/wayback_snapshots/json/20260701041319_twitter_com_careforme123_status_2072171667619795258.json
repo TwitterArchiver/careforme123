@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2072171667619795258",
+    "created_at": "2026-07-01T04:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072171667619795258"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072171667619795258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "共同富裕，先富带动后富？只有北欧做到了\n\n挪威的基尼系数是0.24，这个数据代表着财富极大地向劳动者倾斜，而不是向资本拥有者，高管的收入和外卖员只有2到4倍差距\n\n中国的基尼系数长期没有公布，但西南财大的研究说是0.61，这代表着极端不平等。最有钱的5%，拿走了全社会60%以上的收入\n\n哦对了，吃人不吐骨头的资本主义美国，基尼系数也只有0.48\n\n结合现实，有钱人的财富在靠理财指数级上涨，老百姓还在对抗通胀....\n\n在这么大的贫富差距下，中国人们信仰社会达尔文主义也就不奇怪了：你穷是因为你不努力，不好好学习，活该！\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "共同富裕，先富带动后富？只有北欧做到了\n\n挪威的基尼系数是0.24，这个数据代表着财富极大地向劳动者倾斜，而不是向资本拥有者，高管的收入和外卖员只有2到4倍差距\n\n中国的基尼系数长期没有公布，但西南财大的研究说是0.61，这代表着极端不平等。最有钱的5%，拿走了全社会60%以上的收入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2072171667619795258",
+        "created_at": "2026-07-01T04:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072171667619795258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072171667619795258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "共同富裕，先富带动后富？只有北欧做到了\n\n挪威的基尼系数是0.24，这个数据代表着财富极大地向劳动者倾斜，而不是向资本拥有者，高管的收入和外卖员只有2到4倍差距\n\n中国的基尼系数长期没有公布，但西南财大的研究说是0.61，这代表着极端不平等。最有钱的5%，拿走了全社会60%以上的收入\n\n哦对了，吃人不吐骨头的资本主义美国，基尼系数也只有0.48\n\n结合现实，有钱人的财富在靠理财指数级上涨，老百姓还在对抗通胀....\n\n在这么大的贫富差距下，中国人们信仰社会达尔文主义也就不奇怪了：你穷是因为你不努力，不好好学习，活该！\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "共同富裕，先富带动后富？只有北欧做到了\n\n挪威的基尼系数是0.24，这个数据代表着财富极大地向劳动者倾斜，而不是向资本拥有者，高管的收入和外卖员只有2到4倍差距\n\n中国的基尼系数长期没有公布，但西南财大的研究说是0.61，这代表着极端不平等。最有钱的5%，拿走了全社会60%以上的收入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 789,
+          "like_count": 7711,
+          "listed_count": 8,
+          "media_count": 771,
+          "tweet_count": 3050
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

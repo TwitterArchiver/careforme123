@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059929266540732421"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447598669843156992",
+          "name": "Translation"
+        }
+      }
+    ],
+    "conversation_id": "2059929316822032891",
+    "created_at": "2026-05-28T09:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059929316822032891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yDnA7cWWtX",
+          "end": 133,
+          "expanded_url": "https://x.com/careforme123/status/2059929316822032891/photo/1",
+          "media_key": "3_2059929266540732421",
+          "start": 110,
+          "url": "https://t.co/yDnA7cWWtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059929316822032891",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "seems like X has enabled automatic translation now\n\nmy fellas, has my post been translated into Chinese by X? https://t.co/yDnA7cWWtX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2059929266540732421",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZWwQKXYAUjAt0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059929266540732421"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2059929316822032891",
+        "created_at": "2026-05-28T09:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059929316822032891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDnA7cWWtX",
+              "end": 133,
+              "expanded_url": "https://x.com/careforme123/status/2059929316822032891/photo/1",
+              "media_key": "3_2059929266540732421",
+              "start": 110,
+              "url": "https://t.co/yDnA7cWWtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059929316822032891",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "seems like X has enabled automatic translation now\n\nmy fellas, has my post been translated into Chinese by X? https://t.co/yDnA7cWWtX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人🚸，现居日本大阪，爱党爱国🇨🇳，常来宛平南路600号🏥，曾因偷吃桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 741,
+          "like_count": 6469,
+          "listed_count": 5,
+          "media_count": 665,
+          "tweet_count": 2603
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

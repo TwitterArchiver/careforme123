@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054055221828227072"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2054055227717030094",
+    "created_at": "2026-05-12T04:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T05:23:52.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054054929170637268",
+      "2054055227717030094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Bpr2MYoS0",
+          "end": 178,
+          "expanded_url": "https://x.com/careforme123/status/2054055227717030094/photo/1",
+          "media_key": "3_2054055221828227072",
+          "start": 155,
+          "url": "https://t.co/8Bpr2MYoS0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054055227717030094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天给大家科普芙宁娜娜公式\n\n1.卧槽，出大事了！\n\n2.听说了吗？发现了吗？\n\n3.这是xxx今天的午餐,xxx吃得起吗？（配一张盗的食品图片）\n\n4. xxx：\n\n5如果xxx给你一个这样的女朋友，你还会反xxx吗？（配一张美女图\n\n6.我的舅舅/爸爸/亲戚/妹妹说：\n\n7，xxx（19xx-2026） https://t.co/8Bpr2MYoS0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2054055221828227072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIF4V2YbkAAMZc-.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054054929170637268",
+        "created_at": "2026-05-12T04:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:23:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054054929170637268",
+          "2054055227717030094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054054929170637268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天给大家科普芙宁娜娜公式\n\n1.卧槽，出大事了！\n\n2.听说了吗？发现了吗？\n\n3.这是xxx今天的午餐,xxx吃得起吗？（配一张盗的食品图片）\n\n4. xxx：\n\n5如果xxx给你一个这样的女朋友，你还会反xxx吗？（配一张美女图\n\n6.我的舅舅/爸爸/亲戚/妹妹说：\n\n7，xxx（19xx-2026）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054055221828227072"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054055227717030094",
+        "created_at": "2026-05-12T04:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:23:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054054929170637268",
+          "2054055227717030094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Bpr2MYoS0",
+              "end": 178,
+              "expanded_url": "https://x.com/careforme123/status/2054055227717030094/photo/1",
+              "media_key": "3_2054055221828227072",
+              "start": 155,
+              "url": "https://t.co/8Bpr2MYoS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054055227717030094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天给大家科普芙宁娜娜公式\n\n1.卧槽，出大事了！\n\n2.听说了吗？发现了吗？\n\n3.这是xxx今天的午餐,xxx吃得起吗？（配一张盗的食品图片）\n\n4. xxx：\n\n5如果xxx给你一个这样的女朋友，你还会反xxx吗？（配一张美女图\n\n6.我的舅舅/爸爸/亲戚/妹妹说：\n\n7，xxx（19xx-2026） https://t.co/8Bpr2MYoS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 530,
+          "like_count": 5321,
+          "listed_count": 5,
+          "media_count": 585,
+          "tweet_count": 2172
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

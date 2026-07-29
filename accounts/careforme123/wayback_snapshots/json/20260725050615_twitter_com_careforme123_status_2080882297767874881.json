@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2080663006883815480",
+    "created_at": "2026-07-25T05:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080882297767874881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057147601712283648",
+          "start": 0,
+          "username": "Miogotyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080882297767874881",
+    "in_reply_to_user_id": "2057147601712283648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080796897179255234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miogotyou 这是啥电影"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 971,
+        "media_key": "3_2080796892846510080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOB5v9_aUAA3QQW.jpg",
+        "width": 1619
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2080663006883815480",
+        "created_at": "2026-07-25T05:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080882297767874881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057147601712283648",
+              "start": 0,
+              "username": "Miogotyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080882297767874881",
+        "in_reply_to_user_id": "2057147601712283648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080796897179255234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miogotyou 这是啥电影"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080796892846510080"
+          ]
+        },
+        "author_id": "2057147601712283648",
+        "conversation_id": "2080663006883815480",
+        "created_at": "2026-07-24T23:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080796897179255234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uB36Ms4gCD",
+              "end": 87,
+              "expanded_url": "https://x.com/Miogotyou/status/2080796897179255234/photo/1",
+              "media_key": "3_2080796892846510080",
+              "start": 64,
+              "url": "https://t.co/uB36Ms4gCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080796897179255234",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080663006883815480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 Password is anti communism for 10,000 years\n\n谢谢大家 https://t.co/uB36Ms4gCD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 798,
+          "like_count": 7859,
+          "listed_count": 8,
+          "media_count": 818,
+          "tweet_count": 3152
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-20T17:14:15.000Z",
+        "description": "",
+        "id": "2057147601712283648",
+        "name": "Mio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057148146753675265/WOcdhyE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 4,
+          "like_count": 450,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 802
+        },
+        "url": "",
+        "username": "Miogotyou",
+        "verified": false
+      }
+    ]
+  }
+}

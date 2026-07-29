@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2059620636796797045",
+    "created_at": "2026-05-27T13:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059623853467251084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059623853467251084",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059620636796797045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 好像有个恐怖电影叫食人鱼，里面有一个场景就是逃跑的头被这种风筝线勒掉了😫😫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2059280538884587521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQIvVUXQAEGu4l.jpg",
+        "width": 1080
+      },
+      {
+        "height": 731,
+        "media_key": "3_2059280564792807424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQIw11XUAAmv81.jpg",
+        "width": 891
+      },
+      {
+        "height": 733,
+        "media_key": "3_2059280576281006080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQIxgoXUAAZ8CI.jpg",
+        "width": 934
+      },
+      {
+        "height": 583,
+        "media_key": "3_2059280581855240192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQIx1ZXYAAnFCh.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2059620636796797045",
+        "created_at": "2026-05-27T13:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059623853467251084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059623853467251084",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059620636796797045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 好像有个恐怖电影叫食人鱼，里面有一个场景就是逃跑的头被这种风筝线勒掉了😫😫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059280538884587521",
+            "3_2059280564792807424",
+            "3_2059280576281006080",
+            "3_2059280581855240192"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2059620636796797045",
+        "created_at": "2026-05-27T13:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059620636796797045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHvUxQzaEK",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2059620636796797045/photo/1",
+              "media_key": "3_2059280538884587521",
+              "start": 127,
+              "url": "https://t.co/AHvUxQzaEK"
+            },
+            {
+              "display_url": "pic.x.com/AHvUxQzaEK",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2059620636796797045/photo/1",
+              "media_key": "3_2059280564792807424",
+              "start": 127,
+              "url": "https://t.co/AHvUxQzaEK"
+            },
+            {
+              "display_url": "pic.x.com/AHvUxQzaEK",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2059620636796797045/photo/1",
+              "media_key": "3_2059280576281006080",
+              "start": 127,
+              "url": "https://t.co/AHvUxQzaEK"
+            },
+            {
+              "display_url": "pic.x.com/AHvUxQzaEK",
+              "end": 150,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2059620636796797045/photo/1",
+              "media_key": "3_2059280581855240192",
+              "start": 127,
+              "url": "https://t.co/AHvUxQzaEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059620636796797045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "据《潮新闻》报道，近日，杭州复兴大桥下层非机动车道发生一起骑行者被细线勒颈事件。\n\n晚上10点多，一名女子和朋友骑电瓶车过江，行至桥身约一半处时，脖子突然被一根极细的不明线勒住，朋友随后帮她把线拽断。\n\n报道中称，当事人未伤及喉管，但回家后颈部仍疼痛。\n\n报道还提到，事发路段夜间有人在桥上垂钓，当事人称当晚看到至少20人，评论区也有多人反映复兴大桥存在鱼竿、钓具占道情况。\n\n5月25日晚9点30分，记者实地探访时仍看到有人在桥侧垂钓。\n\n杭州市上城区南星街道综合行政执法队负责人表示，复兴大桥下层非机动车道确实存在违规垂钓情况，街道和区局已安排巡查和值守，并将加大夜间管控、联合交警整治桥面秩序。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3076,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "据《潮新闻》报道，近日，杭州复兴大桥下层非机动车道发生一起骑行者被细线勒颈事件。\n\n晚上10点多，一名女子和朋友骑电瓶车过江，行至桥身约一半处时，脖子突然被一根极细的不明线勒住，朋友随后帮她把线拽断。\n\n报道中称，当事人未伤及喉管，但回家后颈部仍疼痛。 https://t.co/AHvUxQzaEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人🚸，现居日本大阪，爱党爱国🇨🇳，常来宛平南路600号🏥，曾因偷吃桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 738,
+          "like_count": 6429,
+          "listed_count": 5,
+          "media_count": 662,
+          "tweet_count": 2592
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234522,
+          "following_count": 1065,
+          "like_count": 9596,
+          "listed_count": 8777,
+          "media_count": 47497,
+          "tweet_count": 54628
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

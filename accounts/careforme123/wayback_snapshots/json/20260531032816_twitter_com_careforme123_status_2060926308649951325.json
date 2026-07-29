@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060926262722359296"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060926308649951325",
+    "created_at": "2026-05-31T03:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T04:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060926308649951325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dBQhGWaFMv",
+          "end": 153,
+          "expanded_url": "https://x.com/careforme123/status/2060926308649951325/photo/1",
+          "media_key": "3_2060926262722359296",
+          "start": 130,
+          "url": "https://t.co/dBQhGWaFMv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060926308649951325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "什么？你喜欢俄罗斯？\n\n俄罗斯是历史上割占中国领土最多的国家，且大部分领土并没有在现代通过外交手段回归中国\n\n早在晚清，俄罗斯就侵占中国东北，西北地区150万平方公里，至今没有归还\n\n抗战时，俄罗斯不断在东北抢走大量东北工业设施，在各大城市杀害平民，强奸妇女\n\n甚至在抗战结束前，俄罗斯还推动了外蒙古的独立建国，让中国又失去100多万平方公里的土地，同时资助新疆叛乱，让中国人成为被屠杀的对象\n\n更别提海兰泡等地，数不清的针对中国人的种族屠杀了\n\n天天把日本鬼子挂在嘴边的人，可别忘了俄罗斯鬼子呀！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么？你喜欢俄罗斯？\n\n俄罗斯是历史上割占中国领土最多的国家，且大部分领土并没有在现代通过外交手段回归中国\n\n早在晚清，俄罗斯就侵占中国东北，西北地区150万平方公里，至今没有归还\n\n抗战时，俄罗斯不断在东北抢走大量东北工业设施，在各大城市杀害平民，强奸妇女 https://t.co/dBQhGWaFMv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "3_2060926262722359296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnhhEXW8AA_ZPT.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060926262722359296"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060926308649951325",
+        "created_at": "2026-05-31T03:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060926308649951325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dBQhGWaFMv",
+              "end": 153,
+              "expanded_url": "https://x.com/careforme123/status/2060926308649951325/photo/1",
+              "media_key": "3_2060926262722359296",
+              "start": 130,
+              "url": "https://t.co/dBQhGWaFMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060926308649951325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "什么？你喜欢俄罗斯？\n\n俄罗斯是历史上割占中国领土最多的国家，且大部分领土并没有在现代通过外交手段回归中国\n\n早在晚清，俄罗斯就侵占中国东北，西北地区150万平方公里，至今没有归还\n\n抗战时，俄罗斯不断在东北抢走大量东北工业设施，在各大城市杀害平民，强奸妇女\n\n甚至在抗战结束前，俄罗斯还推动了外蒙古的独立建国，让中国又失去100多万平方公里的土地，同时资助新疆叛乱，让中国人成为被屠杀的对象\n\n更别提海兰泡等地，数不清的针对中国人的种族屠杀了\n\n天天把日本鬼子挂在嘴边的人，可别忘了俄罗斯鬼子呀！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么？你喜欢俄罗斯？\n\n俄罗斯是历史上割占中国领土最多的国家，且大部分领土并没有在现代通过外交手段回归中国\n\n早在晚清，俄罗斯就侵占中国东北，西北地区150万平方公里，至今没有归还\n\n抗战时，俄罗斯不断在东北抢走大量东北工业设施，在各大城市杀害平民，强奸妇女 https://t.co/dBQhGWaFMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 739,
+          "like_count": 6549,
+          "listed_count": 5,
+          "media_count": 672,
+          "tweet_count": 2638
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

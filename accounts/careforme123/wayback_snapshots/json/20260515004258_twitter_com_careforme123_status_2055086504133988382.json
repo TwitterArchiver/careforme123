@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2055086504133988382",
+    "created_at": "2026-05-15T00:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T01:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055086504133988382"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055086504133988382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听说了吗？\n\n在川普和特朗普会谈的两小时里，两人屏退所有随从，高官单独密谈近1小时。\n\n他们谈了什么，有没有人知道？\r🤔🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055086504133988382",
+        "created_at": "2026-05-15T00:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055086504133988382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055086504133988382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说了吗？\n\n在川普和特朗普会谈的两小时里，两人屏退所有随从，高官单独密谈近1小时。\n\n他们谈了什么，有没有人知道？\r🤔🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 551,
+          "like_count": 5508,
+          "listed_count": 6,
+          "media_count": 610,
+          "tweet_count": 2253
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

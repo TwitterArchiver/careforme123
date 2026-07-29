@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2060609149671809337",
+    "created_at": "2026-05-30T06:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060612078054842781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/careforme123/s…",
+          "end": 46,
+          "expanded_url": "https://x.com/careforme123/status/2060609504522191207?s=20",
+          "start": 23,
+          "url": "https://t.co/WgkF8zVX8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060612078054842781",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060609504522191207",
+        "type": "quoted"
+      },
+      {
+        "id": "2060609149671809337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 代表文明的品牌https://t.co/WgkF8zVX8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16253,
+        "height": 1080,
+        "media_key": "13_2060608116576694276",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060608116576694276/img/zX_omtvaJNFG9_XY.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060608116576694276/vid/avc1/1080x1080/suTUuPC6CBw4CX2a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060608116576694276/pl/iYvOS8OwD5bMKQoD.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060608116576694276/vid/avc1/320x320/2fTQYFc0sKgFZvgZ.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060608116576694276/vid/avc1/720x720/E8azGr7xKYN8MdxN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060608116576694276/vid/avc1/540x540/AhdEi0dwZa-HKdXy.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 253865,
+        "height": 720,
+        "media_key": "13_2060593523947458560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060593523947458560/img/AJJfurNQaVeRPNCp.jpg",
+        "public_metrics": {
+          "view_count": 1518
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060593523947458560/vid/avc1/480x270/hrj6JboedfjsaikC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060593523947458560/vid/avc1/640x360/Ih05z9OBZXA8_Tr0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060593523947458560/vid/avc1/1280x720/XiBq2QxNMrOyB4DO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060593523947458560/pl/7oyRK4WYg0Ef89gI.m3u8?v=b1e"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2060609149671809337",
+        "created_at": "2026-05-30T06:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060612078054842781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/careforme123/s…",
+              "end": 46,
+              "expanded_url": "https://x.com/careforme123/status/2060609504522191207?s=20",
+              "start": 23,
+              "url": "https://t.co/WgkF8zVX8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060612078054842781",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060609504522191207",
+            "type": "quoted"
+          },
+          {
+            "id": "2060609149671809337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 代表文明的品牌https://t.co/WgkF8zVX8f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060608116576694276"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2060609504522191207",
+        "created_at": "2026-05-30T06:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060609504522191207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJnETdUedz",
+              "end": 94,
+              "expanded_url": "https://x.com/careforme123/status/2060609504522191207/video/1",
+              "media_key": "13_2060608116576694276",
+              "start": 71,
+              "url": "https://t.co/wJnETdUedz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060609504522191207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国网友发现，特斯拉的自动驾驶会自动识别并避让救护车\n\n户晨风说的从来没错：买车就选特斯拉，手机就用苹果，超市就选山姆。毕竟这些企业代表文明 https://t.co/wJnETdUedz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060593523947458560"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060609149671809337",
+        "created_at": "2026-05-30T06:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060609149671809337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KXtgXrHbMW",
+              "end": 80,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2060609149671809337/video/1",
+              "media_key": "13_2060593523947458560",
+              "start": 57,
+              "url": "https://t.co/KXtgXrHbMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060609149671809337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3706,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5月21日，特斯拉FSD在中国正式获得审批\n有博主展现满血版特斯拉自动驾驶功能，在大雾的山间悬崖小路上的惊人操作 https://t.co/KXtgXrHbMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 739,
+          "like_count": 6505,
+          "listed_count": 5,
+          "media_count": 667,
+          "tweet_count": 2622
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234949,
+          "following_count": 1069,
+          "like_count": 9609,
+          "listed_count": 8781,
+          "media_count": 47633,
+          "tweet_count": 54773
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

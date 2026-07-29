@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062462638416678912"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062462907271516659",
+    "created_at": "2026-06-04T09:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062462907271516659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7RAiGpE3Mz",
+          "end": 119,
+          "expanded_url": "https://x.com/careforme123/status/2062462907271516659/photo/1",
+          "media_key": "3_2062462638416678912",
+          "start": 96,
+          "url": "https://t.co/7RAiGpE3Mz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062462907271516659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们绝不倒下\n\n让刽子手显得高大\n\n好阻挡那自由的风\n\n                                                                —北岛 https://t.co/7RAiGpE3Mz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 401,
+        "media_key": "3_2062462638416678912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9W151XUAAJD46.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062462638416678912"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062462907271516659",
+        "created_at": "2026-06-04T09:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062462907271516659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RAiGpE3Mz",
+              "end": 119,
+              "expanded_url": "https://x.com/careforme123/status/2062462907271516659/photo/1",
+              "media_key": "3_2062462638416678912",
+              "start": 96,
+              "url": "https://t.co/7RAiGpE3Mz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062462907271516659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们绝不倒下\n\n让刽子手显得高大\n\n好阻挡那自由的风\n\n                                                                —北岛 https://t.co/7RAiGpE3Mz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 742,
+          "like_count": 6785,
+          "listed_count": 5,
+          "media_count": 693,
+          "tweet_count": 2723
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

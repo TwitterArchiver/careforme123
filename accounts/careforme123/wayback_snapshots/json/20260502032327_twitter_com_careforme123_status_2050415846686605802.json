@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050402661695115603",
+    "created_at": "2026-05-02T03:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T04:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050415846686605802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "704534947",
+          "start": 0,
+          "username": "Fengyi1811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050415846686605802",
+    "in_reply_to_user_id": "704534947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050402661695115603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fengyi1811 长得没我帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27145,
+        "height": 1280,
+        "media_key": "7_2050402616455421952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050402616455421952/pu/img/E7NUBGIctP1rlg7F.jpg",
+        "public_metrics": {
+          "view_count": 56
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050402616455421952/pu/vid/avc1/320x568/o0_FtiSgptyxQYUs.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050402616455421952/pu/vid/avc1/480x852/vc0QNIHyJOUwSeTG.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050402616455421952/pu/vid/avc1/720x1280/Jw27W9TQqz_I58qA.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050402616455421952/pu/pl/fU7rxJI5NO6_yobu.m3u8?tag=25"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 720,
+        "media_key": "3_2050402620809109504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR-UfPbYAAweHZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1761,
+        "media_key": "3_2050402623719907328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR-UqFaoAATRw8.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050402661695115603",
+        "created_at": "2026-05-02T03:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050415846686605802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "704534947",
+              "start": 0,
+              "username": "Fengyi1811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050415846686605802",
+        "in_reply_to_user_id": "704534947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050402661695115603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fengyi1811 长得没我帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050402616455421952",
+            "3_2050402620809109504",
+            "3_2050402623719907328"
+          ]
+        },
+        "author_id": "704534947",
+        "conversation_id": "2050402661695115603",
+        "created_at": "2026-05-02T02:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050402661695115603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/761DMo87M2",
+              "end": 59,
+              "expanded_url": "https://x.com/Fengyi1811/status/2050402661695115603/video/1",
+              "media_key": "7_2050402616455421952",
+              "start": 36,
+              "url": "https://t.co/761DMo87M2"
+            },
+            {
+              "display_url": "pic.x.com/761DMo87M2",
+              "end": 59,
+              "expanded_url": "https://x.com/Fengyi1811/status/2050402661695115603/video/1",
+              "media_key": "3_2050402620809109504",
+              "start": 36,
+              "url": "https://t.co/761DMo87M2"
+            },
+            {
+              "display_url": "pic.x.com/761DMo87M2",
+              "end": 59,
+              "expanded_url": "https://x.com/Fengyi1811/status/2050402661695115603/video/1",
+              "media_key": "3_2050402623719907328",
+              "start": 36,
+              "url": "https://t.co/761DMo87M2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2050402661695115603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "郭俊辰主演的《杀人真相》开机，这名字有点意味深长，到底是要讲什么故事？ https://t.co/761DMo87M2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 380,
+          "like_count": 4621,
+          "listed_count": 5,
+          "media_count": 522,
+          "tweet_count": 1906
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-19T06:58:18.000Z",
+        "description": "追求免于恐惧的自由",
+        "id": "704534947",
+        "location": "台灣",
+        "name": "Gavinly",
+        "pinned_tweet_id": "2048811488446673291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880929955141627904/7zHyRka8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15241,
+          "following_count": 4114,
+          "like_count": 9833,
+          "listed_count": 36,
+          "media_count": 1374,
+          "tweet_count": 6100
+        },
+        "username": "Fengyi1811",
+        "verified": true
+      }
+    ]
+  }
+}

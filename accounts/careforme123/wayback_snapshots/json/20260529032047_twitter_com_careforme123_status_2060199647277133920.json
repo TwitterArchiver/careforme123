@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2060194420897562985",
+    "created_at": "2026-05-29T03:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060199647277133920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060199647277133920",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060194420897562985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 德国人禽兽还是见的太少了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 734,
+        "media_key": "3_2059837785939611648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYDjYXbkAAveb5.jpg",
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2060194420897562985",
+        "created_at": "2026-05-29T03:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060199647277133920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060199647277133920",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060194420897562985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 德国人禽兽还是见的太少了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059837785939611648"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2060194420897562985",
+        "created_at": "2026-05-29T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060194420897562985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4j7Uye5Qp",
+              "end": 73,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2060194420897562985/photo/1",
+              "media_key": "3_2059837785939611648",
+              "start": 50,
+              "url": "https://t.co/m4j7Uye5Qp"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2050183461030510876",
+              "start": 74,
+              "url": "https://t.co/kmE576fcSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060194420897562985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月24日，据德国媒体报道，德国政府正推动针对“迷药性侵”的刑法修订，拟大幅提高相关犯罪量刑标准。\n\n报道称，德国联邦政府已于2026年5月13日通过刑法修正草案。根据草案内容，未来若犯罪嫌疑人使用“K.O.迷药”等危险手段实施性侵、抢劫等犯罪，将被视同“使用武器或危险工具”的加重情节处理，最低刑期拟由原本的3年提高至5年。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5444,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050183461030510876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月24日，据德国媒体报道，德国政府正推动针对“迷药性侵”的刑法修订，拟大幅提高相关犯罪量刑标准。 https://t.co/m4j7Uye5Qp https://t.co/kmE576fcSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 742,
+          "like_count": 6496,
+          "listed_count": 5,
+          "media_count": 665,
+          "tweet_count": 2615
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234746,
+          "following_count": 1068,
+          "like_count": 9605,
+          "listed_count": 8781,
+          "media_count": 47575,
+          "tweet_count": 54713
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

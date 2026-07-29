@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2057834847356469326",
+    "created_at": "2026-05-22T15:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057849656353124473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057849656353124473",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057834847356469326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeikuhakushi 试问谁还未发声\n都舍我其谁卫我城"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2057834847356469326",
+        "created_at": "2026-05-22T15:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057849656353124473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057849656353124473",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057834847356469326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 试问谁还未发声\n都舍我其谁卫我城"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2057834847356469326",
+        "created_at": "2026-05-22T14:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057834847356469326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057834847356469326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "何以 這土地 淚再流\n何以 令眾人 亦憤恨\n昂首 拒默沉 吶喊聲 響透\n盼自由 歸於 這裏\n​何以 這恐懼 抹不走\n何以 為信念 從沒退後\n何解 血在流 但邁進聲 響透\n建自由 光輝 香港\n​在晚星 墜落 徬徨午夜\n迷霧裏 最遠處吹來 號角聲\n捍自由 來齊集這裡 來全力抗對\n勇氣 智慧 也永不滅\n​黎明來到 要光復 這香港\n同行兒女 為正義 時代革命\n祈求 民主與自由 萬世都不朽\n我願榮光歸香港"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何以 這土地 淚再流\n何以 令眾人 亦憤恨\n昂首 拒默沉 吶喊聲 響透\n盼自由 歸於 這裏\n​何以 這恐懼 抹不走\n何以 為信念 從沒退後\n何解 血在流 但邁進聲 響透\n建自由 光輝 香港\n​在晚星 墜落 徬徨午夜\n迷霧裏 最遠處吹來 號角聲\n捍自由 來齊集這裡 來全力抗對\n勇氣 智慧 也永不滅\n​黎明來到 要光復"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2057803220441760194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 698,
+          "like_count": 6016,
+          "listed_count": 6,
+          "media_count": 646,
+          "tweet_count": 2445
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 355,
+          "like_count": 12163,
+          "listed_count": 4,
+          "media_count": 814,
+          "tweet_count": 3926
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

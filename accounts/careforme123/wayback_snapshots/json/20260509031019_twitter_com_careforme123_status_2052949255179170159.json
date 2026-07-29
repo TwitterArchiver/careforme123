@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2052949255179170159",
+    "created_at": "2026-05-09T03:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052949255179170159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/smiroyama/status/2052940245415661948",
+          "start": 126,
+          "url": "https://t.co/1G9br0nDlc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052949255179170159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052940245415661948",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "多　　起　　分　　每　且　　行　\n　营　段　　像　　为　　累　　什\n看　　一　　多　　销　次　　文\n　好　　少　　么　　分　　来　好\n段　　而　　都　　字　　累　　空\n　喜　　这　　又　　号　　很　\n样　　每　　啊　　段　　的　　欢\n　都　　好　　累 https://t.co/1G9br0nDlc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2052949255179170159",
+        "created_at": "2026-05-09T03:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052949255179170159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/smiroyama/status/2052940245415661948",
+              "start": 126,
+              "url": "https://t.co/1G9br0nDlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052949255179170159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052940245415661948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多　　起　　分　　每　且　　行　\n　营　段　　像　　为　　累　　什\n看　　一　　多　　销　次　　文\n　好　　少　　么　　分　　来　好\n段　　而　　都　　字　　累　　空\n　喜　　这　　又　　号　　很　\n样　　每　　啊　　段　　的　　欢\n　都　　好　　累 https://t.co/1G9br0nDlc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2052940245415661948",
+        "created_at": "2026-05-09T02:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052940245415661948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2052920871346692267",
+              "start": 74,
+              "url": "https://t.co/J2Bjt8C7Vy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052940245415661948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052920871346692267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么 好多 营销 号\n\n都 喜欢 像这样\n\n每次 分段 都 空一行\n\n而且 每一段 的 文字 很少\n\n分的 段 又很多\n\n看起来 好累 好累 啊 https://t.co/J2Bjt8C7Vy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2052673804934238647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 456,
+          "like_count": 4994,
+          "listed_count": 5,
+          "media_count": 557,
+          "tweet_count": 2049
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4629,
+          "following_count": 2189,
+          "like_count": 10533,
+          "listed_count": 13,
+          "media_count": 1538,
+          "tweet_count": 6209
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

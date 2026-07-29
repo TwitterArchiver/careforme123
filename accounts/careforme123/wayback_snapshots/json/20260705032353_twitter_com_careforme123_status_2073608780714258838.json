@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073606999221420032",
+        "3_2073607971066777600"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073608780714258838",
+    "created_at": "2026-07-05T03:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073608780714258838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cvEHDidwc6",
+          "end": 112,
+          "expanded_url": "https://x.com/careforme123/status/2073608780714258838/photo/1",
+          "media_key": "3_2073606999221420032",
+          "start": 89,
+          "url": "https://t.co/cvEHDidwc6"
+        },
+        {
+          "display_url": "pic.x.com/cvEHDidwc6",
+          "end": 112,
+          "expanded_url": "https://x.com/careforme123/status/2073608780714258838/photo/1",
+          "media_key": "3_2073607971066777600",
+          "start": 89,
+          "url": "https://t.co/cvEHDidwc6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073608780714258838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "4年了，我就想问一句：普京，你后悔吗？\n\n乌克兰的攻击不会停止，你这个独裁者与侵略者，会受到最严厉的神罚。等你输掉战争的那一天，你的敌对派系会清算你，你准备好被软禁一辈子了吗？ https://t.co/cvEHDidwc6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_2073606999221420032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbulFBbQAAO2mk.jpg",
+        "width": 983
+      },
+      {
+        "height": 803,
+        "media_key": "3_2073607971066777600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbvdpbakAA3Hv3.png",
+        "width": 491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073606999221420032",
+            "3_2073607971066777600"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073608780714258838",
+        "created_at": "2026-07-05T03:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073608780714258838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cvEHDidwc6",
+              "end": 112,
+              "expanded_url": "https://x.com/careforme123/status/2073608780714258838/photo/1",
+              "media_key": "3_2073606999221420032",
+              "start": 89,
+              "url": "https://t.co/cvEHDidwc6"
+            },
+            {
+              "display_url": "pic.x.com/cvEHDidwc6",
+              "end": 112,
+              "expanded_url": "https://x.com/careforme123/status/2073608780714258838/photo/1",
+              "media_key": "3_2073607971066777600",
+              "start": 89,
+              "url": "https://t.co/cvEHDidwc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073608780714258838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4年了，我就想问一句：普京，你后悔吗？\n\n乌克兰的攻击不会停止，你这个独裁者与侵略者，会受到最严厉的神罚。等你输掉战争的那一天，你的敌对派系会清算你，你准备好被软禁一辈子了吗？ https://t.co/cvEHDidwc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 788,
+          "like_count": 7772,
+          "listed_count": 8,
+          "media_count": 788,
+          "tweet_count": 3084
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

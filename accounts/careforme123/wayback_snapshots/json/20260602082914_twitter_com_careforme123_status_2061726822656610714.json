@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061685020792897980",
+    "created_at": "2026-06-02T08:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061726822656610714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061726822656610714",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061685020792897980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal 看笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2040,
+        "media_key": "3_2061684919689252864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyTgtzbkAAliWK.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061685020792897980",
+        "created_at": "2026-06-02T08:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061726822656610714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061726822656610714",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061685020792897980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 看笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061684919689252864"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "conversation_id": "2061685020792897980",
+        "created_at": "2026-06-02T05:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061685020792897980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pO4D3ufSm",
+              "end": 41,
+              "expanded_url": "https://x.com/suishoucrystal/status/2061685020792897980/photo/1",
+              "media_key": "3_2061684919689252864",
+              "start": 18,
+              "url": "https://t.co/7pO4D3ufSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061685020792897980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是没吸取教训\n支持马斯克抓紧整顿 https://t.co/7pO4D3ufSm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 742,
+          "like_count": 6671,
+          "listed_count": 5,
+          "media_count": 684,
+          "tweet_count": 2683
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+ビッグデータ専攻 JPOP夢中 @AORINGOHUZIN ファン🍏🌗友跨，中推圈锐评家🌗钻研 社会与经济/跨境支付与投资，稳定币保本理财高手 我的跨境圈引路人:@bailyLU 我出色的老乡:@realNyarime 挚友：@aoim33 @YongQuan @CyberKanjousen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "AORINGOHUZIN"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "bailyLU"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "realNyarime"
+              },
+              {
+                "end": 124,
+                "start": 117,
+                "username": "aoim33"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "YongQuan"
+              },
+              {
+                "end": 150,
+                "start": 135,
+                "username": "CyberKanjousen"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル",
+        "pinned_tweet_id": "2059949086720319970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1401,
+          "like_count": 1594,
+          "listed_count": 4,
+          "media_count": 311,
+          "tweet_count": 3928
+        },
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

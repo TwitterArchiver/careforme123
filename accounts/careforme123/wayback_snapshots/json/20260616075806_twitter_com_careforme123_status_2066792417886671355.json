@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2066791618624315466",
+    "created_at": "2026-06-16T07:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066792417886671355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009025613592674304",
+          "start": 0,
+          "username": "JoeKevin84824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066792417886671355",
+    "in_reply_to_user_id": "2009025613592674304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066792183445991611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoeKevin84824 你的智商检测通过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2066791618624315466",
+        "created_at": "2026-06-16T07:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066792417886671355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009025613592674304",
+              "start": 0,
+              "username": "JoeKevin84824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066792417886671355",
+        "in_reply_to_user_id": "2009025613592674304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066792183445991611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoeKevin84824 你的智商检测通过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009025613592674304",
+        "conversation_id": "2066791618624315466",
+        "created_at": "2026-06-16T07:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066792183445991611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066792183445991611",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066791618624315466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 772,
+          "like_count": 7208,
+          "listed_count": 6,
+          "media_count": 729,
+          "tweet_count": 2882
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T22:13:47.000Z",
+        "description": "",
+        "id": "2009025613592674304",
+        "name": "Joe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029164658419200000/Qtsuuaja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 93,
+          "like_count": 2021,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1075
+        },
+        "username": "JoeKevin84824",
+        "verified": false
+      }
+    ]
+  }
+}

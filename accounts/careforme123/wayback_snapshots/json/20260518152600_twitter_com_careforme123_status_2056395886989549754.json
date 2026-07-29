@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056367660284432557",
+    "created_at": "2026-05-18T15:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056395886989549754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821048344191586304",
+          "start": 0,
+          "username": "Handicap137405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056395886989549754",
+    "in_reply_to_user_id": "1821048344191586304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056367660284432557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Handicap137405 我干啥了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056367660284432557",
+        "created_at": "2026-05-18T15:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056395886989549754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821048344191586304",
+              "start": 0,
+              "username": "Handicap137405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056395886989549754",
+        "in_reply_to_user_id": "1821048344191586304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056367660284432557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Handicap137405 我干啥了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821048344191586304",
+        "conversation_id": "2056367660284432557",
+        "created_at": "2026-05-18T13:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056367660284432557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 68,
+              "id": "1813561571941183488",
+              "start": 55,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056367660284432557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢关注我的人！这让我感受到了在网络被看见的欣喜。也许无人问津，也许门可罗雀，可是自己开心就好了。我要特别感谢@careforme123真的谢谢喵\n         但如果有更多的人来看我的推文我会更开心的。我自认为我还算是拥有着有趣的魂灵的人，不是吹嘘，不是嘉豪行为desuwa。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 615,
+          "like_count": 5771,
+          "listed_count": 6,
+          "media_count": 630,
+          "tweet_count": 2352
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T04:59:08.000Z",
+        "description": "我是中国人哦。I'm a Chinese.私は中国人です。\n高二在读。Grade 10.\nB站,X,YouTube,Ins都是这个名称（差不多，有些有出入）\nThe same nickname at Bilibili,  X,YouTube, Ins(Perhaps some small differences)",
+        "id": "1821048344191586304",
+        "location": "成都,China",
+        "name": "Handicap",
+        "pinned_tweet_id": "2056309020915642879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821048408452517888/ZqIFQsFU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 30,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 124
+        },
+        "username": "Handicap137405",
+        "verified": true
+      }
+    ]
+  }
+}

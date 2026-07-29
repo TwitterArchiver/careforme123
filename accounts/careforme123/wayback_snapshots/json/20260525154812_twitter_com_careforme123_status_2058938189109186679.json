@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058931733601349885",
+    "created_at": "2026-05-25T15:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058938189109186679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2015931381642416128",
+          "start": 0,
+          "username": "Diaodaquan250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058938189109186679",
+    "in_reply_to_user_id": "2015931381642416128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058931733601349885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diaodaquan250 话是这么说，现实中中国男人谁不想找个白皮女嫁了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058931724143280128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLLfpJXwAAnaxX.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058931724118069248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLLfpDXEAAjT6V.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058931722805248000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLLfkKXAAAPGfv.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058931724130676736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLLfpGXcAA_I7Y.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058931733601349885",
+        "created_at": "2026-05-25T15:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058938189109186679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2015931381642416128",
+              "start": 0,
+              "username": "Diaodaquan250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058938189109186679",
+        "in_reply_to_user_id": "2015931381642416128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058931733601349885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diaodaquan250 话是这么说，现实中中国男人谁不想找个白皮女嫁了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058931724143280128",
+            "3_2058931724118069248",
+            "3_2058931722805248000",
+            "3_2058931724130676736"
+          ]
+        },
+        "author_id": "2015931381642416128",
+        "conversation_id": "2058931733601349885",
+        "created_at": "2026-05-25T15:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058931733601349885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hjvq1sQZ0P",
+              "end": 152,
+              "expanded_url": "https://x.com/Diaodaquan250/status/2058931733601349885/photo/1",
+              "media_key": "3_2058931724143280128",
+              "start": 129,
+              "url": "https://t.co/hjvq1sQZ0P"
+            },
+            {
+              "display_url": "pic.x.com/hjvq1sQZ0P",
+              "end": 152,
+              "expanded_url": "https://x.com/Diaodaquan250/status/2058931733601349885/photo/1",
+              "media_key": "3_2058931724118069248",
+              "start": 129,
+              "url": "https://t.co/hjvq1sQZ0P"
+            },
+            {
+              "display_url": "pic.x.com/hjvq1sQZ0P",
+              "end": 152,
+              "expanded_url": "https://x.com/Diaodaquan250/status/2058931733601349885/photo/1",
+              "media_key": "3_2058931722805248000",
+              "start": 129,
+              "url": "https://t.co/hjvq1sQZ0P"
+            },
+            {
+              "display_url": "pic.x.com/hjvq1sQZ0P",
+              "end": 152,
+              "expanded_url": "https://x.com/Diaodaquan250/status/2058931733601349885/photo/1",
+              "media_key": "3_2058931724130676736",
+              "start": 129,
+              "url": "https://t.co/hjvq1sQZ0P"
+            },
+            {
+              "display_url": "x.com/lee_l38315/sta…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/lee_l38315/status/2058907266653520245",
+              "start": 153,
+              "url": "https://t.co/wdSXoRBtHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058931733601349885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我和我老公天天做爱，我老公身高+长度=202厘米，你一定也是吧？\n\n我老公每天工作6小时，每周工作4天半，你一定也是吧？\n\n我老公每年有40天工作日带薪年假，你一定也是吧？\n\n我老公不需要996007，快40岁了还有精力天天凿，你到40岁的时候一定也是吧？\n\n我老公护照免签150多个国家，我的护照免签180多个国家，你一定也是吧？\n\n我和我老公每天吃的是欧盟标准的肉蛋奶蔬菜，自来水打开可以直接喝，你一定也是吧？\n\n我们这里公民不满政府的一些决策，十几万人举着国旗走上街头游行，你一定也有这个自由吧？\n\n我们不用翻墙就能使用Instagram Facebook YouTube Pornhub WhatsApp messenger Google，你一定也可以吧？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 183,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058907266653520245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和我老公天天做爱，我老公身高+长度=202厘米，你一定也是吧？\n\n我老公每天工作6小时，每周工作4天半，你一定也是吧？\n\n我老公每年有40天工作日带薪年假，你一定也是吧？\n\n我老公不需要996007，快40岁了还有精力天天凿，你到40岁的时候一定也是吧？ https://t.co/hjvq1sQZ0P https://t.co/wdSXoRBtHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058489714726846617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 731,
+          "like_count": 6306,
+          "listed_count": 6,
+          "media_count": 657,
+          "tweet_count": 2545
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-26T23:35:34.000Z",
+        "description": "此生无悔入华夏，来世还做中国人\n上推特之前：习近平是谁，不认识\n上推特之后：老人瞻仰，轻关易道，通商宽衣，金科绿玉，精甚细腻，颐使气指，疯狂宇宙，萨格尔王，PM250，疫情迁灭战，兵帮外交",
+        "id": "2015931381642416128",
+        "location": "以色列",
+        "name": "正球级包蜜🇮🇱🇺🇸",
+        "pinned_tweet_id": "2057151215113318907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053787950261952512/42vCJSo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 68,
+          "like_count": 6773,
+          "listed_count": 3,
+          "media_count": 2629,
+          "tweet_count": 4692
+        },
+        "username": "Diaodaquan250",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057095911528927232"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2057096441680548040",
+    "created_at": "2026-05-20T13:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057096441680548040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n4t9Ejloxl",
+          "end": 48,
+          "expanded_url": "https://x.com/careforme123/status/2057096441680548040/photo/1",
+          "media_key": "3_2057095911528927232",
+          "start": 25,
+          "url": "https://t.co/n4t9Ejloxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057096441680548040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "n55身上的超雄基因还是太多了，永远的男子汉捏🤭 https://t.co/n4t9Ejloxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_2057095911528927232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxF1SOXEAA5ecc.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057095911528927232"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2057096441680548040",
+        "created_at": "2026-05-20T13:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057096441680548040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4t9Ejloxl",
+              "end": 48,
+              "expanded_url": "https://x.com/careforme123/status/2057096441680548040/photo/1",
+              "media_key": "3_2057095911528927232",
+              "start": 25,
+              "url": "https://t.co/n4t9Ejloxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057096441680548040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "n55身上的超雄基因还是太多了，永远的男子汉捏🤭 https://t.co/n4t9Ejloxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2057038855040016499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 649,
+          "like_count": 5901,
+          "listed_count": 6,
+          "media_count": 639,
+          "tweet_count": 2407
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

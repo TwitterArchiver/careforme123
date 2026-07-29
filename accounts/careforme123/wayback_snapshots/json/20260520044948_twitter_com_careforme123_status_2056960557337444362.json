@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056960557337444362",
+    "created_at": "2026-05-20T04:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056960557337444362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyi36711967…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/xiaoyi36711967/status/2056333887484432717",
+          "start": 3,
+          "url": "https://t.co/qt6zPnECT5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056960557337444362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056333887484432717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "乐子 https://t.co/qt6zPnECT5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056960557337444362",
+        "created_at": "2026-05-20T04:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056960557337444362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyi36711967…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xiaoyi36711967/status/2056333887484432717",
+              "start": 3,
+              "url": "https://t.co/qt6zPnECT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056960557337444362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056333887484432717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乐子 https://t.co/qt6zPnECT5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1203295374431023107",
+        "conversation_id": "2056325690669039722",
+        "created_at": "2026-05-18T11:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056333887484432717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1816727182850600960",
+              "start": 0,
+              "username": "MinGuo55435"
+            },
+            {
+              "end": 28,
+              "id": "1477342523555135490",
+              "start": 13,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056333887484432717",
+        "in_reply_to_user_id": "1816727182850600960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2055,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056333167611781470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinGuo55435 @torontobigface 实习200一天的不是很好找吗，15块的是干嘛🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 632,
+          "like_count": 5858,
+          "listed_count": 6,
+          "media_count": 636,
+          "tweet_count": 2390
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-07T12:49:21.000Z",
+        "description": "想到什么就写点什么吧！",
+        "id": "1203295374431023107",
+        "location": "on my way",
+        "name": "xiao yi🇺🇦",
+        "pinned_tweet_id": "1645494470149017605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1267484498389872642/iCcf7yEW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 427,
+          "like_count": 7799,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1762
+        },
+        "username": "xiaoyi36711967",
+        "verified": false
+      }
+    ]
+  }
+}

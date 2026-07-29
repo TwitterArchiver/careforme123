@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073643270576758784",
+        "3_2073643397072723969"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073644575231791588",
+    "created_at": "2026-07-05T05:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073644575231791588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BuAKuHS4CU",
+          "end": 170,
+          "expanded_url": "https://x.com/careforme123/status/2073644575231791588/photo/1",
+          "media_key": "3_2073643270576758784",
+          "start": 147,
+          "url": "https://t.co/BuAKuHS4CU"
+        },
+        {
+          "display_url": "pic.x.com/BuAKuHS4CU",
+          "end": 170,
+          "expanded_url": "https://x.com/careforme123/status/2073644575231791588/photo/1",
+          "media_key": "3_2073643397072723969",
+          "start": 147,
+          "url": "https://t.co/BuAKuHS4CU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073644575231791588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于6年前的香港反送中，给大家推荐一部纪录片：香港的自由之戰\n\n都是大场面，上下两部，一共两个小时，你可以学到：\n1.他们真是所谓的港独吗？\n2.真的有境外势力在提供资金吗？\n3.这场运动是“颜色革命”还是正常的民主斗争？\n4. 香港人的诉求是什么？\n5.警察的武力镇压真的只针对“暴徒”吗？ https://t.co/BuAKuHS4CU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 855,
+        "media_key": "3_2073643270576758784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcPkWWbYAA6snm.jpg",
+        "width": 1331
+      },
+      {
+        "height": 851,
+        "media_key": "3_2073643397072723969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcPrtlaoAEvL6p.jpg",
+        "width": 1339
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073643270576758784",
+            "3_2073643397072723969"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073644575231791588",
+        "created_at": "2026-07-05T05:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073644575231791588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuAKuHS4CU",
+              "end": 170,
+              "expanded_url": "https://x.com/careforme123/status/2073644575231791588/photo/1",
+              "media_key": "3_2073643270576758784",
+              "start": 147,
+              "url": "https://t.co/BuAKuHS4CU"
+            },
+            {
+              "display_url": "pic.x.com/BuAKuHS4CU",
+              "end": 170,
+              "expanded_url": "https://x.com/careforme123/status/2073644575231791588/photo/1",
+              "media_key": "3_2073643397072723969",
+              "start": 147,
+              "url": "https://t.co/BuAKuHS4CU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073644575231791588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于6年前的香港反送中，给大家推荐一部纪录片：香港的自由之戰\n\n都是大场面，上下两部，一共两个小时，你可以学到：\n1.他们真是所谓的港独吗？\n2.真的有境外势力在提供资金吗？\n3.这场运动是“颜色革命”还是正常的民主斗争？\n4. 香港人的诉求是什么？\n5.警察的武力镇压真的只针对“暴徒”吗？ https://t.co/BuAKuHS4CU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 788,
+          "like_count": 7773,
+          "listed_count": 8,
+          "media_count": 789,
+          "tweet_count": 3085
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

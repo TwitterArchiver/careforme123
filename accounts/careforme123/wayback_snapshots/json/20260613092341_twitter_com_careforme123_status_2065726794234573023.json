@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065726639242375169"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      }
+    ],
+    "conversation_id": "2065726794234573023",
+    "created_at": "2026-06-13T09:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065726794234573023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aSDrxuDODs",
+          "end": 168,
+          "expanded_url": "https://x.com/careforme123/status/2065726794234573023/photo/1",
+          "media_key": "3_2065726639242375169",
+          "start": 145,
+          "url": "https://t.co/aSDrxuDODs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065726794234573023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "毛泽东的大饥荒，本有挽救的机会\n\n早在大跃进开始一年后（1959年），副主席彭德怀就给毛泽东写了一封私人信，指出“浮夸风盛行”，“总想一步跨越共产主义”，以及经济严重失调的问题\n\n然后毛泽东在十天后就将彭德怀等人打成了反党集团，所谓的“反右”也开始盛行，大跃进由此加上了政治色彩，更加惨烈\n\n后来，由于基层虚报产量，中央的征购比例极高，大多农民的口粮和种子都被收走。面对哀嚎一片，毛泽东又认为，这是农民们在瞒报产量、私分粮食，全国又开始了残酷的搜粮运动，农民的保命粮食彻底断绝\n\n《当代中国的粮食工作》显示，即使在饥荒最严重的1960年，国家的粮食库存依然保持在数百亿斤的高位，当时如果开仓放粮，也不至于活活饿死三千万中国人\n\n同时，中国依然在大量出口粮食，用以偿还苏联债务、援助阿尔巴尼亚、越南等国家，换取外汇购买重工业设备（在1961年周恩来推动下停止大量出口，从加拿大购买粮食后，饥荒立即开始缓解）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "毛泽东的大饥荒，本有挽救的机会\n\n早在大跃进开始一年后（1959年），副主席彭德怀就给毛泽东写了一封私人信，指出“浮夸风盛行”，“总想一步跨越共产主义”，以及经济严重失调的问题\n\n然后毛泽东在十天后就将彭德怀等人打成了反党集团，所谓的“反右”也开始盛行，大跃进由此加上了政治色彩，更加惨烈 https://t.co/aSDrxuDODs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1014,
+        "media_key": "3_2065726639242375169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrvbwcacAEvaP_.jpg",
+        "width": 1426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065726639242375169"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2065726794234573023",
+        "created_at": "2026-06-13T09:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065726794234573023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aSDrxuDODs",
+              "end": 168,
+              "expanded_url": "https://x.com/careforme123/status/2065726794234573023/photo/1",
+              "media_key": "3_2065726639242375169",
+              "start": 145,
+              "url": "https://t.co/aSDrxuDODs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065726794234573023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "毛泽东的大饥荒，本有挽救的机会\n\n早在大跃进开始一年后（1959年），副主席彭德怀就给毛泽东写了一封私人信，指出“浮夸风盛行”，“总想一步跨越共产主义”，以及经济严重失调的问题\n\n然后毛泽东在十天后就将彭德怀等人打成了反党集团，所谓的“反右”也开始盛行，大跃进由此加上了政治色彩，更加惨烈\n\n后来，由于基层虚报产量，中央的征购比例极高，大多农民的口粮和种子都被收走。面对哀嚎一片，毛泽东又认为，这是农民们在瞒报产量、私分粮食，全国又开始了残酷的搜粮运动，农民的保命粮食彻底断绝\n\n《当代中国的粮食工作》显示，即使在饥荒最严重的1960年，国家的粮食库存依然保持在数百亿斤的高位，当时如果开仓放粮，也不至于活活饿死三千万中国人\n\n同时，中国依然在大量出口粮食，用以偿还苏联债务、援助阿尔巴尼亚、越南等国家，换取外汇购买重工业设备（在1961年周恩来推动下停止大量出口，从加拿大购买粮食后，饥荒立即开始缓解）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毛泽东的大饥荒，本有挽救的机会\n\n早在大跃进开始一年后（1959年），副主席彭德怀就给毛泽东写了一封私人信，指出“浮夸风盛行”，“总想一步跨越共产主义”，以及经济严重失调的问题\n\n然后毛泽东在十天后就将彭德怀等人打成了反党集团，所谓的“反右”也开始盛行，大跃进由此加上了政治色彩，更加惨烈 https://t.co/aSDrxuDODs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 769,
+          "like_count": 7157,
+          "listed_count": 6,
+          "media_count": 725,
+          "tweet_count": 2866
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

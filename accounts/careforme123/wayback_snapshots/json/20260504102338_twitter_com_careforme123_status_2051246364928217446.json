@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2051159504193208334",
+    "created_at": "2026-05-04T10:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051246364928217446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1049802591532593152",
+          "start": 0,
+          "username": "Faakeeyuu"
+        },
+        {
+          "end": 21,
+          "id": "1715389627920732160",
+          "start": 11,
+          "username": "BeiDao_98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051246364928217446",
+    "in_reply_to_user_id": "1049802591532593152",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051171292158808198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Faakeeyuu @BeiDao_98 fb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2051159504193208334",
+        "created_at": "2026-05-04T10:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051246364928217446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1049802591532593152",
+              "start": 0,
+              "username": "Faakeeyuu"
+            },
+            {
+              "end": 21,
+              "id": "1715389627920732160",
+              "start": 11,
+              "username": "BeiDao_98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051246364928217446",
+        "in_reply_to_user_id": "1049802591532593152",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051171292158808198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Faakeeyuu @BeiDao_98 fb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1049802591532593152",
+        "conversation_id": "2051159504193208334",
+        "created_at": "2026-05-04T05:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051171292158808198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1715389627920732160",
+              "start": 0,
+              "username": "BeiDao_98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051171292158808198",
+        "in_reply_to_user_id": "1715389627920732160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051159504193208334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiDao_98 互"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2051010408769786079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 444,
+          "like_count": 4776,
+          "listed_count": 5,
+          "media_count": 536,
+          "tweet_count": 1980
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-09T23:23:37.000Z",
+        "description": "Tech Entrepreneur | IoT & DevOps 🛠️. Exploring the frontiers of AI Video (Sora/Kling). Sharing hard tech & AI workflows. Verified mutuals only.",
+        "id": "1049802591532593152",
+        "name": "Json",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1051325542832566272/mqDtFdxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 327,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 258
+        },
+        "username": "Faakeeyuu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-20T15:29:02.000Z",
+        "description": "NFT 💎holder｜26年主AI NFT 港股 美股 ｜链上菜鸟，二级韭菜｜🔥#Binance ｜ TG：Beidao2｜人生不过是各种体验的叠加",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "Binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Beidao2",
+                "end": 23,
+                "expanded_url": "https://t.me/Beidao2",
+                "start": 0,
+                "url": "https://t.co/nHVDy57TZM"
+              }
+            ]
+          }
+        },
+        "id": "1715389627920732160",
+        "location": "📩合作DM👉",
+        "name": "北岛",
+        "pinned_tweet_id": "1988441628642623632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047285144369991681/BhM2aZ1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8890,
+          "following_count": 2682,
+          "like_count": 67952,
+          "listed_count": 138,
+          "media_count": 1498,
+          "tweet_count": 76720
+        },
+        "url": "https://t.co/nHVDy57TZM",
+        "username": "BeiDao_98",
+        "verified": true
+      }
+    ]
+  }
+}

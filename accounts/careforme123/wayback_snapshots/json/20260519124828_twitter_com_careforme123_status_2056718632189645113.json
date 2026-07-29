@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056718539365445632"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044199219",
+          "name": "Tesla"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hybrid and electric vehicles",
+          "id": "847528576551337984",
+          "name": "Hybrid and electric vehicles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Luxury",
+          "id": "847528646185070592",
+          "name": "Luxury Cars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10044199219",
+          "name": "Tesla"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      }
+    ],
+    "conversation_id": "2056718632189645113",
+    "created_at": "2026-05-19T12:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056718632189645113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 29,
+          "id": "13298072",
+          "start": 23,
+          "username": "Tesla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KUgSVZBJ3Z",
+          "end": 145,
+          "expanded_url": "https://x.com/careforme123/status/2056718632189645113/photo/1",
+          "media_key": "3_2056718539365445632",
+          "start": 122,
+          "url": "https://t.co/KUgSVZBJ3Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056718632189645113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 29,
+            "id": "13298072",
+            "start": 23,
+            "username": "Tesla"
+          }
+        ]
+      },
+      "text": "今日回顾：\n\n特斯拉“恶意涨薪”“恶意降价”？@Tesla\n\n2023年4月15日，特斯拉的微博发布上海特斯拉工厂的招聘信息：一线普通工人综合月薪接近1万元、17薪、全家免费商业保险.“特斯拉中国工厂普通工人月薪1万块”的話题瞬间冲上微博热搜\n\n而4月中旬,当时特斯拉上海超级工厂的部分一线工人刚因第一季度安全事故，导致季度绩效奖金被下调至月薪的78.5%（不过依然遥遥领先），部分工人甚至在社交媒体上公开向埃隆马斯克投诉奖金被扣\n\n6月份马斯克时隔三年首次访华，并在深夜亲临特斯拉上海超级工厂。他公开感谢了中国员工的卓越表现，并暗中对工人投诉的薪酬待遇问题展开了内部调查\n\n同月，特斯拉凭一己之力拿下了豪华车市场交付冠军，单月9.3万辆的恐怖销量。而当时国内很多新能源车企还在“卖一辆亏一辆”的泥潭里，而特斯拉一边降价一边还能疯狂收割市场。这种恐怖实力让国内车企意识到：单打独斗，谁也熬不过特斯拉\n\n后来特斯拉又在全国范围内推出了“宝箱积分奖励”、针对Model 3的8000元限时保险补贴等变相降价手段（不过特斯拉人工这么贵，价格又实惠，小编也是佩服）\n\n在特斯拉这个巨人的脚下，蔚来汽车也只好在6月12日宣布全系降价3万元。小鹏、长城等品牌也纷纷通过权益调整被迫卷入。整个6月，中国汽车市场的人力成本、零部件供应链被压榨到了极限，行业内部怨声载道\n\n对于特斯拉工资“太高”问题，他们说：这是人才市场的非正常虹吸，破坏了供应链稳定！为了留人，我们只能涨工资啦！\n\n面对特斯拉发起的“涨工资，降车价”，国内车企开始向行业协会抱团反映。中汽协在6月底至7月初，紧急召集了包括比亚迪、吉利、长城、三大央企（一汽、东风、长安）以及造车新势力在内的15家本土巨头，开始秘密起草一份旨在“停火、休战、锁死价格”的行业协议，目的是：增加他们的销量，压缩特斯拉的利润，变相逼迫特斯拉给工人降薪水，好让特斯拉无法进行所谓的“抢人才”，逼的自己涨工资！\n\n最终在7月6日，他们强迫特斯拉一起坐到了谈判桌前，签下了《汽车行业维护公平市场秩序承诺书》，大概意思就一句话：“不以非正常价格扰乱市场”，可这无异于一场行业垄断的‘分蛋糕协议’。在自由市场里，降价、让利给消费者、提升效率，是每个企业的合法权利\n\n不过仅仅过了48小时，中汽协紧急发布道歉声明，承认这一条有违反垄断精神，硬生生把这刚刚签好的核心条款给‘抠’掉了\n\n特斯拉一高兴，就在7月18日给生产端基层员工大涨1.5倍绩效奖金\n\n特斯拉从来没怕，特斯拉给工人发的工资也根本没降！\n\n真正的强大，不是看你能把员工的工资压得有多低，而是看你在把产品卖得更便宜的同时，还能让为你打螺丝的打工人，活得有多体面！这才是法治与市场经济最应该保护的终极正义"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日回顾：\n\n特斯拉“恶意涨薪”“恶意降价”？@Tesla\n\n2023年4月15日，特斯拉的微博发布上海特斯拉工厂的招聘信息：一线普通工人综合月薪接近1万元、17薪、全家免费商业保险.“特斯拉中国工厂普通工人月薪1万块”的話题瞬间冲上微博热搜 https://t.co/KUgSVZBJ3Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 616,
+        "media_key": "3_2056718539365445632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrunVXWcAAZk29.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056718539365445632"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hybrid and electric vehicles",
+              "id": "847528576551337984",
+              "name": "Hybrid and electric vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2056718632189645113",
+        "created_at": "2026-05-19T12:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056718632189645113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "13298072",
+              "start": 23,
+              "username": "Tesla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUgSVZBJ3Z",
+              "end": 145,
+              "expanded_url": "https://x.com/careforme123/status/2056718632189645113/photo/1",
+              "media_key": "3_2056718539365445632",
+              "start": 122,
+              "url": "https://t.co/KUgSVZBJ3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056718632189645113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 29,
+                "id": "13298072",
+                "start": 23,
+                "username": "Tesla"
+              }
+            ]
+          },
+          "text": "今日回顾：\n\n特斯拉“恶意涨薪”“恶意降价”？@Tesla\n\n2023年4月15日，特斯拉的微博发布上海特斯拉工厂的招聘信息：一线普通工人综合月薪接近1万元、17薪、全家免费商业保险.“特斯拉中国工厂普通工人月薪1万块”的話题瞬间冲上微博热搜\n\n而4月中旬,当时特斯拉上海超级工厂的部分一线工人刚因第一季度安全事故，导致季度绩效奖金被下调至月薪的78.5%（不过依然遥遥领先），部分工人甚至在社交媒体上公开向埃隆马斯克投诉奖金被扣\n\n6月份马斯克时隔三年首次访华，并在深夜亲临特斯拉上海超级工厂。他公开感谢了中国员工的卓越表现，并暗中对工人投诉的薪酬待遇问题展开了内部调查\n\n同月，特斯拉凭一己之力拿下了豪华车市场交付冠军，单月9.3万辆的恐怖销量。而当时国内很多新能源车企还在“卖一辆亏一辆”的泥潭里，而特斯拉一边降价一边还能疯狂收割市场。这种恐怖实力让国内车企意识到：单打独斗，谁也熬不过特斯拉\n\n后来特斯拉又在全国范围内推出了“宝箱积分奖励”、针对Model 3的8000元限时保险补贴等变相降价手段（不过特斯拉人工这么贵，价格又实惠，小编也是佩服）\n\n在特斯拉这个巨人的脚下，蔚来汽车也只好在6月12日宣布全系降价3万元。小鹏、长城等品牌也纷纷通过权益调整被迫卷入。整个6月，中国汽车市场的人力成本、零部件供应链被压榨到了极限，行业内部怨声载道\n\n对于特斯拉工资“太高”问题，他们说：这是人才市场的非正常虹吸，破坏了供应链稳定！为了留人，我们只能涨工资啦！\n\n面对特斯拉发起的“涨工资，降车价”，国内车企开始向行业协会抱团反映。中汽协在6月底至7月初，紧急召集了包括比亚迪、吉利、长城、三大央企（一汽、东风、长安）以及造车新势力在内的15家本土巨头，开始秘密起草一份旨在“停火、休战、锁死价格”的行业协议，目的是：增加他们的销量，压缩特斯拉的利润，变相逼迫特斯拉给工人降薪水，好让特斯拉无法进行所谓的“抢人才”，逼的自己涨工资！\n\n最终在7月6日，他们强迫特斯拉一起坐到了谈判桌前，签下了《汽车行业维护公平市场秩序承诺书》，大概意思就一句话：“不以非正常价格扰乱市场”，可这无异于一场行业垄断的‘分蛋糕协议’。在自由市场里，降价、让利给消费者、提升效率，是每个企业的合法权利\n\n不过仅仅过了48小时，中汽协紧急发布道歉声明，承认这一条有违反垄断精神，硬生生把这刚刚签好的核心条款给‘抠’掉了\n\n特斯拉一高兴，就在7月18日给生产端基层员工大涨1.5倍绩效奖金\n\n特斯拉从来没怕，特斯拉给工人发的工资也根本没降！\n\n真正的强大，不是看你能把员工的工资压得有多低，而是看你在把产品卖得更便宜的同时，还能让为你打螺丝的打工人，活得有多体面！这才是法治与市场经济最应该保护的终极正义"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日回顾：\n\n特斯拉“恶意涨薪”“恶意降价”？@Tesla\n\n2023年4月15日，特斯拉的微博发布上海特斯拉工厂的招聘信息：一线普通工人综合月薪接近1万元、17薪、全家免费商业保险.“特斯拉中国工厂普通工人月薪1万块”的話题瞬间冲上微博热搜 https://t.co/KUgSVZBJ3Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 617,
+          "like_count": 5810,
+          "listed_count": 6,
+          "media_count": 633,
+          "tweet_count": 2372
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2008-02-10T01:12:32.000Z",
+        "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tesla.com",
+                "end": 23,
+                "expanded_url": "https://www.tesla.com",
+                "start": 0,
+                "url": "https://t.co/EJC6qVEJnC"
+              }
+            ]
+          }
+        },
+        "id": "13298072",
+        "name": "Tesla",
+        "pinned_tweet_id": "2035544492896669952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24802436,
+          "following_count": 56,
+          "like_count": 7818,
+          "listed_count": 28407,
+          "media_count": 1977,
+          "tweet_count": 10323
+        },
+        "url": "https://t.co/EJC6qVEJnC",
+        "username": "Tesla",
+        "verified": true
+      }
+    ]
+  }
+}

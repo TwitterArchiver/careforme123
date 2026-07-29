@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072284057493499904"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2072284070311248181",
+    "created_at": "2026-07-01T11:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:39:16.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072283895526195531",
+      "2072284070311248181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7QffBSEsHa",
+          "end": 163,
+          "expanded_url": "https://x.com/careforme123/status/2072284070311248181/photo/1",
+          "media_key": "3_2072284057493499904",
+          "start": 140,
+          "url": "https://t.co/7QffBSEsHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072284070311248181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有美国这种选票选出来的政府，才会为人民服务，没有例外\n\n道理很简单，权力只对权力的来源负责。他们要靠你们的选票才能上位，自然不敢打压，压榨你们，生怕你们投票给其他人\n\n如果权力的来源不是人民，那政府只会为自己和利益集团服务，反正他们欺负你又不怕，不影响他们当老大！\n\n谢谢大家 https://t.co/7QffBSEsHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 503,
+        "media_key": "3_2072284057493499904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMI7XvCa8AAZyMx.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072283833299611648"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2072283895526195531",
+        "created_at": "2026-07-01T11:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:39:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072283895526195531",
+          "2072284070311248181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QCm7Rbra76",
+              "end": 163,
+              "expanded_url": "https://x.com/careforme123/status/2072283895526195531/photo/1",
+              "media_key": "3_2072283833299611648",
+              "start": 140,
+              "url": "https://t.co/QCm7Rbra76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072283895526195531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有美国这种选票选出来的政府，才会为人民服务，没有例外\n\n道理很简单，权力只对权力的来源负责。他们要靠你们的选票才能上位，自然不敢打压，压榨你们，生怕你们投票给其他人\n\n如果权力的来源不是人民，那政府只会为自己和利益集团服务，反正他们欺负你又不怕，不影响他们当老大！\n\n谢谢大家 https://t.co/QCm7Rbra76"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072284057493499904"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2072284070311248181",
+        "created_at": "2026-07-01T11:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:39:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072283895526195531",
+          "2072284070311248181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7QffBSEsHa",
+              "end": 163,
+              "expanded_url": "https://x.com/careforme123/status/2072284070311248181/photo/1",
+              "media_key": "3_2072284057493499904",
+              "start": 140,
+              "url": "https://t.co/7QffBSEsHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072284070311248181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有美国这种选票选出来的政府，才会为人民服务，没有例外\n\n道理很简单，权力只对权力的来源负责。他们要靠你们的选票才能上位，自然不敢打压，压榨你们，生怕你们投票给其他人\n\n如果权力的来源不是人民，那政府只会为自己和利益集团服务，反正他们欺负你又不怕，不影响他们当老大！\n\n谢谢大家 https://t.co/7QffBSEsHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 788,
+          "like_count": 7714,
+          "listed_count": 8,
+          "media_count": 774,
+          "tweet_count": 3053
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

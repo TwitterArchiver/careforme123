@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056540616767795336",
+    "created_at": "2026-05-19T01:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056545557217247712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "PinTuZhe_s_dad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056545557217247712",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056540616767795336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinTuZhe_s_dad 🐕：🐶：中共≠中国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056540616767795336",
+        "created_at": "2026-05-19T01:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056545557217247712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "PinTuZhe_s_dad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056545557217247712",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056540616767795336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinTuZhe_s_dad 🐕：🐶：中共≠中国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811604757670137856",
+        "conversation_id": "2056540616767795336",
+        "created_at": "2026-05-19T01:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056540616767795336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056540616767795336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐶：中共≠中国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 615,
+          "like_count": 5784,
+          "listed_count": 6,
+          "media_count": 630,
+          "tweet_count": 2359
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "@puzzlerlee的老木被5033个黑人大汉🗡️砂/狗与@careforme123禁止入内⛔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "careforme123"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "Brisbane, Queensland",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330262199439360/_ITvKxyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 886,
+          "like_count": 1439,
+          "listed_count": 6,
+          "media_count": 874,
+          "tweet_count": 5573
+        },
+        "username": "PinTuZhe_s_dad",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074687465185849344"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074687518633779227",
+    "created_at": "2026-07-08T02:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074687518633779227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/laEuKPCeYV",
+          "end": 167,
+          "expanded_url": "https://x.com/careforme123/status/2074687518633779227/photo/1",
+          "media_key": "3_2074687465185849344",
+          "start": 144,
+          "url": "https://t.co/laEuKPCeYV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074687518633779227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国的地方政府，债务危机已经十分严重\n\n地方债已经到了120万亿，每年产生的利息就有18万亿，很多二三线城市，连利息都还不起\n\n所以这几年很多国企都开始裁员，欠薪。县城的公交车司机开始罢工，公安也开始远洋捕捞，虹吸执法，各种罚款也越来越多\n\n还有，这些钱不是政府还，不是国家还，是我们还 https://t.co/laEuKPCeYV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2074687465185849344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrFQeZbsAAFqP6.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074687465185849344"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074687518633779227",
+        "created_at": "2026-07-08T02:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074687518633779227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/laEuKPCeYV",
+              "end": 167,
+              "expanded_url": "https://x.com/careforme123/status/2074687518633779227/photo/1",
+              "media_key": "3_2074687465185849344",
+              "start": 144,
+              "url": "https://t.co/laEuKPCeYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074687518633779227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国的地方政府，债务危机已经十分严重\n\n地方债已经到了120万亿，每年产生的利息就有18万亿，很多二三线城市，连利息都还不起\n\n所以这几年很多国企都开始裁员，欠薪。县城的公交车司机开始罢工，公安也开始远洋捕捞，虹吸执法，各种罚款也越来越多\n\n还有，这些钱不是政府还，不是国家还，是我们还 https://t.co/laEuKPCeYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 793,
+          "like_count": 7796,
+          "listed_count": 9,
+          "media_count": 797,
+          "tweet_count": 3099
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

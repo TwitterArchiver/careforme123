@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053314857437364423",
+    "created_at": "2026-05-10T03:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053321383040692711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "realQinYuele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053321383040692711",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053314857437364423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realQinYuele 有一军人身带弓，说的不是芙宁娜娜吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2053314840790224899",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7W-AFW0AM8LKN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053314857437364423",
+        "created_at": "2026-05-10T03:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053321383040692711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "realQinYuele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053321383040692711",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053314857437364423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realQinYuele 有一军人身带弓，说的不是芙宁娜娜吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053314840790224899"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2053314857437364423",
+        "created_at": "2026-05-10T03:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053314857437364423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLTQsfItkD",
+              "end": 45,
+              "expanded_url": "https://x.com/realQinYuele/status/2053314857437364423/photo/1",
+              "media_key": "3_2053314840790224899",
+              "start": 22,
+              "url": "https://t.co/tLTQsfItkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053314857437364423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "董军要造反了\n“有一军人身带弓”说的就是他 https://t.co/tLTQsfItkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 485,
+          "like_count": 5123,
+          "listed_count": 5,
+          "media_count": 566,
+          "tweet_count": 2092
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "Senior correspondent at Langxin News focusing on East Asian socio-political dynamics, digital civil rights, and emerging internet subcultures.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "location": "Prague, Czech Republic",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25867,
+          "following_count": 338,
+          "like_count": 1958,
+          "listed_count": 71,
+          "media_count": 1621,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "realQinYuele",
+        "verified": false
+      }
+    ]
+  }
+}

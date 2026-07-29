@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062869544369291318",
+    "created_at": "2026-06-05T12:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062871298007560306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062871298007560306",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062869544369291318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 见没见过什么叫黑手！？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74794,
+        "height": 720,
+        "media_key": "13_2062867725161058304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062867725161058304/img/rh97UT2hAC24bEtQ.jpg",
+        "public_metrics": {
+          "view_count": 531
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062867725161058304/vid/avc1/480x270/y3Bk0Qmbt4cjjrGS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062867725161058304/vid/avc1/640x360/ZCN3hf4H-vyKFsJG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062867725161058304/vid/avc1/1280x720/Nl5MQcfjSCQvY8Q1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062867725161058304/pl/P_DMK7Y5QviBtj6A.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 149461,
+        "height": 720,
+        "media_key": "13_2062867725177794560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062867725177794560/img/BWDsOPjn7U3AGc0Y.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062867725177794560/vid/avc1/480x270/e3EaD_uayHNMAwQp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062867725177794560/vid/avc1/640x360/v3ydhVckQcgPIy0A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062867725177794560/vid/avc1/1280x720/T0e2mlqILv-mo4Yl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062867725177794560/pl/bSHiLHTghSg_J9Lm.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062869544369291318",
+        "created_at": "2026-06-05T12:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062871298007560306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062871298007560306",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062869544369291318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 见没见过什么叫黑手！？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062867725161058304",
+            "13_2062867725177794560"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062869544369291318",
+        "created_at": "2026-06-05T12:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062869544369291318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rlDpSrZpwd",
+              "end": 82,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062869544369291318/video/1",
+              "media_key": "13_2062867725161058304",
+              "start": 59,
+              "url": "https://t.co/rlDpSrZpwd"
+            },
+            {
+              "display_url": "pic.x.com/rlDpSrZpwd",
+              "end": 82,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062869544369291318/video/1",
+              "media_key": "13_2062867725177794560",
+              "start": 59,
+              "url": "https://t.co/rlDpSrZpwd"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2062860940987584725",
+              "start": 83,
+              "url": "https://t.co/hn6NAc1MHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062869544369291318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不久，数名领馆雇佣的安保人员抵达现场。\n\n而后，其中一名保安冲进人群，试图接近投影设备并中断并破坏投影，但未能成功。\n\n随后，现场团队报警，纽约警方到场了解情况。一名警员请行动团队将相关证据发送至其邮箱，并表示会就领馆安保人员试图破坏投影设备一事请联邦调查局（FBI）介入了解。在了解情况后，这名警员对团队说：\"我尊重你们正在做的事。\"\n投影最终持续完成。\n\n值得注意的是，领馆建筑平台上多组高亮度照明设备仍持续开启。据行动团队观察，这些设备自数月前开始长期部署，用于应对类似投影活动。\n对于现场发生的一切，光覆之路认为，最值得被记录的不仅是墙上的几幅画面，而且还是一个现象：当几张安静的黑白影像出现在领事馆外墙时，一个庞大的机构选择投入长期人力与设备去应对它们。\n“他们越是在意这些画面，人们越会好奇画面里究竟是什么。”现场参与者表示。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2136,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062860940987584725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不久，数名领馆雇佣的安保人员抵达现场。\n\n而后，其中一名保安冲进人群，试图接近投影设备并中断并破坏投影，但未能成功。 https://t.co/rlDpSrZpwd https://t.co/hn6NAc1MHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 746,
+          "like_count": 6863,
+          "listed_count": 5,
+          "media_count": 696,
+          "tweet_count": 2745
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235349,
+          "following_count": 1068,
+          "like_count": 9633,
+          "listed_count": 8792,
+          "media_count": 47976,
+          "tweet_count": 55125
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

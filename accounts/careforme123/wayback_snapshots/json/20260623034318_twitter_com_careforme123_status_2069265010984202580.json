@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069265010984202580",
+    "created_at": "2026-06-23T03:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T04:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069265010984202580"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069265010984202580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国人民没有罢工权，官方理由如下：\n\n在中国，资本主义制度下对工人的剥削已不复存在，并且工人利益与国家的长远利益在根本上是一致的，所以工人不需要罢工"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069265010984202580",
+        "created_at": "2026-06-23T03:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069265010984202580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069265010984202580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人民没有罢工权，官方理由如下：\n\n在中国，资本主义制度下对工人的剥削已不复存在，并且工人利益与国家的长远利益在根本上是一致的，所以工人不需要罢工"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 783,
+          "like_count": 7536,
+          "listed_count": 7,
+          "media_count": 750,
+          "tweet_count": 2983
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073030935965323482",
+    "created_at": "2026-07-04T07:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073304761819168806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057515547408080896",
+          "start": 0,
+          "username": "DGUNDAM003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073304761819168806",
+    "in_reply_to_user_id": "2057515547408080896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073263485195334039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DGUNDAM003 冷知识：这些店可能一辈子都见不到日本人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2073263476374671360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMW2JasakAAhNxH.jpg",
+        "width": 800
+      },
+      {
+        "height": 872,
+        "media_key": "3_2073263476362108928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMW2Japa4AAJhJ4.jpg",
+        "width": 804
+      },
+      {
+        "height": 637,
+        "media_key": "3_2073263476362063872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMW2JapaMAAejKD.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073030935965323482",
+        "created_at": "2026-07-04T07:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073304761819168806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057515547408080896",
+              "start": 0,
+              "username": "DGUNDAM003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073304761819168806",
+        "in_reply_to_user_id": "2057515547408080896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073263485195334039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DGUNDAM003 冷知识：这些店可能一辈子都见不到日本人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073263476374671360",
+            "3_2073263476362108928",
+            "3_2073263476362063872"
+          ]
+        },
+        "author_id": "2057515547408080896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073030935965323482",
+        "created_at": "2026-07-04T04:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073263485195334039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hezvXaF6uW",
+              "end": 70,
+              "expanded_url": "https://x.com/DGUNDAM003/status/2073263485195334039/photo/1",
+              "media_key": "3_2073263476374671360",
+              "start": 47,
+              "url": "https://t.co/hezvXaF6uW"
+            },
+            {
+              "display_url": "pic.x.com/hezvXaF6uW",
+              "end": 70,
+              "expanded_url": "https://x.com/DGUNDAM003/status/2073263485195334039/photo/1",
+              "media_key": "3_2073263476362108928",
+              "start": 47,
+              "url": "https://t.co/hezvXaF6uW"
+            },
+            {
+              "display_url": "pic.x.com/hezvXaF6uW",
+              "end": 70,
+              "expanded_url": "https://x.com/DGUNDAM003/status/2073263485195334039/photo/1",
+              "media_key": "3_2073263476362063872",
+              "start": 47,
+              "url": "https://t.co/hezvXaF6uW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073263485195334039",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073030935965323482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 任何一家店贴出这种告示，我都能理解 \n\n因为日本人的素质就是很低 https://t.co/hezvXaF6uW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 786,
+          "like_count": 7761,
+          "listed_count": 8,
+          "media_count": 784,
+          "tweet_count": 3078
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-21T17:35:23.000Z",
+        "description": "支黑证明了一件事：中国人里面确实存在极端劣质的基因",
+        "id": "2057515547408080896",
+        "name": "修特罗姆9527",
+        "pinned_tweet_id": "2072650558432014765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057809995895541760/rUz_qJjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 15,
+          "like_count": 288,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "DGUNDAM003",
+        "verified": false
+      }
+    ]
+  }
+}

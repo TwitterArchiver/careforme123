@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055677717790482432"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055678352178966616",
+    "created_at": "2026-05-16T15:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055678352178966616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/duD0dPV8XJ",
+          "end": 87,
+          "expanded_url": "https://x.com/careforme123/status/2055678352178966616/photo/1",
+          "media_key": "3_2055677717790482432",
+          "start": 64,
+          "url": "https://t.co/duD0dPV8XJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055678352178966616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我认为\n\n这属于一种病毒，会在与粉丝多的博主交流频繁的人之间传播，因为他们的算法会认为你有流量\n\n那么到底是谁把病毒传染给我了 https://t.co/duD0dPV8XJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_2055677717790482432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIc7_i2WYAAnsaj.png",
+        "width": 606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055677717790482432"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055678352178966616",
+        "created_at": "2026-05-16T15:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055678352178966616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/duD0dPV8XJ",
+              "end": 87,
+              "expanded_url": "https://x.com/careforme123/status/2055678352178966616/photo/1",
+              "media_key": "3_2055677717790482432",
+              "start": 64,
+              "url": "https://t.co/duD0dPV8XJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055678352178966616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为\n\n这属于一种病毒，会在与粉丝多的博主交流频繁的人之间传播，因为他们的算法会认为你有流量\n\n那么到底是谁把病毒传染给我了 https://t.co/duD0dPV8XJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055179927515984326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 565,
+          "like_count": 5638,
+          "listed_count": 6,
+          "media_count": 623,
+          "tweet_count": 2308
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2057288009058332868",
+    "created_at": "2026-05-21T02:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T03:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057288009058332868"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057288009058332868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今日文学赏析\n\n1. 《罪与罚》 ——陀思妥耶夫斯基\n“哦，对了，”拉斯柯尼科夫突然停下脚步\n\n2. 《变形记》 ——卡夫卡\n“哦，对了，”格里高尔对自己说\n\n3. 《百年孤独》 ——马尔克斯\n“哦，对了，”上校忽然想起\n\n4. 《安娜·卡列尼娜》 ——托尔斯泰\n“哦，对了，”列文自言自语\n\n5. 《了不起的盖茨比》 ——菲茨杰拉德\n“哦，对了，”汤姆斜靠在椅背上说\n\n6. 《麦田里的守望者》 ——塞林格\n“哦，对了，”霍尔顿想了想说\n\n7. 《不能承受的生命之轻》 ——昆德拉\n“哦，对了，”托马斯缓缓地说\n\n8. 《鼠疫》 ——加缪（另一部作品，非《局外人》）\n“哦，对了，”里厄医生说\n\n9. 《红楼梦》 ——曹雪芹\n“哦，对了，”宝玉忽然转身说\n\n10. 《围城》 ——钱钟书\n“哦，对了，”方鸿渐恍然大悟似的说\n\n11. 《挪威的森林》 ——村上春树\n“哦，对了，”渡边望着窗外说\n\n12. 《飘》 ——玛格丽特·米切尔\n“哦，对了，”思嘉丽咬着嘴唇说"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日文学赏析\n\n1. 《罪与罚》 ——陀思妥耶夫斯基\n“哦，对了，”拉斯柯尼科夫突然停下脚步\n\n2. 《变形记》 ——卡夫卡\n“哦，对了，”格里高尔对自己说\n\n3. 《百年孤独》 ——马尔克斯\n“哦，对了，”上校忽然想起\n\n4. 《安娜·卡列尼娜》 ——托尔斯泰\n“哦，对了，”列文自言自语\n\n5. 《了不起的盖茨比》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2057288009058332868",
+        "created_at": "2026-05-21T02:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057288009058332868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057288009058332868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今日文学赏析\n\n1. 《罪与罚》 ——陀思妥耶夫斯基\n“哦，对了，”拉斯柯尼科夫突然停下脚步\n\n2. 《变形记》 ——卡夫卡\n“哦，对了，”格里高尔对自己说\n\n3. 《百年孤独》 ——马尔克斯\n“哦，对了，”上校忽然想起\n\n4. 《安娜·卡列尼娜》 ——托尔斯泰\n“哦，对了，”列文自言自语\n\n5. 《了不起的盖茨比》 ——菲茨杰拉德\n“哦，对了，”汤姆斜靠在椅背上说\n\n6. 《麦田里的守望者》 ——塞林格\n“哦，对了，”霍尔顿想了想说\n\n7. 《不能承受的生命之轻》 ——昆德拉\n“哦，对了，”托马斯缓缓地说\n\n8. 《鼠疫》 ——加缪（另一部作品，非《局外人》）\n“哦，对了，”里厄医生说\n\n9. 《红楼梦》 ——曹雪芹\n“哦，对了，”宝玉忽然转身说\n\n10. 《围城》 ——钱钟书\n“哦，对了，”方鸿渐恍然大悟似的说\n\n11. 《挪威的森林》 ——村上春树\n“哦，对了，”渡边望着窗外说\n\n12. 《飘》 ——玛格丽特·米切尔\n“哦，对了，”思嘉丽咬着嘴唇说"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日文学赏析\n\n1. 《罪与罚》 ——陀思妥耶夫斯基\n“哦，对了，”拉斯柯尼科夫突然停下脚步\n\n2. 《变形记》 ——卡夫卡\n“哦，对了，”格里高尔对自己说\n\n3. 《百年孤独》 ——马尔克斯\n“哦，对了，”上校忽然想起\n\n4. 《安娜·卡列尼娜》 ——托尔斯泰\n“哦，对了，”列文自言自语\n\n5. 《了不起的盖茨比》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2057038855040016499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 655,
+          "like_count": 5923,
+          "listed_count": 6,
+          "media_count": 639,
+          "tweet_count": 2417
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

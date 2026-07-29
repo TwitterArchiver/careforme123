@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2070849995721658864",
+    "created_at": "2026-06-27T14:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070877011002974232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592401094273302528",
+          "start": 0,
+          "username": "LuoLuo_Miki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070877011002974232",
+    "in_reply_to_user_id": "1592401094273302528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070849995721658864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuoLuo_Miki 普瑞巴林药效不是随着药量增加的，吃600mg已经够了，吃多了也是浪费药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2070849979216977920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0jFZJaYAAy11m.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2070849995721658864",
+        "created_at": "2026-06-27T14:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070877011002974232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070877011002974232",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070849995721658864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 普瑞巴林药效不是随着药量增加的，吃600mg已经够了，吃多了也是浪费药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070849979216977920"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "conversation_id": "2070849995721658864",
+        "created_at": "2026-06-27T12:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070849995721658864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SFMSlhCkX4",
+              "end": 58,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2070849995721658864/photo/1",
+              "media_key": "3_2070849979216977920",
+              "start": 35,
+              "url": "https://t.co/SFMSlhCkX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070849995721658864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起....我不是故意的...我还是这样做了...我只是好累... https://t.co/SFMSlhCkX4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2377,
+          "following_count": 787,
+          "like_count": 7654,
+          "listed_count": 7,
+          "media_count": 763,
+          "tweet_count": 3031
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "大家好~❤️！\n这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n为什么会这样子就像你从未来过\n@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 116,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

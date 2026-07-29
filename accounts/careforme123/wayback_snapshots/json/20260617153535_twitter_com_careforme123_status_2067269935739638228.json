@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067269818433372160"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067269935739638228",
+    "created_at": "2026-06-17T15:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067269935739638228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8dgQoaHVBr",
+          "end": 70,
+          "expanded_url": "https://x.com/careforme123/status/2067269935739638228/photo/1",
+          "media_key": "3_2067269818433372160",
+          "start": 47,
+          "url": "https://t.co/8dgQoaHVBr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067269935739638228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国的媒体已经失去底线了\n\n不论是什么新闻时事，请永远不要相信国内的媒体，永远不要..... https://t.co/8dgQoaHVBr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 815,
+        "media_key": "3_2067269818433372160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBq8m6bgAAckKg.png",
+        "width": 488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067269818433372160"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067269935739638228",
+        "created_at": "2026-06-17T15:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067269935739638228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8dgQoaHVBr",
+              "end": 70,
+              "expanded_url": "https://x.com/careforme123/status/2067269935739638228/photo/1",
+              "media_key": "3_2067269818433372160",
+              "start": 47,
+              "url": "https://t.co/8dgQoaHVBr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067269935739638228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国的媒体已经失去底线了\n\n不论是什么新闻时事，请永远不要相信国内的媒体，永远不要..... https://t.co/8dgQoaHVBr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 777,
+          "like_count": 7303,
+          "listed_count": 6,
+          "media_count": 737,
+          "tweet_count": 2912
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

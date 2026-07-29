@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068645192392155162",
+    "created_at": "2026-06-21T10:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068647152793108519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1773576781934768128",
+          "start": 0,
+          "username": "HoruszZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068647152793108519",
+    "in_reply_to_user_id": "1773576781934768128",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068645192392155162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoruszZ when will you fb？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068645192392155162",
+        "created_at": "2026-06-21T10:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068647152793108519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1773576781934768128",
+              "start": 0,
+              "username": "HoruszZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068647152793108519",
+        "in_reply_to_user_id": "1773576781934768128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068645192392155162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoruszZ when will you fb？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773576781934768128",
+        "conversation_id": "2068645192392155162",
+        "created_at": "2026-06-21T10:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068645192392155162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068645192392155162",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {},
+          "text": "Có một điều tôi vẫn chưa hiểu.\n\nNhiều người follow xong rồi lại unfollow chỉ sau vài giờ hoặc vài ngày.\n\nNếu mục tiêu của bạn là phát triển và kiếm tiền trên 𝕏 , thì việc xây dựng những kết nối chất lượng mới là điều quan trọng.\n\nTôi vẫn luôn tuân thủ các giới hạn của nền tảng và follow lại một cách từ từ để đảm bảo an toàn cho tài khoản.\n\nTăng trưởng trên 𝕏 là một cuộc đua đường dài.\n\nĐừng vì vài con số ngắn hạn mà đánh mất những mối quan hệ có giá trị. 😄"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Có một điều tôi vẫn chưa hiểu.\n\nNhiều người follow xong rồi lại unfollow chỉ sau vài giờ hoặc vài ngày.\n\nNếu mục tiêu của bạn là phát triển và kiếm tiền trên 𝕏 , thì việc xây dựng những kết nối chất lượng mới là điều quan trọng.\n\nTôi vẫn luôn tuân"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 788,
+          "like_count": 7458,
+          "listed_count": 6,
+          "media_count": 744,
+          "tweet_count": 2953
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-29T05:03:57.000Z",
+        "description": "Tôi đang làm nội dung hài hước vui vẻ ✌️\nMọi người ủng hộ nhé! ❤️\nMọi thứ ở đây đều là AI tạo ra, 🚨 Còn lại là chính chủ 100% \nFollow back 100% ❤️",
+        "id": "1773576781934768128",
+        "name": "Horus Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040398750045339649/GtuaZ40Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23425,
+          "following_count": 22710,
+          "like_count": 31890,
+          "listed_count": 18,
+          "media_count": 1858,
+          "tweet_count": 87347
+        },
+        "url": "",
+        "username": "HoruszZ",
+        "verified": true
+      }
+    ]
+  }
+}

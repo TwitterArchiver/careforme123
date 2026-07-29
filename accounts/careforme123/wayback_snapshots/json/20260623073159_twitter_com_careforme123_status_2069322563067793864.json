@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069322462073085952"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069322563067793864",
+    "created_at": "2026-06-23T07:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069322563067793864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4EOfnhYSZb",
+          "end": 84,
+          "expanded_url": "https://x.com/careforme123/status/2069322563067793864/photo/1",
+          "media_key": "3_2069322462073085952",
+          "start": 61,
+          "url": "https://t.co/4EOfnhYSZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069322563067793864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孙中山，你要是觉得大清不好，就应该去建设他😡😡\n\n而不是谩骂，抱怨，甚至勾结境外势力去美国檀香山创建同盟会推翻帝制！😅😅 https://t.co/4EOfnhYSZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2069322462073085952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe10MWaYAA3qGC.png",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069322462073085952"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069322563067793864",
+        "created_at": "2026-06-23T07:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069322563067793864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EOfnhYSZb",
+              "end": 84,
+              "expanded_url": "https://x.com/careforme123/status/2069322563067793864/photo/1",
+              "media_key": "3_2069322462073085952",
+              "start": 61,
+              "url": "https://t.co/4EOfnhYSZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069322563067793864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孙中山，你要是觉得大清不好，就应该去建设他😡😡\n\n而不是谩骂，抱怨，甚至勾结境外势力去美国檀香山创建同盟会推翻帝制！😅😅 https://t.co/4EOfnhYSZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 783,
+          "like_count": 7541,
+          "listed_count": 7,
+          "media_count": 751,
+          "tweet_count": 2986
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

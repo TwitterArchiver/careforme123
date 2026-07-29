@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2055476100663574952",
+    "created_at": "2026-05-16T03:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055488970688217187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845607538512797696",
+          "start": 0,
+          "username": "Justice53_07_27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055488970688217187",
+    "in_reply_to_user_id": "1845607538512797696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055476100663574952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Justice53_07_27 一个戒网瘾学校的操场能有多大？都是农村里找个地开的，谣言制造者天天在美国大操场见惯了？那种私人学校操场也就是十个你住的地下室那么大，别老是想当然的在这狗叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055476100663574952",
+        "created_at": "2026-05-16T03:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055488970688217187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845607538512797696",
+              "start": 0,
+              "username": "Justice53_07_27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055488970688217187",
+        "in_reply_to_user_id": "1845607538512797696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055476100663574952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Justice53_07_27 一个戒网瘾学校的操场能有多大？都是农村里找个地开的，谣言制造者天天在美国大操场见惯了？那种私人学校操场也就是十个你住的地下室那么大，别老是想当然的在这狗叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845607538512797696",
+        "conversation_id": "2055476100663574952",
+        "created_at": "2026-05-16T02:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055476100663574952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2055287085243003293",
+              "start": 80,
+              "url": "https://t.co/kitq4ZeUNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055476100663574952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055287085243003293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一天100圈还能这么胖？下次造谣前要不要先过一下大脑？\n\n不过也不怪李老师，自己肥猪一只对锻炼完全没有概念，不知道一天100圈要多长时间，什么样的人可以完成。 https://t.co/kitq4ZeUNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055179927515984326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 555,
+          "like_count": 5594,
+          "listed_count": 6,
+          "media_count": 618,
+          "tweet_count": 2287
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T23:28:34.000Z",
+        "description": "理科男，喜欢搬运事实，喜欢怼谣棍，喜欢原神，喜欢中国，喜欢加州，正义必胜。",
+        "id": "1845607538512797696",
+        "location": "SoCal",
+        "name": "谣言终结者",
+        "pinned_tweet_id": "2048327234189205813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041199539512836096/lor_xCDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3582,
+          "following_count": 305,
+          "like_count": 1904,
+          "listed_count": 48,
+          "media_count": 1377,
+          "tweet_count": 4367
+        },
+        "username": "Justice53_07_27",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062029296710090920",
+    "created_at": "2026-06-03T04:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062029992146374962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1381528438826131457",
+          "start": 0,
+          "username": "ZedongWinine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062029992146374962",
+    "in_reply_to_user_id": "1381528438826131457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062029296710090920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZedongWinine 嗯造梅毒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 481,
+        "media_key": "3_2062029251172585472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3MrcibUAAPpAp.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062029296710090920",
+        "created_at": "2026-06-03T04:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062029992146374962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1381528438826131457",
+              "start": 0,
+              "username": "ZedongWinine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062029992146374962",
+        "in_reply_to_user_id": "1381528438826131457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062029296710090920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZedongWinine 嗯造梅毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062029251172585472"
+          ]
+        },
+        "author_id": "1381528438826131457",
+        "conversation_id": "2062029296710090920",
+        "created_at": "2026-06-03T04:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062029296710090920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LAVlkeJlK5",
+              "end": 27,
+              "expanded_url": "https://x.com/ZedongWinine/status/2062029296710090920/photo/1",
+              "media_key": "3_2062029251172585472",
+              "start": 4,
+              "url": "https://t.co/LAVlkeJlK5"
+            },
+            {
+              "display_url": "x.com/leziren5246187…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/leziren5246187/status/2062018871398367531",
+              "start": 28,
+              "url": "https://t.co/jlNvyL7YQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062029296710090920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062018871398367531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "問他: https://t.co/LAVlkeJlK5 https://t.co/jlNvyL7YQj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 742,
+          "like_count": 6699,
+          "listed_count": 5,
+          "media_count": 685,
+          "tweet_count": 2698
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-12T08:43:58.000Z",
+        "description": "圓頭耄耋😻\n井上尚弥🥊big bang Zhang🥊\ndo bronx🥋 Jack Della Maddalena🥊Nick Diaz🚬\n白井智之😱方丈貴惠 📖",
+        "id": "1381528438826131457",
+        "location": "Henan",
+        "name": "川和.豆沙維尼🇹🇼 橘貓愛好份子",
+        "pinned_tweet_id": "2038641173875863617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024318566695325696/WKA0ABSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9738,
+          "following_count": 5973,
+          "like_count": 231725,
+          "listed_count": 97,
+          "media_count": 8637,
+          "tweet_count": 81005
+        },
+        "username": "ZedongWinine",
+        "verified": false
+      }
+    ]
+  }
+}

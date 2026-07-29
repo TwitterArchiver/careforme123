@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2070130291142987944",
+    "created_at": "2026-06-25T13:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070131318193807513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1773576781934768128",
+          "start": 0,
+          "username": "HoruszZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070131318193807513",
+    "in_reply_to_user_id": "1773576781934768128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070130291142987944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoruszZ 欧耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 621,
+        "media_key": "3_2070130286369914880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqUhwXbQAAvgJL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2070130291142987944",
+        "created_at": "2026-06-25T13:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070131318193807513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1773576781934768128",
+              "start": 0,
+              "username": "HoruszZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070131318193807513",
+        "in_reply_to_user_id": "1773576781934768128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070130291142987944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoruszZ 欧耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070130286369914880"
+          ]
+        },
+        "author_id": "1773576781934768128",
+        "conversation_id": "2070130291142987944",
+        "created_at": "2026-06-25T13:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070130291142987944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vppTimyNb0",
+              "end": 133,
+              "expanded_url": "https://x.com/HoruszZ/status/2070130291142987944/photo/1",
+              "media_key": "3_2070130286369914880",
+              "start": 110,
+              "url": "https://t.co/vppTimyNb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070130291142987944",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "16000 người theo dõi được xác nhận \n\nNhờ mọi người, cảm ơn mọi người nhiều 🥰\n\nGiờ sẽ đi gặp mọi người đâyyyyy https://t.co/vppTimyNb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2322,
+          "following_count": 789,
+          "like_count": 7609,
+          "listed_count": 7,
+          "media_count": 759,
+          "tweet_count": 3014
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-29T05:03:57.000Z",
+        "description": "Giúp bạn phát triển trên X\n✍️ Content\n📈 Impression\n🚀 Tăng trưởng tài khoản\nChia sẻ những gì tôi học được mỗi ngày.\nFor Work: https://t.co/ZgiamVFXQz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/horuszZ2",
+                "end": 148,
+                "expanded_url": "https://t.me/horuszZ2",
+                "start": 125,
+                "url": "https://t.co/ZgiamVFXQz"
+              }
+            ]
+          }
+        },
+        "id": "1773576781934768128",
+        "name": "Horus Z",
+        "pinned_tweet_id": "2069910944361415012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040398750045339649/GtuaZ40Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24552,
+          "following_count": 23945,
+          "like_count": 36813,
+          "listed_count": 18,
+          "media_count": 1893,
+          "tweet_count": 92685
+        },
+        "url": "",
+        "username": "HoruszZ",
+        "verified": true
+      }
+    ]
+  }
+}

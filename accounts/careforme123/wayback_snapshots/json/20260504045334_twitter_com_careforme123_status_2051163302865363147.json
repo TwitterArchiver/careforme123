@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2051163218735972352"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2051163302865363147",
+    "created_at": "2026-05-04T04:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051163302865363147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gfZITuMfAL",
+          "end": 33,
+          "expanded_url": "https://x.com/careforme123/status/2051163302865363147/video/1",
+          "media_key": "7_2051163218735972352",
+          "start": 10,
+          "url": "https://t.co/gfZITuMfAL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051163302865363147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "薄熙来在大学秀英文 https://t.co/gfZITuMfAL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22849,
+        "height": 1620,
+        "media_key": "7_2051163218735972352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051163218735972352/pu/img/jnXnTS7bHo6CKRa2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051163218735972352/pu/vid/avc1/480x720/0cv2swKAgiX11AIC.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051163218735972352/pu/pl/cm1stUCee7RkArta.m3u8?tag=25"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051163218735972352/pu/vid/avc1/320x480/Dma-gEFi4wHSCckn.mp4?tag=25"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051163218735972352/pu/vid/avc1/1080x1620/1zQj0bMRnqB4WNXf.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051163218735972352/pu/vid/avc1/720x1080/9BjntzrwGzNkC6hQ.mp4?tag=25"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051163218735972352"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2051163302865363147",
+        "created_at": "2026-05-04T04:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051163302865363147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfZITuMfAL",
+              "end": 33,
+              "expanded_url": "https://x.com/careforme123/status/2051163302865363147/video/1",
+              "media_key": "7_2051163218735972352",
+              "start": 10,
+              "url": "https://t.co/gfZITuMfAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051163302865363147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "薄熙来在大学秀英文 https://t.co/gfZITuMfAL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2051010408769786079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 416,
+          "like_count": 4733,
+          "listed_count": 5,
+          "media_count": 534,
+          "tweet_count": 1961
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

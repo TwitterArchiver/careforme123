@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053689012372840867",
+    "created_at": "2026-05-11T04:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053698110506107215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1674805643176460288",
+          "start": 0,
+          "username": "YT9763064019541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053698110506107215",
+    "in_reply_to_user_id": "1674805643176460288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053695203064828014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YT9763064019541 我们上一天班能买三个西瓜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 386,
+        "media_key": "3_2053694306909839360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAwF1iaYAAFPUo.jpg",
+        "width": 686
+      },
+      {
+        "height": 606,
+        "media_key": "3_2053694792241233920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAwiFibwAAwdOP.jpg",
+        "width": 424
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2053694792077627393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAwiE7bUAE-3CC.jpg",
+        "width": 691
+      },
+      {
+        "height": 1162,
+        "media_key": "3_2053694794048884736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAwiMRaUAArEpN.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053689012372840867",
+        "created_at": "2026-05-11T04:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053698110506107215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1674805643176460288",
+              "start": 0,
+              "username": "YT9763064019541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053698110506107215",
+        "in_reply_to_user_id": "1674805643176460288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053695203064828014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YT9763064019541 我们上一天班能买三个西瓜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053694306909839360",
+            "3_2053694792241233920",
+            "3_2053694792077627393",
+            "3_2053694794048884736"
+          ]
+        },
+        "author_id": "1674805643176460288",
+        "conversation_id": "2053689012372840867",
+        "created_at": "2026-05-11T04:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053695203064828014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dEsJKFJhNO",
+              "end": 107,
+              "expanded_url": "https://x.com/YT9763064019541/status/2053695203064828014/photo/1",
+              "media_key": "3_2053694306909839360",
+              "start": 84,
+              "url": "https://t.co/dEsJKFJhNO"
+            },
+            {
+              "display_url": "pic.x.com/dEsJKFJhNO",
+              "end": 107,
+              "expanded_url": "https://x.com/YT9763064019541/status/2053695203064828014/photo/1",
+              "media_key": "3_2053694792241233920",
+              "start": 84,
+              "url": "https://t.co/dEsJKFJhNO"
+            },
+            {
+              "display_url": "pic.x.com/dEsJKFJhNO",
+              "end": 107,
+              "expanded_url": "https://x.com/YT9763064019541/status/2053695203064828014/photo/1",
+              "media_key": "3_2053694792077627393",
+              "start": 84,
+              "url": "https://t.co/dEsJKFJhNO"
+            },
+            {
+              "display_url": "pic.x.com/dEsJKFJhNO",
+              "end": 107,
+              "expanded_url": "https://x.com/YT9763064019541/status/2053695203064828014/photo/1",
+              "media_key": "3_2053694794048884736",
+              "start": 84,
+              "url": "https://t.co/dEsJKFJhNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053695203064828014",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053689012372840867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 “美国人吃不起鸡蛋、日本人吃不起大米、韩国人吃不起西瓜”\n这些“新闻”在中国人眼里是不是谣言他们不在乎，他们只在乎这是不是又让他们赢麻了🤣 https://t.co/dEsJKFJhNO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 504,
+          "like_count": 5231,
+          "listed_count": 5,
+          "media_count": 575,
+          "tweet_count": 2132
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-30T15:43:05.000Z",
+        "description": "粉蛆、腊左、蝗旱看到你爹自觉滚远点\n紧急逃生舱:\n支黑形态👉@XOX8964\n日常生活👉@Kuyosuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "XOX8964"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "Kuyosuki"
+              }
+            ]
+          }
+        },
+        "id": "1674805643176460288",
+        "location": "洼地",
+        "name": "库洛米ちゃん",
+        "pinned_tweet_id": "2050371866003742851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045523524845248512/UGPZ74lT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 197,
+          "like_count": 3346,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 678
+        },
+        "username": "YT9763064019541",
+        "verified": false
+      }
+    ]
+  }
+}

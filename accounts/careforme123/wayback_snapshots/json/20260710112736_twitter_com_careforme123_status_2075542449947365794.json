@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075537713546313728",
+        "3_2075538288245624832"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2075542449947365794",
+    "created_at": "2026-07-10T11:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075542449947365794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FWwvgoN1bG",
+          "end": 170,
+          "expanded_url": "https://x.com/careforme123/status/2075542449947365794/photo/1",
+          "media_key": "3_2075537713546313728",
+          "start": 147,
+          "url": "https://t.co/FWwvgoN1bG"
+        },
+        {
+          "display_url": "pic.x.com/FWwvgoN1bG",
+          "end": 170,
+          "expanded_url": "https://x.com/careforme123/status/2075542449947365794/photo/1",
+          "media_key": "3_2075538288245624832",
+          "start": 147,
+          "url": "https://t.co/FWwvgoN1bG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075542449947365794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "中国冷门政治事件：茉莉花革命 \n\n2011年2月20日，北京王府井麦当劳门前，突然有几千人异常聚集，没有人举牌，也没有人喊口号\n\n突然，有一青年在花坛上放下一束白色的茉莉花，在外媒记者蜂拥拍照的同时，数十名便衣瞬间冲出将他带走\n\n这是在干嘛？我们从头说起\n\n两个月前，突尼斯爆发民变，独裁政府 随后下台，因为茉莉花是突尼斯国花，所以这场民主运动被称为茉莉花革命\n\n2月19日，博讯网发表了一篇匿名投稿，题为《中国茉莉花革命发起宣告》：号召民众于2月20日下午2点，在国内13个大城市的核心地标进行“散步”集会\n\n2月20日下午，北京，上海，成都，广州，武汉等地都出现了人群在市中心聚集，开头的这一幕也是在这时发生的，不过很快各地都部署了大量警察，要求民众“不要停留”，快速通行\n\n几天后，组织者发出了“第二次散步”的号召\n\n可2月27日，王府井麦当劳门前突然被多辆洒水车占领。这些车辆在两百米长的街道上冲刷地面，使得行人根本无法在原地驻足停留。麦当劳商铺的外围甚至被拉起了施工围挡\n\n彭博社的一记者遭到数名便衣的围殴，摄像机被砸，头部和身体多处受伤；BBC、路透社等多名记者被强行塞进旁边的派出所，储存卡被格式化\n\n北大、清华、人大等高校接到死命令，周末严格限制学生出校，部分学校也临时组织集体政治学习或文体活动，将学生锁在校园内\n\n随后，中国搜索引擎全面屏蔽茉莉花一词，江苏民歌《茉莉花》也遭到下架，北京禁止出售茉莉花\n\n.....\n\n最终，这场运动悄无声息的结束了\n\n从这一年开始，中国的公共安全支出经费开始大规模攀升，最终超过了国防预算。2013年，中央下发文件，明确禁止高校和媒体讨论“普世价值”、“公民社会”、“司法独立”和“新闻自由”\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国冷门政治事件：茉莉花革命 \n\n2011年2月20日，北京王府井麦当劳门前，突然有几千人异常聚集，没有人举牌，也没有人喊口号\n\n突然，有一青年在花坛上放下一束白色的茉莉花，在外媒记者蜂拥拍照的同时，数十名便衣瞬间冲出将他带走\n\n这是在干嘛？我们从头说起\n\n两个月前，突尼斯爆发民变，独裁政府 https://t.co/FWwvgoN1bG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 558,
+        "media_key": "3_2075537713546313728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3KjcXawAAdmQy.jpg",
+        "width": 1920
+      },
+      {
+        "height": 300,
+        "media_key": "3_2075538288245624832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3LE5SaUAAR_6G.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075537713546313728",
+            "3_2075538288245624832"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2075542449947365794",
+        "created_at": "2026-07-10T11:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075542449947365794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWwvgoN1bG",
+              "end": 170,
+              "expanded_url": "https://x.com/careforme123/status/2075542449947365794/photo/1",
+              "media_key": "3_2075537713546313728",
+              "start": 147,
+              "url": "https://t.co/FWwvgoN1bG"
+            },
+            {
+              "display_url": "pic.x.com/FWwvgoN1bG",
+              "end": 170,
+              "expanded_url": "https://x.com/careforme123/status/2075542449947365794/photo/1",
+              "media_key": "3_2075538288245624832",
+              "start": 147,
+              "url": "https://t.co/FWwvgoN1bG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075542449947365794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国冷门政治事件：茉莉花革命 \n\n2011年2月20日，北京王府井麦当劳门前，突然有几千人异常聚集，没有人举牌，也没有人喊口号\n\n突然，有一青年在花坛上放下一束白色的茉莉花，在外媒记者蜂拥拍照的同时，数十名便衣瞬间冲出将他带走\n\n这是在干嘛？我们从头说起\n\n两个月前，突尼斯爆发民变，独裁政府 随后下台，因为茉莉花是突尼斯国花，所以这场民主运动被称为茉莉花革命\n\n2月19日，博讯网发表了一篇匿名投稿，题为《中国茉莉花革命发起宣告》：号召民众于2月20日下午2点，在国内13个大城市的核心地标进行“散步”集会\n\n2月20日下午，北京，上海，成都，广州，武汉等地都出现了人群在市中心聚集，开头的这一幕也是在这时发生的，不过很快各地都部署了大量警察，要求民众“不要停留”，快速通行\n\n几天后，组织者发出了“第二次散步”的号召\n\n可2月27日，王府井麦当劳门前突然被多辆洒水车占领。这些车辆在两百米长的街道上冲刷地面，使得行人根本无法在原地驻足停留。麦当劳商铺的外围甚至被拉起了施工围挡\n\n彭博社的一记者遭到数名便衣的围殴，摄像机被砸，头部和身体多处受伤；BBC、路透社等多名记者被强行塞进旁边的派出所，储存卡被格式化\n\n北大、清华、人大等高校接到死命令，周末严格限制学生出校，部分学校也临时组织集体政治学习或文体活动，将学生锁在校园内\n\n随后，中国搜索引擎全面屏蔽茉莉花一词，江苏民歌《茉莉花》也遭到下架，北京禁止出售茉莉花\n\n.....\n\n最终，这场运动悄无声息的结束了\n\n从这一年开始，中国的公共安全支出经费开始大规模攀升，最终超过了国防预算。2013年，中央下发文件，明确禁止高校和媒体讨论“普世价值”、“公民社会”、“司法独立”和“新闻自由”\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国冷门政治事件：茉莉花革命 \n\n2011年2月20日，北京王府井麦当劳门前，突然有几千人异常聚集，没有人举牌，也没有人喊口号\n\n突然，有一青年在花坛上放下一束白色的茉莉花，在外媒记者蜂拥拍照的同时，数十名便衣瞬间冲出将他带走\n\n这是在干嘛？我们从头说起\n\n两个月前，突尼斯爆发民变，独裁政府 https://t.co/FWwvgoN1bG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 793,
+          "like_count": 7826,
+          "listed_count": 9,
+          "media_count": 805,
+          "tweet_count": 3115
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

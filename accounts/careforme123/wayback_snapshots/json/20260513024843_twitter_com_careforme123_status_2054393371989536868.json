@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053917570030608389",
+    "created_at": "2026-05-13T02:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054393371989536868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678117449508753408",
+          "start": 0,
+          "username": "Chunliang2nd"
+        },
+        {
+          "end": 25,
+          "id": "1545327649706352640",
+          "start": 14,
+          "username": "TNTxiaoluo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054393371989536868",
+    "in_reply_to_user_id": "1678117449508753408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053931301988966559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunliang2nd @TNTxiaoluo 那我的pixel2呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053917570030608389",
+        "created_at": "2026-05-13T02:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054393371989536868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678117449508753408",
+              "start": 0,
+              "username": "Chunliang2nd"
+            },
+            {
+              "end": 25,
+              "id": "1545327649706352640",
+              "start": 14,
+              "username": "TNTxiaoluo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054393371989536868",
+        "in_reply_to_user_id": "1678117449508753408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053931301988966559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunliang2nd @TNTxiaoluo 那我的pixel2呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678117449508753408",
+        "conversation_id": "2053917570030608389",
+        "created_at": "2026-05-11T20:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T21:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053931301988966559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1545327649706352640",
+              "start": 0,
+              "username": "TNTxiaoluo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053931301988966559",
+        "in_reply_to_user_id": "1545327649706352640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053917570030608389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TNTxiaoluo 清朝老兵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 540,
+          "like_count": 5407,
+          "listed_count": 5,
+          "media_count": 597,
+          "tweet_count": 2210
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "我说老大哥，我刚刚在电幕旁边写日记的时候，你偷看了对吧？(错乱 ADHD/AS Bipolar Chaos-Evil 恐直🏳️‍⚧️Enby🍥HRT2023.6.9 半吊子geek ❄️NixOS Android SukiSU 在押中HKer🇭🇰 贝贝珈毒唯 厌食/ED 维生素不足 @liminfin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "liminfin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7tMRJ"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "乡北茶舍",
+        "name": "虚拟粘同学会梦到一般通过赛博溺水态李颖吗☆",
+        "pinned_tweet_id": "2009209330239983965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 1709,
+          "like_count": 19101,
+          "listed_count": 11,
+          "media_count": 1064,
+          "tweet_count": 23912
+        },
+        "url": "https://t.co/wpEdl7tMRJ",
+        "username": "Chunliang2nd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T08:44:02.000Z",
+        "description": "昵称:小落, 朝鲜平壤人(False） | My social credits: -9,999,999 | ㄓㄚˋㄕ状态 | 附属号: @TNTxiaoluoluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 68,
+                "username": "TNTxiaoluoluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tntxiaoluo.com",
+                "end": 23,
+                "expanded_url": "https://tntxiaoluo.com",
+                "start": 0,
+                "url": "https://t.co/FCVSkbiM38"
+              }
+            ]
+          }
+        },
+        "id": "1545327649706352640",
+        "location": "Piacenza, Emilia Romagna",
+        "name": "TNTxiaoluo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037239741310029824/elD3NEP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 649,
+          "like_count": 3769,
+          "listed_count": 4,
+          "media_count": 363,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/FCVSkbiM38",
+        "username": "TNTxiaoluo",
+        "verified": true
+      }
+    ]
+  }
+}

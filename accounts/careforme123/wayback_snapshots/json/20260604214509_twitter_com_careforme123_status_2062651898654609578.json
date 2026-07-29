@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062611398065111196",
+    "created_at": "2026-06-04T21:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T22:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062651898654609578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062651898654609578",
+    "in_reply_to_user_id": "193648759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062611398065111196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 你知道列宁有梅毒吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2062611380591575040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_eH1nWwAAEMHd.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2062611380591616000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_eH1nXYAA48NJ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2062611380583243778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_eH1lXoAIRwEB.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062611398065111196",
+        "created_at": "2026-06-04T21:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062651898654609578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062651898654609578",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062611398065111196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 你知道列宁有梅毒吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062611380591575040",
+            "3_2062611380591616000",
+            "3_2062611380583243778"
+          ]
+        },
+        "author_id": "193648759",
+        "conversation_id": "2062611398065111196",
+        "created_at": "2026-06-04T19:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062611398065111196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIWOcYYJHq",
+              "end": 45,
+              "expanded_url": "https://x.com/ripo0079/status/2062611398065111196/photo/1",
+              "media_key": "3_2062611380591575040",
+              "start": 22,
+              "url": "https://t.co/pIWOcYYJHq"
+            },
+            {
+              "display_url": "pic.x.com/pIWOcYYJHq",
+              "end": 45,
+              "expanded_url": "https://x.com/ripo0079/status/2062611398065111196/photo/1",
+              "media_key": "3_2062611380591616000",
+              "start": 22,
+              "url": "https://t.co/pIWOcYYJHq"
+            },
+            {
+              "display_url": "pic.x.com/pIWOcYYJHq",
+              "end": 45,
+              "expanded_url": "https://x.com/ripo0079/status/2062611398065111196/photo/1",
+              "media_key": "3_2062611380583243778",
+              "start": 22,
+              "url": "https://t.co/pIWOcYYJHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062611398065111196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 426,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苏联并没有解体，只是没有加盟共和国了而已！ https://t.co/pIWOcYYJHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 748,
+          "like_count": 6818,
+          "listed_count": 5,
+          "media_count": 694,
+          "tweet_count": 2735
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11734,
+          "following_count": 1418,
+          "like_count": 73810,
+          "listed_count": 131,
+          "media_count": 4418,
+          "tweet_count": 54722
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

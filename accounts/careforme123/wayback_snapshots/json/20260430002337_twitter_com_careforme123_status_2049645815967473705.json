@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2049645393781334017"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2049645815967473705",
+    "created_at": "2026-04-30T00:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T01:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049645815967473705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C320TDG0Wz",
+          "end": 35,
+          "expanded_url": "https://x.com/careforme123/status/2049645815967473705/video/1",
+          "media_key": "7_2049645393781334017",
+          "start": 12,
+          "url": "https://t.co/C320TDG0Wz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049645815967473705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "王立军和薄熙来对簿公堂 https://t.co/C320TDG0Wz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68940,
+        "height": 1620,
+        "media_key": "7_2049645393781334017",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049645393781334017/pu/img/Ol7OjF70Vu398fFw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049645393781334017/pu/vid/avc1/720x1080/cNUFQ_6Kyd4Nw90w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049645393781334017/pu/vid/avc1/480x720/RGafTM38sLLs2dhH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049645393781334017/pu/vid/avc1/1080x1620/u-kFhr2Ova_yQDuY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049645393781334017/pu/pl/MnxfYorzT-oQ4Gb0.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049645393781334017/pu/vid/avc1/320x480/sh8OTyUxfUYOTxJW.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049645393781334017"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049645815967473705",
+        "created_at": "2026-04-30T00:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049645815967473705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C320TDG0Wz",
+              "end": 35,
+              "expanded_url": "https://x.com/careforme123/status/2049645815967473705/video/1",
+              "media_key": "7_2049645393781334017",
+              "start": 12,
+              "url": "https://t.co/C320TDG0Wz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049645815967473705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "王立军和薄熙来对簿公堂 https://t.co/C320TDG0Wz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049335145208193267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 341,
+          "like_count": 4485,
+          "listed_count": 5,
+          "media_count": 509,
+          "tweet_count": 1842
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

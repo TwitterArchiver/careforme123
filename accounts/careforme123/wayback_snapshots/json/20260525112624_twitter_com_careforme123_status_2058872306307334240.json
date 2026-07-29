@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058778640742322267",
+    "created_at": "2026-05-25T11:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058872306307334240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "31411520",
+          "start": 0,
+          "username": "Monza13Forza"
+        },
+        {
+          "end": 24,
+          "id": "1204231555046002688",
+          "start": 14,
+          "username": "abc202402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058872306307334240",
+    "in_reply_to_user_id": "31411520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058786655096676452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Monza13Forza @abc202402 地平线说得对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058778640742322267",
+        "created_at": "2026-05-25T11:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058872306307334240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "31411520",
+              "start": 0,
+              "username": "Monza13Forza"
+            },
+            {
+              "end": 24,
+              "id": "1204231555046002688",
+              "start": 14,
+              "username": "abc202402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058872306307334240",
+        "in_reply_to_user_id": "31411520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058786655096676452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Monza13Forza @abc202402 地平线说得对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "31411520",
+        "conversation_id": "2058778640742322267",
+        "created_at": "2026-05-25T05:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058786655096676452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1204231555046002688",
+              "start": 0,
+              "username": "abc202402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058786655096676452",
+        "in_reply_to_user_id": "1204231555046002688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058778640742322267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@abc202402 其实就是老中（老中是中性词，类似老美）思维，吃你几个西瓜怎么了？才多少钱？看你那小气吧啦的样子，咱家多的很......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058489714726846617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 733,
+          "like_count": 6279,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 2535
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-15T13:53:06.000Z",
+        "description": "🏀",
+        "id": "31411520",
+        "name": "Forza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420624394766798852/vjA9j2S1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 842,
+          "like_count": 109,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 813
+        },
+        "username": "Monza13Forza",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-10T02:49:25.000Z",
+        "description": "日吹不支黑/搞钱不搞事",
+        "id": "1204231555046002688",
+        "location": "Tokyo-to, Japan",
+        "name": "Carlos",
+        "pinned_tweet_id": "1978407304480358577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915354184901419008/UIZyUfTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42623,
+          "following_count": 1383,
+          "like_count": 7670,
+          "listed_count": 271,
+          "media_count": 265,
+          "tweet_count": 1869
+        },
+        "username": "abc202402",
+        "verified": true
+      }
+    ]
+  }
+}

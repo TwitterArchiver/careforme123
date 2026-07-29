@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056671235572965665",
+    "created_at": "2026-05-19T12:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056707376116322481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1836137971768012800",
+          "start": 0,
+          "username": "shengMin111409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056707376116322481",
+    "in_reply_to_user_id": "1836137971768012800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056699490803855427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengMin111409 一包烟有50%的税，一个烟民一个月500块烟钱都要交250的税\n就算你工资一万块，超过个税起征点2倍了，你一个月也就贡献国家140\n不要老是拿个税起征点来说事，你的贡献还不如抽烟的，没人把你当回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056671235572965665",
+        "created_at": "2026-05-19T12:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056707376116322481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1836137971768012800",
+              "start": 0,
+              "username": "shengMin111409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056707376116322481",
+        "in_reply_to_user_id": "1836137971768012800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056699490803855427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengMin111409 一包烟有50%的税，一个烟民一个月500块烟钱都要交250的税\n就算你工资一万块，超过个税起征点2倍了，你一个月也就贡献国家140\n不要老是拿个税起征点来说事，你的贡献还不如抽烟的，没人把你当回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836137971768012800",
+        "conversation_id": "2056671235572965665",
+        "created_at": "2026-05-19T11:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056699490803855427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056699490803855427",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056671235572965665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 这话很像没达到个税起征点的人能说出来的…🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 617,
+          "like_count": 5804,
+          "listed_count": 6,
+          "media_count": 632,
+          "tweet_count": 2368
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-17T20:19:56.000Z",
+        "description": "",
+        "id": "1836137971768012800",
+        "name": "gono777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836138039627653122/m8kxdPSw_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 4018
+        },
+        "username": "shengMin111409",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054817513121468416"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054817520700264610",
+    "created_at": "2026-05-14T06:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054817520700264610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pl0qCSb7f1",
+          "end": 84,
+          "expanded_url": "https://x.com/careforme123/status/2054817520700264610/photo/1",
+          "media_key": "3_2054817513121468416",
+          "start": 61,
+          "url": "https://t.co/pl0qCSb7f1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054817520700264610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本日本人今天的午餐，安安烤肉\n\n原生态，没有合成肉，僵尸肉\n\n2200日元，一个小时轻松赚到这一桌\n\n中国人羡慕吗？🤔🤔 https://t.co/pl0qCSb7f1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2054817513121468416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQtpCvbUAAyakN.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054817513121468416"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054817520700264610",
+        "created_at": "2026-05-14T06:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054817520700264610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pl0qCSb7f1",
+              "end": 84,
+              "expanded_url": "https://x.com/careforme123/status/2054817520700264610/photo/1",
+              "media_key": "3_2054817513121468416",
+              "start": 61,
+              "url": "https://t.co/pl0qCSb7f1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054817520700264610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本日本人今天的午餐，安安烤肉\n\n原生态，没有合成肉，僵尸肉\n\n2200日元，一个小时轻松赚到这一桌\n\n中国人羡慕吗？🤔🤔 https://t.co/pl0qCSb7f1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 545,
+          "like_count": 5466,
+          "listed_count": 5,
+          "media_count": 606,
+          "tweet_count": 2241
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

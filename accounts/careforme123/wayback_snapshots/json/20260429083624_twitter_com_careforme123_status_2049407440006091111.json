@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2049353203377156517",
+    "created_at": "2026-04-29T08:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049407440006091111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1071722047019970561",
+          "start": 0,
+          "username": "KbITj4umS1T69Zg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049407440006091111",
+    "in_reply_to_user_id": "1071722047019970561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049394929877864849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KbITj4umS1T69Zg 你是日本人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049353203377156517",
+        "created_at": "2026-04-29T08:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049407440006091111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1071722047019970561",
+              "start": 0,
+              "username": "KbITj4umS1T69Zg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049407440006091111",
+        "in_reply_to_user_id": "1071722047019970561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049394929877864849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KbITj4umS1T69Zg 你是日本人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071722047019970561",
+        "conversation_id": "2049353203377156517",
+        "created_at": "2026-04-29T07:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049394929877864849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049394929877864849",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049353203377156517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 本东北人活几十年没见过一次桌饺，可能还是活的太闭塞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049335145208193267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 340,
+          "like_count": 4436,
+          "listed_count": 3,
+          "media_count": 504,
+          "tweet_count": 1815
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-09T11:03:42.000Z",
+        "description": "私たちは「新日本人」です。 国籍は日本。文化は多様。しかし、未来に向けた志は一つです。 この国の伝統を敬い、同時に自らのルーツを誇り、調和ある共生社会を目指します。",
+        "id": "1071722047019970561",
+        "location": "Tokyo-to, Japan",
+        "name": "新日本人党　織田家康",
+        "pinned_tweet_id": "2011260467319275976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944665877145632768/m8EB1hou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 348,
+          "like_count": 329,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 1918
+        },
+        "username": "KbITj4umS1T69Zg",
+        "verified": true
+      }
+    ]
+  }
+}

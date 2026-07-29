@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067279920846565766",
+    "created_at": "2026-06-17T16:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:13:02.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067279361921982791",
+      "2067279920846565766"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067279920846565766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猜一个品牌:\n\n技术靠偷\n人才靠挖\n质量靠吹\n数据靠编\n销售靠骗\n责任靠摊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067279361921982791",
+        "created_at": "2026-06-17T16:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:13:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067279361921982791",
+          "2067279920846565766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067279361921982791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜一个公司:\n\n技术靠偷\n人才靠挖\n质量靠吹\n数据靠编\n销售靠骗\n责任靠摊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067279920846565766",
+        "created_at": "2026-06-17T16:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:13:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067279361921982791",
+          "2067279920846565766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067279920846565766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜一个品牌:\n\n技术靠偷\n人才靠挖\n质量靠吹\n数据靠编\n销售靠骗\n责任靠摊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 777,
+          "like_count": 7320,
+          "listed_count": 6,
+          "media_count": 737,
+          "tweet_count": 2917
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

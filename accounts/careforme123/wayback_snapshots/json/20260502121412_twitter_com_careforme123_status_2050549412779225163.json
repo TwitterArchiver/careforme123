@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050549412779225163",
+    "created_at": "2026-05-02T12:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050549412779225163"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050549412779225163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们上学的时候\n不会趁喜欢的女同学不在，班里没人\n偷偷去闻她坐过的椅子，感受她的体温与香气吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050549412779225163",
+        "created_at": "2026-05-02T12:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050549412779225163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050549412779225163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们上学的时候\n不会趁喜欢的女同学不在，班里没人\n偷偷去闻她坐过的椅子，感受她的体温与香气吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 389,
+          "like_count": 4654,
+          "listed_count": 5,
+          "media_count": 525,
+          "tweet_count": 1919
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

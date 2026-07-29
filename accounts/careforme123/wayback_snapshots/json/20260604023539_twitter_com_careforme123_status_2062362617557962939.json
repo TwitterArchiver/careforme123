@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062362563740946432"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062362617557962939",
+    "created_at": "2026-06-04T02:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:31:07.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062361478129160301",
+      "2062362617557962939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gweh3WTvxi",
+          "end": 45,
+          "expanded_url": "https://x.com/careforme123/status/2062362617557962939/photo/1",
+          "media_key": "3_2062362563740946432",
+          "start": 22,
+          "url": "https://t.co/Gweh3WTvxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062362617557962939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国最大的汉奸，诺贝尔和平奖获得者，刘晓波 https://t.co/Gweh3WTvxi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 295,
+        "media_key": "3_2062362563740946432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ770ynX0AA7J9D.jpg",
+        "width": 295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062361140395393026"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062361478129160301",
+        "created_at": "2026-06-04T02:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:31:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062361478129160301",
+          "2062362617557962939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1tde7xkQQ",
+              "end": 45,
+              "expanded_url": "https://x.com/careforme123/status/2062361478129160301/photo/1",
+              "media_key": "3_2062361140395393026",
+              "start": 22,
+              "url": "https://t.co/M1tde7xkQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062361478129160301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国最大的汉奸，诺贝尔和平奖获得者，刘晓波 https://t.co/M1tde7xkQQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062362563740946432"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062362617557962939",
+        "created_at": "2026-06-04T02:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:31:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062361478129160301",
+          "2062362617557962939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gweh3WTvxi",
+              "end": 45,
+              "expanded_url": "https://x.com/careforme123/status/2062362617557962939/photo/1",
+              "media_key": "3_2062362563740946432",
+              "start": 22,
+              "url": "https://t.co/Gweh3WTvxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062362617557962939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国最大的汉奸，诺贝尔和平奖获得者，刘晓波 https://t.co/Gweh3WTvxi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 741,
+          "like_count": 6754,
+          "listed_count": 5,
+          "media_count": 691,
+          "tweet_count": 2716
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

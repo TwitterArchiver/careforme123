@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061769903779061826",
+    "created_at": "2026-06-02T11:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061769903779061826"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061769903779061826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你们是怎么用的下去国产手机的\n\n国产手机系统集成了大量监测服务，你每一个运行的app，访问的网站，安装的apk全都会被打包发给厂商的服务器\n\n它的权限也不透明，如果你给了一个应用读取存储权限，它还能通过私有接口读取其他应用的缓存，换句话说，你的任何一个app可能都在监控你的所有数据\n\n还有之前极客湾那个事情知道吧，测的那么多手机里，只有iphone没有通过云控对测试软件进行造假\n\n他们还喜欢搞封闭生态捆绑用户，比如你要是在应用商店里下载原神，等你换了一个手机后你会发现官服没有你的原神账号，因为国产厂商都喜欢搞渠道服\n\n买手机，安卓选pixel，ios选苹果\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们是怎么用的下去国产手机的\n\n国产手机系统集成了大量监测服务，你每一个运行的app，访问的网站，安装的apk全都会被打包发给厂商的服务器\n\n它的权限也不透明，如果你给了一个应用读取存储权限，它还能通过私有接口读取其他应用的缓存，换句话说，你的任何一个app可能都在监控你的所有数据"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061769903779061826",
+        "created_at": "2026-06-02T11:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061769903779061826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061769903779061826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你们是怎么用的下去国产手机的\n\n国产手机系统集成了大量监测服务，你每一个运行的app，访问的网站，安装的apk全都会被打包发给厂商的服务器\n\n它的权限也不透明，如果你给了一个应用读取存储权限，它还能通过私有接口读取其他应用的缓存，换句话说，你的任何一个app可能都在监控你的所有数据\n\n还有之前极客湾那个事情知道吧，测的那么多手机里，只有iphone没有通过云控对测试软件进行造假\n\n他们还喜欢搞封闭生态捆绑用户，比如你要是在应用商店里下载原神，等你换了一个手机后你会发现官服没有你的原神账号，因为国产厂商都喜欢搞渠道服\n\n买手机，安卓选pixel，ios选苹果\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们是怎么用的下去国产手机的\n\n国产手机系统集成了大量监测服务，你每一个运行的app，访问的网站，安装的apk全都会被打包发给厂商的服务器\n\n它的权限也不透明，如果你给了一个应用读取存储权限，它还能通过私有接口读取其他应用的缓存，换句话说，你的任何一个app可能都在监控你的所有数据"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 742,
+          "like_count": 6672,
+          "listed_count": 5,
+          "media_count": 684,
+          "tweet_count": 2684
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

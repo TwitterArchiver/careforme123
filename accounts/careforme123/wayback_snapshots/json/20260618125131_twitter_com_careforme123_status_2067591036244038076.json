@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067544325945503773",
+    "created_at": "2026-06-18T12:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067591036244038076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1965391466357751808",
+          "start": 0,
+          "username": "YiLi39107596752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067591036244038076",
+    "in_reply_to_user_id": "1965391466357751808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067584990309663189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiLi39107596752 小派蒙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067544325945503773",
+        "created_at": "2026-06-18T12:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067591036244038076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1965391466357751808",
+              "start": 0,
+              "username": "YiLi39107596752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067591036244038076",
+        "in_reply_to_user_id": "1965391466357751808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067584990309663189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiLi39107596752 小派蒙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965391466357751808",
+        "conversation_id": "2067544325945503773",
+        "created_at": "2026-06-18T12:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067584990309663189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067584990309663189",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067544325945503773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 778,
+          "like_count": 7370,
+          "listed_count": 6,
+          "media_count": 740,
+          "tweet_count": 2932
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T12:27:04.000Z",
+        "description": "",
+        "id": "1965391466357751808",
+        "name": "Yi Li",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999474609221992455/pm9XKv6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 1269,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "YiLi39107596752",
+        "verified": false
+      }
+    ]
+  }
+}

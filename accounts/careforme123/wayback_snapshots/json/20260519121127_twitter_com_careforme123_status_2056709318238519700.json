@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056701240365514756",
+    "created_at": "2026-05-19T12:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056709318238519700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "realQinYuele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056709318238519700",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056701240365514756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realQinYuele 功高盖主"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2056701111122165760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrew4GWgAA2hNF.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056701240365514756",
+        "created_at": "2026-05-19T12:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056709318238519700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "realQinYuele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056709318238519700",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056701240365514756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realQinYuele 功高盖主"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056701111122165760"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2056701240365514756",
+        "created_at": "2026-05-19T11:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056701240365514756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xnh7VfiWIy",
+              "end": 41,
+              "expanded_url": "https://x.com/realQinYuele/status/2056701240365514756/photo/1",
+              "media_key": "3_2056701111122165760",
+              "start": 18,
+              "url": "https://t.co/Xnh7VfiWIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056701240365514756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 461,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，出大事了\n雷军说，他要干五届 https://t.co/Xnh7VfiWIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 617,
+          "like_count": 5808,
+          "listed_count": 6,
+          "media_count": 632,
+          "tweet_count": 2370
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "Senior correspondent at Langxin News focusing on East Asian socio-political dynamics, digital civil rights, and emerging internet subcultures.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "location": "Prague, Czech Republic",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26714,
+          "following_count": 350,
+          "like_count": 2077,
+          "listed_count": 72,
+          "media_count": 1720,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "realQinYuele",
+        "verified": false
+      }
+    ]
+  }
+}

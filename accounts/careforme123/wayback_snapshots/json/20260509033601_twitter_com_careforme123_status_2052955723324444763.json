@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2052949130297688076",
+    "created_at": "2026-05-09T03:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052955723324444763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "realQinYuele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052955723324444763",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052949130297688076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realQinYuele 下次芙宁娜娜被封将会是人来的世界末日，神的天国将会降临，大家应该及时做好准备，多陪陪家人"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15836,
+        "height": 898,
+        "media_key": "13_2052948968426876930",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052948968426876930/img/f5RKT50oFzMc-gYd.jpg",
+        "public_metrics": {
+          "view_count": 137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052948968426876930/vid/avc1/320x398/g0pGGRGlPQy5DHZW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052948968426876930/vid/avc1/480x598/xKP5uabxiLQVlS51.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052948968426876930/vid/avc1/720x898/T7WaGckUwnP2qxEW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052948968426876930/pl/qfdjvT7KbYA5aQuT.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2052949130297688076",
+        "created_at": "2026-05-09T03:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052955723324444763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "realQinYuele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052955723324444763",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052949130297688076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realQinYuele 下次芙宁娜娜被封将会是人来的世界末日，神的天国将会降临，大家应该及时做好准备，多陪陪家人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052948968426876930"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2052949130297688076",
+        "created_at": "2026-05-09T03:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052949130297688076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1ZY2LZR15",
+              "end": 76,
+              "expanded_url": "https://x.com/realQinYuele/status/2052949130297688076/video/1",
+              "media_key": "13_2052948968426876930",
+              "start": 53,
+              "url": "https://t.co/X1ZY2LZR15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052949130297688076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现没？\n每次芙宁娜娜账号被封禁，国内就会出大事\n\n先是各种献忠事件，然后是浏阳烟花厂，最后还有汉坦病毒 https://t.co/X1ZY2LZR15"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2052673804934238647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 456,
+          "like_count": 4997,
+          "listed_count": 5,
+          "media_count": 557,
+          "tweet_count": 2050
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "Senior correspondent at Langxin News focusing on East Asian socio-political dynamics, digital civil rights, and emerging internet subcultures.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "location": "Prague, Czech Republic",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25825,
+          "following_count": 333,
+          "like_count": 1945,
+          "listed_count": 69,
+          "media_count": 1611,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "realQinYuele",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053701393513652420",
+    "created_at": "2026-05-11T05:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053704264632111541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831519949820674048",
+          "start": 0,
+          "username": "andrew_w1218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053704264632111541",
+    "in_reply_to_user_id": "1831519949820674048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053701393513652420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@andrew_w1218 这是哪的新闻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1737,
+        "media_key": "3_2053701390669873152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA2iKmagAAtF6u.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053701393513652420",
+        "created_at": "2026-05-11T05:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053704264632111541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831519949820674048",
+              "start": 0,
+              "username": "andrew_w1218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053704264632111541",
+        "in_reply_to_user_id": "1831519949820674048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053701393513652420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@andrew_w1218 这是哪的新闻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053701390669873152"
+          ]
+        },
+        "author_id": "1831519949820674048",
+        "conversation_id": "2053701393513652420",
+        "created_at": "2026-05-11T04:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053701393513652420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJ50Cew1Vc",
+              "end": 104,
+              "expanded_url": "https://x.com/andrew_w1218/status/2053701393513652420/photo/1",
+              "media_key": "3_2053701390669873152",
+              "start": 81,
+              "url": "https://t.co/JJ50Cew1Vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053701393513652420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日热梗：\n我是你爹🤪\n男女约酒店开房女子未到\n男子被警察抓了\n法官判决说：“等待嫖娼也是嫖娼”\n男子回复说：\n“我想娶你妈\n等着娶也是娶\n所以我是你爹”😂🤪🤣 https://t.co/JJ50Cew1Vc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 504,
+          "like_count": 5240,
+          "listed_count": 5,
+          "media_count": 575,
+          "tweet_count": 2134
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-05T02:29:34.000Z",
+        "description": "这世界唯一能打动人心的套路、就是真诚！ altruism⛱️不成熟的段子手🤣不专业的职业评论员😱",
+        "id": "1831519949820674048",
+        "name": "andrew.wu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031907281307308032/uhF1eUBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 2153,
+          "like_count": 91834,
+          "listed_count": 6,
+          "media_count": 2364,
+          "tweet_count": 29830
+        },
+        "username": "andrew_w1218",
+        "verified": true
+      }
+    ]
+  }
+}

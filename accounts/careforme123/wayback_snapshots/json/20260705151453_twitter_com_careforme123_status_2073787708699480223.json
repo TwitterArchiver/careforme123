@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073787708699480223",
+    "created_at": "2026-07-05T15:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073787708699480223"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073787708699480223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国只有77年历史\n\n至于什么上下五千年，那都是其他政权，和中国无关\n\n世界上历史最长的国家是拜占庭帝国，现存国家历史最长的是美国\n\n谢谢大家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073787708699480223",
+        "created_at": "2026-07-05T15:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073787708699480223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073787708699480223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国只有77年历史\n\n至于什么上下五千年，那都是其他政权，和中国无关\n\n世界上历史最长的国家是拜占庭帝国，现存国家历史最长的是美国\n\n谢谢大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 788,
+          "like_count": 7780,
+          "listed_count": 9,
+          "media_count": 790,
+          "tweet_count": 3088
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

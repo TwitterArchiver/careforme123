@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056314088926400682",
+    "created_at": "2026-05-18T10:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T11:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056318140661793252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2015931381642416128",
+          "start": 0,
+          "username": "Diaodaquan250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056318140661793252",
+    "in_reply_to_user_id": "2015931381642416128",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056317970146591118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diaodaquan250 man！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056314088926400682",
+        "created_at": "2026-05-18T10:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056318140661793252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2015931381642416128",
+              "start": 0,
+              "username": "Diaodaquan250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056318140661793252",
+        "in_reply_to_user_id": "2015931381642416128",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056317970146591118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diaodaquan250 man！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015931381642416128",
+        "conversation_id": "2056314088926400682",
+        "created_at": "2026-05-18T10:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056317970146591118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056317970146591118",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056314088926400682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 你不给我个说法，我就给你个说法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 606,
+          "like_count": 5729,
+          "listed_count": 6,
+          "media_count": 628,
+          "tweet_count": 2336
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-26T23:35:34.000Z",
+        "description": "此生无悔入华夏，来世还做中国人\n上推特之前：习近平是谁，不认识\n上推特之后：老人瞻仰，轻关易道，通商宽衣，金科绿玉，精甚细腻，颐使气指，疯狂宇宙，萨格尔王，PM250，疫情迁灭战，兵帮外交",
+        "id": "2015931381642416128",
+        "location": "以色列",
+        "name": "正球级包蜜🇮🇱🇺🇸",
+        "pinned_tweet_id": "2056295961329033292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053787950261952512/42vCJSo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 47,
+          "like_count": 3955,
+          "listed_count": 3,
+          "media_count": 2277,
+          "tweet_count": 3971
+        },
+        "username": "Diaodaquan250",
+        "verified": true
+      }
+    ]
+  }
+}

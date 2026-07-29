@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050234671712047104"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050234686354464845",
+    "created_at": "2026-05-01T15:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:21:00.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050234034857398277",
+      "2050234686354464845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pCJ6o1gEMn",
+          "end": 35,
+          "expanded_url": "https://x.com/careforme123/status/2050234686354464845/photo/1",
+          "media_key": "3_2050234671712047104",
+          "start": 12,
+          "url": "https://t.co/pCJ6o1gEMn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050234686354464845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "赵紫阳与薄熙来罕见同框"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "赵紫阳与薄熙来罕见同框 https://t.co/pCJ6o1gEMn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 391,
+        "media_key": "3_2050234671712047104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPlkkGWEAA_YIi.png",
+        "width": 437
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050233851385872384"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050234034857398277",
+        "created_at": "2026-05-01T15:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:21:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050234034857398277",
+          "2050234686354464845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGURQ9uLGt",
+              "end": 35,
+              "expanded_url": "https://x.com/careforme123/status/2050234034857398277/photo/1",
+              "media_key": "3_2050233851385872384",
+              "start": 12,
+              "url": "https://t.co/DGURQ9uLGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050234034857398277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "赵紫阳与薄熙来罕见同框"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赵紫阳与薄熙来罕见同框 https://t.co/DGURQ9uLGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050234671712047104"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050234686354464845",
+        "created_at": "2026-05-01T15:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:21:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050234034857398277",
+          "2050234686354464845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCJ6o1gEMn",
+              "end": 35,
+              "expanded_url": "https://x.com/careforme123/status/2050234686354464845/photo/1",
+              "media_key": "3_2050234671712047104",
+              "start": 12,
+              "url": "https://t.co/pCJ6o1gEMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050234686354464845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "赵紫阳与薄熙来罕见同框"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赵紫阳与薄熙来罕见同框 https://t.co/pCJ6o1gEMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050169740165820828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 371,
+          "like_count": 4591,
+          "listed_count": 5,
+          "media_count": 520,
+          "tweet_count": 1898
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

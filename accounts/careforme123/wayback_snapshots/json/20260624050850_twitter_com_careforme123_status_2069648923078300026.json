@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069648478188290049"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069648923078300026",
+    "created_at": "2026-06-24T05:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:08:36.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069648864009957598",
+      "2069648923078300026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzSuWcTNfC",
+          "end": 86,
+          "expanded_url": "https://x.com/careforme123/status/2069648923078300026/photo/1",
+          "media_key": "3_2069648478188290049",
+          "start": 63,
+          "url": "https://t.co/GzSuWcTNfC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069648923078300026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "核武器给了独裁者和流氓国家喘息的空间\n\n美国以及整个世界应该尽早研发出反制核威胁的技术，毕竟他们为了自己的政权什么都干得出来 https://t.co/GzSuWcTNfC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_2069648478188290049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjeU1BXQAErmxP.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069648478188290049"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069648864009957598",
+        "created_at": "2026-06-24T05:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:08:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069648864009957598",
+          "2069648923078300026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XVfxxHiXxg",
+              "end": 87,
+              "expanded_url": "https://x.com/careforme123/status/2069648864009957598/photo/1",
+              "media_key": "3_2069648478188290049",
+              "start": 64,
+              "url": "https://t.co/XVfxxHiXxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069648864009957598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "核武器给了独裁者和流氓国家喘息的空间\n\n美国以及整个世界应该尽早研发出反制核威胁的技术\n，毕竟他们为了自己的政权什么都干得出来 https://t.co/XVfxxHiXxg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069648478188290049"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069648923078300026",
+        "created_at": "2026-06-24T05:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:08:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069648864009957598",
+          "2069648923078300026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzSuWcTNfC",
+              "end": 86,
+              "expanded_url": "https://x.com/careforme123/status/2069648923078300026/photo/1",
+              "media_key": "3_2069648478188290049",
+              "start": 63,
+              "url": "https://t.co/GzSuWcTNfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069648923078300026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "核武器给了独裁者和流氓国家喘息的空间\n\n美国以及整个世界应该尽早研发出反制核威胁的技术，毕竟他们为了自己的政权什么都干得出来 https://t.co/GzSuWcTNfC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 782,
+          "like_count": 7570,
+          "listed_count": 7,
+          "media_count": 753,
+          "tweet_count": 2997
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

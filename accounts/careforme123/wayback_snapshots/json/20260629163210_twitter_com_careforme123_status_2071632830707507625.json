@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2071611761313390789",
+    "created_at": "2026-06-29T16:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071632830707507625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1569709625699889153",
+          "start": 0,
+          "username": "gssss54722817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071632830707507625",
+    "in_reply_to_user_id": "1569709625699889153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071627701761323162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gssss54722817 跟哈梅内伊一样，抵抗霸权的英雄，虽败犹荣！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2071611761313390789",
+        "created_at": "2026-06-29T16:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071632830707507625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1569709625699889153",
+              "start": 0,
+              "username": "gssss54722817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071632830707507625",
+        "in_reply_to_user_id": "1569709625699889153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071627701761323162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gssss54722817 跟哈梅内伊一样，抵抗霸权的英雄，虽败犹荣！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569709625699889153",
+        "conversation_id": "2071611761313390789",
+        "created_at": "2026-06-29T16:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071627701761323162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071627701761323162",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071611761313390789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 俄罗斯战败看央视怎么报"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 789,
+          "like_count": 7696,
+          "listed_count": 6,
+          "media_count": 768,
+          "tweet_count": 3044
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-13T15:28:45.000Z",
+        "description": "小粉红有两类人，蠢人被洗脑造成的。坏人是剥削阶级或者党员官僚。",
+        "id": "1569709625699889153",
+        "location": "Dominican Republic",
+        "name": "刁猪喜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061130080202489856/eN32s-4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 336,
+          "like_count": 2063,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "gssss54722817",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2066916843172880692",
+    "created_at": "2026-06-16T16:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066918950735429998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "989412204863787010",
+          "start": 0,
+          "username": "5xyxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066918950735429998",
+    "in_reply_to_user_id": "989412204863787010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066916843172880692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5xyxh 你咋知道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 371,
+        "media_key": "3_2066912199721779200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8lsdZWgAAVWiJ.jpg",
+        "width": 660
+      },
+      {
+        "height": 600,
+        "media_key": "3_2066912307641294848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8lyvbXoAAyaee.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2066916843172880692",
+        "created_at": "2026-06-16T16:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066918950735429998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "989412204863787010",
+              "start": 0,
+              "username": "5xyxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066918950735429998",
+        "in_reply_to_user_id": "989412204863787010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066916843172880692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5xyxh 你咋知道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066912199721779200",
+            "3_2066912307641294848"
+          ]
+        },
+        "author_id": "989412204863787010",
+        "conversation_id": "2066916843172880692",
+        "created_at": "2026-06-16T16:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:56:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066912891974963399",
+          "2066916843172880692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJdc7nB3b9",
+              "end": 55,
+              "expanded_url": "https://x.com/5xyxh/status/2066916843172880692/photo/1",
+              "media_key": "3_2066912199721779200",
+              "start": 32,
+              "url": "https://t.co/fJdc7nB3b9"
+            },
+            {
+              "display_url": "pic.x.com/fJdc7nB3b9",
+              "end": 55,
+              "expanded_url": "https://x.com/5xyxh/status/2066916843172880692/photo/1",
+              "media_key": "3_2066912307641294848",
+              "start": 32,
+              "url": "https://t.co/fJdc7nB3b9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066916843172880692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突发：全国人大常委会将在下周开会罢免张又侠等人的人大代表资格。 https://t.co/fJdc7nB3b9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 774,
+          "like_count": 7259,
+          "listed_count": 6,
+          "media_count": 733,
+          "tweet_count": 2897
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-26T07:53:46.000Z",
+        "description": "作家、时事评论员\n新高地原创文章，希望与各大众媒体合作！欢迎蓝Ｖ互关。\n业务联系：yao20180125@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "globalleadernews.com",
+                "end": 23,
+                "expanded_url": "https://globalleadernews.com/",
+                "start": 0,
+                "url": "https://t.co/RBdc78Vz4T"
+              }
+            ]
+          }
+        },
+        "id": "989412204863787010",
+        "location": "美国",
+        "name": "新高地",
+        "pinned_tweet_id": "2066641266360607107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950158573352226816/JNlLt394_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128743,
+          "following_count": 62472,
+          "like_count": 41329,
+          "listed_count": 397,
+          "media_count": 4362,
+          "tweet_count": 46468
+        },
+        "url": "https://t.co/RBdc78Vz4T",
+        "username": "5xyxh",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053625779762712828",
+    "created_at": "2026-05-11T05:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053702953215947166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048148409278734336",
+          "start": 0,
+          "username": "TrikoLari78l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053702953215947166",
+    "in_reply_to_user_id": "2048148409278734336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053625779762712828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TrikoLari78l 想你fo我🥺🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053625779762712828",
+        "created_at": "2026-05-11T05:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053702953215947166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048148409278734336",
+              "start": 0,
+              "username": "TrikoLari78l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053702953215947166",
+        "in_reply_to_user_id": "2048148409278734336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053625779762712828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TrikoLari78l 想你fo我🥺🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048148409278734336",
+        "conversation_id": "2053625779762712828",
+        "created_at": "2026-05-10T23:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053625779762712828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053625779762712828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人喜欢我……你现在在想点什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 504,
+          "like_count": 5238,
+          "listed_count": 5,
+          "media_count": 575,
+          "tweet_count": 2133
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-25T21:14:06.000Z",
+        "description": "常驻英国｜165/45kg｜生理性别男｜喜欢可爱的东西｜历史系在读｜EN/CN/JP/DE｜ACGN少女乐队｜推当情绪垃圾桶",
+        "id": "2048148409278734336",
+        "location": "Liverpool, England",
+        "name": "TrikoLar🍀✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051379933809672192/CiBDPf4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 131,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 194
+        },
+        "username": "TrikoLari78l",
+        "verified": true
+      }
+    ]
+  }
+}

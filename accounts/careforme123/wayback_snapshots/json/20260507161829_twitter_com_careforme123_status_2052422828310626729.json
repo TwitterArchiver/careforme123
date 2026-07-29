@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2052244533824368988",
+    "created_at": "2026-05-07T16:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052422828310626729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987723027145216000",
+          "start": 0,
+          "username": "dguncefc"
+        },
+        {
+          "end": 21,
+          "id": "2032683283121950720",
+          "start": 10,
+          "username": "mimicreepe"
+        },
+        {
+          "end": 35,
+          "id": "1872653502935441409",
+          "start": 22,
+          "username": "wanghuamhuan"
+        },
+        {
+          "end": 43,
+          "id": "1856540087338881024",
+          "start": 36,
+          "username": "GWX227"
+        },
+        {
+          "end": 54,
+          "id": "1531801543",
+          "start": 44,
+          "username": "PDChinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052422828310626729",
+    "in_reply_to_user_id": "1987723027145216000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052413326324555950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dguncefc @mimicreepe @wanghuamhuan @GWX227 @PDChinese 确实，不如毛泽东的万分之一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2052244533824368988",
+        "created_at": "2026-05-07T16:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052422828310626729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987723027145216000",
+              "start": 0,
+              "username": "dguncefc"
+            },
+            {
+              "end": 21,
+              "id": "2032683283121950720",
+              "start": 10,
+              "username": "mimicreepe"
+            },
+            {
+              "end": 35,
+              "id": "1872653502935441409",
+              "start": 22,
+              "username": "wanghuamhuan"
+            },
+            {
+              "end": 43,
+              "id": "1856540087338881024",
+              "start": 36,
+              "username": "GWX227"
+            },
+            {
+              "end": 54,
+              "id": "1531801543",
+              "start": 44,
+              "username": "PDChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052422828310626729",
+        "in_reply_to_user_id": "1987723027145216000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052413326324555950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dguncefc @mimicreepe @wanghuamhuan @GWX227 @PDChinese 确实，不如毛泽东的万分之一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987723027145216000",
+        "conversation_id": "2052244533824368988",
+        "created_at": "2026-05-07T15:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052413326324555950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032683283121950720",
+              "start": 0,
+              "username": "mimicreepe"
+            },
+            {
+              "end": 25,
+              "id": "1872653502935441409",
+              "start": 12,
+              "username": "wanghuamhuan"
+            },
+            {
+              "end": 33,
+              "id": "1856540087338881024",
+              "start": 26,
+              "username": "GWX227"
+            },
+            {
+              "end": 44,
+              "id": "1531801543",
+              "start": 34,
+              "username": "PDChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052413326324555950",
+        "in_reply_to_user_id": "2032683283121950720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052393219544269233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimicreepe @wanghuamhuan @GWX227 @PDChinese 不对，邓矮子啥子都好，就是杀少了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2052402333297094703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 447,
+          "like_count": 4902,
+          "listed_count": 5,
+          "media_count": 550,
+          "tweet_count": 2008
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T03:24:49.000Z",
+        "description": "",
+        "id": "1987723027145216000",
+        "location": "成都九眼桥，太古里街娃",
+        "name": "九眼桥夺师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991822463211331584/ygKu5kpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 72,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 488
+        },
+        "username": "dguncefc",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T05:00:51.000Z",
+        "description": "",
+        "id": "2032683283121950720",
+        "name": "Olivia Wiegand",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039027153082490881/lm0V6oSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 62,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "mimicreepe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T14:39:31.000Z",
+        "description": "",
+        "id": "1872653502935441409",
+        "name": "wanghuamhuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048023755679744001/bStHv_rF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 39,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 114
+        },
+        "username": "wanghuamhuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T03:30:35.000Z",
+        "description": "Long live the Three Principles of the People\nLong live the people",
+        "id": "1856540087338881024",
+        "name": "George Greenholm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872110719489200128/yc00OwST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 41,
+          "like_count": 27,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 590
+        },
+        "username": "GWX227",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-19T19:31:19.000Z",
+        "description": "中國第一大報，帶來最新資訊與熱點新聞 https://t.co/QS9QzcMmHN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/PDChina",
+                "end": 42,
+                "expanded_url": "https://twitter.com/PDChina",
+                "start": 19,
+                "url": "https://t.co/QS9QzcMmHN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "people.cn",
+                "end": 23,
+                "expanded_url": "http://people.cn",
+                "start": 0,
+                "url": "https://t.co/iDLiVe2DJv"
+              }
+            ]
+          }
+        },
+        "id": "1531801543",
+        "location": "中國  北京",
+        "name": "人民日報  People's Daily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246467753252474880/KHLBAK4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428787,
+          "following_count": 254,
+          "like_count": 285,
+          "listed_count": 2643,
+          "media_count": 86230,
+          "tweet_count": 91422
+        },
+        "url": "https://t.co/iDLiVe2DJv",
+        "username": "PDChinese",
+        "verified": true
+      }
+    ]
+  }
+}

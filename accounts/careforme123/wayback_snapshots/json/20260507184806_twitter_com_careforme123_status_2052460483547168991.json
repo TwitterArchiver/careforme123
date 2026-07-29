@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2049515159274819912",
+    "created_at": "2026-05-07T18:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052460483547168991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042401844899823618",
+          "start": 0,
+          "username": "Tutongba04y2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052460483547168991",
+    "in_reply_to_user_id": "2042401844899823618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049515159274819912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tutongba04y2 一辈子没出过国的东西还海外上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049515159274819912",
+        "created_at": "2026-05-07T18:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052460483547168991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042401844899823618",
+              "start": 0,
+              "username": "Tutongba04y2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052460483547168991",
+        "in_reply_to_user_id": "2042401844899823618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049515159274819912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tutongba04y2 一辈子没出过国的东西还海外上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042401844899823618",
+        "conversation_id": "2049515159274819912",
+        "created_at": "2026-04-29T15:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049515159274819912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049515159274819912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8696,
+          "like_count": 5,
+          "quote_count": 10,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建立海外反LGBT&amp;Furry阵线，请多多支持我们！\nWe are establishing an overseas anti-LGBT &amp; Furry front; please support us!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2052402333297094703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 448,
+          "like_count": 4920,
+          "listed_count": 5,
+          "media_count": 551,
+          "tweet_count": 2013
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-10T00:40:46.000Z",
+        "description": "“全世界的反同者，联合起来！”\n“Anti-LGBT people around the world, unite!”. @Tutongba0\n我们是tu同吧的海外媒体账号。\nWe are the official Tutongba (anti-LGBTQ community) account on X.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Tutongba0"
+              }
+            ]
+          }
+        },
+        "id": "2042401844899823618",
+        "name": "Tu LGBT Ba",
+        "pinned_tweet_id": "2049515159274819912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042403035054555137/HSVhcO_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 27,
+          "like_count": 136,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 163
+        },
+        "username": "Tutongba04y2",
+        "verified": false
+      }
+    ]
+  }
+}

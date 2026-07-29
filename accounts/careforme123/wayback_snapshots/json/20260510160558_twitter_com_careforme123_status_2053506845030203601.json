@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053500488490901965",
+    "created_at": "2026-05-10T16:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053506845030203601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1346830626683580416",
+          "start": 0,
+          "username": "LUOXIANG_PMTQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053506845030203601",
+    "in_reply_to_user_id": "1346830626683580416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053500488490901965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LUOXIANG_PMTQ 红魔手机请这么多水军干嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053500469813596164",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9_zCFWUAQbeRw.jpg",
+        "width": 1667
+      },
+      {
+        "height": 1886,
+        "media_key": "3_2053500469813690371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9_zCFXwAMJiD2.jpg",
+        "width": 1667
+      },
+      {
+        "height": 521,
+        "media_key": "3_2053500469830422529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9_zCJXEAED0S8.jpg",
+        "width": 900
+      },
+      {
+        "height": 992,
+        "media_key": "3_2053500469821968386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9_zCHWEAIDIv2.jpg",
+        "width": 1666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053500488490901965",
+        "created_at": "2026-05-10T16:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053506845030203601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1346830626683580416",
+              "start": 0,
+              "username": "LUOXIANG_PMTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053506845030203601",
+        "in_reply_to_user_id": "1346830626683580416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053500488490901965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LUOXIANG_PMTQ 红魔手机请这么多水军干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053500469813596164",
+            "3_2053500469813690371",
+            "3_2053500469830422529",
+            "3_2053500469821968386"
+          ]
+        },
+        "author_id": "1346830626683580416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Handstands",
+              "id": "872573517132320768",
+              "name": "Handstands"
+            }
+          }
+        ],
+        "conversation_id": "2053500488490901965",
+        "created_at": "2026-05-10T15:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053500488490901965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zf4gRpvhx",
+              "end": 73,
+              "expanded_url": "https://x.com/LUOXIANG_PMTQ/status/2053500488490901965/photo/1",
+              "media_key": "3_2053500469813596164",
+              "start": 50,
+              "url": "https://t.co/7zf4gRpvhx"
+            },
+            {
+              "display_url": "pic.x.com/7zf4gRpvhx",
+              "end": 73,
+              "expanded_url": "https://x.com/LUOXIANG_PMTQ/status/2053500488490901965/photo/1",
+              "media_key": "3_2053500469813690371",
+              "start": 50,
+              "url": "https://t.co/7zf4gRpvhx"
+            },
+            {
+              "display_url": "pic.x.com/7zf4gRpvhx",
+              "end": 73,
+              "expanded_url": "https://x.com/LUOXIANG_PMTQ/status/2053500488490901965/photo/1",
+              "media_key": "3_2053500469830422529",
+              "start": 50,
+              "url": "https://t.co/7zf4gRpvhx"
+            },
+            {
+              "display_url": "pic.x.com/7zf4gRpvhx",
+              "end": 73,
+              "expanded_url": "https://x.com/LUOXIANG_PMTQ/status/2053500488490901965/photo/1",
+              "media_key": "3_2053500469821968386",
+              "start": 50,
+              "url": "https://t.co/7zf4gRpvhx"
+            },
+            {
+              "display_url": "x.com/luoxiang_pmtq/…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/luoxiang_pmtq/status/2052719532137972141",
+              "start": 74,
+              "url": "https://t.co/1iF5o9f8T7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053500488490901965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 601,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052719532137972141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "土狗红魔的水军疯了，现在装都不装了！🤣\n两天拉黑1000个，总战绩24160个账号，大家一起努力💪 https://t.co/7zf4gRpvhx https://t.co/1iF5o9f8T7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 497,
+          "like_count": 5193,
+          "listed_count": 5,
+          "media_count": 572,
+          "tweet_count": 2112
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-06T14:47:08.000Z",
+        "description": "💥投稿商务对接邮箱：hshen606@gmail.com\n💥 XChat 群：https://t.co/87N7vVoBLk\n💥猛料频道：https://t.co/EEzJs1hW5P\n💥关注我我是XPremium+会员你懂的",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 62,
+                "expanded_url": "https://x.com/i/chat/group_join/g2048484015985000904/HaS00ggO9E",
+                "start": 39,
+                "url": "https://t.co/87N7vVoBLk"
+              },
+              {
+                "display_url": "t.me/LUOXIANG_PMTQ",
+                "end": 92,
+                "expanded_url": "https://t.me/LUOXIANG_PMTQ",
+                "start": 69,
+                "url": "https://t.co/EEzJs1hW5P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@POMTQ",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@POMTQ",
+                "start": 0,
+                "url": "https://t.co/g52RLraklz"
+              }
+            ]
+          }
+        },
+        "id": "1346830626683580416",
+        "location": "New York, USA",
+        "name": "罗翔——破幕推墙",
+        "pinned_tweet_id": "2053500488490901965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037863020777316352/Ndmr8iCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338665,
+          "following_count": 15235,
+          "like_count": 142848,
+          "listed_count": 826,
+          "media_count": 16968,
+          "tweet_count": 48714
+        },
+        "url": "https://t.co/g52RLraklz",
+        "username": "LUOXIANG_PMTQ",
+        "verified": true
+      }
+    ]
+  }
+}

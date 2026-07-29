@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2066104581965389966",
+    "created_at": "2026-06-14T12:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066143332695470486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056580542766989312",
+          "start": 0,
+          "username": "gaoteng7uhm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066143332695470486",
+    "in_reply_to_user_id": "2056580542766989312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066143068814967012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoteng7uhm 叽里呱啦什么呢..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2066104581965389966",
+        "created_at": "2026-06-14T12:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066143332695470486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056580542766989312",
+              "start": 0,
+              "username": "gaoteng7uhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066143332695470486",
+        "in_reply_to_user_id": "2056580542766989312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066143068814967012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoteng7uhm 叽里呱啦什么呢..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056580542766989312",
+        "conversation_id": "2066104581965389966",
+        "created_at": "2026-06-14T12:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066143068814967012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066143068814967012",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066104581965389966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 武统台湾，可能朝鲜军队先上，会看到抗美援中的戏码会上演，俄罗斯政府也表示会提供军事援助！😂你们整天意淫 抠字眼 没卵用的！中国国力越强，就会有小弟替中国打仗，中国可没说过拒绝其他国家帮中国武统台湾！😆😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 773,
+          "like_count": 7199,
+          "listed_count": 6,
+          "media_count": 727,
+          "tweet_count": 2877
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-19T03:41:07.000Z",
+        "description": "",
+        "id": "2056580542766989312",
+        "name": "🐸赖皇帝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056581161774891008/tIVfX0BA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 578
+        },
+        "username": "gaoteng7uhm",
+        "verified": false
+      }
+    ]
+  }
+}

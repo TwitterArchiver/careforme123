@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2066853301459849714",
+    "created_at": "2026-06-16T12:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066854176756478295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066854176756478295",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066853301459849714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 我们要是真禁了，中国小孩对世界的认识只能来自课堂了，，想象一下，我们的下一代看到日本人就要骂他小日本..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2066469161576935424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2SwPsXsAA3lTa.jpg",
+        "width": 1111
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2066853301459849714",
+        "created_at": "2026-06-16T12:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066854176756478295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066854176756478295",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066853301459849714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 我们要是真禁了，中国小孩对世界的认识只能来自课堂了，，想象一下，我们的下一代看到日本人就要骂他小日本..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066469161576935424"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2066853301459849714",
+        "created_at": "2026-06-16T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066853301459849714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLPwJ5uRwP",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066853301459849714/photo/1",
+              "media_key": "3_2066469161576935424",
+              "start": 149,
+              "url": "https://t.co/QLPwJ5uRwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066853301459849714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "6月15日，据路透社报道，澳大利亚、英国、法国、丹麦、西班牙、马来西亚、挪威、瑞典、土耳其、美国及欧盟等多国和地区，正陆续推动限制未成年人使用社交媒体。\n\n澳大利亚已成为首个禁止16岁以下儿童使用主要社交媒体平台的国家，相关规定从2025年12月10日起实施，违规平台最高可被罚款4950万澳元。\n\n英国计划在2026年圣诞节前通过16岁以下青少年社交媒体禁令，预计2027年春季左右生效；\n\n法国、丹麦、西班牙、波兰、斯洛文尼亚、瑞典、土耳其等国也在推动或讨论15岁、16岁以下的使用限制。\n\n中国监管机构此前已推行“未成年人模式”，要求按年龄限制设备和应用使用时长。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 719,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6月15日，据路透社报道，澳大利亚、英国、法国、丹麦、西班牙、马来西亚、挪威、瑞典、土耳其、美国及欧盟等多国和地区，正陆续推动限制未成年人使用社交媒体。\n\n澳大利亚已成为首个禁止16岁以下儿童使用主要社交媒体平台的国家，相关规定从2025年12月10日起实施，违规平台最高可被罚款4950万澳元。 https://t.co/QLPwJ5uRwP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 774,
+          "like_count": 7224,
+          "listed_count": 6,
+          "media_count": 731,
+          "tweet_count": 2885
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236599,
+          "following_count": 1070,
+          "like_count": 9704,
+          "listed_count": 8791,
+          "media_count": 48693,
+          "tweet_count": 55855
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062190905344368641"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062191691755340207",
+    "created_at": "2026-06-03T15:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062191691755340207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZWrdaciu1L",
+          "end": 50,
+          "expanded_url": "https://x.com/careforme123/status/2062191691755340207/video/1",
+          "media_key": "13_2062190905344368641",
+          "start": 27,
+          "url": "https://t.co/ZWrdaciu1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062191691755340207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "张维为：黄仁勋在中国很紧张，他的芯片马上就要卖不掉了 https://t.co/ZWrdaciu1L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17252,
+        "height": 1918,
+        "media_key": "13_2062190905344368641",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062190905344368641/img/VTVW6JnVUxhqqPUP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062190905344368641/vid/avc1/1080x1918/3G9qu5U-yIy82Z0E.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062190905344368641/vid/avc1/320x568/W4n6F2FLpcj9jSD3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062190905344368641/vid/avc1/720x1278/Y3WglSNhxm4vAazP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062190905344368641/vid/avc1/480x852/c9Xf2trX5AYmKwVK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062190905344368641/pl/shUchpLxB1JGoWui.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062190905344368641"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062191691755340207",
+        "created_at": "2026-06-03T15:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062191691755340207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWrdaciu1L",
+              "end": 50,
+              "expanded_url": "https://x.com/careforme123/status/2062191691755340207/video/1",
+              "media_key": "13_2062190905344368641",
+              "start": 27,
+              "url": "https://t.co/ZWrdaciu1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062191691755340207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "张维为：黄仁勋在中国很紧张，他的芯片马上就要卖不掉了 https://t.co/ZWrdaciu1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 740,
+          "like_count": 6721,
+          "listed_count": 5,
+          "media_count": 689,
+          "tweet_count": 2706
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

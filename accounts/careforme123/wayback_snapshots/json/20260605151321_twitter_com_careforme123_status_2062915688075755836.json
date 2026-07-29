@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062457724512969177",
+    "created_at": "2026-06-05T15:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062915688075755836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1427681488590577669",
+          "start": 0,
+          "username": "Kuriyona_chan"
+        },
+        {
+          "end": 26,
+          "id": "1999133060626022400",
+          "start": 15,
+          "username": "BigWave372"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062915688075755836",
+    "in_reply_to_user_id": "1427681488590577669",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062880446388785368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuriyona_chan @BigWave372 hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062457724512969177",
+        "created_at": "2026-06-05T15:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062915688075755836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1427681488590577669",
+              "start": 0,
+              "username": "Kuriyona_chan"
+            },
+            {
+              "end": 26,
+              "id": "1999133060626022400",
+              "start": 15,
+              "username": "BigWave372"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062915688075755836",
+        "in_reply_to_user_id": "1427681488590577669",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062880446388785368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuriyona_chan @BigWave372 hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427681488590577669",
+        "conversation_id": "2062457724512969177",
+        "created_at": "2026-06-05T12:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062880446388785368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999133060626022400",
+              "start": 0,
+              "username": "BigWave372"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062880446388785368",
+        "in_reply_to_user_id": "1999133060626022400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062457724512969177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigWave372 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 757,
+          "like_count": 6907,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2757
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-17T17:19:48.000Z",
+        "description": "前世@kuriyona/17yo(08.6.28)/称呼我为「未晞」吧/杭州高中女孩子/无证含糖 日雌26.1.17/INFP/抑郁中/兴趣使然的开发者 前端为主/亚二次元/https://t.co/QPcK2qpFsI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "kuriyona"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/kuriyona",
+                "end": 110,
+                "expanded_url": "http://github.com/kuriyona",
+                "start": 87,
+                "url": "https://t.co/QPcK2qpFsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuriyona.com/en",
+                "end": 23,
+                "expanded_url": "https://kuriyona.com/en",
+                "start": 0,
+                "url": "https://t.co/SI1wcPOWTn"
+              }
+            ]
+          }
+        },
+        "id": "1427681488590577669",
+        "location": "杭州 Hangzhou",
+        "name": "Kuriyona 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061130221571694592/9XSPGUL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 56,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/SI1wcPOWTn",
+        "username": "Kuriyona_chan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T15:04:34.000Z",
+        "description": "| Friend of Canines | Guitarist | Meme | Magnet Patriot Here for a good time, not a long time. Hope you can take a joke.",
+        "id": "1999133060626022400",
+        "name": "Bigwave 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999137157831856128/qpoVZMww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23553,
+          "following_count": 1677,
+          "like_count": 53202,
+          "listed_count": 8,
+          "media_count": 1223,
+          "tweet_count": 54246
+        },
+        "username": "BigWave372",
+        "verified": true
+      }
+    ]
+  }
+}

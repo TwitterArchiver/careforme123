@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058868461376270739",
+    "created_at": "2026-05-25T11:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058870093552001367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795760823887175680",
+          "start": 0,
+          "username": "ctbz1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058870093552001367",
+    "in_reply_to_user_id": "1795760823887175680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058869755420045356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctbz1234 这个拿来考公起码是压轴题，没看过后悔一辈子！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058868461376270739",
+        "created_at": "2026-05-25T11:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058870093552001367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795760823887175680",
+              "start": 0,
+              "username": "ctbz1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058870093552001367",
+        "in_reply_to_user_id": "1795760823887175680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058869755420045356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctbz1234 这个拿来考公起码是压轴题，没看过后悔一辈子！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795760823887175680",
+        "conversation_id": "2058868461376270739",
+        "created_at": "2026-05-25T11:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058869755420045356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058869755420045356",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058868461376270739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 看了这一大堆，我只想到了四个字。\n\n说的真对啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058489714726846617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 733,
+          "like_count": 6271,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 2533
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T10:15:39.000Z",
+        "description": "喜歡嘲笑世界就是一個草台班子～\n反對PUA男性。\nLuv Games. Luv Meme. Don’t like WOKE.\nLuv Noodles！",
+        "id": "1795760823887175680",
+        "location": "Hong Kong",
+        "name": "Mess",
+        "pinned_tweet_id": "2056532939249525059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053662448025210880/rLEnjMW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 985,
+          "like_count": 7956,
+          "listed_count": 3,
+          "media_count": 640,
+          "tweet_count": 4874
+        },
+        "username": "ctbz1234",
+        "verified": true
+      }
+    ]
+  }
+}

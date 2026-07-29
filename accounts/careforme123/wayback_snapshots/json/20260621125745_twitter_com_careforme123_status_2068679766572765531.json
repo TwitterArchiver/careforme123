@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068678552283976041",
+    "created_at": "2026-06-21T12:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068679766572765531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009025613592674304",
+          "start": 0,
+          "username": "JoeKevin84824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068679766572765531",
+    "in_reply_to_user_id": "2009025613592674304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068679177923072461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoeKevin84824 你自己眼睛不好🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068678552283976041",
+        "created_at": "2026-06-21T12:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068679766572765531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009025613592674304",
+              "start": 0,
+              "username": "JoeKevin84824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068679766572765531",
+        "in_reply_to_user_id": "2009025613592674304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068679177923072461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoeKevin84824 你自己眼睛不好🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009025613592674304",
+        "conversation_id": "2068678552283976041",
+        "created_at": "2026-06-21T12:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068679177923072461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068679177923072461",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068678552283976041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 你这一天哪里去了？😆等了你一天了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 788,
+          "like_count": 7472,
+          "listed_count": 6,
+          "media_count": 745,
+          "tweet_count": 2956
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T22:13:47.000Z",
+        "description": "",
+        "id": "2009025613592674304",
+        "name": "Joe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029164658419200000/Qtsuuaja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 118,
+          "like_count": 2116,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "JoeKevin84824",
+        "verified": false
+      }
+    ]
+  }
+}

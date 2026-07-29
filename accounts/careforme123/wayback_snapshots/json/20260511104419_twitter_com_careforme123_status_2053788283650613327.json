@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053788276520316928"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053748459799564785",
+    "created_at": "2026-05-11T10:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053788283650613327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1703086500366450688",
+          "start": 0,
+          "username": "AGQNLZS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I0h2eAaaYc",
+          "end": 36,
+          "expanded_url": "https://x.com/careforme123/status/2053788283650613327/photo/1",
+          "media_key": "3_2053788276520316928",
+          "start": 13,
+          "url": "https://t.co/I0h2eAaaYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053788283650613327",
+    "in_reply_to_user_id": "1703086500366450688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053748459799564785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGQNLZS 闹麻了 https://t.co/I0h2eAaaYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2053788276520316928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICFjlna8AA4qkm.jpg",
+        "width": 1156
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053748446990073856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBhVNDagAAyTN8.jpg",
+        "width": 638
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053748446973341696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBhVM_bMAAXkBq.jpg",
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053788276520316928"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053748459799564785",
+        "created_at": "2026-05-11T10:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053788283650613327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1703086500366450688",
+              "start": 0,
+              "username": "AGQNLZS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0h2eAaaYc",
+              "end": 36,
+              "expanded_url": "https://x.com/careforme123/status/2053788283650613327/photo/1",
+              "media_key": "3_2053788276520316928",
+              "start": 13,
+              "url": "https://t.co/I0h2eAaaYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053788283650613327",
+        "in_reply_to_user_id": "1703086500366450688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053748459799564785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGQNLZS 闹麻了 https://t.co/I0h2eAaaYc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053748446990073856",
+            "3_2053748446973341696"
+          ]
+        },
+        "author_id": "1703086500366450688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053748459799564785",
+        "created_at": "2026-05-11T08:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053748459799564785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnFZCRaAop",
+              "end": 38,
+              "expanded_url": "https://x.com/AGQNLZS/status/2053748459799564785/photo/1",
+              "media_key": "3_2053748446990073856",
+              "start": 15,
+              "url": "https://t.co/XnFZCRaAop"
+            },
+            {
+              "display_url": "pic.x.com/XnFZCRaAop",
+              "end": 38,
+              "expanded_url": "https://x.com/AGQNLZS/status/2053748459799564785/photo/1",
+              "media_key": "3_2053748446973341696",
+              "start": 15,
+              "url": "https://t.co/XnFZCRaAop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053748459799564785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "美国人对比中美日常事物的成本 https://t.co/XnFZCRaAop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 520,
+          "like_count": 5275,
+          "listed_count": 5,
+          "media_count": 578,
+          "tweet_count": 2149
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-16T16:40:46.000Z",
+        "description": "清澈的爱，只为中国！🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqHrn…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqHrnDPURu18A90AUqJovvQ?si=NGcqmUi6RjNviqNB",
+                "start": 0,
+                "url": "https://t.co/K3JZ4OviFF"
+              }
+            ]
+          }
+        },
+        "id": "1703086500366450688",
+        "location": "China",
+        "name": "爱国青年刘战神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998077784149884936/OTy6-Uac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6399,
+          "following_count": 201,
+          "like_count": 401,
+          "listed_count": 56,
+          "media_count": 1138,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/K3JZ4OviFF",
+        "username": "AGQNLZS",
+        "verified": true
+      }
+    ]
+  }
+}

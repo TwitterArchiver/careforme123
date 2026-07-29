@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2055082036680110328",
+    "created_at": "2026-05-15T03:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055122285896589314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1008615379885670400",
+          "start": 0,
+          "username": "zhinarensml8964"
+        },
+        {
+          "end": 28,
+          "id": "1861778149970997248",
+          "start": 17,
+          "username": "a_lei83862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055122285896589314",
+    "in_reply_to_user_id": "1008615379885670400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055122166467973362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensml8964 @a_lei83862 滚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055082036680110328",
+        "created_at": "2026-05-15T03:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055122285896589314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1008615379885670400",
+              "start": 0,
+              "username": "zhinarensml8964"
+            },
+            {
+              "end": 28,
+              "id": "1861778149970997248",
+              "start": 17,
+              "username": "a_lei83862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055122285896589314",
+        "in_reply_to_user_id": "1008615379885670400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055122166467973362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensml8964 @a_lei83862 滚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1008615379885670400",
+        "conversation_id": "2055082036680110328",
+        "created_at": "2026-05-15T03:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055122166467973362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            },
+            {
+              "end": 25,
+              "id": "1861778149970997248",
+              "start": 14,
+              "username": "a_lei83862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055122166467973362",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055112519749132418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 @a_lei83862 不行，他是我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 553,
+          "like_count": 5546,
+          "listed_count": 6,
+          "media_count": 610,
+          "tweet_count": 2262
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "主账号@zhinarencnm8964\n逃生舱@zhinarensb8964\n究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1008615379885670400",
+        "location": "支那人民共和国",
+        "name": "萨麦尔之子✡️🩵",
+        "pinned_tweet_id": "2053154231121838124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054311077811556352/SHVwh_ZW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 883,
+          "like_count": 35559,
+          "listed_count": 6,
+          "media_count": 635,
+          "tweet_count": 3005
+        },
+        "username": "zhinarensml8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-27T14:24:54.000Z",
+        "description": "藍白草跟粉紅跟反支黑人士給我有多遠死多遠\n反支黑的沒有一個無辜的",
+        "id": "1861778149970997248",
+        "location": "賽博世界",
+        "name": "❤️小麵包❤️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049532620544106496/sIJWoxpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1236,
+          "like_count": 1933,
+          "listed_count": 5,
+          "media_count": 70,
+          "tweet_count": 3861
+        },
+        "username": "a_lei83862",
+        "verified": false
+      }
+    ]
+  }
+}

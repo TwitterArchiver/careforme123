@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074835367942074368",
+        "3_2074835336468025344"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2074836077677011293",
+    "created_at": "2026-07-08T12:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074836077677011293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HQvy3JWb5U",
+          "end": 133,
+          "expanded_url": "https://x.com/careforme123/status/2074836077677011293/photo/1",
+          "media_key": "3_2074835367942074368",
+          "start": 110,
+          "url": "https://t.co/HQvy3JWb5U"
+        },
+        {
+          "display_url": "pic.x.com/HQvy3JWb5U",
+          "end": 133,
+          "expanded_url": "https://x.com/careforme123/status/2074836077677011293/photo/1",
+          "media_key": "3_2074835336468025344",
+          "start": 110,
+          "url": "https://t.co/HQvy3JWb5U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074836077677011293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁还记得当年闹得沸沸扬扬的杜嘉班纳辱华事件？\n\n本来是一个挺正常的广告，模特用筷子吃披萨，展示了中外文化的差异，硬是被说成歧视中国人\n\n后面更抽象了，设计师直接说中国是💩之国，本来都没啥大事，他这一骂，直接损失了几十亿 https://t.co/HQvy3JWb5U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_2074835367942074368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtLxjGasAAEq4Q.jpg",
+        "width": 1023
+      },
+      {
+        "height": 268,
+        "media_key": "3_2074835336468025344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtLvt2a0AAlufE.jpg",
+        "width": 387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074835367942074368",
+            "3_2074835336468025344"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2074836077677011293",
+        "created_at": "2026-07-08T12:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074836077677011293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQvy3JWb5U",
+              "end": 133,
+              "expanded_url": "https://x.com/careforme123/status/2074836077677011293/photo/1",
+              "media_key": "3_2074835367942074368",
+              "start": 110,
+              "url": "https://t.co/HQvy3JWb5U"
+            },
+            {
+              "display_url": "pic.x.com/HQvy3JWb5U",
+              "end": 133,
+              "expanded_url": "https://x.com/careforme123/status/2074836077677011293/photo/1",
+              "media_key": "3_2074835336468025344",
+              "start": 110,
+              "url": "https://t.co/HQvy3JWb5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074836077677011293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁还记得当年闹得沸沸扬扬的杜嘉班纳辱华事件？\n\n本来是一个挺正常的广告，模特用筷子吃披萨，展示了中外文化的差异，硬是被说成歧视中国人\n\n后面更抽象了，设计师直接说中国是💩之国，本来都没啥大事，他这一骂，直接损失了几十亿 https://t.co/HQvy3JWb5U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 793,
+          "like_count": 7800,
+          "listed_count": 9,
+          "media_count": 799,
+          "tweet_count": 3100
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

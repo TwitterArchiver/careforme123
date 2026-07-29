@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074482738359685120"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2074483433380999496",
+    "created_at": "2026-07-07T13:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074483433380999496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/acbr26f3z0",
+          "end": 123,
+          "expanded_url": "https://x.com/careforme123/status/2074483433380999496/photo/1",
+          "media_key": "3_2074482738359685120",
+          "start": 100,
+          "url": "https://t.co/acbr26f3z0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074483433380999496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "国内工厂把工人往死里压榨，外国人来了就开始“关怀员工了”\n\n外国友人们，请记住，你们买的每一辆便宜的中国电车背后都是被压榨，降薪的中国基层工人。在平时，他们一天工作12个小时两班倒，并且被拖欠加班费 https://t.co/acbr26f3z0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2074482738359685120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoLDzib0AA_Y-H.jpg",
+        "width": 729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074482738359685120"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2074483433380999496",
+        "created_at": "2026-07-07T13:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074483433380999496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/acbr26f3z0",
+              "end": 123,
+              "expanded_url": "https://x.com/careforme123/status/2074483433380999496/photo/1",
+              "media_key": "3_2074482738359685120",
+              "start": 100,
+              "url": "https://t.co/acbr26f3z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074483433380999496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内工厂把工人往死里压榨，外国人来了就开始“关怀员工了”\n\n外国友人们，请记住，你们买的每一辆便宜的中国电车背后都是被压榨，降薪的中国基层工人。在平时，他们一天工作12个小时两班倒，并且被拖欠加班费 https://t.co/acbr26f3z0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 793,
+          "like_count": 7795,
+          "listed_count": 9,
+          "media_count": 795,
+          "tweet_count": 3097
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

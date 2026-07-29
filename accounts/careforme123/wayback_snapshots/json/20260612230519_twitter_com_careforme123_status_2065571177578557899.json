@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065571028840194048"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2065571177578557899",
+    "created_at": "2026-06-12T23:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T00:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065571177578557899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vyUNzPSkSA",
+          "end": 32,
+          "expanded_url": "https://x.com/careforme123/status/2065571177578557899/photo/1",
+          "media_key": "3_2065571028840194048",
+          "start": 9,
+          "url": "https://t.co/vyUNzPSkSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065571177578557899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "站起来，活出尊严 https://t.co/vyUNzPSkSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2065571028840194048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKph6ChboAAMnK9.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065571028840194048"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2065571177578557899",
+        "created_at": "2026-06-12T23:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065571177578557899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vyUNzPSkSA",
+              "end": 32,
+              "expanded_url": "https://x.com/careforme123/status/2065571177578557899/photo/1",
+              "media_key": "3_2065571028840194048",
+              "start": 9,
+              "url": "https://t.co/vyUNzPSkSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065571177578557899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "站起来，活出尊严 https://t.co/vyUNzPSkSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 771,
+          "like_count": 7142,
+          "listed_count": 6,
+          "media_count": 722,
+          "tweet_count": 2854
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

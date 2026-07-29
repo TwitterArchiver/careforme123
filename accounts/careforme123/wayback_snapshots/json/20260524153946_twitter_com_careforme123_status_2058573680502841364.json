@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058565489446805558",
+    "created_at": "2026-05-24T15:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058573680502841364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "896279370",
+          "start": 0,
+          "username": "XiaoZhi_BTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058573680502841364",
+    "in_reply_to_user_id": "896279370",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058565489446805558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoZhi_BTC 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058565489446805558",
+        "created_at": "2026-05-24T15:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058573680502841364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "896279370",
+              "start": 0,
+              "username": "XiaoZhi_BTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058573680502841364",
+        "in_reply_to_user_id": "896279370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058565489446805558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoZhi_BTC 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "896279370",
+        "conversation_id": "2058565489446805558",
+        "created_at": "2026-05-24T15:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058565489446805558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/XiaoZhi_BTC/st…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/XiaoZhi_BTC/status/2058129819439915329",
+              "start": 103,
+              "url": "https://t.co/aacdouIxYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058565489446805558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058129819439915329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二期互关来啦～\n\n昨天的回关目前还剩下十几位老师没完成，主要是太容易频繁了，一次性只能回关十几位老师。\n\n老师们可以接着来呀，不着急，我们一起慢慢把互关完成～\n\n一起把第二期互关冲起来！🤝\n\n#蓝V互关 https://t.co/aacdouIxYB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058489714726846617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 728,
+          "like_count": 6225,
+          "listed_count": 6,
+          "media_count": 653,
+          "tweet_count": 2513
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-21T22:37:06.000Z",
+        "description": "#k博士的kol小队｜合约吹牛选手｜千人社区团长推文均不作为投资建议｜商務DM合作👉https://t.co/KkMRLopAxh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "k博士的kol小队"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/XiaoZhiBTC",
+                "end": 65,
+                "expanded_url": "http://t.me/XiaoZhiBTC",
+                "start": 42,
+                "url": "https://t.co/KkMRLopAxh"
+              }
+            ]
+          }
+        },
+        "id": "896279370",
+        "name": "小智🧠SENT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996874958828720132/MORJIBYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13869,
+          "following_count": 11276,
+          "like_count": 174416,
+          "listed_count": 84,
+          "media_count": 2661,
+          "tweet_count": 179562
+        },
+        "username": "XiaoZhi_BTC",
+        "verified": true
+      }
+    ]
+  }
+}

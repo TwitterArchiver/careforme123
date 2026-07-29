@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068613049611943936"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068613582829572230",
+    "created_at": "2026-06-21T08:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T09:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068613582829572230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2t0M1JJHdY",
+          "end": 174,
+          "expanded_url": "https://x.com/careforme123/status/2068613582829572230/photo/1",
+          "media_key": "3_2068613049611943936",
+          "start": 151,
+          "url": "https://t.co/2t0M1JJHdY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068613582829572230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国贪官公式：\n\n1.当十年做题区辛辛苦苦考公\n\n2.再花十年拼命工作，贿赂领导晋升为小官\n\n3.然后再花十年疯狂受贿，贪钱，并且慢慢转移财产\n\n4.带着全家移民美国（儿女提前几年走）\n\n你可以说贪官坏，但你不能说贪官菜，穷尽一生成王败寇，失足则成千古恨....\n\n封面：贪污30亿，被判死刑的李建平 https://t.co/2t0M1JJHdY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_2068613049611943936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUwm8_bgAAibvu.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068613049611943936"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068613582829572230",
+        "created_at": "2026-06-21T08:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068613582829572230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2t0M1JJHdY",
+              "end": 174,
+              "expanded_url": "https://x.com/careforme123/status/2068613582829572230/photo/1",
+              "media_key": "3_2068613049611943936",
+              "start": 151,
+              "url": "https://t.co/2t0M1JJHdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068613582829572230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国贪官公式：\n\n1.当十年做题区辛辛苦苦考公\n\n2.再花十年拼命工作，贿赂领导晋升为小官\n\n3.然后再花十年疯狂受贿，贪钱，并且慢慢转移财产\n\n4.带着全家移民美国（儿女提前几年走）\n\n你可以说贪官坏，但你不能说贪官菜，穷尽一生成王败寇，失足则成千古恨....\n\n封面：贪污30亿，被判死刑的李建平 https://t.co/2t0M1JJHdY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 788,
+          "like_count": 7450,
+          "listed_count": 6,
+          "media_count": 744,
+          "tweet_count": 2951
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

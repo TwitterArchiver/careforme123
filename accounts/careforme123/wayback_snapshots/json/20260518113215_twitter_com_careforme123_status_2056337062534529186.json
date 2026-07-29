@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056325636659315077",
+    "created_at": "2026-05-18T11:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056337062534529186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "PinTuZhe_s_dad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056337062534529186",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056325636659315077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PinTuZhe_s_dad 青鸟＞王梦圆＞葡萄汁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056325636659315077",
+        "created_at": "2026-05-18T11:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056337062534529186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "PinTuZhe_s_dad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056337062534529186",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056325636659315077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PinTuZhe_s_dad 青鸟＞王梦圆＞葡萄汁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811604757670137856",
+        "conversation_id": "2056325636659315077",
+        "created_at": "2026-05-18T10:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056325636659315077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puzzlerlee/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/puzzlerlee/status/2056311278264803629",
+              "start": 16,
+              "url": "https://t.co/sgQnrQYKqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056325636659315077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056311278264803629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拼图者的智商似乎还不如台湾青鸟 https://t.co/sgQnrQYKqM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 606,
+          "like_count": 5729,
+          "listed_count": 6,
+          "media_count": 628,
+          "tweet_count": 2337
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "@puzzlerlee的老木被5033个黑人大汉🗡️砂/狗与@careforme123禁止入内⛔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "careforme123"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "Brisbane, Queensland",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330262199439360/_ITvKxyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 879,
+          "like_count": 1430,
+          "listed_count": 6,
+          "media_count": 871,
+          "tweet_count": 5560
+        },
+        "username": "PinTuZhe_s_dad",
+        "verified": true
+      }
+    ]
+  }
+}

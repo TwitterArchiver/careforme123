@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2052592558774083750",
+    "created_at": "2026-05-09T02:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052933446444683617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045320542232756224",
+          "start": 0,
+          "username": "Bellbj1215"
+        },
+        {
+          "end": 23,
+          "id": "1492550307083341826",
+          "start": 12,
+          "username": "Yao_Yaojiu"
+        },
+        {
+          "end": 39,
+          "id": "1689932211716288512",
+          "start": 24,
+          "username": "SankarasLawyer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052933446444683617",
+    "in_reply_to_user_id": "2045320542232756224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052920938266808774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bellbj1215 @Yao_Yaojiu @SankarasLawyer 我能证明，我家一万代北京人，那些学生杀了三亿，是毛泽东的十倍\n学生太坏了😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2052592558774083750",
+        "created_at": "2026-05-09T02:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052933446444683617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045320542232756224",
+              "start": 0,
+              "username": "Bellbj1215"
+            },
+            {
+              "end": 23,
+              "id": "1492550307083341826",
+              "start": 12,
+              "username": "Yao_Yaojiu"
+            },
+            {
+              "end": 39,
+              "id": "1689932211716288512",
+              "start": 24,
+              "username": "SankarasLawyer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052933446444683617",
+        "in_reply_to_user_id": "2045320542232756224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052920938266808774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bellbj1215 @Yao_Yaojiu @SankarasLawyer 我能证明，我家一万代北京人，那些学生杀了三亿，是毛泽东的十倍\n学生太坏了😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045320542232756224",
+        "conversation_id": "2052592558774083750",
+        "created_at": "2026-05-09T01:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052920938266808774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492550307083341826",
+              "start": 0,
+              "username": "Yao_Yaojiu"
+            },
+            {
+              "end": 27,
+              "id": "1689932211716288512",
+              "start": 12,
+              "username": "SankarasLawyer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052920938266808774",
+        "in_reply_to_user_id": "1492550307083341826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052730591968412033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yao_Yaojiu @SankarasLawyer 我家四代北京人！我父母是当年的亲历者！那些学生烧公交车不让民众上学上班，打砸抢劫商店餐厅！软禁去给他们送饭的普通百姓，学生还有人拿着枪，逼别人参与他们的“游行”！他们杀军人把他吊在路灯上！烧死军人绑在车上！首都北京乱了2个月，民不聊生！政府已经拿出十足的耐心了！他们是颜色革命的暴徒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2052673804934238647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 456,
+          "like_count": 4981,
+          "listed_count": 5,
+          "media_count": 557,
+          "tweet_count": 2046
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-18T01:58:50.000Z",
+        "description": "",
+        "id": "2045320542232756224",
+        "name": "Bell-bj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051623221305200648/12DlGwcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 62,
+          "like_count": 2442,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 968
+        },
+        "username": "Bellbj1215",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T17:25:13.000Z",
+        "description": "",
+        "id": "1492550307083341826",
+        "name": "妖妖玖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050077208576925696/I6ctVmxK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 38,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 387
+        },
+        "username": "Yao_Yaojiu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T09:30:29.000Z",
+        "description": "Liverpool FC || Military high graduate ||\nLawyer || Workers of the world unite ||\nPineapples belong on pizza || Back up @sankarasguitar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "sankarasguitar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/sankar…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/sankarasguitar.bsky.social",
+                "start": 0,
+                "url": "https://t.co/thLfvfarpU"
+              }
+            ]
+          }
+        },
+        "id": "1689932211716288512",
+        "location": "Burlington,VT / Nairobi, Kenya",
+        "name": "Nicholas M. Kimani",
+        "pinned_tweet_id": "2052287467433177308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006631281883312128/biokIK16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3976,
+          "following_count": 1862,
+          "like_count": 147731,
+          "listed_count": 65,
+          "media_count": 6994,
+          "tweet_count": 57425
+        },
+        "url": "https://t.co/thLfvfarpU",
+        "username": "SankarasLawyer",
+        "verified": false
+      }
+    ]
+  }
+}

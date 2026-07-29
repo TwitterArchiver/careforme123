@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2057459531760755171",
+    "created_at": "2026-05-21T13:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057460953566916679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054398699183525889",
+          "start": 0,
+          "username": "aen1081543"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057460953566916679",
+    "in_reply_to_user_id": "2054398699183525889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057460587635061010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aen1081543 少看点黄片，你会成功的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2057459531760755171",
+        "created_at": "2026-05-21T13:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057460953566916679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054398699183525889",
+              "start": 0,
+              "username": "aen1081543"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057460953566916679",
+        "in_reply_to_user_id": "2054398699183525889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057460587635061010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aen1081543 少看点黄片，你会成功的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054398699183525889",
+        "conversation_id": "2057459531760755171",
+        "created_at": "2026-05-21T13:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057460587635061010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057460587635061010",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057459531760755171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 看了眼主页，依旧是一事无成，废物一个，学历没有超过初中，家里面人没有一个不是废物的，找不到工作开始怨天怨地，还喜欢在互联网找存在感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2057309116607971605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 676,
+          "like_count": 5956,
+          "listed_count": 6,
+          "media_count": 641,
+          "tweet_count": 2424
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-13T03:10:11.000Z",
+        "description": "",
+        "id": "2054398699183525889",
+        "name": "qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056202705153208320/5hipopNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "aen1081543",
+        "verified": false
+      }
+    ]
+  }
+}

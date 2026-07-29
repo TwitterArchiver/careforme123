@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053651016638504960"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053651030500606367",
+    "created_at": "2026-05-11T01:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:36:48.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053650497484333525",
+      "2053651030500606367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fxumXJg9O9",
+          "end": 68,
+          "expanded_url": "https://x.com/careforme123/status/2053651030500606367/photo/1",
+          "media_key": "3_2053651016638504960",
+          "start": 45,
+          "url": "https://t.co/fxumXJg9O9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053651030500606367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是本日本人的午餐\n\n925日元，没有科技与狠活，25分钟就能赚到一碗\n\n中国人羡慕吗？ https://t.co/fxumXJg9O9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2053651016638504960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAIuAtboAA10gx.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053650491629076480"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053650497484333525",
+        "created_at": "2026-05-11T01:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:36:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053650497484333525",
+          "2053651030500606367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7ihxg0qhc",
+              "end": 68,
+              "expanded_url": "https://x.com/careforme123/status/2053650497484333525/photo/1",
+              "media_key": "3_2053650491629076480",
+              "start": 45,
+              "url": "https://t.co/R7ihxg0qhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053650497484333525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是本日本人的午餐\n\n925日元，没有科技与狠活，25分钟就能赚到一碗\n\n中国人羡慕吗？ https://t.co/R7ihxg0qhc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053651016638504960"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053651030500606367",
+        "created_at": "2026-05-11T01:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:36:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053650497484333525",
+          "2053651030500606367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxumXJg9O9",
+              "end": 68,
+              "expanded_url": "https://x.com/careforme123/status/2053651030500606367/photo/1",
+              "media_key": "3_2053651016638504960",
+              "start": 45,
+              "url": "https://t.co/fxumXJg9O9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053651030500606367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是本日本人的午餐\n\n925日元，没有科技与狠活，25分钟就能赚到一碗\n\n中国人羡慕吗？ https://t.co/fxumXJg9O9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 504,
+          "like_count": 5215,
+          "listed_count": 5,
+          "media_count": 574,
+          "tweet_count": 2124
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

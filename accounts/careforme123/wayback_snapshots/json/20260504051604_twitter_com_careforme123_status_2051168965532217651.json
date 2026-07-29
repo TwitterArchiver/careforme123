@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2051168909441814528"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2051168965532217651",
+    "created_at": "2026-05-04T05:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T06:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051168965532217651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GDmusOAFyT",
+          "end": 53,
+          "expanded_url": "https://x.com/careforme123/status/2051168965532217651/video/1",
+          "media_key": "7_2051168909441814528",
+          "start": 30,
+          "url": "https://t.co/GDmusOAFyT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051168965532217651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁还在买华为？？？\n\n华为汽车的座椅，差点把小孩夹死！！！ https://t.co/GDmusOAFyT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29849,
+        "height": 1280,
+        "media_key": "7_2051168909441814528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051168909441814528/pu/img/UFf-eL51iYcQS_N9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051168909441814528/pu/vid/avc1/320x568/ZnuhfI4hr7BNtC_s.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051168909441814528/pu/vid/avc1/480x852/3oZ90Cjo6fy96TdA.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051168909441814528/pu/vid/avc1/720x1280/P50fRjXh7ilYFohN.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051168909441814528/pu/pl/wbhk9Tv-Zy4OP76c.m3u8?tag=25"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051168909441814528"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2051168965532217651",
+        "created_at": "2026-05-04T05:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051168965532217651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDmusOAFyT",
+              "end": 53,
+              "expanded_url": "https://x.com/careforme123/status/2051168965532217651/video/1",
+              "media_key": "7_2051168909441814528",
+              "start": 30,
+              "url": "https://t.co/GDmusOAFyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051168965532217651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁还在买华为？？？\n\n华为汽车的座椅，差点把小孩夹死！！！ https://t.co/GDmusOAFyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2051010408769786079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 416,
+          "like_count": 4741,
+          "listed_count": 5,
+          "media_count": 535,
+          "tweet_count": 1963
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

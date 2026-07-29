@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064574212078272885",
+    "created_at": "2026-06-10T10:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064663588430819620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2015931381642416128",
+          "start": 0,
+          "username": "Diaodaquan250"
+        },
+        {
+          "end": 26,
+          "id": "1744267618947899393",
+          "start": 15,
+          "username": "MentorWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064663588430819620",
+    "in_reply_to_user_id": "2015931381642416128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064656970175361305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diaodaquan250 @MentorWong 这皮真的有人喜欢吃吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_2064656963019898880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcikZ_WgAA1e59.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064574212078272885",
+        "created_at": "2026-06-10T10:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064663588430819620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2015931381642416128",
+              "start": 0,
+              "username": "Diaodaquan250"
+            },
+            {
+              "end": 26,
+              "id": "1744267618947899393",
+              "start": 15,
+              "username": "MentorWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064663588430819620",
+        "in_reply_to_user_id": "2015931381642416128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064656970175361305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diaodaquan250 @MentorWong 这皮真的有人喜欢吃吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064656963019898880"
+          ]
+        },
+        "author_id": "2015931381642416128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064574212078272885",
+        "created_at": "2026-06-10T10:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064656970175361305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744267618947899393",
+              "start": 0,
+              "username": "MentorWong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GkAaZfmhxO",
+              "end": 66,
+              "expanded_url": "https://x.com/Diaodaquan250/status/2064656970175361305/photo/1",
+              "media_key": "3_2064656963019898880",
+              "start": 43,
+              "url": "https://t.co/GkAaZfmhxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064656970175361305",
+        "in_reply_to_user_id": "1744267618947899393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064574212078272885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MentorWong 本包蜜也是爱平人士，只不过吱呐🐷爱的是活的，本包蜜爱的是熟的 https://t.co/GkAaZfmhxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 764,
+          "like_count": 7048,
+          "listed_count": 6,
+          "media_count": 713,
+          "tweet_count": 2817
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-26T23:35:34.000Z",
+        "description": "此生无悔入华夏，来世还做中国人\n上推特之前：习近平是谁，不认识\n上推特之后：老人瞻仰，轻关易道，通商宽衣，金科绿玉，精甚细腻，颐使气指，疯狂宇宙，萨格尔王，PM250，疫情迁灭战，兵帮外交",
+        "id": "2015931381642416128",
+        "location": "以色列",
+        "name": "正球级包蜜🇮🇱🇺🇸",
+        "pinned_tweet_id": "2063564047383924985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053787950261952512/42vCJSo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 113,
+          "like_count": 12348,
+          "listed_count": 4,
+          "media_count": 3179,
+          "tweet_count": 5948
+        },
+        "username": "Diaodaquan250",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-08T07:59:47.000Z",
+        "description": "Reddit : u/MentorWong Thread: @mentorwong\nSubscribe me for $1 only! \nI post funny stuffs and mock the people who deserve it.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "mentorwong"
+              }
+            ]
+          }
+        },
+        "id": "1744267618947899393",
+        "location": "Seoul, South Korea ",
+        "name": "SifuWong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851498412581273602/LMOuJG7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10019,
+          "following_count": 9902,
+          "like_count": 17377,
+          "listed_count": 16,
+          "media_count": 324,
+          "tweet_count": 52066
+        },
+        "username": "MentorWong",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073245429261881344"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073247449670619498",
+    "created_at": "2026-07-04T03:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T04:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073247449670619498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nsfuCZrqqZ",
+          "end": 106,
+          "expanded_url": "https://x.com/careforme123/status/2073247449670619498/photo/1",
+          "media_key": "3_2073245429261881344",
+          "start": 83,
+          "url": "https://t.co/nsfuCZrqqZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073247449670619498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "茉莉奶白抄袭不是板上钉钉的事吗，中国人怎么反应这么大\n\n难道是平时抄袭抄习惯了？毕竟中国的芯片，汽车，手机，游戏，火箭，哪一个不是抄袭的？AI都要蒸馏别人的.... https://t.co/nsfuCZrqqZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 289,
+        "media_key": "3_2073245429261881344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWlu79bUAAoXtN.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073245429261881344"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073247449670619498",
+        "created_at": "2026-07-04T03:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073247449670619498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsfuCZrqqZ",
+              "end": 106,
+              "expanded_url": "https://x.com/careforme123/status/2073247449670619498/photo/1",
+              "media_key": "3_2073245429261881344",
+              "start": 83,
+              "url": "https://t.co/nsfuCZrqqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073247449670619498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "茉莉奶白抄袭不是板上钉钉的事吗，中国人怎么反应这么大\n\n难道是平时抄袭抄习惯了？毕竟中国的芯片，汽车，手机，游戏，火箭，哪一个不是抄袭的？AI都要蒸馏别人的.... https://t.co/nsfuCZrqqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 787,
+          "like_count": 7756,
+          "listed_count": 8,
+          "media_count": 784,
+          "tweet_count": 3076
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

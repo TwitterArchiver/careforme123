@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059549907690618883"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059549981736935660",
+    "created_at": "2026-05-27T08:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059549981736935660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TU9FMWgeZb",
+          "end": 161,
+          "expanded_url": "https://x.com/careforme123/status/2059549981736935660/photo/1",
+          "media_key": "3_2059549907690618883",
+          "start": 138,
+          "url": "https://t.co/TU9FMWgeZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059549981736935660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有东亚的盲道是像国内那种一长条的黄色地砖\n\n欧美只会在特定路口铺设一块，告诉盲人前方有危险，他们认为城市环境复杂，一条长长的引导带不仅影响美观，还加重了盲人的依赖，以至于有东西占用盲道时给盲人带来误导与危险\n\n不过，他们的盲人大多数都接受过免费，自愿的训练，有能力脱离盲道 https://t.co/TU9FMWgeZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 507,
+        "media_key": "3_2059549907690618883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT9uqUWgAMmsRE.jpg",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059549907690618883"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059549981736935660",
+        "created_at": "2026-05-27T08:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059549981736935660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TU9FMWgeZb",
+              "end": 161,
+              "expanded_url": "https://x.com/careforme123/status/2059549981736935660/photo/1",
+              "media_key": "3_2059549907690618883",
+              "start": 138,
+              "url": "https://t.co/TU9FMWgeZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059549981736935660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有东亚的盲道是像国内那种一长条的黄色地砖\n\n欧美只会在特定路口铺设一块，告诉盲人前方有危险，他们认为城市环境复杂，一条长长的引导带不仅影响美观，还加重了盲人的依赖，以至于有东西占用盲道时给盲人带来误导与危险\n\n不过，他们的盲人大多数都接受过免费，自愿的训练，有能力脱离盲道 https://t.co/TU9FMWgeZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人🚸，现居日本大阪，爱党爱国🇨🇳，常来宛平南路600号🏥，曾因偷吃桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 739,
+          "like_count": 6419,
+          "listed_count": 5,
+          "media_count": 661,
+          "tweet_count": 2587
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

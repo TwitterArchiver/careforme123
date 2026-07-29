@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066848119489429505"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066850265366769835",
+    "created_at": "2026-06-16T11:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:45:33.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066849658974937221",
+      "2066850265366769835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hoJjNszvX6",
+          "end": 110,
+          "expanded_url": "https://x.com/careforme123/status/2066850265366769835/photo/1",
+          "media_key": "3_2066848119489429505",
+          "start": 87,
+          "url": "https://t.co/hoJjNszvX6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066850265366769835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最近对vpn的封锁越来越严了\n\n如果我们走散了，请不要害怕\n\n坚守我们的人性，铭记我们对自由的渴望\n\n黑夜给了我们黑色的眼睛，请用它寻找光明\n\n我们终会在没有黑暗的地方再见"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近对vpn的封锁越来越严了\n\n如果我们走散了，请不要害怕\n\n坚守我们的人性，铭记我们对自由的渴望\n\n黑夜给了我们黑色的眼睛，请用它寻找光明\n\n我们终会在没有黑暗的地方再见 https://t.co/hoJjNszvX6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2066848119489429505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7raf7aAAEmxF_.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066848119489429505"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066849658974937221",
+        "created_at": "2026-06-16T11:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:45:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066849658974937221",
+          "2066850265366769835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8REjcgMLv",
+              "end": 102,
+              "expanded_url": "https://x.com/careforme123/status/2066849658974937221/photo/1",
+              "media_key": "3_2066848119489429505",
+              "start": 79,
+              "url": "https://t.co/o8REjcgMLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066849658974937221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近对vpn的封锁越来越严了\n\n请不要害怕\n\n坚守我们的人性，铭记我们对自由的渴望\n\n黑夜给了我们黑色的眼睛，请用它寻找光明\n\n我们终会在没有黑暗的地方再见"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近对vpn的封锁越来越严了\n\n请不要害怕\n\n坚守我们的人性，铭记我们对自由的渴望\n\n黑夜给了我们黑色的眼睛，请用它寻找光明\n\n我们终会在没有黑暗的地方再见 https://t.co/o8REjcgMLv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066848119489429505"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066850265366769835",
+        "created_at": "2026-06-16T11:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:45:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066849658974937221",
+          "2066850265366769835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoJjNszvX6",
+              "end": 110,
+              "expanded_url": "https://x.com/careforme123/status/2066850265366769835/photo/1",
+              "media_key": "3_2066848119489429505",
+              "start": 87,
+              "url": "https://t.co/hoJjNszvX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066850265366769835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近对vpn的封锁越来越严了\n\n如果我们走散了，请不要害怕\n\n坚守我们的人性，铭记我们对自由的渴望\n\n黑夜给了我们黑色的眼睛，请用它寻找光明\n\n我们终会在没有黑暗的地方再见"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近对vpn的封锁越来越严了\n\n如果我们走散了，请不要害怕\n\n坚守我们的人性，铭记我们对自由的渴望\n\n黑夜给了我们黑色的眼睛，请用它寻找光明\n\n我们终会在没有黑暗的地方再见 https://t.co/hoJjNszvX6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 772,
+          "like_count": 7218,
+          "listed_count": 6,
+          "media_count": 731,
+          "tweet_count": 2884
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

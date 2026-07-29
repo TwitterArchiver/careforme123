@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062795912842207362",
+    "created_at": "2026-06-05T13:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062886704952791062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1828872268778508288",
+          "start": 0,
+          "username": "LynxinSoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062886704952791062",
+    "in_reply_to_user_id": "1828872268778508288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062879511021289968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LynxinSoft 如果选择了做题，高中生的锻炼身体就只有体育课了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062795912842207362",
+        "created_at": "2026-06-05T13:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062886704952791062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1828872268778508288",
+              "start": 0,
+              "username": "LynxinSoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062886704952791062",
+        "in_reply_to_user_id": "1828872268778508288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062879511021289968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LynxinSoft 如果选择了做题，高中生的锻炼身体就只有体育课了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828872268778508288",
+        "conversation_id": "2062795912842207362",
+        "created_at": "2026-06-05T12:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062879511021289968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062879511021289968",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062795912842207362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 学习和锻炼身体不冲突吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 747,
+          "like_count": 6872,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2748
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-28T19:08:33.000Z",
+        "description": "Keep it cool，that's how you survive.",
+        "id": "1828872268778508288",
+        "location": "Inferno",
+        "name": "LynxinSoft",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046691469910745088/eV6Gp9Iv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 75,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 670
+        },
+        "username": "LynxinSoft",
+        "verified": false
+      }
+    ]
+  }
+}

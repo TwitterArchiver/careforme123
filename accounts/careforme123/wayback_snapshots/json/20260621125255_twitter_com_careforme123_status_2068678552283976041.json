@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068678483510013952"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068678552283976041",
+    "created_at": "2026-06-21T12:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068678552283976041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JSX1yKPR35",
+          "end": 63,
+          "expanded_url": "https://x.com/careforme123/status/2068678552283976041/video/1",
+          "media_key": "13_2068678483510013952",
+          "start": 40,
+          "url": "https://t.co/JSX1yKPR35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068678552283976041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "文革时期的小学课本，充满了对毛泽东的个人崇拜\n\n真是一个恐怖，灭绝人性的年代！ https://t.co/JSX1yKPR35"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14930,
+        "height": 1280,
+        "media_key": "13_2068678483510013952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068678483510013952/img/9miGfL2MD7FMGGhJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068678483510013952/vid/avc1/320x580/DeMmVuwXsl-67XzE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068678483510013952/vid/avc1/480x872/NkLrj_BggRYfeYeK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068678483510013952/vid/avc1/704x1280/a_e03N4nGgFFSJO1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068678483510013952/pl/you0nWAqhlHNOiOa.m3u8"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068678483510013952"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068678552283976041",
+        "created_at": "2026-06-21T12:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068678552283976041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSX1yKPR35",
+              "end": 63,
+              "expanded_url": "https://x.com/careforme123/status/2068678552283976041/video/1",
+              "media_key": "13_2068678483510013952",
+              "start": 40,
+              "url": "https://t.co/JSX1yKPR35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068678552283976041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "文革时期的小学课本，充满了对毛泽东的个人崇拜\n\n真是一个恐怖，灭绝人性的年代！ https://t.co/JSX1yKPR35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 788,
+          "like_count": 7471,
+          "listed_count": 6,
+          "media_count": 745,
+          "tweet_count": 2955
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

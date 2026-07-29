@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072644298475188225",
+        "3_2072642440323108864"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2072644307543323114",
+    "created_at": "2026-07-02T11:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072644307543323114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0P5GNTswIt",
+          "end": 170,
+          "expanded_url": "https://x.com/careforme123/status/2072644307543323114/photo/1",
+          "media_key": "3_2072644298475188225",
+          "start": 147,
+          "url": "https://t.co/0P5GNTswIt"
+        },
+        {
+          "display_url": "pic.x.com/0P5GNTswIt",
+          "end": 170,
+          "expanded_url": "https://x.com/careforme123/status/2072644307543323114/photo/1",
+          "media_key": "3_2072642440323108864",
+          "start": 147,
+          "url": "https://t.co/0P5GNTswIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072644307543323114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个退伍军人，在建党105周年当天被逼跳楼，真是讽刺\n\n4年前，赛格商场以拆卷下单为由，罚款1145万人民币，令其资金链断裂，并被要求撤店。严鹏一直向赛格申诉无果，昨天在商场跳楼身亡\n\n他生前还对赛格说：“在习主席的领导下，我们是法制国家，你没有那么大权力”，然而对面好像并不把习主席当一回事 https://t.co/0P5GNTswIt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2072644298475188225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMODAhRaMAEfWQU.jpg",
+        "width": 553
+      },
+      {
+        "height": 956,
+        "media_key": "3_2072642440323108864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOBUXHbkAA0AM7.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072644298475188225",
+            "3_2072642440323108864"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2072644307543323114",
+        "created_at": "2026-07-02T11:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072644307543323114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0P5GNTswIt",
+              "end": 170,
+              "expanded_url": "https://x.com/careforme123/status/2072644307543323114/photo/1",
+              "media_key": "3_2072644298475188225",
+              "start": 147,
+              "url": "https://t.co/0P5GNTswIt"
+            },
+            {
+              "display_url": "pic.x.com/0P5GNTswIt",
+              "end": 170,
+              "expanded_url": "https://x.com/careforme123/status/2072644307543323114/photo/1",
+              "media_key": "3_2072642440323108864",
+              "start": 147,
+              "url": "https://t.co/0P5GNTswIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072644307543323114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个退伍军人，在建党105周年当天被逼跳楼，真是讽刺\n\n4年前，赛格商场以拆卷下单为由，罚款1145万人民币，令其资金链断裂，并被要求撤店。严鹏一直向赛格申诉无果，昨天在商场跳楼身亡\n\n他生前还对赛格说：“在习主席的领导下，我们是法制国家，你没有那么大权力”，然而对面好像并不把习主席当一回事 https://t.co/0P5GNTswIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 788,
+          "like_count": 7733,
+          "listed_count": 8,
+          "media_count": 777,
+          "tweet_count": 3061
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

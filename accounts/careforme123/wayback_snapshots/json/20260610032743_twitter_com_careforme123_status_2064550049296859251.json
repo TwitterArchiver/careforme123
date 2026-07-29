@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064539604724941011",
+    "created_at": "2026-06-10T03:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064550049296859251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1621709543750385664",
+          "start": 0,
+          "username": "quarktalksss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064550049296859251",
+    "in_reply_to_user_id": "1621709543750385664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064539604724941011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quarktalksss 夸克是怎么移民的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064539604724941011",
+        "created_at": "2026-06-10T03:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064550049296859251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621709543750385664",
+              "start": 0,
+              "username": "quarktalksss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064550049296859251",
+        "in_reply_to_user_id": "1621709543750385664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064539604724941011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quarktalksss 夸克是怎么移民的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621709543750385664",
+        "conversation_id": "2064539604724941011",
+        "created_at": "2026-06-10T02:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064539604724941011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064539604724941011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我还在中国的时候，有段时间很焦虑，一直担心润不出来。然后有一天老婆问我，如果最后发现出不去，你打算怎么办？我说，我会买一艘帆船，先从航海开始学起，等比较熟练，有把握了，偷渡也得偷渡出去，哪怕没地方落脚，我们可以一辈子生活在海上。\n然后我问她，如果你真有那天，你怕不怕，会不会跟我一起走，她说，不怕，你去哪儿我去哪儿。\n后来有段时间，我俩就到处搜索，然后在日本的一个港口，真的找到了一艘二手船，荷兰一个船厂的，17尺，80多万，各方面性能都很符合我们的需求。\n如果当时没能出来，不知道现在我俩会不会在海上？没准在海上做环球旅行的youtuber了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1602,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我还在中国的时候，有段时间很焦虑，一直担心润不出来。然后有一天老婆问我，如果最后发现出不去，你打算怎么办？我说，我会买一艘帆船，先从航海开始学起，等比较熟练，有把握了，偷渡也得偷渡出去，哪怕没地方落脚，我们可以一辈子生活在海上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 766,
+          "like_count": 7032,
+          "listed_count": 6,
+          "media_count": 709,
+          "tweet_count": 2807
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-04T03:18:05.000Z",
+        "description": "youtube账号：夸克说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%A4%B8%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%A4%B8%E5%85%8B%E8%AF%B4",
+                "start": 0,
+                "url": "https://t.co/eZ6ILrdttM"
+              }
+            ]
+          }
+        },
+        "id": "1621709543750385664",
+        "location": "Canada",
+        "name": "夸克说",
+        "pinned_tweet_id": "2064529751088501105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969808918886105090/skT7BSEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35522,
+          "following_count": 39,
+          "like_count": 2522,
+          "listed_count": 201,
+          "media_count": 1369,
+          "tweet_count": 6932
+        },
+        "url": "https://t.co/eZ6ILrdttM",
+        "username": "quarktalksss",
+        "verified": true
+      }
+    ]
+  }
+}

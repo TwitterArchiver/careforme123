@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050533331264241995",
+    "created_at": "2026-05-02T12:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050549601946513412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1672419552666460160",
+          "start": 0,
+          "username": "lixinbao_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050549601946513412",
+    "in_reply_to_user_id": "1672419552666460160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050533331264241995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lixinbao_X 咱们也好运一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050533321537617920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT1MRZaAAAtTck.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050533321537630208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT1MRZaMAAE9Wj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050533331264241995",
+        "created_at": "2026-05-02T12:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050549601946513412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1672419552666460160",
+              "start": 0,
+              "username": "lixinbao_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050549601946513412",
+        "in_reply_to_user_id": "1672419552666460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050533331264241995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixinbao_X 咱们也好运一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050533321537617920",
+            "3_2050533321537630208"
+          ]
+        },
+        "author_id": "1672419552666460160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050533331264241995",
+        "created_at": "2026-05-02T11:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050533331264241995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2MY7ltp6z",
+              "end": 53,
+              "expanded_url": "https://x.com/lixinbao_X/status/2050533331264241995/photo/1",
+              "media_key": "3_2050533321537617920",
+              "start": 30,
+              "url": "https://t.co/V2MY7ltp6z"
+            },
+            {
+              "display_url": "pic.x.com/V2MY7ltp6z",
+              "end": 53,
+              "expanded_url": "https://x.com/lixinbao_X/status/2050533331264241995/photo/1",
+              "media_key": "3_2050533321537630208",
+              "start": 30,
+              "url": "https://t.co/V2MY7ltp6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050533331264241995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成功突破 9000 粉丝\n\n各位朋友可以评论区留言接好运啊 https://t.co/V2MY7ltp6z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 389,
+          "like_count": 4655,
+          "listed_count": 5,
+          "media_count": 525,
+          "tweet_count": 1920
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-24T01:41:28.000Z",
+        "description": "原金融从业者，现在基本全职自媒体人，使用AI技术赋能，2025年5月份到现在粉丝从零涨到：微信视频号36万，抖音20万，B站1.6万，小红书5.5万。百度1.5万，快手及其他加总还有一万左右。全网粉丝数破60万。 我会在这里分享我作品，及相关制作经验技巧和心得。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lixinbao-yout…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@lixinbao-youtube?si=74xxuShrCBBUxpJB",
+                "start": 0,
+                "url": "https://t.co/6QPZwPcvdG"
+              }
+            ]
+          }
+        },
+        "id": "1672419552666460160",
+        "location": "Hong Kong",
+        "name": "李新宝",
+        "pinned_tweet_id": "2027318413526532433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823246478170836992/JMZpWqoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9011,
+          "following_count": 6796,
+          "like_count": 22963,
+          "listed_count": 23,
+          "media_count": 1898,
+          "tweet_count": 21500
+        },
+        "url": "https://t.co/6QPZwPcvdG",
+        "username": "lixinbao_X",
+        "verified": true
+      }
+    ]
+  }
+}

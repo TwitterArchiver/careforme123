@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069026762525474816"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069027706562646336",
+    "created_at": "2026-06-22T12:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069027706562646336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TTYrRPBTEB",
+          "end": 136,
+          "expanded_url": "https://x.com/careforme123/status/2069027706562646336/video/1",
+          "media_key": "13_2069026762525474816",
+          "start": 113,
+          "url": "https://t.co/TTYrRPBTEB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069027706562646336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个地球上，有比苹果更牛的移动端芯片吗？\n\n你做什么梦呢你！\n                                                                            ——户晨风 https://t.co/TTYrRPBTEB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20366,
+        "height": 1280,
+        "media_key": "13_2069026762525474816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069026762525474816/img/g_pZUYUTDACvb018.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069026762525474816/vid/avc1/320x568/xeuFabasVdJjQ3fi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069026762525474816/vid/avc1/480x852/z2kAJeRG-O_oHPRO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069026762525474816/vid/avc1/720x1280/p34W1tS3H_DdbFv5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069026762525474816/pl/aPW-lgSLcGKGXg_T.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069026762525474816"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069027706562646336",
+        "created_at": "2026-06-22T12:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069027706562646336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTYrRPBTEB",
+              "end": 136,
+              "expanded_url": "https://x.com/careforme123/status/2069027706562646336/video/1",
+              "media_key": "13_2069026762525474816",
+              "start": 113,
+              "url": "https://t.co/TTYrRPBTEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069027706562646336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个地球上，有比苹果更牛的移动端芯片吗？\n\n你做什么梦呢你！\n                                                                            ——户晨风 https://t.co/TTYrRPBTEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 784,
+          "like_count": 7527,
+          "listed_count": 6,
+          "media_count": 749,
+          "tweet_count": 2981
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

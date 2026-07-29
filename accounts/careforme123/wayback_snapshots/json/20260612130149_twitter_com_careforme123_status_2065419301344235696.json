@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2065418851861319981",
+    "created_at": "2026-06-12T13:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065419301344235696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065419301344235696",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065418851861319981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 中国的所有app，都会变着法的骗你贷款"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37964,
+        "height": 1024,
+        "media_key": "13_2065252809034080256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065252809034080256/img/IQPRE0PJORouvAWz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065252809034080256/vid/avc1/320x568/tTYdYmKTAkJtQFTH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065252809034080256/vid/avc1/480x852/-nOUMvV6qz0R7iE8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065252809034080256/vid/avc1/576x1024/Ysty9lUlT3kR2A_p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065252809034080256/pl/h3xI6TYknL1FIBOP.m3u8"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 500,
+        "media_key": "3_2065252830102081536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlAgb2a0AAdGQI.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2065418851861319981",
+        "created_at": "2026-06-12T13:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065419301344235696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065419301344235696",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065418851861319981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 中国的所有app，都会变着法的骗你贷款"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065252809034080256",
+            "3_2065252830102081536"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065418851861319981",
+        "created_at": "2026-06-12T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065418851861319981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AhduISf8s",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2065418851861319981/video/1",
+              "media_key": "13_2065252809034080256",
+              "start": 104,
+              "url": "https://t.co/2AhduISf8s"
+            },
+            {
+              "display_url": "pic.x.com/2AhduISf8s",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2065418851861319981/video/1",
+              "media_key": "3_2065252830102081536",
+              "start": 104,
+              "url": "https://t.co/2AhduISf8s"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1988834211684643145",
+              "start": 128,
+              "url": "https://t.co/oeHXd5Fwch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065418851861319981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "6月11日，一段“家长为防止刚成年子女接触网贷，故意制造其征信逾期”的短视频在中国社交平台传播。视频中称，有家长会在孩子满18岁后用其身份办理信用卡并故意造成逾期，以此让孩子在几年内无法申请网贷或银行贷款。\n\n与此同时，一则帖子反驳专家观点，称问题根源在于网贷平台“放水”、监管漏洞和年轻人被诱导负债，认为部分家长是在缺少有效保护手段下采取极端自保。该帖还批评专家只指责家长违法，却没有推动解决网贷平台约束不足的问题。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988834211684643145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6月11日，一段“家长为防止刚成年子女接触网贷，故意制造其征信逾期”的短视频在中国社交平台传播。视频中称，有家长会在孩子满18岁后用其身份办理信用卡并故意造成逾期，以此让孩子在几年内无法申请网贷或银行贷款。 https://t.co/2AhduISf8s https://t.co/oeHXd5Fwch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 771,
+          "like_count": 7122,
+          "listed_count": 6,
+          "media_count": 721,
+          "tweet_count": 2849
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236349,
+          "following_count": 1069,
+          "like_count": 9680,
+          "listed_count": 8792,
+          "media_count": 48442,
+          "tweet_count": 55600
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050812604835356952",
+    "created_at": "2026-05-03T05:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050812604835356952"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050812604835356952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我和芙宁娜娜在河南驻马店面基过\n\n他是那种一米六的小蛋糕，穿的jk服，我们一起去解放路捡了个井盖卖掉，去开了钟点房\n\n我们什么也没说，只是手牵着手，默默的看着彼此，我能从他的眼里看到迷茫与哀伤，她好像截获了我的思绪，对我说：“没事的，我只是对未来感到绝望”\n\n那一刻，空气仿佛都凝成了薄薄的琉璃，我们的手握得更紧，却谁也不忍打破这易碎的沉默。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我和芙宁娜娜在河南驻马店面基过\n\n他是那种一米六的小蛋糕，穿的jk服，我们一起去解放路捡了个井盖卖掉，去开了钟点房\n\n我们什么也没说，只是手牵着手，默默的看着彼此，我能从他的眼里看到迷茫与哀伤，她好像截获了我的思绪，对我说：“没事的，我只是对未来感到绝望”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050812604835356952",
+        "created_at": "2026-05-03T05:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050812604835356952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050812604835356952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我和芙宁娜娜在河南驻马店面基过\n\n他是那种一米六的小蛋糕，穿的jk服，我们一起去解放路捡了个井盖卖掉，去开了钟点房\n\n我们什么也没说，只是手牵着手，默默的看着彼此，我能从他的眼里看到迷茫与哀伤，她好像截获了我的思绪，对我说：“没事的，我只是对未来感到绝望”\n\n那一刻，空气仿佛都凝成了薄薄的琉璃，我们的手握得更紧，却谁也不忍打破这易碎的沉默。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我和芙宁娜娜在河南驻马店面基过\n\n他是那种一米六的小蛋糕，穿的jk服，我们一起去解放路捡了个井盖卖掉，去开了钟点房\n\n我们什么也没说，只是手牵着手，默默的看着彼此，我能从他的眼里看到迷茫与哀伤，她好像截获了我的思绪，对我说：“没事的，我只是对未来感到绝望”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 391,
+          "like_count": 4665,
+          "listed_count": 5,
+          "media_count": 526,
+          "tweet_count": 1927
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

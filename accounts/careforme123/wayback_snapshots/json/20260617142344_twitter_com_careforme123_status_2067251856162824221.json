@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067251856162824221",
+    "created_at": "2026-06-17T14:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067251856162824221"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067251856162824221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们把榨干身体换钱定义为做勤劳\n我们把不愿意被压榨定义为懒惰\n我们把迎合别人的需求定义为上进\n我们把做自己定义为躺平\n我们把一天能上12个小时班的“福报”定义为成功\n我们把好好生活本身定义为失败\n\n我们是中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067251856162824221",
+        "created_at": "2026-06-17T14:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067251856162824221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067251856162824221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们把榨干身体换钱定义为做勤劳\n我们把不愿意被压榨定义为懒惰\n我们把迎合别人的需求定义为上进\n我们把做自己定义为躺平\n我们把一天能上12个小时班的“福报”定义为成功\n我们把好好生活本身定义为失败\n\n我们是中国人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 777,
+          "like_count": 7301,
+          "listed_count": 6,
+          "media_count": 736,
+          "tweet_count": 2910
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

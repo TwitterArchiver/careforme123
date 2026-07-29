@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062375537624989981",
+    "created_at": "2026-06-04T09:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062463214311334097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553377337902714881",
+          "start": 0,
+          "username": "ChiangCChing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062463214311334097",
+    "in_reply_to_user_id": "1553377337902714881",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062441973425066169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiangCChing 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062375537624989981",
+        "created_at": "2026-06-04T09:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062463214311334097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553377337902714881",
+              "start": 0,
+              "username": "ChiangCChing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062463214311334097",
+        "in_reply_to_user_id": "1553377337902714881",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062441973425066169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiangCChing 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553377337902714881",
+        "conversation_id": "2062375537624989981",
+        "created_at": "2026-06-04T07:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062441973425066169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062441973425066169",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062375537624989981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 这不杰作蛋糕店诉科罗拉多性别平等委员会案吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 742,
+          "like_count": 6786,
+          "listed_count": 5,
+          "media_count": 693,
+          "tweet_count": 2724
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-30T13:50:04.000Z",
+        "description": "因此不常作文者须记忆特强，不常讨论者须天生聪颖，不常读书者须欺世有术，始能无知而显有知。——弗朗西斯•培根《谈读书》",
+        "id": "1553377337902714881",
+        "location": "阿蒙森-斯科特南极站",
+        "name": "蒋净",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592002828876206080/ThUQWM3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 66,
+          "like_count": 1479,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 103
+        },
+        "username": "ChiangCChing",
+        "verified": false
+      }
+    ]
+  }
+}

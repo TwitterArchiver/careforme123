@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056752775351189757",
+    "created_at": "2026-05-19T15:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056754370826428858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1506847564171124736",
+          "start": 0,
+          "username": "RJDAIGOGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056754370826428858",
+    "in_reply_to_user_id": "1506847564171124736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056752775351189757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RJDAIGOGO 希望人有事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1737,
+        "media_key": "3_2056752733156478976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsNtrKbEAAhXol.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056752775351189757",
+        "created_at": "2026-05-19T15:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056754370826428858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506847564171124736",
+              "start": 0,
+              "username": "RJDAIGOGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056754370826428858",
+        "in_reply_to_user_id": "1506847564171124736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056752775351189757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RJDAIGOGO 希望人有事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056752733156478976"
+          ]
+        },
+        "author_id": "1506847564171124736",
+        "conversation_id": "2056752775351189757",
+        "created_at": "2026-05-19T15:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056752775351189757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBxgtfCmxo",
+              "end": 46,
+              "expanded_url": "https://x.com/RJDAIGOGO/status/2056752775351189757/photo/1",
+              "media_key": "3_2056752733156478976",
+              "start": 23,
+              "url": "https://t.co/BBxgtfCmxo"
+            },
+            {
+              "display_url": "x.com/rjdaigogo/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/rjdaigogo/status/2056715834488484222",
+              "start": 47,
+              "url": "https://t.co/kDAwPnofnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056752775351189757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056715834488484222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "普京这是遇到航空管制了么……这么晚了还没到？ https://t.co/BBxgtfCmxo https://t.co/kDAwPnofnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 628,
+          "like_count": 5827,
+          "listed_count": 6,
+          "media_count": 634,
+          "tweet_count": 2379
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-24T04:17:40.000Z",
+        "description": "理性，中国，客气",
+        "id": "1506847564171124736",
+        "name": "RJ",
+        "pinned_tweet_id": "2032107930569621668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645072499405881344/UX7zH8Ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35381,
+          "following_count": 4807,
+          "like_count": 42194,
+          "listed_count": 171,
+          "media_count": 6516,
+          "tweet_count": 37157
+        },
+        "username": "RJDAIGOGO",
+        "verified": true
+      }
+    ]
+  }
+}

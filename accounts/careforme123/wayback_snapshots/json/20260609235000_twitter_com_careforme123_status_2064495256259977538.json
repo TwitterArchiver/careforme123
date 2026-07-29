@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064398151126220800"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064495256259977538",
+    "created_at": "2026-06-09T23:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T00:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064495256259977538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ul5xofCcFc",
+          "end": 162,
+          "expanded_url": "https://x.com/careforme123/status/2064495256259977538/photo/1",
+          "media_key": "3_2064398151126220800",
+          "start": 139,
+          "url": "https://t.co/ul5xofCcFc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064495256259977538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "货币的生命力在于流动，货币信用的土壤是自由处置：货币是一种由所有人共同维护的契约\n\n如果一个国家的货币不能自由流通，不能根据所有者意愿进行自由处置。储户不能在需要钱的时候及时用钱，银行风控频繁触发，那么这个契约就成了霸王条框\n\n现代法制说：谁主张谁举证。但储户竟然需要自证清白\n\n银行默认储户的每一笔大额资金变动都是可疑的，储户必须提供完税证明、劳动合同、亲属关系、甚至对方的合法商业执照，才能动用自己的财产\n\n当英伟达、特斯拉或者苹果出现绝佳的建仓机会时，境内的储户却因卷商被限制，失去了全球财富分红权\n\n那么，后果呢？\n\n只要货币被贴上了“只能干什么”或“必须证明什么”的标签，它的信用就已经开始打折\n\n管制阻挡不了资本追求自由的本能。正规渠道被封锁后，有些人会不惜代价通过虚拟货币、跨境走私、钱庄等非法渠道外逃资产。这不仅无法真正阻止资本外流，反而让官方彻底失去了对这部分地下资金的追踪能力\n\n阻止资本外流，是有道理的，但我建议严查所有官员的财产流通，严打薄熙来式的跨国空壳公司与虚假贸易洗钱活动\n\n我们这种老百姓哪有什么钱转到境外啊，该被管制的好像不该是我们...\n\n我不懂经济，全文仅代表个人观点，谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "货币的生命力在于流动，货币信用的土壤是自由处置：货币是一种由所有人共同维护的契约\n\n如果一个国家的货币不能自由流通，不能根据所有者意愿进行自由处置。储户不能在需要钱的时候及时用钱，银行风控频繁触发，那么这个契约就成了霸王条框\n\n现代法制说：谁主张谁举证。但储户竟然需要自证清白 https://t.co/ul5xofCcFc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064398151126220800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY3LkjaAAAjFyR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064398151126220800"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064495256259977538",
+        "created_at": "2026-06-09T23:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064495256259977538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ul5xofCcFc",
+              "end": 162,
+              "expanded_url": "https://x.com/careforme123/status/2064495256259977538/photo/1",
+              "media_key": "3_2064398151126220800",
+              "start": 139,
+              "url": "https://t.co/ul5xofCcFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064495256259977538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "货币的生命力在于流动，货币信用的土壤是自由处置：货币是一种由所有人共同维护的契约\n\n如果一个国家的货币不能自由流通，不能根据所有者意愿进行自由处置。储户不能在需要钱的时候及时用钱，银行风控频繁触发，那么这个契约就成了霸王条框\n\n现代法制说：谁主张谁举证。但储户竟然需要自证清白\n\n银行默认储户的每一笔大额资金变动都是可疑的，储户必须提供完税证明、劳动合同、亲属关系、甚至对方的合法商业执照，才能动用自己的财产\n\n当英伟达、特斯拉或者苹果出现绝佳的建仓机会时，境内的储户却因卷商被限制，失去了全球财富分红权\n\n那么，后果呢？\n\n只要货币被贴上了“只能干什么”或“必须证明什么”的标签，它的信用就已经开始打折\n\n管制阻挡不了资本追求自由的本能。正规渠道被封锁后，有些人会不惜代价通过虚拟货币、跨境走私、钱庄等非法渠道外逃资产。这不仅无法真正阻止资本外流，反而让官方彻底失去了对这部分地下资金的追踪能力\n\n阻止资本外流，是有道理的，但我建议严查所有官员的财产流通，严打薄熙来式的跨国空壳公司与虚假贸易洗钱活动\n\n我们这种老百姓哪有什么钱转到境外啊，该被管制的好像不该是我们...\n\n我不懂经济，全文仅代表个人观点，谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "货币的生命力在于流动，货币信用的土壤是自由处置：货币是一种由所有人共同维护的契约\n\n如果一个国家的货币不能自由流通，不能根据所有者意愿进行自由处置。储户不能在需要钱的时候及时用钱，银行风控频繁触发，那么这个契约就成了霸王条框\n\n现代法制说：谁主张谁举证。但储户竟然需要自证清白 https://t.co/ul5xofCcFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 766,
+          "like_count": 7026,
+          "listed_count": 6,
+          "media_count": 709,
+          "tweet_count": 2806
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

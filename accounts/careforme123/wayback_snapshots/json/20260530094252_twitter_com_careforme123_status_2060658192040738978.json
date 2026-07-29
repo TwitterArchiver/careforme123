@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060657871784726532"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2060658192040738978",
+    "created_at": "2026-05-30T09:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060658192040738978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ItlbnyI4QU",
+          "end": 36,
+          "expanded_url": "https://x.com/careforme123/status/2060658192040738978/photo/1",
+          "media_key": "3_2060657871784726532",
+          "start": 13,
+          "url": "https://t.co/ItlbnyI4QU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060658192040738978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "山东男人，一生的梦想🫡🫡 https://t.co/ItlbnyI4QU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2060657871784726532",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjtaqNXUAQ1AEy.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060657871784726532"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2060658192040738978",
+        "created_at": "2026-05-30T09:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060658192040738978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ItlbnyI4QU",
+              "end": 36,
+              "expanded_url": "https://x.com/careforme123/status/2060658192040738978/photo/1",
+              "media_key": "3_2060657871784726532",
+              "start": 13,
+              "url": "https://t.co/ItlbnyI4QU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060658192040738978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山东男人，一生的梦想🫡🫡 https://t.co/ItlbnyI4QU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 739,
+          "like_count": 6525,
+          "listed_count": 5,
+          "media_count": 669,
+          "tweet_count": 2627
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

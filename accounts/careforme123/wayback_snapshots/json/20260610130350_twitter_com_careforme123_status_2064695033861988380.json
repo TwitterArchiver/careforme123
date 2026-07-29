@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064695033861988380",
+    "created_at": "2026-06-10T13:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064695033861988380"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064695033861988380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "如果你一天到晚都在上班，双休都无法保证，经常被领导打电话让你在休息时间改文件，一年到头也只有十多天的年假，薪水也只有几千块\n\n你真的能找到自己人生的意义吗？\n\n你可能会想，就辛苦这几年，升职了就好了，但并不是这样的，在这个环境里，每个人都在超负荷工作\n\n这是一种对人性的摧残，你会彻底变成李志口中吃喝拉撒的动物，过度操劳，你的健康也会受影响\n\n我宁愿干点轻松的活，钱少没关系，反正付出再多也得不到应有的回报与工资\n\n有更多时间刷刷推特，出去走走，弹弹钢琴，干点自己喜欢的事，无论如何都比过劳死好\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你一天到晚都在上班，双休都无法保证，经常被领导打电话让你在休息时间改文件，一年到头也只有十多天的年假，薪水也只有几千块\n\n你真的能找到自己人生的意义吗？\n\n你可能会想，就辛苦这几年，升职了就好了，但并不是这样的，在这个环境里，每个人都在超负荷工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064695033861988380",
+        "created_at": "2026-06-10T13:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064695033861988380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064695033861988380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你一天到晚都在上班，双休都无法保证，经常被领导打电话让你在休息时间改文件，一年到头也只有十多天的年假，薪水也只有几千块\n\n你真的能找到自己人生的意义吗？\n\n你可能会想，就辛苦这几年，升职了就好了，但并不是这样的，在这个环境里，每个人都在超负荷工作\n\n这是一种对人性的摧残，你会彻底变成李志口中吃喝拉撒的动物，过度操劳，你的健康也会受影响\n\n我宁愿干点轻松的活，钱少没关系，反正付出再多也得不到应有的回报与工资\n\n有更多时间刷刷推特，出去走走，弹弹钢琴，干点自己喜欢的事，无论如何都比过劳死好\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你一天到晚都在上班，双休都无法保证，经常被领导打电话让你在休息时间改文件，一年到头也只有十多天的年假，薪水也只有几千块\n\n你真的能找到自己人生的意义吗？\n\n你可能会想，就辛苦这几年，升职了就好了，但并不是这样的，在这个环境里，每个人都在超负荷工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 764,
+          "like_count": 7049,
+          "listed_count": 6,
+          "media_count": 713,
+          "tweet_count": 2818
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

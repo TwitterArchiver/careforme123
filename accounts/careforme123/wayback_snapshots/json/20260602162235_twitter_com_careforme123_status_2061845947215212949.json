@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061769903779061826",
+    "created_at": "2026-06-02T16:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061845947215212949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "427138635",
+          "start": 0,
+          "username": "zheng1034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061845947215212949",
+    "in_reply_to_user_id": "427138635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061818216595513591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zheng1034 你在急什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061769903779061826",
+        "created_at": "2026-06-02T16:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061845947215212949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "427138635",
+              "start": 0,
+              "username": "zheng1034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061845947215212949",
+        "in_reply_to_user_id": "427138635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061818216595513591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zheng1034 你在急什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "427138635",
+        "conversation_id": "2061769903779061826",
+        "created_at": "2026-06-02T14:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061818216595513591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061818216595513591",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061769903779061826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 你在日本是不是经常会被日本人霸凌呀？你是不是特想伪装成日本人？我把你的账号@给我的日本朋友，让他们在大阪问候下你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 742,
+          "like_count": 6678,
+          "listed_count": 5,
+          "media_count": 684,
+          "tweet_count": 2687
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-03T04:55:33.000Z",
+        "description": "你有误解我的权利，我没有给你解释的义务。",
+        "id": "427138635",
+        "name": "小狐汔济",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595640455768645632/gw7aWIlK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 79,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 4077
+        },
+        "username": "zheng1034",
+        "verified": false
+      }
+    ]
+  }
+}

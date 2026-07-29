@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050076822998847706",
+    "created_at": "2026-05-01T09:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050149842714780140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1350752058412998658",
+          "start": 0,
+          "username": "sam000219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050149842714780140",
+    "in_reply_to_user_id": "1350752058412998658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050076822998847706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sam000219 炒作"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050076815516213248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNWAH8boAAXwUY.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050076822998847706",
+        "created_at": "2026-05-01T09:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050149842714780140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1350752058412998658",
+              "start": 0,
+              "username": "sam000219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050149842714780140",
+        "in_reply_to_user_id": "1350752058412998658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050076822998847706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sam000219 炒作"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050076815516213248"
+          ]
+        },
+        "author_id": "1350752058412998658",
+        "conversation_id": "2050076822998847706",
+        "created_at": "2026-05-01T04:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050076822998847706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hOWF710DM",
+              "end": 47,
+              "expanded_url": "https://x.com/sam000219/status/2050076822998847706/photo/1",
+              "media_key": "3_2050076815516213248",
+              "start": 24,
+              "url": "https://t.co/1hOWF710DM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050076822998847706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操 你们是怎么做到一周百万浏览的 太牛逼了吧 https://t.co/1hOWF710DM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049645815967473705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 354,
+          "like_count": 4544,
+          "listed_count": 5,
+          "media_count": 516,
+          "tweet_count": 1874
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-17T10:29:28.000Z",
+        "description": "从华威FA到Web3 | 小毛靠勤大毛看命 | 分享我的加密成长路：从0到1 | 互关小伙伴，一起安静变富 \n国内视频号：方说加密",
+        "id": "1350752058412998658",
+        "name": "方说加密",
+        "pinned_tweet_id": "2050029282580439522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000206517065416706/78BUx3Ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 514,
+          "like_count": 612,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1708
+        },
+        "username": "sam000219",
+        "verified": true
+      }
+    ]
+  }
+}

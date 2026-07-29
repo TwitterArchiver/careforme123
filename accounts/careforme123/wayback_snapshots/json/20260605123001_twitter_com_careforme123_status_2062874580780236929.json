@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062874171743297536"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062874580780236929",
+    "created_at": "2026-06-05T12:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062874580780236929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4s14jw16Ag",
+          "end": 88,
+          "expanded_url": "https://x.com/careforme123/status/2062874580780236929/photo/1",
+          "media_key": "3_2062874171743297536",
+          "start": 65,
+          "url": "https://t.co/4s14jw16Ag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062874580780236929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "斯大林是一个恶魔\n\n即使在他死后，苏联也是一个恐怖的极权国家，践踏着人类的尊严\n\n幸好，美国赢得了冷战，让文明与自由拯救了东欧！ https://t.co/4s14jw16Ag"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2062874171743297536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDNIS8WYAAPnuy.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062874171743297536"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062874580780236929",
+        "created_at": "2026-06-05T12:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062874580780236929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4s14jw16Ag",
+              "end": 88,
+              "expanded_url": "https://x.com/careforme123/status/2062874580780236929/photo/1",
+              "media_key": "3_2062874171743297536",
+              "start": 65,
+              "url": "https://t.co/4s14jw16Ag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062874580780236929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "斯大林是一个恶魔\n\n即使在他死后，苏联也是一个恐怖的极权国家，践踏着人类的尊严\n\n幸好，美国赢得了冷战，让文明与自由拯救了东欧！ https://t.co/4s14jw16Ag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 746,
+          "like_count": 6867,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2746
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

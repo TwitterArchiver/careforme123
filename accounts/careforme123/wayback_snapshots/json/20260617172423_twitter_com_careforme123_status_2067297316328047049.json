@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067296766391930880"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067135219493474764",
+    "created_at": "2026-06-17T17:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067297316328047049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004038684274982914",
+          "start": 0,
+          "username": "LiweiY91381"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EgK7Rji76T",
+          "end": 76,
+          "expanded_url": "https://x.com/careforme123/status/2067297316328047049/photo/1",
+          "media_key": "3_2067296766391930880",
+          "start": 53,
+          "url": "https://t.co/EgK7Rji76T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067297316328047049",
+    "in_reply_to_user_id": "2004038684274982914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067293059747082348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiweiY91381 我问了，ai是这样说的，非要拿个例说事我也没办法\n\n此贴不再回复，以免给你流量 https://t.co/EgK7Rji76T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 97,
+        "media_key": "3_2067296766391930880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCDdL4a0AAZ4ho.png",
+        "width": 675
+      },
+      {
+        "height": 903,
+        "media_key": "3_2067292926494064640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLB_9rJbQAAIa3l.png",
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067296766391930880"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067135219493474764",
+        "created_at": "2026-06-17T17:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067297316328047049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004038684274982914",
+              "start": 0,
+              "username": "LiweiY91381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgK7Rji76T",
+              "end": 76,
+              "expanded_url": "https://x.com/careforme123/status/2067297316328047049/photo/1",
+              "media_key": "3_2067296766391930880",
+              "start": 53,
+              "url": "https://t.co/EgK7Rji76T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067297316328047049",
+        "in_reply_to_user_id": "2004038684274982914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067293059747082348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiweiY91381 我问了，ai是这样说的，非要拿个例说事我也没办法\n\n此贴不再回复，以免给你流量 https://t.co/EgK7Rji76T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067292926494064640"
+          ]
+        },
+        "author_id": "2004038684274982914",
+        "conversation_id": "2067135219493474764",
+        "created_at": "2026-06-17T17:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067293059747082348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGkOqCMSfy",
+              "end": 52,
+              "expanded_url": "https://x.com/LiweiY91381/status/2067293059747082348/photo/1",
+              "media_key": "3_2067292926494064640",
+              "start": 29,
+              "url": "https://t.co/fGkOqCMSfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067293059747082348",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067229262525112670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 知识不够其实可以多借助AI🤡 https://t.co/fGkOqCMSfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 777,
+          "like_count": 7320,
+          "listed_count": 6,
+          "media_count": 739,
+          "tweet_count": 2919
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-25T03:57:26.000Z",
+        "description": "欢迎关注YouTube@老姚不造谣\nhttps://t.co/qpdeXNXBha",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E8%80%81%E5%…",
+                "end": 41,
+                "expanded_url": "https://www.youtube.com/@%E8%80%81%E5%A7%9A%E4%B8%8D%E9%80%A0%E8%B0%A3",
+                "start": 18,
+                "url": "https://t.co/qpdeXNXBha"
+              }
+            ]
+          }
+        },
+        "id": "2004038684274982914",
+        "name": "老姚不造谣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012402333741887488/SlVchcBx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 129,
+          "like_count": 1,
+          "listed_count": 11,
+          "media_count": 232,
+          "tweet_count": 803
+        },
+        "username": "LiweiY91381",
+        "verified": false
+      }
+    ]
+  }
+}

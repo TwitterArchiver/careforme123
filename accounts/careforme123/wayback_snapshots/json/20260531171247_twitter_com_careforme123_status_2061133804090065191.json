@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2061133719721713668"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061133080585208173",
+    "created_at": "2026-05-31T17:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T18:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061133804090065191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pAjz9rNuat",
+          "end": 23,
+          "expanded_url": "https://x.com/careforme123/status/2061133804090065191/video/1",
+          "media_key": "13_2061133719721713668",
+          "start": 0,
+          "url": "https://t.co/pAjz9rNuat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061133804090065191",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061133080585208173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/pAjz9rNuat"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7801,
+        "height": 960,
+        "media_key": "13_2061133719721713668",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061133719721713668/img/ByZPoHnfqVOeiKkY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061133719721713668/vid/avc1/320x564/iKxdlbWfpqW2R3qZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061133719721713668/vid/avc1/480x846/SueUzNFi1QqeAoeM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061133719721713668/vid/avc1/544x960/vP-s-4lZS_BpPQdJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061133719721713668/pl/3x-zc8Cg2eJKF8Qs.m3u8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 30642,
+        "height": 1280,
+        "media_key": "13_2061132839513382917",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061132839513382917/img/mwsG1PDNqRS_Ohgr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061132839513382917/vid/avc1/320x568/kP9EFEo3OqmigKrC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061132839513382917/vid/avc1/480x852/fN4v_xAcwB3Hpt3k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061132839513382917/vid/avc1/720x1280/EoXS9Sv-woWwdV70.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061132839513382917/pl/69cInI4f0hU5ZfAs.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2061132996002902022",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqdih2W8AYfTfF.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061133719721713668"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061133080585208173",
+        "created_at": "2026-05-31T17:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061133804090065191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pAjz9rNuat",
+              "end": 23,
+              "expanded_url": "https://x.com/careforme123/status/2061133804090065191/video/1",
+              "media_key": "13_2061133719721713668",
+              "start": 0,
+              "url": "https://t.co/pAjz9rNuat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061133804090065191",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061133080585208173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/pAjz9rNuat"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061132839513382917",
+            "3_2061132996002902022"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061133080585208173",
+        "created_at": "2026-05-31T17:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061133080585208173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtp2WxMcZ3",
+              "end": 52,
+              "expanded_url": "https://x.com/careforme123/status/2061133080585208173/video/1",
+              "media_key": "13_2061132839513382917",
+              "start": 29,
+              "url": "https://t.co/rtp2WxMcZ3"
+            },
+            {
+              "display_url": "pic.x.com/rtp2WxMcZ3",
+              "end": 52,
+              "expanded_url": "https://x.com/careforme123/status/2061133080585208173/video/1",
+              "media_key": "3_2061132996002902022",
+              "start": 29,
+              "url": "https://t.co/rtp2WxMcZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061133080585208173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国明星张凌赫的粉丝见面会\n\n疯狂的粉丝们把玻璃都挤破了 https://t.co/rtp2WxMcZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 742,
+          "like_count": 6600,
+          "listed_count": 5,
+          "media_count": 676,
+          "tweet_count": 2655
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

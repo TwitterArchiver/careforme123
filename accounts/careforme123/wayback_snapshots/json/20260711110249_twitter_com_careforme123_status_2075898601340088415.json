@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075897871766106113",
+        "3_2075898218865623040"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2075898601340088415",
+    "created_at": "2026-07-11T11:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075898601340088415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FZ9sNs6iqW",
+          "end": 57,
+          "expanded_url": "https://x.com/careforme123/status/2075898601340088415/photo/1",
+          "media_key": "3_2075897871766106113",
+          "start": 34,
+          "url": "https://t.co/FZ9sNs6iqW"
+        },
+        {
+          "display_url": "pic.x.com/FZ9sNs6iqW",
+          "end": 57,
+          "expanded_url": "https://x.com/careforme123/status/2075898601340088415/photo/1",
+          "media_key": "3_2075898218865623040",
+          "start": 34,
+          "url": "https://t.co/FZ9sNs6iqW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075898601340088415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经典回顾之中国资本家能不捕的不捕，能不诉的不诉，能判缓刑的不判实形 https://t.co/FZ9sNs6iqW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2075897871766106113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8SHaSbsAE_zN8.jpg",
+        "width": 828
+      },
+      {
+        "height": 431,
+        "media_key": "3_2075898218865623040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8SbnVaAAAzwbR.jpg",
+        "width": 431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075897871766106113",
+            "3_2075898218865623040"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2075898601340088415",
+        "created_at": "2026-07-11T11:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075898601340088415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZ9sNs6iqW",
+              "end": 57,
+              "expanded_url": "https://x.com/careforme123/status/2075898601340088415/photo/1",
+              "media_key": "3_2075897871766106113",
+              "start": 34,
+              "url": "https://t.co/FZ9sNs6iqW"
+            },
+            {
+              "display_url": "pic.x.com/FZ9sNs6iqW",
+              "end": 57,
+              "expanded_url": "https://x.com/careforme123/status/2075898601340088415/photo/1",
+              "media_key": "3_2075898218865623040",
+              "start": 34,
+              "url": "https://t.co/FZ9sNs6iqW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075898601340088415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾之中国资本家能不捕的不捕，能不诉的不诉，能判缓刑的不判实形 https://t.co/FZ9sNs6iqW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 793,
+          "like_count": 7831,
+          "listed_count": 9,
+          "media_count": 807,
+          "tweet_count": 3120
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

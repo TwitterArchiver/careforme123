@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064615814750503276",
+    "created_at": "2026-06-11T07:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064979448152396171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049029162346962944",
+          "start": 0,
+          "username": "Lltp114514"
+        },
+        {
+          "end": 27,
+          "id": "2053644766802534400",
+          "start": 12,
+          "username": "demigarnet8964"
+        },
+        {
+          "end": 43,
+          "id": "2047196027141181440",
+          "start": 28,
+          "username": "tangangqinmao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064979448152396171",
+    "in_reply_to_user_id": "2049029162346962944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064705026879340711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lltp114514 @demigarnet8964 @tangangqinmao1 不要再比烂了，别人做错了所以你自己是合理的？这个逻辑太搞笑了，更别说你这句话没有任何事实可言了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064615814750503276",
+        "created_at": "2026-06-11T07:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064979448152396171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049029162346962944",
+              "start": 0,
+              "username": "Lltp114514"
+            },
+            {
+              "end": 27,
+              "id": "2053644766802534400",
+              "start": 12,
+              "username": "demigarnet8964"
+            },
+            {
+              "end": 43,
+              "id": "2047196027141181440",
+              "start": 28,
+              "username": "tangangqinmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064979448152396171",
+        "in_reply_to_user_id": "2049029162346962944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064705026879340711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lltp114514 @demigarnet8964 @tangangqinmao1 不要再比烂了，别人做错了所以你自己是合理的？这个逻辑太搞笑了，更别说你这句话没有任何事实可言了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049029162346962944",
+        "conversation_id": "2064615814750503276",
+        "created_at": "2026-06-10T13:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064705026879340711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053644766802534400",
+              "start": 0,
+              "username": "demigarnet8964"
+            },
+            {
+              "end": 31,
+              "id": "2047196027141181440",
+              "start": 16,
+              "username": "tangangqinmao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064705026879340711",
+        "in_reply_to_user_id": "2053644766802534400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 707,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064696548555133051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@demigarnet8964 @tangangqinmao1 笑死我了😂你美爹这十年来害死的人比谁都多😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 768,
+          "like_count": 7085,
+          "listed_count": 6,
+          "media_count": 714,
+          "tweet_count": 2831
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T07:34:24.000Z",
+        "description": "",
+        "id": "2049029162346962944",
+        "name": "bn s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050374106986819584/IeR72Dr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "Lltp114514",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T01:15:12.000Z",
+        "description": "咕咕...  |  进步(?)规范(?)生产(?)  |  有点小自闭，不一定经常发post  |  🍬氏冻肉，赛博斯坦小资历  |  就酱, 希望你天天开心",
+        "id": "2053644766802534400",
+        "name": "EVEV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062672715581095936/aYi_Q8WN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 41,
+          "like_count": 1304,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 161
+        },
+        "username": "demigarnet8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T06:09:20.000Z",
+        "description": "伟大的无产阶级文化大革命万岁\n支持图目田 右÷ 支黑\n希望上面提到的这三类人全+死光\n反毛贼不屠能行吗？",
+        "id": "2047196027141181440",
+        "location": "反毛贼智能屠宰基地（扒皮生腌反毛贼处理厂）",
+        "name": "弹钢琴",
+        "pinned_tweet_id": "2064301836321108080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047196177582731264/84Vl2RgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 36,
+          "like_count": 1859,
+          "listed_count": 5,
+          "media_count": 274,
+          "tweet_count": 2611
+        },
+        "username": "tangangqinmao1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069713007706538121",
+    "created_at": "2026-06-24T13:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T14:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069769413352702411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1789657348463837184",
+          "start": 0,
+          "username": "Trader_Aiden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069769413352702411",
+    "in_reply_to_user_id": "1789657348463837184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069713007706538121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trader_Aiden 不自信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069713007706538121",
+        "created_at": "2026-06-24T13:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069769413352702411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1789657348463837184",
+              "start": 0,
+              "username": "Trader_Aiden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069769413352702411",
+        "in_reply_to_user_id": "1789657348463837184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069713007706538121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trader_Aiden 不自信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789657348463837184",
+        "conversation_id": "2069713007706538121",
+        "created_at": "2026-06-24T09:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069713007706538121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069713007706538121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么亚太地区的人，社交账号一般都很少用自己的头像？大部分都是卡通、风景、之类的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 782,
+          "like_count": 7577,
+          "listed_count": 7,
+          "media_count": 753,
+          "tweet_count": 2998
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T14:02:38.000Z",
+        "description": "📌 Crypto｜AI｜trade｜Coffee\n📌 Stay curious｜Keep exploring",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aiden_1816",
+                "end": 23,
+                "expanded_url": "https://t.me/Aiden_1816",
+                "start": 0,
+                "url": "https://t.co/2poIRezx5Y"
+              }
+            ]
+          }
+        },
+        "id": "1789657348463837184",
+        "location": "加密行情交流群：",
+        "name": "𝓐𝓲𝓭𝓮𝓷",
+        "pinned_tweet_id": "2067925496089006537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853410393152237568/c0wgtYkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5161,
+          "following_count": 4258,
+          "like_count": 21463,
+          "listed_count": 7,
+          "media_count": 411,
+          "tweet_count": 12740
+        },
+        "url": "https://t.co/2poIRezx5Y",
+        "username": "Trader_Aiden",
+        "verified": true
+      }
+    ]
+  }
+}

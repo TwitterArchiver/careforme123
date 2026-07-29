@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2051138469020528650",
+    "created_at": "2026-05-04T10:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051243693022314805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853464622160031745",
+          "start": 0,
+          "username": "Verbey172897"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051243693022314805",
+    "in_reply_to_user_id": "1853464622160031745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051138469020528650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Verbey172897 互关吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 193259,
+        "height": 360,
+        "media_key": "13_2051138162706333696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051138162706333696/img/6OYMPXkSleDpqTIK.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051138162706333696/vid/avc1/480x270/m-xoW_-CSkOS46gd.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051138162706333696/vid/avc1/640x360/_7CA9yKFgOjdV4e7.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051138162706333696/pl/79HPiVUDORSx4Yx-.m3u8?tag=27"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2051138469020528650",
+        "created_at": "2026-05-04T10:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051243693022314805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853464622160031745",
+              "start": 0,
+              "username": "Verbey172897"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051243693022314805",
+        "in_reply_to_user_id": "1853464622160031745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051138469020528650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verbey172897 互关吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051138162706333696"
+          ]
+        },
+        "author_id": "1853464622160031745",
+        "conversation_id": "2051138469020528650",
+        "created_at": "2026-05-04T03:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051138469020528650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTB0xsIQ9u",
+              "end": 174,
+              "expanded_url": "https://x.com/Verbey172897/status/2051138469020528650/video/1",
+              "media_key": "13_2051138162706333696",
+              "start": 151,
+              "url": "https://t.co/CTB0xsIQ9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051138469020528650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "💦无惧中共威胁 加国镇长升旗 庆祝法轮大法日\n【新唐人北京时间2026年05月04日讯】加拿大安大略省、阿默斯特堡小镇与美国底特律隔河相望，以军事历史、河岸景观与宁静氛围着称。5月13日“世界法轮大法日”前夕，该镇率先升起“法轮大法日”旗帜，表达对法轮功团体的支持。\n\n阿默斯特堡市市长Michael Prue：“我，迈克尔．普鲁，阿默斯特堡市长，代表本市议会，特此宣布2026年5月13日为阿默斯特堡的‘法轮大法日’。”\n距离多伦多约四小时车程的阿默斯特堡市，今年率先升起庆祝“法轮大法日”的旗帜。这座拥有300年历史的古镇已连续五年举行升旗仪式，市长亲自宣读了对法轮大法的褒奖。\n\nMichael Prue：“我们祝大家度过一个充实的月份，希望你们将这份理念传遍这个美丽的国家，让更多人了解你们的诉求是正当的、你们团体是美好的。而且你们正在帮助和服务许多人。恭喜恭喜。”\n\n市长表示，去年升旗仪式后曾收到来自中领馆的威胁信件。\n\nMichael Prue：“去年升旗仪式之后，我收到了一封信，来自中共驻多伦多大使馆，警告我停止支持法轮大法。我在加拿大，从未被任何外国机构或个人，要求我停止表达我认为的真相，这是第一次，我感到震惊，也有些愤怒。”\n\n他仍非常高兴再次受邀参与，并认为成为加拿大首个为法轮大法举行升旗仪式的城市，意义非凡。\n\nMichael Prue：“重要的是你们来了；重要的是你们的声音被听到了；重要的是你们的事业是正义的；我们会继续支持你们。我很自豪地说，我们的市议会一致支持宣读这项公告、升起旗帜。”\n\n他在致词中赞扬，法轮大法由李洪志先生于1992年从中国传出，已跨越文化与族群界限，广传全球114多个国家、超过一亿人修炼；同时他指出，面对中共迫害，法轮功学员展现的慈悲与坚韧，感动了众多善良人士。\n\nMichael Prue：“27年来，我一直希望有一天中共政府能够恢复理智，认识到法轮大法是一个多么美好的团体，并停止这场迫害。”\n\nMichael Prue：“我会继续支持你们群体，支持法轮大法为世界各地带来自由。”\n\n市长连续多年观赏神韵演出，盛赞其精彩绝伦。对今年多伦多演出场次因中共虚假炸弹威胁而被取消，深感遗憾。他希望加拿大未来能确保演出顺利举行。\n\n新唐人电视台加拿大多伦多记者站采访报导"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💦无惧中共威胁 加国镇长升旗 庆祝法轮大法日\n【新唐人北京时间2026年05月04日讯】加拿大安大略省、阿默斯特堡小镇与美国底特律隔河相望，以军事历史、河岸景观与宁静氛围着称。5月13日“世界法轮大法日”前夕，该镇率先升起“法轮大法日”旗帜，表达对法轮功团体的支持。\n\n阿默斯特堡市市长Michael https://t.co/CTB0xsIQ9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2051010408769786079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 437,
+          "like_count": 4765,
+          "listed_count": 5,
+          "media_count": 535,
+          "tweet_count": 1973
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-04T15:49:47.000Z",
+        "description": "https://t.co/Rw8QVPsywT\n堅守清晰與誠實的聲音",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ganjingworld.com",
+                "end": 23,
+                "expanded_url": "https://www.ganjingworld.com/",
+                "start": 0,
+                "url": "https://t.co/Rw8QVPsywT"
+              }
+            ]
+          }
+        },
+        "id": "1853464622160031745",
+        "name": "Verbey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865606077657882624/BXZ4uksP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 1883,
+          "like_count": 6337,
+          "listed_count": 2,
+          "media_count": 1779,
+          "tweet_count": 3351
+        },
+        "username": "Verbey172897",
+        "verified": true
+      }
+    ]
+  }
+}

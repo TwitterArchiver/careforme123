@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058359489724895672",
+    "created_at": "2026-05-24T03:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058386488086167589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1775457405029040128",
+          "start": 0,
+          "username": "SeanEdge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058386488086167589",
+    "in_reply_to_user_id": "1775457405029040128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058359489724895672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeanEdge 来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 205,
+        "media_key": "3_2058355416762048512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJC_WI2aYAA7WUU.jpg",
+        "width": 371
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058359489724895672",
+        "created_at": "2026-05-24T03:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058386488086167589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775457405029040128",
+              "start": 0,
+              "username": "SeanEdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058386488086167589",
+        "in_reply_to_user_id": "1775457405029040128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058359489724895672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeanEdge 来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058355416762048512"
+          ]
+        },
+        "author_id": "1775457405029040128",
+        "conversation_id": "2058359489724895672",
+        "created_at": "2026-05-24T01:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:12:28.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058355418649563394",
+          "2058356587849494989",
+          "2058359489724895672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kf5xhdZZjd",
+              "end": 148,
+              "expanded_url": "https://x.com/SeanEdge/status/2058359489724895672/photo/1",
+              "media_key": "3_2058355416762048512",
+              "start": 125,
+              "url": "https://t.co/Kf5xhdZZjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058359489724895672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一觉睡醒发现 411fo 了。\n\n真的很感谢大家的支持。\n\n我只是一个普通大学生，\n很多东西还不懂，\n以后希望能慢慢输出一些真正有价值的内容。\n\n欢迎大家继续来和我互关。\n\n以后继续认真更新：\n\n交易｜成长｜AI｜大学生活\n\n希望我们都能越来越强。 https://t.co/Kf5xhdZZjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 715,
+          "like_count": 6118,
+          "listed_count": 5,
+          "media_count": 650,
+          "tweet_count": 2466
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-03T09:37:13.000Z",
+        "description": "06大学生｜个人交易员养成中\n记录 AI、Trading、大学生活、赚钱认知与个人成长",
+        "id": "1775457405029040128",
+        "name": "SeanEdge",
+        "pinned_tweet_id": "2058063627060658604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058100114628194304/YE5EOSzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 442,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 69
+        },
+        "username": "SeanEdge",
+        "verified": true
+      }
+    ]
+  }
+}

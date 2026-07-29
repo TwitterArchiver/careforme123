@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064383223728349412",
+    "created_at": "2026-06-10T09:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064640031147651100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2020167685770739712",
+          "start": 0,
+          "username": "B_Sen114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064640031147651100",
+    "in_reply_to_user_id": "2020167685770739712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064633586981261740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_Sen114514 你咋知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064383223728349412",
+        "created_at": "2026-06-10T09:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064640031147651100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2020167685770739712",
+              "start": 0,
+              "username": "B_Sen114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064640031147651100",
+        "in_reply_to_user_id": "2020167685770739712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064633586981261740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_Sen114514 你咋知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020167685770739712",
+        "conversation_id": "2064383223728349412",
+        "created_at": "2026-06-10T08:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064633586981261740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064633586981261740",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064383223728349412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 bro从地狱回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 765,
+          "like_count": 7038,
+          "listed_count": 6,
+          "media_count": 711,
+          "tweet_count": 2812
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-07T16:08:20.000Z",
+        "description": "蓝V互fo and 神秘老天津卫\n佛山市小邓网络文创科技工作室运营@xiaodengwangluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "xiaodengwangluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaodeng123.cn",
+                "end": 23,
+                "expanded_url": "http://xiaodeng123.cn",
+                "start": 0,
+                "url": "https://t.co/YTTxOoha45"
+              }
+            ]
+          }
+        },
+        "id": "2020167685770739712",
+        "location": "Tianjin China",
+        "name": "Sen®",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060622387167789056/0mC4dj0J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 471,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/YTTxOoha45",
+        "username": "B_Sen114514",
+        "verified": true
+      }
+    ]
+  }
+}

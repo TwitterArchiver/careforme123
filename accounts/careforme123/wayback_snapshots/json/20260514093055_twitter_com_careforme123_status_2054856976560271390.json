@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2054852802128781640",
+    "created_at": "2026-05-14T09:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054856976560271390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795760823887175680",
+          "start": 0,
+          "username": "ctbz1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054856976560271390",
+    "in_reply_to_user_id": "1795760823887175680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054855049579475249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctbz1234 特朗普西装太松了确实有点丑，不过他们高雅人士说这是松弛感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054852802128781640",
+        "created_at": "2026-05-14T09:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054856976560271390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795760823887175680",
+              "start": 0,
+              "username": "ctbz1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054856976560271390",
+        "in_reply_to_user_id": "1795760823887175680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054855049579475249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctbz1234 特朗普西装太松了确实有点丑，不过他们高雅人士说这是松弛感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795760823887175680",
+        "conversation_id": "2054852802128781640",
+        "created_at": "2026-05-14T09:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054855049579475249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054855049579475249",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054852802128781640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 认真一说，我觉得习大大的一整套还蛮好看的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 546,
+          "like_count": 5473,
+          "listed_count": 6,
+          "media_count": 608,
+          "tweet_count": 2246
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T10:15:39.000Z",
+        "description": "喜歡嘲笑世界就是一個草台班子～\n反對PUA男性。\nLuv Games. Luv Meme. Don’t like WOKE.\nLuv Noodles！",
+        "id": "1795760823887175680",
+        "location": "Hong Kong",
+        "name": "Mess",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053662448025210880/rLEnjMW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 301,
+          "like_count": 6641,
+          "listed_count": 0,
+          "media_count": 480,
+          "tweet_count": 3153
+        },
+        "username": "ctbz1234",
+        "verified": true
+      }
+    ]
+  }
+}

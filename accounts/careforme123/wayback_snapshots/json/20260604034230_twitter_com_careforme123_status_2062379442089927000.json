@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062229353233281379",
+    "created_at": "2026-06-04T03:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062379442089927000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1461728708935385088",
+          "start": 0,
+          "username": "Qbb7680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062379442089927000",
+    "in_reply_to_user_id": "1461728708935385088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062229353233281379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qbb7680 没有看过他学生证的人，都不知道他本人有多丑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062229353233281379",
+        "created_at": "2026-06-04T03:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062379442089927000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1461728708935385088",
+              "start": 0,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062379442089927000",
+        "in_reply_to_user_id": "1461728708935385088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062229353233281379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qbb7680 没有看过他学生证的人，都不知道他本人有多丑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461728708935385088",
+        "conversation_id": "2062229353233281379",
+        "created_at": "2026-06-03T17:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062229353233281379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062229353233281379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所以唐毓文是谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 740,
+          "like_count": 6763,
+          "listed_count": 5,
+          "media_count": 692,
+          "tweet_count": 2718
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-19T16:11:06.000Z",
+        "description": "🚪88/是凶猛的九节狼，饲养条件：室温24℃湿度50%适当阳光直射 / 喵粒子、柚子、代糖、水水、ted永远正确/常驻江浙沪，喜欢🪢和K9/可接私厨、网页开发，请先通过门槛后咨询详情，如需私厨服务请务必在私信中提供厨房整体环境照、灶台设备照片和已有调味品清单",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qbb7680",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qbb7680",
+                "start": 0,
+                "url": "https://t.co/UC40aNQo1b"
+              }
+            ]
+          }
+        },
+        "id": "1461728708935385088",
+        "location": "休息日可接江浙沪上门做饭",
+        "name": "是气波波nya～",
+        "pinned_tweet_id": "2000871019247231472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997841678657597440/MtDkFV17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14677,
+          "following_count": 1116,
+          "like_count": 103820,
+          "listed_count": 37,
+          "media_count": 1142,
+          "tweet_count": 7086
+        },
+        "url": "https://t.co/UC40aNQo1b",
+        "username": "Qbb7680",
+        "verified": false
+      }
+    ]
+  }
+}

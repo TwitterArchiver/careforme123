@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2079219790367826333",
+    "created_at": "2026-07-20T15:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079220637068144709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079220637068144709",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079219790367826333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 所谓传统文化就是一堆狗屎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2079018139980021760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNon-7MaQAA5iP6.jpg",
+        "width": 1147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2079219790367826333",
+        "created_at": "2026-07-20T15:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079220637068144709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079220637068144709",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079219790367826333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 所谓传统文化就是一堆狗屎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079018139980021760"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1410728010462859268",
+              "name": "Xianxia"
+            }
+          }
+        ],
+        "conversation_id": "2079219790367826333",
+        "created_at": "2026-07-20T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079219790367826333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kitenDiIy",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2079219790367826333/photo/1",
+              "media_key": "3_2079018139980021760",
+              "start": 81,
+              "url": "https://t.co/5kitenDiIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079219790367826333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月20日，彭博社刊发评论文章称，在青年失业率居高、经济增长放缓和社会流动受限的背景下，越来越多中国年轻人转向汉服、古装剧和仙侠文化，从传统文化中寻求精神慰藉。\n\n文章认为，中共曾长期以“反封建”为名批判传统文化，如今则将自身塑造成“五千年文明的守护者”，并借助“民族复兴”等历史叙事强化执政合法性。\n\n彭博评论称，文化怀旧无法创造就业、提振房地产市场，也难以扭转年轻人的生育意愿。文章认为，只要无法为年轻人提供一个值得期待的未来，回望被理想化的过去仍将持续吸引不少人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2021,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7月20日，彭博社刊发评论文章称，在青年失业率居高、经济增长放缓和社会流动受限的背景下，越来越多中国年轻人转向汉服、古装剧和仙侠文化，从传统文化中寻求精神慰藉。 https://t.co/5kitenDiIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 789,
+          "like_count": 7823,
+          "listed_count": 8,
+          "media_count": 813,
+          "tweet_count": 3135
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242518,
+          "following_count": 1078,
+          "like_count": 9805,
+          "listed_count": 8826,
+          "media_count": 50745,
+          "tweet_count": 57963
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

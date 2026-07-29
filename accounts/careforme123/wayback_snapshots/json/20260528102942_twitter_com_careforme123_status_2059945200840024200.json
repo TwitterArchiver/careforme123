@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059939218332250414",
+    "created_at": "2026-05-28T10:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059945200840024200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "FurinaLover8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059945200840024200",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059939218332250414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaLover8964 你舅舅是cia的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 452,
+        "media_key": "3_2059939203987730433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZfysCW8AEYmFJ.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059939218332250414",
+        "created_at": "2026-05-28T10:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059945200840024200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "FurinaLover8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059945200840024200",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059939218332250414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaLover8964 你舅舅是cia的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059939203987730433"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2059939218332250414",
+        "created_at": "2026-05-28T10:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059939218332250414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PktRoxm4Wc",
+              "end": 42,
+              "expanded_url": "https://x.com/FurinaLover8964/status/2059939218332250414/photo/1",
+              "media_key": "3_2059939203987730433",
+              "start": 19,
+              "url": "https://t.co/PktRoxm4Wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059939218332250414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我舅舅说，董军也要出事了\n罪名是渎职 https://t.co/PktRoxm4Wc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 741,
+          "like_count": 6480,
+          "listed_count": 5,
+          "media_count": 665,
+          "tweet_count": 2608
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "我是河南人，台湾是一个独立的国家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTTDE"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26844,
+          "following_count": 358,
+          "like_count": 2167,
+          "listed_count": 73,
+          "media_count": 1783,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/CFxkcvTTDE",
+        "username": "FurinaLover8964",
+        "verified": false
+      }
+    ]
+  }
+}

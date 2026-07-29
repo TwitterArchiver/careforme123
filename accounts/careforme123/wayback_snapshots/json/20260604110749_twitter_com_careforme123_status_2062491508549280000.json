@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062491203296165888"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2062491508549280000",
+    "created_at": "2026-06-04T11:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062491508549280000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHlIZGTLLf",
+          "end": 45,
+          "expanded_url": "https://x.com/careforme123/status/2062491508549280000/video/1",
+          "media_key": "13_2062491203296165888",
+          "start": 22,
+          "url": "https://t.co/HHlIZGTLLf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062491508549280000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了自己和家人的生命安全\n\n请远离华为产品 https://t.co/HHlIZGTLLf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30133,
+        "height": 576,
+        "media_key": "13_2062491203296165888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062491203296165888/img/poH-rM_KoCj1eyPR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062491203296165888/vid/avc1/360x270/SMsTxoSybKP7YI1b.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062491203296165888/vid/avc1/480x360/ktsZmm1TeunETDfm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062491203296165888/vid/avc1/768x576/zKqqIQsif4EWNTwu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062491203296165888/pl/k7JOoShjUsAPq48-.m3u8"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062491203296165888"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2062491508549280000",
+        "created_at": "2026-06-04T11:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062491508549280000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHlIZGTLLf",
+              "end": 45,
+              "expanded_url": "https://x.com/careforme123/status/2062491508549280000/video/1",
+              "media_key": "13_2062491203296165888",
+              "start": 22,
+              "url": "https://t.co/HHlIZGTLLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062491508549280000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了自己和家人的生命安全\n\n请远离华为产品 https://t.co/HHlIZGTLLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 742,
+          "like_count": 6786,
+          "listed_count": 5,
+          "media_count": 694,
+          "tweet_count": 2725
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

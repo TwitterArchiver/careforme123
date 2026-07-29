@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058432464297881670",
+    "created_at": "2026-05-24T06:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058442606707700156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054488553690980352",
+          "start": 0,
+          "username": "xioxio134682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058442606707700156",
+    "in_reply_to_user_id": "2054488553690980352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058432464297881670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioxio134682 peterpan你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058432464297881670",
+        "created_at": "2026-05-24T06:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058442606707700156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054488553690980352",
+              "start": 0,
+              "username": "xioxio134682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058442606707700156",
+        "in_reply_to_user_id": "2054488553690980352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058432464297881670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioxio134682 peterpan你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054488553690980352",
+        "conversation_id": "2058432464297881670",
+        "created_at": "2026-05-24T06:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058432464297881670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058432464297881670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出摊  出摊\n\n今天主线任务就是回关昨天关注的\n\n顺便再去蹭蹭热点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 723,
+          "like_count": 6164,
+          "listed_count": 6,
+          "media_count": 651,
+          "tweet_count": 2488
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-13T09:07:32.000Z",
+        "description": "每天生产电子快乐\n专治不开心｜抽象搞笑｜互联网嘴替\n人活着不一定有意义\n但我的视频一定有毛病\n欢迎大家交流",
+        "id": "2054488553690980352",
+        "name": "皮特潘",
+        "pinned_tweet_id": "2058135656157925756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054505195238027264/j9xbWh69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 484,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 279
+        },
+        "username": "xioxio134682",
+        "verified": true
+      }
+    ]
+  }
+}

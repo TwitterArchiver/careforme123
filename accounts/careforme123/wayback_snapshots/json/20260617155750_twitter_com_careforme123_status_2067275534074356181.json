@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067270568152580487",
+    "created_at": "2026-06-17T15:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067275534074356181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843519961647722497",
+          "start": 0,
+          "username": "artstudent231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067275534074356181",
+    "in_reply_to_user_id": "1843519961647722497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067270568152580487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@artstudent231 机房ip都是买来爬虫的，拿来玩社媒容易被封"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2067270559147454464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBrnuSbcAA-F0t.jpg",
+        "width": 1139
+      },
+      {
+        "height": 96,
+        "media_key": "3_2067270563824058368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBrn_tawAAhDLu.jpg",
+        "width": 101
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067270568152580487",
+        "created_at": "2026-06-17T15:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067275534074356181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843519961647722497",
+              "start": 0,
+              "username": "artstudent231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067275534074356181",
+        "in_reply_to_user_id": "1843519961647722497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067270568152580487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artstudent231 机房ip都是买来爬虫的，拿来玩社媒容易被封"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067270559147454464",
+            "3_2067270563824058368"
+          ]
+        },
+        "author_id": "1843519961647722497",
+        "conversation_id": "2067270568152580487",
+        "created_at": "2026-06-17T15:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067270568152580487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GiQGiXxNwu",
+              "end": 54,
+              "expanded_url": "https://x.com/artstudent231/status/2067270568152580487/photo/1",
+              "media_key": "3_2067270559147454464",
+              "start": 31,
+              "url": "https://t.co/GiQGiXxNwu"
+            },
+            {
+              "display_url": "pic.x.com/GiQGiXxNwu",
+              "end": 54,
+              "expanded_url": "https://x.com/artstudent231/status/2067270568152580487/photo/1",
+              "media_key": "3_2067270563824058368",
+              "start": 31,
+              "url": "https://t.co/GiQGiXxNwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067270568152580487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "17块的日本IP，虽然不是家宽但这个速度还有这价格也OK了） https://t.co/GiQGiXxNwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 777,
+          "like_count": 7312,
+          "listed_count": 6,
+          "media_count": 737,
+          "tweet_count": 2914
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T05:13:14.000Z",
+        "description": "中国🇨🇳出身の大学生です。05（05年生まれ）のENFP、水瓶座🔮です！\n\n百合系✨️の色んなアニメやゲームが好きで、最近は『ハッピーシュガーライフ』や『がっこうぐらし！』、『22/7』などを見ています。アイドル系のプロジェクトにも興味があります！💤\n\n一番好きなゲームは『DARKSOUL』シリーズです！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/artstudent0501…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/artstudent050126/",
+                "start": 0,
+                "url": "https://t.co/M037mmtJCu"
+              }
+            ]
+          }
+        },
+        "id": "1843519961647722497",
+        "location": "新エリー都",
+        "name": "卷心菜爱打邦多利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064960188902469632/qJ1suO7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 4076,
+          "like_count": 15104,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 2550
+        },
+        "url": "https://t.co/M037mmtJCu",
+        "username": "artstudent231",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064558171914457347",
+    "created_at": "2026-06-10T04:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064559840077459835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064559840077459835",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064558171914457347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 要不是国内车企受到保护，现在中国市场早就被特斯拉占领了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 147114,
+        "height": 1280,
+        "media_key": "13_2064298342268424192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064298342268424192/img/sG0ElQxAAt0CLGzS.jpg",
+        "public_metrics": {
+          "view_count": 383
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064298342268424192/vid/avc1/320x568/xlO0Kx3TRvAqwKVR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064298342268424192/vid/avc1/480x852/5HQjIWtKFvwilBUC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064298342268424192/vid/avc1/720x1280/B1TT5mhDzNDZYVDj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064298342268424192/pl/722Vd_j2R-Q4Oc1O.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 675,
+        "media_key": "3_2064298342251712512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXcZ7hXUAAqs_W.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2064298342247505920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXcZ7gXIAAxF3D.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2064298343216435200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXcZ_HX0AArtzT.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064558171914457347",
+        "created_at": "2026-06-10T04:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064559840077459835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064559840077459835",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064558171914457347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 要不是国内车企受到保护，现在中国市场早就被特斯拉占领了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064298342268424192",
+            "3_2064298342251712512",
+            "3_2064298342247505920",
+            "3_2064298343216435200"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2064558171914457347",
+        "created_at": "2026-06-10T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064558171914457347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcsgLEQamN",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2064558171914457347/video/1",
+              "media_key": "13_2064298342268424192",
+              "start": 106,
+              "url": "https://t.co/xcsgLEQamN"
+            },
+            {
+              "display_url": "pic.x.com/xcsgLEQamN",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2064558171914457347/video/1",
+              "media_key": "3_2064298342251712512",
+              "start": 106,
+              "url": "https://t.co/xcsgLEQamN"
+            },
+            {
+              "display_url": "pic.x.com/xcsgLEQamN",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2064558171914457347/video/1",
+              "media_key": "3_2064298342247505920",
+              "start": 106,
+              "url": "https://t.co/xcsgLEQamN"
+            },
+            {
+              "display_url": "pic.x.com/xcsgLEQamN",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2064558171914457347/video/1",
+              "media_key": "3_2064298343216435200",
+              "start": 106,
+              "url": "https://t.co/xcsgLEQamN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064558171914457347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国5月汽车销量下跌超过22%， 连续第八个月下滑。\n\n6月8日，中国乘联会公布数据，全国乘用车市场零售151.0万辆，同比下降22.1%，环比增长9.2%；今年以来累计零售709.9万辆，同比下降19.5%。\n其中，新能源车市场零售95万辆，同比下滑7.5%，连续第五个月下滑。电动车和插电式混合动力汽车销量占整体销量的62.2%。\n\n部分外资汽车品牌面临严峻挑战，据共同社报道，丰田汽车公司 5日 公布在中国市场的5月新车销量为10万2300辆，同比减少31.7%。本田则大幅下降48.7%，为28279辆。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2320,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中国5月汽车销量下跌超过22%， 连续第八个月下滑。\n\n6月8日，中国乘联会公布数据，全国乘用车市场零售151.0万辆，同比下降22.1%，环比增长9.2%；今年以来累计零售709.9万辆，同比下降19.5%。 https://t.co/xcsgLEQamN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 766,
+          "like_count": 7034,
+          "listed_count": 6,
+          "media_count": 710,
+          "tweet_count": 2809
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235818,
+          "following_count": 1070,
+          "like_count": 9661,
+          "listed_count": 8793,
+          "media_count": 48286,
+          "tweet_count": 55441
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

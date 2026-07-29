@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050562817221128631",
+    "created_at": "2026-05-03T11:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T12:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050906242533773490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049790092236001280",
+          "start": 0,
+          "username": "Bairizefeibai7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050906242533773490",
+    "in_reply_to_user_id": "2049790092236001280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050562817221128631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bairizefeibai7 妈妈带我走吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13000,
+        "height": 1280,
+        "media_key": "13_2050562748187049984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050562748187049984/img/0MtM7vvf3cFJKPt_.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050562748187049984/vid/avc1/320x568/jX2_M0_2ut6Mu2JC.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050562748187049984/vid/avc1/480x852/V1r5mi4AucX_m322.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050562748187049984/vid/avc1/720x1280/Gwr-mdImBOn2CnfT.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050562748187049984/pl/bbLM2ndExDHP9Le0.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050562817221128631",
+        "created_at": "2026-05-03T11:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050906242533773490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049790092236001280",
+              "start": 0,
+              "username": "Bairizefeibai7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050906242533773490",
+        "in_reply_to_user_id": "2049790092236001280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050562817221128631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bairizefeibai7 妈妈带我走吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050562748187049984"
+          ]
+        },
+        "author_id": "2049790092236001280",
+        "conversation_id": "2050562817221128631",
+        "created_at": "2026-05-02T13:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T14:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050562817221128631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sZ8hiO3Xbv",
+              "end": 128,
+              "expanded_url": "https://x.com/Bairizefeibai7/status/2050562817221128631/video/1",
+              "media_key": "13_2050562748187049984",
+              "start": 105,
+              "url": "https://t.co/sZ8hiO3Xbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050562817221128631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老了，得服老\n跟小登们踢球，跑了不到半个小时跑不动了\n不过给小登们传授了一些技巧，停球啊长传啊啥的，小登们纷纷表示受教了\n开着白皮平老爹的车在村里乱逛，三菱帕杰罗，30岁的老家伙\n落日非常漂亮，分享给各位包蜜 https://t.co/sZ8hiO3Xbv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 393,
+          "like_count": 4684,
+          "listed_count": 5,
+          "media_count": 528,
+          "tweet_count": 1935
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T09:57:45.000Z",
+        "description": "我还是那个聪明、善良、温柔、贤惠、漂亮、H罩杯、爱做饭的包蜜",
+        "id": "2049790092236001280",
+        "location": "以色列",
+        "name": "百日则肥白7🇮🇱🇺🇸",
+        "pinned_tweet_id": "2049793278069940624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050888410064474112/N8P9toke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 31,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 268
+        },
+        "username": "Bairizefeibai7",
+        "verified": false
+      }
+    ]
+  }
+}

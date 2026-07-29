@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062910867042136288",
+    "created_at": "2026-06-05T15:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062924389453037650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467051168727588864",
+          "start": 0,
+          "username": "w3riko"
+        },
+        {
+          "end": 21,
+          "id": "1060619739318378496",
+          "start": 8,
+          "username": "iYungblogger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062924389453037650",
+    "in_reply_to_user_id": "1467051168727588864",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062924080698052718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w3riko @iYungblogger hi riko"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062910867042136288",
+        "created_at": "2026-06-05T15:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062924389453037650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467051168727588864",
+              "start": 0,
+              "username": "w3riko"
+            },
+            {
+              "end": 21,
+              "id": "1060619739318378496",
+              "start": 8,
+              "username": "iYungblogger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062924389453037650",
+        "in_reply_to_user_id": "1467051168727588864",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062924080698052718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w3riko @iYungblogger hi riko"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467051168727588864",
+        "conversation_id": "2062910867042136288",
+        "created_at": "2026-06-05T15:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062924080698052718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1060619739318378496",
+              "start": 0,
+              "username": "iYungblogger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062924080698052718",
+        "in_reply_to_user_id": "1060619739318378496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062910867042136288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iYungblogger Riko is up to connect💙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 763,
+          "like_count": 6927,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2763
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-04T08:40:52.000Z",
+        "description": "Crypto Enthusiasts | Content Creator | Web3 builder",
+        "id": "1467051168727588864",
+        "location": "Dhaka, Bangladesh",
+        "name": "RIKO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056697690176753664/mv5jqfNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 43,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 169
+        },
+        "username": "w3riko",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-08T19:47:06.000Z",
+        "description": "Music Producer || A&R || My Backup Page @YungDey4you",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "YungDey4you"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yungonly",
+                "end": 23,
+                "expanded_url": "http://instagram.com/yungonly",
+                "start": 0,
+                "url": "https://t.co/2rQsBuBVV6"
+              }
+            ]
+          }
+        },
+        "id": "1060619739318378496",
+        "location": "Check Highlight for my tweet",
+        "name": "Yungonly 🎖️",
+        "pinned_tweet_id": "2062855648484671601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878065090747842560/0YbXvsQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39656,
+          "following_count": 7168,
+          "like_count": 500793,
+          "listed_count": 39,
+          "media_count": 8284,
+          "tweet_count": 430535
+        },
+        "url": "https://t.co/2rQsBuBVV6",
+        "username": "iYungblogger",
+        "verified": true
+      }
+    ]
+  }
+}

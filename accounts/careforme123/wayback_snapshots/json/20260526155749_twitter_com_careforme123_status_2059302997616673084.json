@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059295299181646276",
+    "created_at": "2026-05-26T15:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059302997616673084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "975993224052404229",
+          "start": 0,
+          "username": "php_martin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059302997616673084",
+    "in_reply_to_user_id": "975993224052404229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059295299181646276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@php_martin 爱莫能助"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059295292806324224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQWKH9a4AANlJW.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059295299181646276",
+        "created_at": "2026-05-26T15:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059302997616673084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "975993224052404229",
+              "start": 0,
+              "username": "php_martin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059302997616673084",
+        "in_reply_to_user_id": "975993224052404229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059295299181646276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@php_martin 爱莫能助"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059295292806324224"
+          ]
+        },
+        "author_id": "975993224052404229",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059295299181646276",
+        "created_at": "2026-05-26T15:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059295299181646276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKEZb0drMM",
+              "end": 39,
+              "expanded_url": "https://x.com/php_martin/status/2059295299181646276/photo/1",
+              "media_key": "3_2059295292806324224",
+              "start": 16,
+              "url": "https://t.co/kKEZb0drMM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059295299181646276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这…长长久久？又差一个你～☝️ https://t.co/kKEZb0drMM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人🚸，现居日本大阪，爱党爱国🇨🇳，常来宛平南路600号🏥，曾因偷吃桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 740,
+          "like_count": 6387,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 2574
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-20T07:11:32.000Z",
+        "description": "AI Coding Workflow 探索者｜React / Next.js 前端工程师\n长期研究 Cursor / Codex / Claude Code 提效体系\n前 Web3 交易所工程师｜独立开发者\n专注 Agent 自动化、工程化效率与 AI 内容工作流\n撸铁 / 露营 / 钓鱼 / 皮划艇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/imartinstudio",
+                "end": 23,
+                "expanded_url": "https://github.com/imartinstudio",
+                "start": 0,
+                "url": "https://t.co/e5840pSai2"
+              }
+            ]
+          }
+        },
+        "id": "975993224052404229",
+        "name": "Martin",
+        "pinned_tweet_id": "2055941207772340278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054477793799585792/0fiAtQsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 778,
+          "like_count": 403,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/e5840pSai2",
+        "username": "php_martin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071962505857900544"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2071962573092913215",
+    "created_at": "2026-06-30T14:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071962573092913215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e8eJ0mTFQa",
+          "end": 178,
+          "expanded_url": "https://x.com/careforme123/status/2071962573092913215/photo/1",
+          "media_key": "3_2071962505857900544",
+          "start": 155,
+          "url": "https://t.co/e8eJ0mTFQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071962573092913215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "别再沉迷于宏大叙事了！\n\n什么？中国全年GDP突破140万亿元人民币？\n\n好，我告诉你，人均GDP是10万元，然而人均可支配收入中位数，只有3.6万元，也就是月薪3000！\n\n你创造10万元的财富，只拿到了3.6万元！钱哪去了？都交给国家和企业搞宏大叙事了！\n\n什么？中国高铁里程突破4.5万公里，傲视全球？\n\n中国的城投债已经突破60万亿了！加上地方政府法定债务，地方政府已经欠了110万亿！这些钱都是你，我，他来还！我们每个人头上都有8万元债务\n\n什么？中国新能源汽车产销量连续多年全球第一？\n\n你知道国产电车的企业的加班，降薪有多严重吗？你知道他们都在996吗？车企打价格战才拿得下销量，而这些钱都是从工人身上扣的！\n\n......醒醒！\n\n你已经被消解了！你在宏大叙事的地位，只是一颗螺丝钉，你要是有不同的形状，你在这个社会看来就毫无用处！问问你自己吧，你真的愿意牺牲自己的一切，来换取一些你自己永远享受不了的伟大吗？\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别再沉迷于宏大叙事了！\n\n什么？中国全年GDP突破140万亿元人民币？\n\n好，我告诉你，人均GDP是10万元，然而人均可支配收入中位数，只有3.6万元，也就是月薪3000！\n\n你创造10万元的财富，只拿到了3.6万元！钱哪去了？都交给国家和企业搞宏大叙事了！\n\n什么？中国高铁里程突破4.5万公里，傲视全球？ https://t.co/e8eJ0mTFQa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_2071962505857900544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEW692WoAAfGOD.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071962505857900544"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2071962573092913215",
+        "created_at": "2026-06-30T14:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071962573092913215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8eJ0mTFQa",
+              "end": 178,
+              "expanded_url": "https://x.com/careforme123/status/2071962573092913215/photo/1",
+              "media_key": "3_2071962505857900544",
+              "start": 155,
+              "url": "https://t.co/e8eJ0mTFQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071962573092913215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别再沉迷于宏大叙事了！\n\n什么？中国全年GDP突破140万亿元人民币？\n\n好，我告诉你，人均GDP是10万元，然而人均可支配收入中位数，只有3.6万元，也就是月薪3000！\n\n你创造10万元的财富，只拿到了3.6万元！钱哪去了？都交给国家和企业搞宏大叙事了！\n\n什么？中国高铁里程突破4.5万公里，傲视全球？\n\n中国的城投债已经突破60万亿了！加上地方政府法定债务，地方政府已经欠了110万亿！这些钱都是你，我，他来还！我们每个人头上都有8万元债务\n\n什么？中国新能源汽车产销量连续多年全球第一？\n\n你知道国产电车的企业的加班，降薪有多严重吗？你知道他们都在996吗？车企打价格战才拿得下销量，而这些钱都是从工人身上扣的！\n\n......醒醒！\n\n你已经被消解了！你在宏大叙事的地位，只是一颗螺丝钉，你要是有不同的形状，你在这个社会看来就毫无用处！问问你自己吧，你真的愿意牺牲自己的一切，来换取一些你自己永远享受不了的伟大吗？\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别再沉迷于宏大叙事了！\n\n什么？中国全年GDP突破140万亿元人民币？\n\n好，我告诉你，人均GDP是10万元，然而人均可支配收入中位数，只有3.6万元，也就是月薪3000！\n\n你创造10万元的财富，只拿到了3.6万元！钱哪去了？都交给国家和企业搞宏大叙事了！\n\n什么？中国高铁里程突破4.5万公里，傲视全球？ https://t.co/e8eJ0mTFQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 789,
+          "like_count": 7705,
+          "listed_count": 8,
+          "media_count": 770,
+          "tweet_count": 3046
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

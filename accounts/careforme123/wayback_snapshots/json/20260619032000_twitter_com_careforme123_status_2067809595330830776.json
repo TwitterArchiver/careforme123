@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067641925826678784",
+        "3_2067642431420637184"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067809595330830776",
+    "created_at": "2026-06-19T03:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067809595330830776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tk1jMnBdWr",
+          "end": 124,
+          "expanded_url": "https://x.com/careforme123/status/2067809595330830776/photo/1",
+          "media_key": "3_2067641925826678784",
+          "start": 101,
+          "url": "https://t.co/Tk1jMnBdWr"
+        },
+        {
+          "display_url": "pic.x.com/Tk1jMnBdWr",
+          "end": 124,
+          "expanded_url": "https://x.com/careforme123/status/2067809595330830776/photo/1",
+          "media_key": "3_2067642431420637184",
+          "start": 101,
+          "url": "https://t.co/Tk1jMnBdWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067809595330830776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冷知识:梅西给刘晓波送过签名照\n\n2008年8月，阿根廷国家足球队参加北京奥运会时，梅西在一张自己的照片上亲笔签名，并写上了对刘晓波的祝福，通过中间人赠与刘晓波\n\n据称，“这张签名照让刘晓波非常感动” https://t.co/Tk1jMnBdWr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 895,
+        "media_key": "3_2067641925826678784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG9YG-akAA6_ii.jpg",
+        "width": 800
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2067642431420637184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG91idaIAAbSaF.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067641925826678784",
+            "3_2067642431420637184"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067809595330830776",
+        "created_at": "2026-06-19T03:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067809595330830776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tk1jMnBdWr",
+              "end": 124,
+              "expanded_url": "https://x.com/careforme123/status/2067809595330830776/photo/1",
+              "media_key": "3_2067641925826678784",
+              "start": 101,
+              "url": "https://t.co/Tk1jMnBdWr"
+            },
+            {
+              "display_url": "pic.x.com/Tk1jMnBdWr",
+              "end": 124,
+              "expanded_url": "https://x.com/careforme123/status/2067809595330830776/photo/1",
+              "media_key": "3_2067642431420637184",
+              "start": 101,
+              "url": "https://t.co/Tk1jMnBdWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067809595330830776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识:梅西给刘晓波送过签名照\n\n2008年8月，阿根廷国家足球队参加北京奥运会时，梅西在一张自己的照片上亲笔签名，并写上了对刘晓波的祝福，通过中间人赠与刘晓波\n\n据称，“这张签名照让刘晓波非常感动” https://t.co/Tk1jMnBdWr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 778,
+          "like_count": 7388,
+          "listed_count": 7,
+          "media_count": 741,
+          "tweet_count": 2936
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

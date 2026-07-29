@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2079168842719510563",
+    "created_at": "2026-07-21T14:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079574846695182386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1885714877563674624",
+          "start": 0,
+          "username": "CTRGSHS"
+        },
+        {
+          "end": 18,
+          "id": "1929588881298522112",
+          "start": 9,
+          "username": "deng0750"
+        },
+        {
+          "end": 30,
+          "id": "836145504299864064",
+          "start": 19,
+          "username": "88tianyong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079574846695182386",
+    "in_reply_to_user_id": "1885714877563674624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079569596999426185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CTRGSHS @deng0750 @88tianyong 美国没人歧视快递员和刷盘子的，他们收入也完全够用，别把国内的歧视代入了，😅😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2079168842719510563",
+        "created_at": "2026-07-21T14:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079574846695182386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1885714877563674624",
+              "start": 0,
+              "username": "CTRGSHS"
+            },
+            {
+              "end": 18,
+              "id": "1929588881298522112",
+              "start": 9,
+              "username": "deng0750"
+            },
+            {
+              "end": 30,
+              "id": "836145504299864064",
+              "start": 19,
+              "username": "88tianyong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079574846695182386",
+        "in_reply_to_user_id": "1885714877563674624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079569596999426185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CTRGSHS @deng0750 @88tianyong 美国没人歧视快递员和刷盘子的，他们收入也完全够用，别把国内的歧视代入了，😅😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885714877563674624",
+        "conversation_id": "2079168842719510563",
+        "created_at": "2026-07-21T14:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079569596999426185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929588881298522112",
+              "start": 0,
+              "username": "deng0750"
+            },
+            {
+              "end": 21,
+              "id": "836145504299864064",
+              "start": 10,
+              "username": "88tianyong"
+            },
+            {
+              "end": 35,
+              "id": "1813561571941183488",
+              "start": 22,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079569596999426185",
+        "in_reply_to_user_id": "1929588881298522112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079497281238176032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deng0750 @88tianyong @careforme123 想去美国的中国人，要么以为美国遍地是黄金，要么可以零元购。\n\n结果去了一看，只能涮盘子，送快递。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2702,
+          "following_count": 793,
+          "like_count": 7832,
+          "listed_count": 8,
+          "media_count": 813,
+          "tweet_count": 3136
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T15:41:16.000Z",
+        "description": "兼听则明，任何人，关注即回关。",
+        "id": "1885714877563674624",
+        "name": "通宕苏蜀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891766279973027840/FdJqGG8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 2392,
+          "like_count": 330,
+          "listed_count": 9,
+          "media_count": 1310,
+          "tweet_count": 9603
+        },
+        "url": "",
+        "username": "CTRGSHS",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T17:29:04.000Z",
+        "description": "在国内进厂打过螺丝\n做过十年厨师\n开过餐馆\n跑过美团\n45岁开始润荷兰",
+        "id": "1929588881298522112",
+        "location": "Amsterdam, The Netherlands",
+        "name": "两个儿子的父亲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058297246366470144/XlVoPgVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 1422,
+          "like_count": 2687,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 3541
+        },
+        "url": "",
+        "username": "deng0750",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-27T09:26:37.000Z",
+        "description": "心中有佛我便是魔；心中有魔我既为_佛",
+        "id": "836145504299864064",
+        "name": "HTS1956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1279594180218630149/ySZ3HG0B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 432,
+          "like_count": 14570,
+          "listed_count": 7,
+          "media_count": 2836,
+          "tweet_count": 12306
+        },
+        "url": "",
+        "username": "88tianyong",
+        "verified": false
+      }
+    ]
+  }
+}

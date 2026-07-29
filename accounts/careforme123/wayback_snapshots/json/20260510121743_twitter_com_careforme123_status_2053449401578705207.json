@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053449393253367808"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053449401578705207",
+    "created_at": "2026-05-10T12:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053449401578705207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zQSgShHuJm",
+          "end": 43,
+          "expanded_url": "https://x.com/careforme123/status/2053449401578705207/photo/1",
+          "media_key": "3_2053449393253367808",
+          "start": 20,
+          "url": "https://t.co/zQSgShHuJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053449401578705207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有人想让maybe小姐当妈妈的的？ https://t.co/zQSgShHuJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053449393253367808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9RV_EbwAAFJnc.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053449393253367808"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053449401578705207",
+        "created_at": "2026-05-10T12:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053449401578705207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQSgShHuJm",
+              "end": 43,
+              "expanded_url": "https://x.com/careforme123/status/2053449401578705207/photo/1",
+              "media_key": "3_2053449393253367808",
+              "start": 20,
+              "url": "https://t.co/zQSgShHuJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053449401578705207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想让maybe小姐当妈妈的的？ https://t.co/zQSgShHuJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 492,
+          "like_count": 5170,
+          "listed_count": 5,
+          "media_count": 571,
+          "tweet_count": 2108
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

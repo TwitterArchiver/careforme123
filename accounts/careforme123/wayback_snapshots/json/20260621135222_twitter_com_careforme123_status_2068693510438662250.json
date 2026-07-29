@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068693497897705472"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068678496281625056",
+    "created_at": "2026-06-21T13:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068693510438662250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662293107738640384",
+          "start": 0,
+          "username": "SHUGE0731"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NVOTmWWlnX",
+          "end": 34,
+          "expanded_url": "https://x.com/careforme123/status/2068693510438662250/photo/1",
+          "media_key": "3_2068693497897705472",
+          "start": 11,
+          "url": "https://t.co/NVOTmWWlnX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068693510438662250",
+    "in_reply_to_user_id": "1662293107738640384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068678496281625056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHUGE0731 https://t.co/NVOTmWWlnX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2068693497897705472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV5xqNaYAA3Ego.jpg",
+        "width": 875
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2068678468393635840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVsG08aEAAeI7c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068693497897705472"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068678496281625056",
+        "created_at": "2026-06-21T13:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068693510438662250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVOTmWWlnX",
+              "end": 34,
+              "expanded_url": "https://x.com/careforme123/status/2068693510438662250/photo/1",
+              "media_key": "3_2068693497897705472",
+              "start": 11,
+              "url": "https://t.co/NVOTmWWlnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068693510438662250",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068678496281625056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 https://t.co/NVOTmWWlnX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068678468393635840"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2068678496281625056",
+        "created_at": "2026-06-21T12:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068678496281625056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YP6XFW82q",
+              "end": 39,
+              "expanded_url": "https://x.com/SHUGE0731/status/2068678496281625056/photo/1",
+              "media_key": "3_2068678468393635840",
+              "start": 16,
+              "url": "https://t.co/0YP6XFW82q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068678496281625056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去逛展发现了一顶超级巫女的帽子 https://t.co/0YP6XFW82q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 788,
+          "like_count": 7483,
+          "listed_count": 6,
+          "media_count": 746,
+          "tweet_count": 2962
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 1169,
+          "like_count": 32072,
+          "listed_count": 4,
+          "media_count": 711,
+          "tweet_count": 10862
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

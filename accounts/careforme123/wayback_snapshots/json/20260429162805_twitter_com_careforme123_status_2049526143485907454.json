@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049526140164009984"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049526143485907454",
+    "created_at": "2026-04-29T16:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049526143485907454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kEug1h463G",
+          "end": 36,
+          "expanded_url": "https://x.com/careforme123/status/2049526143485907454/photo/1",
+          "media_key": "3_2049526140164009984",
+          "start": 13,
+          "url": "https://t.co/kEug1h463G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049526143485907454",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要就寝了，大家晚安呀🥰 https://t.co/kEug1h463G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2049526140164009984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFhKmZacAA7w4Y.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049526140164009984"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049526143485907454",
+        "created_at": "2026-04-29T16:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049526143485907454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEug1h463G",
+              "end": 36,
+              "expanded_url": "https://x.com/careforme123/status/2049526143485907454/photo/1",
+              "media_key": "3_2049526140164009984",
+              "start": 13,
+              "url": "https://t.co/kEug1h463G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049526143485907454",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要就寝了，大家晚安呀🥰 https://t.co/kEug1h463G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049421091823829221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 340,
+          "like_count": 4470,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 1836
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

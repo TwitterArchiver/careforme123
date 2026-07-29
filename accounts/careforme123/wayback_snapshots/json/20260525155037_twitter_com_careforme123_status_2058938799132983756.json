@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058938799132983756",
+    "created_at": "2026-05-25T15:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058938799132983756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2058924967451087008",
+          "start": 19,
+          "url": "https://t.co/OgxlERgBaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058938799132983756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058924967451087008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱因斯坦需要花费十年才能理解这个图片 https://t.co/OgxlERgBaV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_2058924964561162241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLFWLvaEAEEULo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058938799132983756",
+        "created_at": "2026-05-25T15:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058938799132983756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2058924967451087008",
+              "start": 19,
+              "url": "https://t.co/OgxlERgBaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058938799132983756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058924967451087008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱因斯坦需要花费十年才能理解这个图片 https://t.co/OgxlERgBaV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058924964561162241"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2058924967451087008",
+        "created_at": "2026-05-25T14:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058924967451087008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8b5Jt5FTJv",
+              "end": 39,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2058924967451087008/photo/1",
+              "media_key": "3_2058924964561162241",
+              "start": 16,
+              "url": "https://t.co/8b5Jt5FTJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058924967451087008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小同志 這問題就不是解決了嗎？ https://t.co/8b5Jt5FTJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058489714726846617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1841,
+          "following_count": 731,
+          "like_count": 6307,
+          "listed_count": 6,
+          "media_count": 657,
+          "tweet_count": 2546
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 353,
+          "like_count": 12246,
+          "listed_count": 4,
+          "media_count": 828,
+          "tweet_count": 3974
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

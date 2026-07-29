@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050940777316946048",
+    "created_at": "2026-05-03T14:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050949753392017846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049790092236001280",
+          "start": 0,
+          "username": "Bairizefeibai7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050949753392017846",
+    "in_reply_to_user_id": "2049790092236001280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050940777316946048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bairizefeibai7 我祖祖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2050940771482697728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZnw-uXgAAUg59.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050940777316946048",
+        "created_at": "2026-05-03T14:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050949753392017846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049790092236001280",
+              "start": 0,
+              "username": "Bairizefeibai7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050949753392017846",
+        "in_reply_to_user_id": "2049790092236001280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050940777316946048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bairizefeibai7 我祖祖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050940771482697728"
+          ]
+        },
+        "author_id": "2049790092236001280",
+        "conversation_id": "2050940777316946048",
+        "created_at": "2026-05-03T14:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050940777316946048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Zqvhpf5AN",
+              "end": 169,
+              "expanded_url": "https://x.com/Bairizefeibai7/status/2050940777316946048/photo/1",
+              "media_key": "3_2050940771482697728",
+              "start": 146,
+              "url": "https://t.co/3Zqvhpf5AN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050940777316946048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟白皮平聊童年，本包蜜童年唯一的美好回忆来自我奶奶\n她会趁我生物爹不在家偷偷给我买好吃的，偷偷塞给我零花钱。小时候练琴，寒暑假每天4～5小时，我爹出门之后奶奶会说，别练了，看会儿电视吧\n亲戚都说我长得跟我奶奶很像，我奶奶是标准的江南美女，生于1921年，逝于2022年，让恁国圣上放毒害死了 https://t.co/3Zqvhpf5AN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 394,
+          "like_count": 4696,
+          "listed_count": 5,
+          "media_count": 529,
+          "tweet_count": 1939
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-30T09:57:45.000Z",
+        "description": "我还是那个聪明、善良、温柔、贤惠、漂亮、H罩杯、爱做饭的包蜜",
+        "id": "2049790092236001280",
+        "location": "以色列",
+        "name": "百日则肥白7🇮🇱🇺🇸",
+        "pinned_tweet_id": "2049793278069940624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050888410064474112/N8P9toke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 31,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 294
+        },
+        "username": "Bairizefeibai7",
+        "verified": false
+      }
+    ]
+  }
+}

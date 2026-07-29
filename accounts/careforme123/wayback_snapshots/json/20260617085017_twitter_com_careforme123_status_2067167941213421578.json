@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067167913275203584"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067167941213421578",
+    "created_at": "2026-06-17T08:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067167941213421578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/59w8cT2T2N",
+          "end": 36,
+          "expanded_url": "https://x.com/careforme123/status/2067167941213421578/video/1",
+          "media_key": "13_2067167913275203584",
+          "start": 13,
+          "url": "https://t.co/59w8cT2T2N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067167941213421578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我见过最美的亚洲女孩 https://t.co/59w8cT2T2N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6640,
+        "height": 848,
+        "media_key": "13_2067167913275203584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067167913275203584/img/wcGEm6lOX1MCMlLf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067167913275203584/vid/avc1/320x584/1zI-O7ULXjN3CINJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067167913275203584/vid/avc1/464x848/B2XFXGpFRHKibWrL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067167913275203584/pl/PbdghMZwrkgtxDjA.m3u8"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067167913275203584"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067167941213421578",
+        "created_at": "2026-06-17T08:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067167941213421578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/59w8cT2T2N",
+              "end": 36,
+              "expanded_url": "https://x.com/careforme123/status/2067167941213421578/video/1",
+              "media_key": "13_2067167913275203584",
+              "start": 13,
+              "url": "https://t.co/59w8cT2T2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067167941213421578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我见过最美的亚洲女孩 https://t.co/59w8cT2T2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 777,
+          "like_count": 7289,
+          "listed_count": 6,
+          "media_count": 736,
+          "tweet_count": 2904
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

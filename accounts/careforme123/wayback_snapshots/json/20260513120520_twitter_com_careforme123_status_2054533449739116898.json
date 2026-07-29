@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054533436581515264",
+        "3_2054533442688454656"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2054532859948638258",
+    "created_at": "2026-05-13T12:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054533449739116898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/umN7NvwpGq",
+          "end": 50,
+          "expanded_url": "https://x.com/careforme123/status/2054533449739116898/photo/1",
+          "media_key": "3_2054533436581515264",
+          "start": 27,
+          "url": "https://t.co/umN7NvwpGq"
+        },
+        {
+          "display_url": "pic.x.com/umN7NvwpGq",
+          "end": 50,
+          "expanded_url": "https://x.com/careforme123/status/2054533449739116898/photo/1",
+          "media_key": "3_2054533442688454656",
+          "start": 27,
+          "url": "https://t.co/umN7NvwpGq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054533449739116898",
+    "in_reply_to_user_id": "1813561571941183488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054532859948638258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "附图：王宇律师与丈夫合影，律所主任周世锋审判现场画面 https://t.co/umN7NvwpGq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2054533436581515264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMrRnKakAA48R3.jpg",
+        "width": 600
+      },
+      {
+        "height": 810,
+        "media_key": "3_2054533442688454656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMrR96bEAA68vp.jpg",
+        "width": 1440
+      },
+      {
+        "height": 674,
+        "media_key": "3_2054532772241551361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMqq8TbMAEam30.jpg",
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054533436581515264",
+            "3_2054533442688454656"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054532859948638258",
+        "created_at": "2026-05-13T12:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054533449739116898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umN7NvwpGq",
+              "end": 50,
+              "expanded_url": "https://x.com/careforme123/status/2054533449739116898/photo/1",
+              "media_key": "3_2054533436581515264",
+              "start": 27,
+              "url": "https://t.co/umN7NvwpGq"
+            },
+            {
+              "display_url": "pic.x.com/umN7NvwpGq",
+              "end": 50,
+              "expanded_url": "https://x.com/careforme123/status/2054533449739116898/photo/1",
+              "media_key": "3_2054533442688454656",
+              "start": 27,
+              "url": "https://t.co/umN7NvwpGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054533449739116898",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054532859948638258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "附图：王宇律师与丈夫合影，律所主任周世锋审判现场画面 https://t.co/umN7NvwpGq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054532772241551361"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054532859948638258",
+        "created_at": "2026-05-13T12:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054532859948638258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMKY6kZWML",
+              "end": 154,
+              "expanded_url": "https://x.com/careforme123/status/2054532859948638258/photo/1",
+              "media_key": "3_2054532772241551361",
+              "start": 131,
+              "url": "https://t.co/HMKY6kZWML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054532859948638258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今日回顾：\n\n轰动世界的律师大抓捕：709案\n\n行动最初始于维权前哨的北京锋锐律师事务所，他们代理过大量极度敏感的案件（如伊力哈木案），因在法庭上绝不妥协，被称为“死磕派律所”。2015年7月9日凌晨，律所核心，被誉为女战神的维权律师王宇在发送求救短信后被带走\n\n第二天锋锐所主任周世锋、律师王全璋、谢远东，行政助理刘四新、以及外界的李和平律师等相继失踪或被带走。同时人民日报等官媒同步报道造势，将锋锐律师事务所定性为“涉嫌犯罪集团”，称其通过“炒作热点事件”和“在法院门口拉横幅”来“扰乱社会秩序”\n\n一场席卷全国的大抓捕开始了\n\n我们先说说王宇，2016年8月，在被秘密关押一年多后，王宇出现在凤凰卫视和东方卫视的画面中。她在镜头前显得憔悴，并公开表示“不接受国外的人权奖项”，后来证实，这种“认罪”是因为当局早就在抓捕当日找到了他的儿子，2020年，北京司法局正式吊销了她的律师执业证，理由是她在代理案件时的言论：她曾公开指出中国现行法律和正式文件中并没有明确将一些法轮功相关团体定性为“邪教”。，但司法部门认为这种辩护是在“否定案件性质”、“发表不当言论”，并指责其言论造成了“恶劣的社会影响”。2021年： 她获得了美国国务院颁发的国际胆识女性奖\n\n继续讲吧，抓捕核心人物后，行动迅速扩展到全国各地，全国23个省份的维权律师、律所人员和人权活动人士遭到当地警方的传唤、约谈或短期扣押。 截至2015年8月底，超过280人受到影响\n\n2016年初开始，包括王宇、翟岩民在内的多名当事人出现在电视节目中“认罪”，并公开谴责同僚受境外势力利用。这种未经审判先定罪的做法引发了国际司法界的强烈抨击。\n\n最后的审判：王全璋\n\n王全璋被外界城为“最后一名受审的709律师”，因为他曾失踪长达1200多天，且是极少数始终拒绝认罪、拒绝官方指派律师的维权律师。与其他被捕者不同，王全璋在狱中经历了高强度的审讯和酷刑，但据报导他从未签署任何“认罪书”。​判决指称他曾于2009年与瑞典活动人士彼得·达林等人共同在香港注册成立公司，以中国维权紧急援助组等名义，在境内开展所谓“赤脚律师”培训，多次在网上发表文章“抹黑中国司法机关形象”。2019年1月，天津法院以“颠覆国家政权罪”判处其有期徒刑四年零六个月。\n\n官方将这些律师的行为逻辑概括为：接受境外资助> 代理敏感案件> 舆论炒作-> 施压司法机关 -> 破坏国家安全\n\n审判主要集中在2016年至2017年。由于部分涉案人直到2020年才服刑完毕出狱，且相关人士的执业权利受限等影响持续至今，而例如余文生律师等人，在第一段刑期结束后，近期再次因声援活动被卷入司法程序。该案在社会意义上被认为跨度长达数年，律师们在释放后多被吊销营业执照，该案直接导致了后续几年内，中国律师行业普遍陷入沉默，敢于代理敏感案件的律所几乎绝迹。\n\n2017年6月15日，香港中国维权律师关注组、公民力量等12个人权组织发布通告，将2015年7月9日定为首个“中国人权律师节”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日回顾：\n\n轰动世界的律师大抓捕：709案\n\n行动最初始于维权前哨的北京锋锐律师事务所，他们代理过大量极度敏感的案件（如伊力哈木案），因在法庭上绝不妥协，被称为“死磕派律所”。2015年7月9日凌晨，律所核心，被誉为女战神的维权律师王宇在发送求救短信后被带走 https://t.co/HMKY6kZWML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 542,
+          "like_count": 5437,
+          "listed_count": 5,
+          "media_count": 602,
+          "tweet_count": 2225
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

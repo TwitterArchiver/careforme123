@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058115660438208513"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058115866135306260",
+    "created_at": "2026-05-23T09:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058115866135306260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lme97Tt2VZ",
+          "end": 122,
+          "expanded_url": "https://x.com/careforme123/status/2058115866135306260/video/1",
+          "media_key": "13_2058115660438208513",
+          "start": 99,
+          "url": "https://t.co/lme97Tt2VZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058115866135306260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "汪洋：必须破除人民幸福是党和政府恩赐的错误认识\n\n在2012年中共十八大前夕，汪洋在广东发起的这场思想解放运动，被视为是对现代国家治理模式的一种探索。然而，近年来“感恩教育”的叙事已经重新成为主流 https://t.co/lme97Tt2VZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20805,
+        "height": 1280,
+        "media_key": "13_2058115660438208513",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058115660438208513/img/3OPdPE7OL0oqLJMr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058115660438208513/vid/avc1/320x568/saH7k1oCqJR2iOQC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058115660438208513/vid/avc1/480x852/k_KBY-hf4YF5ugEg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058115660438208513/vid/avc1/720x1280/YohKWW6dpBMJsqCb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058115660438208513/pl/UO_W6VDXY2Bt6dmN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058115660438208513"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058115866135306260",
+        "created_at": "2026-05-23T09:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058115866135306260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lme97Tt2VZ",
+              "end": 122,
+              "expanded_url": "https://x.com/careforme123/status/2058115866135306260/video/1",
+              "media_key": "13_2058115660438208513",
+              "start": 99,
+              "url": "https://t.co/lme97Tt2VZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058115866135306260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汪洋：必须破除人民幸福是党和政府恩赐的错误认识\n\n在2012年中共十八大前夕，汪洋在广东发起的这场思想解放运动，被视为是对现代国家治理模式的一种探索。然而，近年来“感恩教育”的叙事已经重新成为主流 https://t.co/lme97Tt2VZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 712,
+          "like_count": 6053,
+          "listed_count": 6,
+          "media_count": 649,
+          "tweet_count": 2453
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

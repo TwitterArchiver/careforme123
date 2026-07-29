@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2049826900952887676",
+    "created_at": "2026-05-01T09:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050141770235744512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1687537830057148430",
+          "start": 0,
+          "username": "0xzub"
+        },
+        {
+          "end": 16,
+          "id": "1612481931853299712",
+          "start": 7,
+          "username": "sandyXBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050141770235744512",
+    "in_reply_to_user_id": "1687537830057148430",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050120681200001450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xzub @sandyXBT hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 122,
+        "media_key": "16_2050120665890447360",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHN94jUWYAArMOB.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHN94jUWYAArMOB.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049826900952887676",
+        "created_at": "2026-05-01T09:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050141770235744512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1687537830057148430",
+              "start": 0,
+              "username": "0xzub"
+            },
+            {
+              "end": 16,
+              "id": "1612481931853299712",
+              "start": 7,
+              "username": "sandyXBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050141770235744512",
+        "in_reply_to_user_id": "1687537830057148430",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050120681200001450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xzub @sandyXBT hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2050120665890447360"
+          ]
+        },
+        "author_id": "1687537830057148430",
+        "conversation_id": "2049826900952887676",
+        "created_at": "2026-05-01T07:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050120681200001450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1612481931853299712",
+              "start": 0,
+              "username": "sandyXBT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5pRgYkLWE",
+              "end": 55,
+              "expanded_url": "https://x.com/0xzub/status/2050120681200001450/photo/1",
+              "media_key": "16_2050120665890447360",
+              "start": 32,
+              "url": "https://t.co/Q5pRgYkLWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050120681200001450",
+        "in_reply_to_user_id": "1612481931853299712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049826900952887676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyXBT Seriously 😳 Hiii lo 💗 https://t.co/Q5pRgYkLWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049645815967473705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 352,
+          "like_count": 4540,
+          "listed_count": 5,
+          "media_count": 515,
+          "tweet_count": 1868
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T18:56:01.000Z",
+        "description": "Web3 CA | Full-Stack Dev • Blockchain • ML • CybrSec | Data & Finance Analyst | @WalletConnect | Strategy Partner | Main account @web3tradinghub_ | Open to role",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "WalletConnect"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "web3tradinghub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portfolio.web3tradinghub.com",
+                "end": 23,
+                "expanded_url": "https://portfolio.web3tradinghub.com",
+                "start": 0,
+                "url": "https://t.co/KQDS0O2TgD"
+              }
+            ]
+          }
+        },
+        "id": "1687537830057148430",
+        "location": "Web3",
+        "name": "0xZubair",
+        "pinned_tweet_id": "2048427257161797741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050094981218795521/8Gv1HUEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 850,
+          "like_count": 3634,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/KQDS0O2TgD",
+        "username": "0xzub",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-09T16:10:33.000Z",
+        "description": "♥️💚♥️",
+        "id": "1612481931853299712",
+        "location": "Web3",
+        "name": "Sandy🧸",
+        "pinned_tweet_id": "2050095117197881722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971956554535784449/INiC6gP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59099,
+          "following_count": 5231,
+          "like_count": 10416,
+          "listed_count": 187,
+          "media_count": 3516,
+          "tweet_count": 10903
+        },
+        "username": "sandyXBT",
+        "verified": true
+      }
+    ]
+  }
+}

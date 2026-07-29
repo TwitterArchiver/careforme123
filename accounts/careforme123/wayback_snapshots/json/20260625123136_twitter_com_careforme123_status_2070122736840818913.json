@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070122666191986688"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2069787150619648457",
+    "created_at": "2026-06-25T12:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070122736840818913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1483428151287955456",
+          "start": 0,
+          "username": "sophieylsh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YoYIOxxW5f",
+          "end": 42,
+          "expanded_url": "https://x.com/careforme123/status/2070122736840818913/photo/1",
+          "media_key": "3_2070122666191986688",
+          "start": 19,
+          "url": "https://t.co/YoYIOxxW5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070122736840818913",
+    "in_reply_to_user_id": "1483428151287955456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070020553461858345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophieylsh 嗯，你说得对 https://t.co/YoYIOxxW5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070122666191986688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqNmM_boAA0_ja.jpg",
+        "width": 471
+      },
+      {
+        "height": 296,
+        "media_key": "3_2070020461795463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLowpH8b0AAPOuB.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070122666191986688"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2069787150619648457",
+        "created_at": "2026-06-25T12:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070122736840818913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1483428151287955456",
+              "start": 0,
+              "username": "sophieylsh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoYIOxxW5f",
+              "end": 42,
+              "expanded_url": "https://x.com/careforme123/status/2070122736840818913/photo/1",
+              "media_key": "3_2070122666191986688",
+              "start": 19,
+              "url": "https://t.co/YoYIOxxW5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070122736840818913",
+        "in_reply_to_user_id": "1483428151287955456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070020553461858345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophieylsh 嗯，你说得对 https://t.co/YoYIOxxW5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070020461795463168"
+          ]
+        },
+        "author_id": "1483428151287955456",
+        "conversation_id": "2069787150619648457",
+        "created_at": "2026-06-25T05:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070020553461858345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ae7ck7jAlw",
+              "end": 91,
+              "expanded_url": "https://x.com/sophieylsh/status/2070020553461858345/photo/1",
+              "media_key": "3_2070020461795463168",
+              "start": 68,
+              "url": "https://t.co/ae7ck7jAlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070020553461858345",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 531,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069787150619648457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 P图和AI篡改，都是可以信手掂来的事。实际上，央视13频道根本没有报道过。低反综合症的典型症状就是蠢+坏。 https://t.co/ae7ck7jAlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2322,
+          "following_count": 789,
+          "like_count": 7604,
+          "listed_count": 7,
+          "media_count": 759,
+          "tweet_count": 3012
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-18T13:17:26.000Z",
+        "description": "",
+        "id": "1483428151287955456",
+        "name": "苏菲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061483918399070208/CI2UJ67i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 62,
+          "like_count": 113,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "sophieylsh",
+        "verified": true
+      }
+    ]
+  }
+}

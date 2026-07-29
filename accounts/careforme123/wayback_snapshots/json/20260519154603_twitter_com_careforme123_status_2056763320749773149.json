@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056763309911576576"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056763320749773149",
+    "created_at": "2026-05-19T15:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056763320749773149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tg39vAhKPw",
+          "end": 44,
+          "expanded_url": "https://x.com/careforme123/status/2056763320749773149/photo/1",
+          "media_key": "3_2056763309911576576",
+          "start": 21,
+          "url": "https://t.co/Tg39vAhKPw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056763320749773149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手上绑橡皮筋，是少爷们这辈子吃过最大的苦 https://t.co/Tg39vAhKPw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2056763309911576576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsXVUpWEAAnTtz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056763309911576576"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056763320749773149",
+        "created_at": "2026-05-19T15:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056763320749773149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tg39vAhKPw",
+              "end": 44,
+              "expanded_url": "https://x.com/careforme123/status/2056763320749773149/photo/1",
+              "media_key": "3_2056763309911576576",
+              "start": 21,
+              "url": "https://t.co/Tg39vAhKPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056763320749773149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手上绑橡皮筋，是少爷们这辈子吃过最大的苦 https://t.co/Tg39vAhKPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 632,
+          "like_count": 5851,
+          "listed_count": 6,
+          "media_count": 636,
+          "tweet_count": 2387
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073256122509852672"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073256134186786883",
+    "created_at": "2026-07-04T04:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073256134186786883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JnNrLphFgH",
+          "end": 23,
+          "expanded_url": "https://x.com/careforme123/status/2073256134186786883/photo/1",
+          "media_key": "3_2073256122509852672",
+          "start": 0,
+          "url": "https://t.co/JnNrLphFgH"
+        },
+        {
+          "display_url": "x.com/bb00vv/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/bb00vv/status/2073245868258689442",
+          "start": 24,
+          "url": "https://t.co/DuHGtDc4Ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073256134186786883",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073245868258689442",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/JnNrLphFgH https://t.co/DuHGtDc4Ii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 263,
+        "media_key": "3_2073256122509852672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWvdXaagAAPRDa.png",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073256122509852672"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073256134186786883",
+        "created_at": "2026-07-04T04:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073256134186786883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnNrLphFgH",
+              "end": 23,
+              "expanded_url": "https://x.com/careforme123/status/2073256134186786883/photo/1",
+              "media_key": "3_2073256122509852672",
+              "start": 0,
+              "url": "https://t.co/JnNrLphFgH"
+            },
+            {
+              "display_url": "x.com/bb00vv/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/bb00vv/status/2073245868258689442",
+              "start": 24,
+              "url": "https://t.co/DuHGtDc4Ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073256134186786883",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073245868258689442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/JnNrLphFgH https://t.co/DuHGtDc4Ii"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "995308242",
+        "conversation_id": "2073245868258689442",
+        "created_at": "2026-07-04T03:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073245868258689442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/careforme123/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/careforme123/status/2073030935965323482",
+              "start": 13,
+              "url": "https://t.co/qxLDJ3Su4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073245868258689442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073030935965323482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是日本赤裸裸的种族歧视 https://t.co/qxLDJ3Su4X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 787,
+          "like_count": 7758,
+          "listed_count": 8,
+          "media_count": 784,
+          "tweet_count": 3076
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2012-12-07T15:44:42.000Z",
+        "description": "",
+        "id": "995308242",
+        "location": "Hubei",
+        "name": "太2真人",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 112,
+          "like_count": 1862,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "bb00vv",
+        "verified": false
+      }
+    ]
+  }
+}

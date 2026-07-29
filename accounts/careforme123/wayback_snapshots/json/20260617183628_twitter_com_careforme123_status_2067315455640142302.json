@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067298753367920710",
+    "created_at": "2026-06-17T18:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067315455640142302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795719520939905024",
+          "start": 0,
+          "username": "pyridine_lemon"
+        },
+        {
+          "end": 21,
+          "id": "1720665183188922368",
+          "start": 16,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067315455640142302",
+    "in_reply_to_user_id": "1795719520939905024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067298753367920710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyridine_lemon @grok 告诉这脱产傻子富士康流水线工人的时薪是多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067298753367920710",
+        "created_at": "2026-06-17T18:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067315455640142302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795719520939905024",
+              "start": 0,
+              "username": "pyridine_lemon"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067315455640142302",
+        "in_reply_to_user_id": "1795719520939905024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067298753367920710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyridine_lemon @grok 告诉这脱产傻子富士康流水线工人的时薪是多少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795719520939905024",
+        "conversation_id": "2067298753367920710",
+        "created_at": "2026-06-17T17:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067298753367920710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bixng858010/st…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/bixng858010/status/2067292965828215266",
+              "start": 96,
+              "url": "https://t.co/uR5mkqKQHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067298753367920710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067292965828215266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那求求你们不要复读“富士康血汗工厂”了\n\n秦晖老师的《血汗工厂论》写于21世纪初，已经不能用来描述现在的中国了\n\n还有，你知道富士康的时薪是30元吗？这么高的时薪，是哪门子的“血汗工厂”？😅 https://t.co/uR5mkqKQHi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 778,
+          "like_count": 7333,
+          "listed_count": 6,
+          "media_count": 739,
+          "tweet_count": 2923
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T07:31:55.000Z",
+        "description": "小平同志最忠实的粉丝，对团派有好感，对胡赵中立偏支持，喜欢李克强和汪洋\n\n社民：中立偏反对\n社自/自由主义：中立偏支持\n古典自由主义/新自由主义：支持\n威权资本主义：非常支持\n温和爱国者：支持\n\n逻辑实证主义/科学实证主义/改革开放/世俗化",
+        "id": "1795719520939905024",
+        "location": "CusetVoidAldehyde's heart",
+        "name": "Cuset Lemon🍥",
+        "pinned_tweet_id": "2055335671418753098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056956792282947584/fJ6_cQEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 42,
+          "like_count": 105,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "pyridine_lemon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8811920,
+          "following_count": 5,
+          "like_count": 106,
+          "listed_count": 7029,
+          "media_count": 9058279,
+          "tweet_count": 129194644
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

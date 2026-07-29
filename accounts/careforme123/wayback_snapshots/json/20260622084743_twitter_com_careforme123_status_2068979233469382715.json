@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068979198988103680"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068979233469382715",
+    "created_at": "2026-06-22T08:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068979233469382715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qfHG5dpS5f",
+          "end": 160,
+          "expanded_url": "https://x.com/careforme123/status/2068979233469382715/photo/1",
+          "media_key": "3_2068979198988103680",
+          "start": 137,
+          "url": "https://t.co/qfHG5dpS5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068979233469382715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "别再说什么境外势力了\n\n没有境外势力，SARS还会被广东隐瞒的更久！\n（外媒曝光蒋彦永医生的举报后，WHO对中国施加了巨大压力）\n\n没有境外势力，三鹿奶粉还会毒害更多中国小孩！\n（新西兰政府跳过石家庄直接警告了中国国务院）\n\n没有境外势力，河南癌症村，艾滋村还会死更多人！\n（国际环保组织与记者曝光）\n\n没有境外势力，P2P网贷的雷还会越埋越大！\n（国际评级机构揭露了中概股虚假资产）\n\n没有境外势力，工人还能在哪去找遵守劳动法，年薪十万的特斯拉工厂！\n\n没有境外势力，富士康才不会给工人两倍加班费！\n（苹果雇佣了国际独立审计机构定期检查）\n\n没有境外势力，王立军早就被薄熙来灭口了！\n（美国直接将王立军交给了北京）\n\n朝鲜就没有境外势力，看看那地方什么鬼样子！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别再说什么境外势力了\n\n没有境外势力，SARS还会被广东隐瞒的更久！\n（外媒曝光蒋彦永医生的举报后，WHO对中国施加了巨大压力）\n\n没有境外势力，三鹿奶粉还会毒害更多中国小孩！\n（新西兰政府跳过石家庄直接警告了中国国务院）\n\n没有境外势力，河南癌症村，艾滋村还会死更多人！ https://t.co/qfHG5dpS5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 417,
+        "media_key": "3_2068979198988103680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ9nptbsAAo5Am.jpg",
+        "width": 417
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068979198988103680"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068979233469382715",
+        "created_at": "2026-06-22T08:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068979233469382715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfHG5dpS5f",
+              "end": 160,
+              "expanded_url": "https://x.com/careforme123/status/2068979233469382715/photo/1",
+              "media_key": "3_2068979198988103680",
+              "start": 137,
+              "url": "https://t.co/qfHG5dpS5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068979233469382715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别再说什么境外势力了\n\n没有境外势力，SARS还会被广东隐瞒的更久！\n（外媒曝光蒋彦永医生的举报后，WHO对中国施加了巨大压力）\n\n没有境外势力，三鹿奶粉还会毒害更多中国小孩！\n（新西兰政府跳过石家庄直接警告了中国国务院）\n\n没有境外势力，河南癌症村，艾滋村还会死更多人！\n（国际环保组织与记者曝光）\n\n没有境外势力，P2P网贷的雷还会越埋越大！\n（国际评级机构揭露了中概股虚假资产）\n\n没有境外势力，工人还能在哪去找遵守劳动法，年薪十万的特斯拉工厂！\n\n没有境外势力，富士康才不会给工人两倍加班费！\n（苹果雇佣了国际独立审计机构定期检查）\n\n没有境外势力，王立军早就被薄熙来灭口了！\n（美国直接将王立军交给了北京）\n\n朝鲜就没有境外势力，看看那地方什么鬼样子！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别再说什么境外势力了\n\n没有境外势力，SARS还会被广东隐瞒的更久！\n（外媒曝光蒋彦永医生的举报后，WHO对中国施加了巨大压力）\n\n没有境外势力，三鹿奶粉还会毒害更多中国小孩！\n（新西兰政府跳过石家庄直接警告了中国国务院）\n\n没有境外势力，河南癌症村，艾滋村还会死更多人！ https://t.co/qfHG5dpS5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 785,
+          "like_count": 7524,
+          "listed_count": 6,
+          "media_count": 748,
+          "tweet_count": 2979
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

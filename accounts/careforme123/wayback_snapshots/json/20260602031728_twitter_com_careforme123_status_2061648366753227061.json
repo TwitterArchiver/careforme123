@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061648347211915264"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061648366753227061",
+    "created_at": "2026-06-02T03:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061648366753227061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cVIfwcJhMh",
+          "end": 170,
+          "expanded_url": "https://x.com/careforme123/status/2061648366753227061/photo/1",
+          "media_key": "3_2061648347211915264",
+          "start": 147,
+          "url": "https://t.co/cVIfwcJhMh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061648366753227061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "李文亮，一个没能阻止世纪悲剧的烈士\n\n2019年12月30日，眼科医生李文亮看到了一份来自武汉市中心医院的检测报告\n\n【检测结果】SARS \n【置信度】高\n\n他马上在武汉大学班级群里发了一条消息：“华南水果海鲜市场确诊了7例SARS”\n\n聊天截图被外传，出现在微博上。第二天，他被监察叫去谈话\n\n2020年1月1日，武汉市公安局发布了一条通报\n\n“一些网民在不经核实的情况下，在网络上发布、转发不实信息，造成不良社会影响。公安机关经调查核实，已传唤8名违法人员，并依法进行了处理。”\n\n这8人，都是传播了类似病毒爆发消息的医生，其中就包含李文亮\n\n1月3日，李文亮被叫到派出所，接受训诫\n\n1月8日，李文亮继续像往常一样接诊。当时官方的口径还是未见人传人，大家都没有做什么防护措施\n\n在这一天，李文亮感染了新冠，他随后住进了病房\n\n1月23日，武汉封城了，这个时候人们才想起，原来这个眼科医生传的谣言，是一声没能发挥作用的警告\n\n1月30日，在病床上的李文亮通过文字接受媒体采访，这个吹哨人成了舆论的焦点\n\n“一个健康的社会不应该只有一种声音。”他说\n\n2月6日晚上，李文亮心跳停止，确认死亡\n\n整个中文互联网疯狂了，悲痛、愤怒、口诛笔伐，无数中国人在网上为李文亮点了一根蜡烛，并声讨官方\n\n害死李文亮的，只是新冠吗？\n\n3月19日，官方通报调查结果：认定中南路派出所训诫不当，适用法律错误，执法程序不规范\n\n4月，李文亮被追认为烈士\n\n.....\n\n从1月1日警方公开通报查处八人，到1月20日钟南山公开承认“肯定有人传人”，中间整整隔了20天。\n\n这20天，是病毒在武汉社区进行静默扩散的黄金期，也是本可以用来做动员的窗口期\n\n大家肯定会和我有一样的想法：如果他的哨声能传到人们的耳朵里，武汉，乃至整个地球的世界线，会不会变动...."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "李文亮，一个没能阻止世纪悲剧的烈士\n\n2019年12月30日，眼科医生李文亮看到了一份来自武汉市中心医院的检测报告\n\n【检测结果】SARS \n【置信度】高\n\n他马上在武汉大学班级群里发了一条消息：“华南水果海鲜市场确诊了7例SARS”\n\n聊天截图被外传，出现在微博上。第二天，他被监察叫去谈话 https://t.co/cVIfwcJhMh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2061648347211915264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxyP6tWYAA-yoi.jpg",
+        "width": 865
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061648347211915264"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061648366753227061",
+        "created_at": "2026-06-02T03:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061648366753227061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cVIfwcJhMh",
+              "end": 170,
+              "expanded_url": "https://x.com/careforme123/status/2061648366753227061/photo/1",
+              "media_key": "3_2061648347211915264",
+              "start": 147,
+              "url": "https://t.co/cVIfwcJhMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061648366753227061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "李文亮，一个没能阻止世纪悲剧的烈士\n\n2019年12月30日，眼科医生李文亮看到了一份来自武汉市中心医院的检测报告\n\n【检测结果】SARS \n【置信度】高\n\n他马上在武汉大学班级群里发了一条消息：“华南水果海鲜市场确诊了7例SARS”\n\n聊天截图被外传，出现在微博上。第二天，他被监察叫去谈话\n\n2020年1月1日，武汉市公安局发布了一条通报\n\n“一些网民在不经核实的情况下，在网络上发布、转发不实信息，造成不良社会影响。公安机关经调查核实，已传唤8名违法人员，并依法进行了处理。”\n\n这8人，都是传播了类似病毒爆发消息的医生，其中就包含李文亮\n\n1月3日，李文亮被叫到派出所，接受训诫\n\n1月8日，李文亮继续像往常一样接诊。当时官方的口径还是未见人传人，大家都没有做什么防护措施\n\n在这一天，李文亮感染了新冠，他随后住进了病房\n\n1月23日，武汉封城了，这个时候人们才想起，原来这个眼科医生传的谣言，是一声没能发挥作用的警告\n\n1月30日，在病床上的李文亮通过文字接受媒体采访，这个吹哨人成了舆论的焦点\n\n“一个健康的社会不应该只有一种声音。”他说\n\n2月6日晚上，李文亮心跳停止，确认死亡\n\n整个中文互联网疯狂了，悲痛、愤怒、口诛笔伐，无数中国人在网上为李文亮点了一根蜡烛，并声讨官方\n\n害死李文亮的，只是新冠吗？\n\n3月19日，官方通报调查结果：认定中南路派出所训诫不当，适用法律错误，执法程序不规范\n\n4月，李文亮被追认为烈士\n\n.....\n\n从1月1日警方公开通报查处八人，到1月20日钟南山公开承认“肯定有人传人”，中间整整隔了20天。\n\n这20天，是病毒在武汉社区进行静默扩散的黄金期，也是本可以用来做动员的窗口期\n\n大家肯定会和我有一样的想法：如果他的哨声能传到人们的耳朵里，武汉，乃至整个地球的世界线，会不会变动...."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "李文亮，一个没能阻止世纪悲剧的烈士\n\n2019年12月30日，眼科医生李文亮看到了一份来自武汉市中心医院的检测报告\n\n【检测结果】SARS \n【置信度】高\n\n他马上在武汉大学班级群里发了一条消息：“华南水果海鲜市场确诊了7例SARS”\n\n聊天截图被外传，出现在微博上。第二天，他被监察叫去谈话 https://t.co/cVIfwcJhMh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 743,
+          "like_count": 6669,
+          "listed_count": 5,
+          "media_count": 684,
+          "tweet_count": 2682
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

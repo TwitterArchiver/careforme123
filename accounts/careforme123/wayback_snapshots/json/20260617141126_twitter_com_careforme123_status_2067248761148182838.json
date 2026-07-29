@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067240157439262974",
+    "created_at": "2026-06-17T14:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067248761148182838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059659704918310913",
+          "start": 0,
+          "username": "dokucs4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067248761148182838",
+    "in_reply_to_user_id": "2059659704918310913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067240157439262974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dokucs4 这是哪个的反串号？完美诠释了粉红智商👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067240157439262974",
+        "created_at": "2026-06-17T14:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067248761148182838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059659704918310913",
+              "start": 0,
+              "username": "dokucs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067248761148182838",
+        "in_reply_to_user_id": "2059659704918310913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067240157439262974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokucs4 这是哪个的反串号？完美诠释了粉红智商👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059659704918310913",
+        "conversation_id": "2067240157439262974",
+        "created_at": "2026-06-17T13:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067240157439262974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067240157439262974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们不觉得很可怕吗\n美国二战时不是三亿人吗\n过了将近100年还是三亿人\n每年还有那么多外来移民\n偷渡的，走线的\n美国本国生育率也不低\n按理说人口应该越来越多才对\n但是人口却一点没多\n多的人呢？\n变成高达被拆了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 777,
+          "like_count": 7298,
+          "listed_count": 6,
+          "media_count": 736,
+          "tweet_count": 2909
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T15:39:09.000Z",
+        "description": "在推特这种发言没门槛，造谣无底线的平台，到底还有多少傻子因为大侄子的一句话就去做美西方国家的走狗，在这点上，我为一部分国人感到悲哀",
+        "id": "2059659704918310913",
+        "location": "Poland",
+        "name": "紅星閃耀🇨🇳（愛国互fo）",
+        "pinned_tweet_id": "2066865319159726348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066201187922145281/mGNhbLPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 272,
+          "like_count": 327,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 253
+        },
+        "username": "dokucs4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060204908305883139",
+        "3_2060205098576347137"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060205165051801826",
+    "created_at": "2026-05-29T03:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060205165051801826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ss4eMAc236",
+          "end": 170,
+          "expanded_url": "https://x.com/careforme123/status/2060205165051801826/photo/1",
+          "media_key": "3_2060204908305883139",
+          "start": 147,
+          "url": "https://t.co/ss4eMAc236"
+        },
+        {
+          "display_url": "pic.x.com/ss4eMAc236",
+          "end": 170,
+          "expanded_url": "https://x.com/careforme123/status/2060205165051801826/photo/1",
+          "media_key": "3_2060205098576347137",
+          "start": 147,
+          "url": "https://t.co/ss4eMAc236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060205165051801826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "一只一百万粉丝的网红狗，边牧锄头，在主人干活时被河南八堡村村民偷走，两人把它扯到车上，用棉罩子盖住后迅速逃离\n\n等主人找到偷狗贼时，才知道狗已经被180元卖给狗肉贩子宰杀，村民还一拥而上，说：“一条狗而已，死了就死了，赔你200得了”\n\n警察上门后，小偷又说：“这不是俺偷的，这是俺路边捡的”\n\n对河南人的刻板印象又加深了..."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一只一百万粉丝的网红狗，边牧锄头，在主人干活时被河南八堡村村民偷走，两人把它扯到车上，用棉罩子盖住后迅速逃离\n\n等主人找到偷狗贼时，才知道狗已经被180元卖给狗肉贩子宰杀，村民还一拥而上，说：“一条狗而已，死了就死了，赔你200得了”\n\n警察上门后，小偷又说：“这不是俺偷的，这是俺路边捡的” https://t.co/ss4eMAc236"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_2060204908305883139",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdRctwWoAMCf77.jpg",
+        "width": 435
+      },
+      {
+        "height": 856,
+        "media_key": "3_2060205098576347137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdRnykXgAEQAis.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060204908305883139",
+            "3_2060205098576347137"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060205165051801826",
+        "created_at": "2026-05-29T03:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060205165051801826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ss4eMAc236",
+              "end": 170,
+              "expanded_url": "https://x.com/careforme123/status/2060205165051801826/photo/1",
+              "media_key": "3_2060204908305883139",
+              "start": 147,
+              "url": "https://t.co/ss4eMAc236"
+            },
+            {
+              "display_url": "pic.x.com/ss4eMAc236",
+              "end": 170,
+              "expanded_url": "https://x.com/careforme123/status/2060205165051801826/photo/1",
+              "media_key": "3_2060205098576347137",
+              "start": 147,
+              "url": "https://t.co/ss4eMAc236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060205165051801826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一只一百万粉丝的网红狗，边牧锄头，在主人干活时被河南八堡村村民偷走，两人把它扯到车上，用棉罩子盖住后迅速逃离\n\n等主人找到偷狗贼时，才知道狗已经被180元卖给狗肉贩子宰杀，村民还一拥而上，说：“一条狗而已，死了就死了，赔你200得了”\n\n警察上门后，小偷又说：“这不是俺偷的，这是俺路边捡的”\n\n对河南人的刻板印象又加深了..."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一只一百万粉丝的网红狗，边牧锄头，在主人干活时被河南八堡村村民偷走，两人把它扯到车上，用棉罩子盖住后迅速逃离\n\n等主人找到偷狗贼时，才知道狗已经被180元卖给狗肉贩子宰杀，村民还一拥而上，说：“一条狗而已，死了就死了，赔你200得了”\n\n警察上门后，小偷又说：“这不是俺偷的，这是俺路边捡的” https://t.co/ss4eMAc236"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1956,
+          "following_count": 742,
+          "like_count": 6498,
+          "listed_count": 5,
+          "media_count": 666,
+          "tweet_count": 2616
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

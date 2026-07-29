@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059929316822032891",
+    "created_at": "2026-05-29T04:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060219295175483797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963502836844789760",
+          "start": 0,
+          "username": "MindOS_Lisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060219295175483797",
+    "in_reply_to_user_id": "1963502836844789760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060218453769027828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MindOS_Lisa 这个右上角的是啥东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2060218415391125504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJddu7kbMAA0Vag.png",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059929316822032891",
+        "created_at": "2026-05-29T04:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060219295175483797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963502836844789760",
+              "start": 0,
+              "username": "MindOS_Lisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060219295175483797",
+        "in_reply_to_user_id": "1963502836844789760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060218453769027828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MindOS_Lisa 这个右上角的是啥东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060218415391125504"
+          ]
+        },
+        "author_id": "1963502836844789760",
+        "conversation_id": "2059929316822032891",
+        "created_at": "2026-05-29T04:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060218453769027828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WfceSO0P0B",
+              "end": 45,
+              "expanded_url": "https://x.com/MindOS_Lisa/status/2060218453769027828/photo/1",
+              "media_key": "3_2060218415391125504",
+              "start": 22,
+              "url": "https://t.co/WfceSO0P0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060218453769027828",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059929316822032891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 not yet https://t.co/WfceSO0P0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪，爱党爱国",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 742,
+          "like_count": 6501,
+          "listed_count": 5,
+          "media_count": 666,
+          "tweet_count": 2617
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-04T07:22:48.000Z",
+        "description": "🎓 商科全奖硕士 | 非技术背景\n🛠️ 从0代码学到为我家娃做 AI 产品\n📈 Reddit 营销 & AI 增长实验 | built in public\n🏔️ 珠峰徒步者 | 🏃‍♀️ 马拉松跑者 | 🚲 骑行川藏线",
+        "id": "1963502836844789760",
+        "name": "LISA",
+        "pinned_tweet_id": "2050883895626018818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019684268960587776/ci065E8L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 324,
+          "like_count": 653,
+          "listed_count": 15,
+          "media_count": 123,
+          "tweet_count": 1041
+        },
+        "username": "MindOS_Lisa",
+        "verified": true
+      }
+    ]
+  }
+}

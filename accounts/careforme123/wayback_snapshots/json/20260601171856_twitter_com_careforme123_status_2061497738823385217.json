@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061468537366208845",
+    "created_at": "2026-06-01T17:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061497738823385217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035758475209572352",
+          "start": 0,
+          "username": "LoveMikuBX"
+        },
+        {
+          "end": 21,
+          "id": "1970919294960828416",
+          "start": 12,
+          "username": "DomeSere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061497738823385217",
+    "in_reply_to_user_id": "2035758475209572352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061468537366208845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveMikuBX @DomeSere 废物斯大林大清洗完，军队里能用的人都没有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 843,
+        "media_key": "3_2061468532748296192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvOtVoboAAZF2_.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061468537366208845",
+        "created_at": "2026-06-01T17:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061497738823385217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            },
+            {
+              "end": 21,
+              "id": "1970919294960828416",
+              "start": 12,
+              "username": "DomeSere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061497738823385217",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061468537366208845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX @DomeSere 废物斯大林大清洗完，军队里能用的人都没有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061468532748296192"
+          ]
+        },
+        "author_id": "2035758475209572352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061468537366208845",
+        "created_at": "2026-06-01T15:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061468537366208845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1970919294960828416",
+              "start": 14,
+              "username": "DomeSere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDoydt2GAr",
+              "end": 52,
+              "expanded_url": "https://x.com/LoveMikuBX/status/2061468537366208845/photo/1",
+              "media_key": "3_2061468532748296192",
+              "start": 29,
+              "url": "https://t.co/RDoydt2GAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061468537366208845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "納粹德國和蘇聯的合作\n\n感謝@DomeSere 提供靈感 https://t.co/RDoydt2GAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 743,
+          "like_count": 6666,
+          "listed_count": 5,
+          "media_count": 683,
+          "tweet_count": 2678
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！\n|友跨🏳️‍⚧️🏳️‍🌈|國族主義/大中華主義/❂三民主義/社會民主主義/左翼民族主義/☭中國共產黨新左派/統派|我不是粉紅！！|理性思考，包容不同政治意見（除分裂分子）\n希望與友好的人聊天。查成分互fo\n歡迎加入「中華統一復興大會」@ChineseURC_BOT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 128,
+                "username": "ChineseURC_BOT"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "🇨🇳中國•福建寧德",
+        "name": "🇨🇳伴下☭",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059623612638961664/GvgHvebX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 1338,
+          "like_count": 12700,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 4133
+        },
+        "username": "LoveMikuBX",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T18:32:38.000Z",
+        "description": "温和右翼/犹太复国主义者/男权主义者/资本主义者/宗教主义者/帝国主义者/虚无主义者/同盟国/支持杀死道德主义/反君主巴列维派-支持总统共和制伊朗/友好满人-东北地区那嘎的满洲国人/曾信佛-加尔文派基督徒/支持川普-戈尔巴乔夫-赖清德/喜欢中东/灭亡现代欧洲-灭亡联合国/中世纪欧洲/16世纪殖民时期英国/阿拉伯联盟",
+        "id": "1970919294960828416",
+        "location": "前苏联",
+        "name": "✞爱川普！🇺🇸💞🇮🇱",
+        "pinned_tweet_id": "2059700567799377920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057828797706366976/QVMp06fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 401,
+          "like_count": 9444,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 7631
+        },
+        "username": "DomeSere",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2063067604265140644",
+    "created_at": "2026-06-06T02:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063080032696779124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063080032696779124",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063067604265140644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog 一想到牢a天天视奸楼主我就想笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32661,
+        "height": 720,
+        "media_key": "7_2063066991523483648",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063066991523483648/pu/img/2_qdrMLPh7WhmTAW.jpg",
+        "public_metrics": {
+          "view_count": 587
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063066991523483648/pu/vid/avc1/480x270/1n1wNQ3OGaPQB5Hv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063066991523483648/pu/vid/avc1/640x360/Nt2ezeO7Agy4gziY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063066991523483648/pu/vid/avc1/1280x720/H9OSnja6uAO3oF8E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063066991523483648/pu/pl/6pJdEih-KqkF0V4N.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2063067604265140644",
+        "created_at": "2026-06-06T02:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063080032696779124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063080032696779124",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063067604265140644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 一想到牢a天天视奸楼主我就想笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063066991523483648"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "2063067604265140644",
+        "created_at": "2026-06-06T01:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:14:41.000Z",
+          "edits_remaining": 0,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063067015947153638",
+          "2063067122155098288",
+          "2063067303910982034",
+          "2063067401894101355",
+          "2063067457128935638",
+          "2063067604265140644"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "牢A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HiRvAZHlH4",
+              "end": 185,
+              "expanded_url": "https://x.com/GFWfrog/status/2063067604265140644/video/1",
+              "media_key": "7_2063066991523483648",
+              "start": 162,
+              "url": "https://t.co/HiRvAZHlH4"
+            },
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 209,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2062741620953407864",
+              "start": 186,
+              "url": "https://t.co/M7bMsjH0c3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063067604265140644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2097,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062741620953407864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继侵权二创画师后，#牢A 胆大包天，在深圳注册了\"阿斯塔特传媒公司\"，还把\"斯奎奇大王\"注册成商标，Astartes和Squig都出自战锤40K，母公司Games Workshop在伦敦上市，市值84亿美元，大家可以考虑帮忙向GW举报，告诉他们有个臭名昭著的民族主义网红未经授权盗用他们的IP在中国🇨🇳注册公司和商标🤔🙏🏻 https://t.co/HiRvAZHlH4 https://t.co/M7bMsjH0c3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 765,
+          "like_count": 6949,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2769
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/aVPvX0T16B 网页投稿 150岁爷习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大躺平运动 #不正确记忆\n邮箱：gfwfrog@gmail.com 🐸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 105,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 130,
+                "start": 124,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "大躺平运动"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "不正确记忆"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 33,
+                "expanded_url": "http://gfwbao.com",
+                "start": 10,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 74,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 51,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 103,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 80,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2061787904045613194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264748,
+          "following_count": 2522,
+          "like_count": 127394,
+          "listed_count": 917,
+          "media_count": 7453,
+          "tweet_count": 14100
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2068737054541054442",
+    "created_at": "2026-06-22T03:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068899866651279439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        },
+        {
+          "end": 24,
+          "id": "1571325161240141824",
+          "start": 15,
+          "username": "aaYUEQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068899866651279439",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068897120451768569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura @aaYUEQWQ 🚬🚬🚬🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2068737054541054442",
+        "created_at": "2026-06-22T03:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068899866651279439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            },
+            {
+              "end": 24,
+              "id": "1571325161240141824",
+              "start": 15,
+              "username": "aaYUEQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068899866651279439",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068897120451768569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura @aaYUEQWQ 🚬🚬🚬🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573704119516176384",
+        "conversation_id": "2068737054541054442",
+        "created_at": "2026-06-22T03:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068897120451768569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1571325161240141824",
+              "start": 0,
+              "username": "aaYUEQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068897120451768569",
+        "in_reply_to_user_id": "1571325161240141824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068737054541054442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaYUEQWQ 特别反感有人在我旁边吸烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 785,
+          "like_count": 7509,
+          "listed_count": 6,
+          "media_count": 747,
+          "tweet_count": 2975
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "🌸摆烂博主🍭| 好看的照片都在“亮点”里 | 蓝v互关看到必回",
+        "id": "1573704119516176384",
+        "location": "🚪98 发课表 是男娘",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2057809006421545370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005637712188194816/7t5VZ4y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94592,
+          "following_count": 962,
+          "like_count": 5742,
+          "listed_count": 208,
+          "media_count": 140,
+          "tweet_count": 2013
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-18T02:28:19.000Z",
+        "description": "🚪52/288 不是女生 希望大家都能开心快乐",
+        "id": "1571325161240141824",
+        "location": "Sichuan",
+        "name": "ww",
+        "pinned_tweet_id": "2029882606846927101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830292287269810177/rHWFEAzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 2,
+          "like_count": 693,
+          "listed_count": 7,
+          "media_count": 537,
+          "tweet_count": 2970
+        },
+        "url": "",
+        "username": "aaYUEQWQ",
+        "verified": true
+      }
+    ]
+  }
+}

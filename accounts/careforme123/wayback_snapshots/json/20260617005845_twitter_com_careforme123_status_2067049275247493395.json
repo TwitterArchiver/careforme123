@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067049241051320320"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067049275247493395",
+    "created_at": "2026-06-17T00:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067049275247493395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v83tTqdrUo",
+          "end": 152,
+          "expanded_url": "https://x.com/careforme123/status/2067049275247493395/photo/1",
+          "media_key": "3_2067049241051320320",
+          "start": 129,
+          "url": "https://t.co/v83tTqdrUo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067049275247493395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国足球烂，不是因为中国人踢不来足球\n\n你踢球踢的再好，没有关系，没有背景，连省队都进不去，更别说进国家队踢世界杯了\n\n想在中国当职业球员，高昂的学费和数不清的打点费，普通家庭是付不起的\n\n你以为国足是从14亿人里挑？不，是从几万个供得起、有关系的孩子里挑 https://t.co/v83tTqdrUo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 603,
+        "media_key": "3_2067049241051320320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-iVUIa0AAk_O8.png",
+        "width": 611
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067049241051320320"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067049275247493395",
+        "created_at": "2026-06-17T00:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067049275247493395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v83tTqdrUo",
+              "end": 152,
+              "expanded_url": "https://x.com/careforme123/status/2067049275247493395/photo/1",
+              "media_key": "3_2067049241051320320",
+              "start": 129,
+              "url": "https://t.co/v83tTqdrUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067049275247493395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国足球烂，不是因为中国人踢不来足球\n\n你踢球踢的再好，没有关系，没有背景，连省队都进不去，更别说进国家队踢世界杯了\n\n想在中国当职业球员，高昂的学费和数不清的打点费，普通家庭是付不起的\n\n你以为国足是从14亿人里挑？不，是从几万个供得起、有关系的孩子里挑 https://t.co/v83tTqdrUo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 773,
+          "like_count": 7264,
+          "listed_count": 6,
+          "media_count": 734,
+          "tweet_count": 2899
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

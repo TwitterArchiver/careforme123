@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2063276118766187003",
+    "created_at": "2026-06-06T15:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063279172491923746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063279172491923746",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063276960864960916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 果然，喜剧的内核，是悲剧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2063276695650746368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKI7ORWawAA5eGs.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1045,
+        "media_key": "3_2063276712046235648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKI7PObaEAAeDpx.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 60096,
+        "height": 720,
+        "media_key": "13_2063276757193781248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063276757193781248/img/0NoRfBQcw5CRwGcj.jpg",
+        "public_metrics": {
+          "view_count": 721
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063276757193781248/vid/avc1/480x270/2eeR3DEUh4vG6jo6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063276757193781248/vid/avc1/640x360/QWjgU88G3wsWj8HI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063276757193781248/vid/avc1/1280x720/_wgyQye_xbjAtd5Y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063276757193781248/pl/746xJG8NoxY7uk8d.m3u8?v=14f"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 282052,
+        "height": 1280,
+        "media_key": "13_2063276757265092608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063276757265092608/img/wtZwvE8Oj8hqA_2U.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063276757265092608/vid/avc1/320x568/uRV4NTJzDm9YRaOe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063276757265092608/vid/avc1/480x852/VdmETOT4USkoPXtk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063276757265092608/vid/avc1/720x1280/OE83QMH71TEdlgW2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063276757265092608/pl/zNzLACiNQovdLL3C.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2063276118766187003",
+        "created_at": "2026-06-06T15:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063279172491923746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063279172491923746",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063276960864960916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 果然，喜剧的内核，是悲剧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063276695650746368",
+            "3_2063276712046235648",
+            "13_2063276757193781248",
+            "13_2063276757265092608"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2063276118766187003",
+        "created_at": "2026-06-06T15:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063276960864960916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOme5gGsp9",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063276960864960916/video/1",
+              "media_key": "3_2063276695650746368",
+              "start": 109,
+              "url": "https://t.co/GOme5gGsp9"
+            },
+            {
+              "display_url": "pic.x.com/GOme5gGsp9",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063276960864960916/video/1",
+              "media_key": "3_2063276712046235648",
+              "start": 109,
+              "url": "https://t.co/GOme5gGsp9"
+            },
+            {
+              "display_url": "pic.x.com/GOme5gGsp9",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063276960864960916/video/1",
+              "media_key": "13_2063276757193781248",
+              "start": 109,
+              "url": "https://t.co/GOme5gGsp9"
+            },
+            {
+              "display_url": "pic.x.com/GOme5gGsp9",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063276960864960916/video/1",
+              "media_key": "13_2063276757265092608",
+              "start": 109,
+              "url": "https://t.co/GOme5gGsp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063276960864960916",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "两个月前：54盏灯，和88米外的突破\n要读懂今夜，得先回到今年4月4日晚。\n那一夜，中国行动团队执行“愚民节”全球投影系列第三站，抵达洛杉矶中国总领事馆时发现，领馆已提前部署多达54盏强光灯，将整座主楼照得如同白昼。\n面对被全面照亮的主楼，团队临场转向约88米外、未设防的领馆证件处大楼，把图像投上了墙，并在十余名领馆人员手持强光手电的追踪下，坚持投影约30分钟。\n那一夜，洛杉矶领馆用54盏灯守住了主楼，却没守住88米外的证件处。发言人苏雨桐当时形容：\n“54盏灯守了主楼，88米外的证件处却一盏都没有。原来集中力量办大事的‘制度优势’，向来都是顾头不顾尾。”\n那之后，洛杉矶成了中共驻外使领馆“灯光军备竞赛”的代表性现场之一：从最初的漠视，到纽约3月15日首次强光压制，到华盛顿大使馆40盏灯预防性封锁，再到洛杉矶54盏灯照亮主楼，中共对一束光的反应，一路升级。\n6月5日晚，团队再次回到了这里。\n\n这一次，他们没能把光挡下去\n与4月相比，中共领馆这次的反制更快，也更复杂。\n据现场成员观察，投影一开始，领馆人员便迅速集结，多人举着高强度手电，对着画面和镜头持续爆闪；现场还出现了一种带马赛克图案的全新投影灯，专门用来搅乱墙面画面。据团队观察，这种新装备前一夜也出现在纽约中国领事馆，是此前从未见过的升级。调动反制力量的速度，也明显比4月更快。\n可结果是，投影没有被迫退到副楼。外卖骑手的身影，最终清清楚楚地出现在洛杉矶中国总领事馆的正面外墙上。\n上一次，他们用54盏灯把团队逼到88米外；这一次，在更多人手、更快反应和全新设备的干扰之下，那束光照样投上了他们的主楼，亮了三十余分钟。\n这就是今夜最该被记住的一件事：中共的反制层层加码，可那束光，反而越来越难被它挡住。他们守得住一次，守不住下一次。\n\n冲破算法的人\n画面里的外卖骑手，是中国数千万平台劳动者的缩影。平台算法用派单、计时、罚款和排名，把骑手压进一套高速运转的规则里；为了准时送达，他们用身体去扛算法制造的压力。\n所以这幅图上写的不是“停下”，而是：\n“走，我们冲破算法。”\n这里的“算法”，不只是外卖平台的派单系统。它也指向一套更大的数字极权逻辑：用数据追踪每个人，用审查筛掉每句话，用规则压缩每一次选择，用恐惧训练人们自动服从。\n而6月5日晚的洛杉矶现场，恰好也完成了一次“冲破算法”：中共领馆提前准备灯光、快速集结人员、手电爆闪、新设备干扰，仿佛只要按下这套反制程序，就能把投影从墙上抹掉。可这一次，算法失效了。外卖骑手的身影，仍然投上了他们的正面外墙。\n当骑手骑车冲出画面，他冲破的，不只是订单；当这束光照上墙面，它冲破的，也不只是几盏灯。\n这正是“光覆之路”要做的，把被算法困住的人，变成冲破算法的人；把被压到最低处的苦难，变成继续前行的力量。\n\n他们如临大敌，我们却差点笑场\n今夜最强烈的反差，藏在两边的状态里。\n一边，是中共领馆如临大敌：人员火速集结、手电持续爆闪、新装备紧急上阵，仿佛墙上那几幅安静的黑白画面，是什么了不得的威胁。另一边，是一支只有数人的投影小队，从容地站在原地投影、拍摄，隔着栏杆与领馆人员有说有笑。\n据现场成员说，整场行动气氛比想象中松弛得多，甚至有点喜剧效果：对方越是手忙脚乱，这一幕就越显得荒诞。\n一个庞大的国家机器，为墙上几幅画不断加灯、加人、加设备；而站在街边的，不过是几名行动者、一台投影设备和一束光。\n一名现场成员说：\n“他们越是认真，事情就越荒诞。”\n\n警方到场后，警察却和我们合了影\n这一夜最大的反转，发生在最后。\n行动过程中，当地警方到场了解情况。现场团队判断，警方可能是由领馆方面通知，希望中止投影。但在了解情况后，警员并未要求团队停止或离开，反而提醒领馆人员不要再用强光手电照射团队成员的眼睛。\n行动结束时，带队警员还与这支投影团队拍了一张合影。\n一个试图阻止投影的中共领馆，最后只能眼看着警察和被它试图驱离的人站在一起。\n\n光抓不住，也打不碎\n使领馆不是普通建筑，而是一个政权在海外最具象征性的政治门面。行动者无需踏入中国境内，只是站在自由土地上，就把这束光投向了中共在海外的高墙。\n一墙之隔，是两个世界：同样的画面，在墙内会被删除、被屏蔽、被追责；在墙外，它受法律保护，甚至赢得警察的维护与合影。\n光抓不住、打不碎。几分钟的投影会熄灭，但影像会越过那堵墙、越过物理的国界，被更多人看见。\n这是接力的第二站。光，会一座城接一座城地亮下去。\n\n发言人声明\n光覆之路运动发言人苏雨桐表示：\n“4月，他们用54盏灯守住主楼，我们把光投到88米外。6月，他们反应更快、装备更多，外卖骑手照样投上了正墙。中共每多点一盏灯，就多照出一分自己的恐惧。\n在它那套“低人权”的系统里，骑手被压到最低处，用命去换每一单的准时。可今夜，他不再低头，他骑着车，回过头，说了一句：走。 这一夜，这束光也冲破了他们预设好的反制程序，也让那个低头赶路的人，第一次抬起了头。\n灯会灭，光不会。他们可以一夜一夜地开灯，我们会一城一城地把光打回去。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2419,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063276118766187003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两个月前：54盏灯，和88米外的突破\n要读懂今夜，得先回到今年4月4日晚。\n那一夜，中国行动团队执行“愚民节”全球投影系列第三站，抵达洛杉矶中国总领事馆时发现，领馆已提前部署多达54盏强光灯，将整座主楼照得如同白昼。 https://t.co/GOme5gGsp9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 764,
+          "like_count": 6974,
+          "listed_count": 5,
+          "media_count": 705,
+          "tweet_count": 2788
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235984,
+          "following_count": 1070,
+          "like_count": 9638,
+          "listed_count": 8801,
+          "media_count": 48051,
+          "tweet_count": 55202
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070349757487493120"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2070350155854012805",
+    "created_at": "2026-06-26T03:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070350155854012805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTi7SOcBJD",
+          "end": 169,
+          "expanded_url": "https://x.com/careforme123/status/2070350155854012805/photo/1",
+          "media_key": "3_2070349757487493120",
+          "start": 146,
+          "url": "https://t.co/OTi7SOcBJD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070350155854012805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我从不为中国制造骄傲\n\n因为我知道，中国制造的背后，是无数工人拿着极低的工资，被迫加班，我们的产品为了拼价格，疯狂压低劳动力成本\n\n因为我知道，中国人均GDP接近10万元，但人均可支配收入只有4.34万元，连人均GDP的一半都不到。美国人创造10元财富能拿7元，我们创造10元财富只能拿4元\n\n因为我知道，2025年的人均可支配收入中位数是3.6万元，我们中间那位，一个月也只有3000元\n\n因为我知道，打工人的纯工资总额占只占GDP的18%\n\n这种宏大叙事的自豪，代价太贵了，我自豪不起\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从不为中国制造骄傲\n\n因为我知道，中国制造的背后，是无数工人拿着极低的工资，被迫加班，我们的产品为了拼价格，疯狂压低劳动力成本\n\n因为我知道，中国人均GDP接近10万元，但人均可支配收入只有4.34万元，连人均GDP的一半都不到。美国人创造10元财富能拿7元，我们创造10元财富只能拿4元 https://t.co/OTi7SOcBJD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_2070349757487493120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtcIp_bsAA_u_3.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070349757487493120"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2070350155854012805",
+        "created_at": "2026-06-26T03:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070350155854012805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTi7SOcBJD",
+              "end": 169,
+              "expanded_url": "https://x.com/careforme123/status/2070350155854012805/photo/1",
+              "media_key": "3_2070349757487493120",
+              "start": 146,
+              "url": "https://t.co/OTi7SOcBJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070350155854012805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我从不为中国制造骄傲\n\n因为我知道，中国制造的背后，是无数工人拿着极低的工资，被迫加班，我们的产品为了拼价格，疯狂压低劳动力成本\n\n因为我知道，中国人均GDP接近10万元，但人均可支配收入只有4.34万元，连人均GDP的一半都不到。美国人创造10元财富能拿7元，我们创造10元财富只能拿4元\n\n因为我知道，2025年的人均可支配收入中位数是3.6万元，我们中间那位，一个月也只有3000元\n\n因为我知道，打工人的纯工资总额占只占GDP的18%\n\n这种宏大叙事的自豪，代价太贵了，我自豪不起\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从不为中国制造骄傲\n\n因为我知道，中国制造的背后，是无数工人拿着极低的工资，被迫加班，我们的产品为了拼价格，疯狂压低劳动力成本\n\n因为我知道，中国人均GDP接近10万元，但人均可支配收入只有4.34万元，连人均GDP的一半都不到。美国人创造10元财富能拿7元，我们创造10元财富只能拿4元 https://t.co/OTi7SOcBJD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 789,
+          "like_count": 7647,
+          "listed_count": 7,
+          "media_count": 761,
+          "tweet_count": 3025
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

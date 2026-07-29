@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053463810288263349",
+    "created_at": "2026-05-10T13:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053464697119391992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811604757670137856",
+          "start": 0,
+          "username": "KuaiLe_fengnan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053464697119391992",
+    "in_reply_to_user_id": "1811604757670137856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053463810288263349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuaiLe_fengnan1 根据内圈的人来看，你是祖国的叛徒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2053463805926277121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9ec6dbgAEdsii.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053463810288263349",
+        "created_at": "2026-05-10T13:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053464697119391992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811604757670137856",
+              "start": 0,
+              "username": "KuaiLe_fengnan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053464697119391992",
+        "in_reply_to_user_id": "1811604757670137856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053463810288263349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuaiLe_fengnan1 根据内圈的人来看，你是祖国的叛徒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053463805926277121"
+          ]
+        },
+        "author_id": "1811604757670137856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2053463810288263349",
+        "created_at": "2026-05-10T13:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053463810288263349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2051123147123146752/BlNGzaWd?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051123147123146752/BlNGzaWd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/O4EjIv1IPG"
+            },
+            {
+              "display_url": "pic.x.com/ErPsQ3onUH",
+              "end": 64,
+              "expanded_url": "https://x.com/KuaiLe_fengnan1/status/2053463810288263349/photo/1",
+              "media_key": "3_2053463805926277121",
+              "start": 41,
+              "url": "https://t.co/ErPsQ3onUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053463810288263349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/O4EjIv1IPG https://t.co/ErPsQ3onUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 492,
+          "like_count": 5177,
+          "listed_count": 5,
+          "media_count": 571,
+          "tweet_count": 2110
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "我王梦圆与国铁郑州局不共戴天 |二号机：@puzzlerIee | 过去身：暂无 | 狗与@careforme123禁止入内⛔️ | #尊奉习近平主席为人类唯一出路 | #翻墙无罪爱党有理 |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 67,
+                "tag": "尊奉习近平主席为人类唯一出路"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "tag": "翻墙无罪爱党有理"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "puzzlerIee"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "careforme123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/YXwTSLKCMiw/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/YXwTSLKCMiw/",
+                "start": 0,
+                "url": "https://t.co/vtQnVsJIoV"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "河南",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2042410246405308624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330262199439360/_ITvKxyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 852,
+          "like_count": 1343,
+          "listed_count": 6,
+          "media_count": 854,
+          "tweet_count": 5425
+        },
+        "url": "https://t.co/vtQnVsJIoV",
+        "username": "KuaiLe_fengnan1",
+        "verified": true
+      }
+    ]
+  }
+}

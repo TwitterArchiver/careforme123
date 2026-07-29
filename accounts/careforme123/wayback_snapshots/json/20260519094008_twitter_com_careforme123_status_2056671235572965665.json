@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2056671235572965665",
+    "created_at": "2026-05-19T09:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056671235572965665"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056671235572965665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只要你活着，就在交税\n\n买衣服的钱，13%是税\n\n下馆子、点外卖的钱，6%是税\n\n买零食饮料、买菜的钱，13%是税\n\n开天然气、用电用水的钱，9%-13%是税\n\n手机网费、买会员、买皮肤、打车、看电影，住酒店6%的钱是税\n\n租房的钱，4%是税\n\n还要交税额乘10%的附加税\n\n是你在养活政府，养你的是你爸妈和自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2056671235572965665",
+        "created_at": "2026-05-19T09:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056671235572965665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056671235572965665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要你活着，就在交税\n\n买衣服的钱，13%是税\n\n下馆子、点外卖的钱，6%是税\n\n买零食饮料、买菜的钱，13%是税\n\n开天然气、用电用水的钱，9%-13%是税\n\n手机网费、买会员、买皮肤、打车、看电影，住酒店6%的钱是税\n\n租房的钱，4%是税\n\n还要交税额乘10%的附加税\n\n是你在养活政府，养你的是你爸妈和自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 617,
+          "like_count": 5795,
+          "listed_count": 6,
+          "media_count": 631,
+          "tweet_count": 2363
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

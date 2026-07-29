@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061287201208484156",
+    "created_at": "2026-06-01T15:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061467837684670605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793967384283303936",
+          "start": 0,
+          "username": "Rionomo120175"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061467837684670605",
+    "in_reply_to_user_id": "1793967384283303936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061467722823692492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rionomo120175 并不是哦，他和刘招华只是巧合"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061287201208484156",
+        "created_at": "2026-06-01T15:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061467837684670605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793967384283303936",
+              "start": 0,
+              "username": "Rionomo120175"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061467837684670605",
+        "in_reply_to_user_id": "1793967384283303936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061467722823692492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rionomo120175 并不是哦，他和刘招华只是巧合"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793967384283303936",
+        "conversation_id": "2061287201208484156",
+        "created_at": "2026-06-01T15:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061467722823692492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061467722823692492",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061287201208484156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 有沒有一種可能，&lt;絕命毒師&gt;的人物原型就是一個中國人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 743,
+          "like_count": 6657,
+          "listed_count": 5,
+          "media_count": 683,
+          "tweet_count": 2674
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T11:32:35.000Z",
+        "description": "人类总想在人间建造一个天堂，但最后都得到了一个地狱。",
+        "id": "1793967384283303936",
+        "name": "Rionomo",
+        "pinned_tweet_id": "1892218158645186762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846621104929902592/6u7d68_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 63,
+          "like_count": 1270,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 949
+        },
+        "username": "Rionomo120175",
+        "verified": false
+      }
+    ]
+  }
+}

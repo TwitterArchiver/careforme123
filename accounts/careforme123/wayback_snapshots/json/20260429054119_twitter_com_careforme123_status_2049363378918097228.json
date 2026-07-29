@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2049353203377156517",
+    "created_at": "2026-04-29T05:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049363378918097228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855510881922379776",
+          "start": 0,
+          "username": "max_zhang007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049363378918097228",
+    "in_reply_to_user_id": "1855510881922379776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049356579351499199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@max_zhang007 臭鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049353203377156517",
+        "created_at": "2026-04-29T05:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049363378918097228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855510881922379776",
+              "start": 0,
+              "username": "max_zhang007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049363378918097228",
+        "in_reply_to_user_id": "1855510881922379776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049356579351499199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@max_zhang007 臭鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855510881922379776",
+        "conversation_id": "2049353203377156517",
+        "created_at": "2026-04-29T05:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049356579351499199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049356579351499199",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049353203377156517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 什么是腐烂的鱼 为啥我不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049335145208193267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 338,
+          "like_count": 4431,
+          "listed_count": 3,
+          "media_count": 504,
+          "tweet_count": 1812
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-10T07:21:06.000Z",
+        "description": "中国上海人 藤校本科 05后 不怎么温和的自由派",
+        "id": "1855510881922379776",
+        "location": "599m",
+        "name": "Zhang Max",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040712013983469568/p_9Og3Nh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 411,
+          "like_count": 710,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 2553
+        },
+        "username": "max_zhang007",
+        "verified": false
+      }
+    ]
+  }
+}

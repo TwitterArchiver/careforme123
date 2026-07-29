@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073744937594810368",
+        "3_2073744784733446146"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073744949825421504",
+    "created_at": "2026-07-05T12:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073744949825421504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NWmK0dNyBk",
+          "end": 159,
+          "expanded_url": "https://x.com/careforme123/status/2073744949825421504/photo/1",
+          "media_key": "3_2073744937594810368",
+          "start": 136,
+          "url": "https://t.co/NWmK0dNyBk"
+        },
+        {
+          "display_url": "pic.x.com/NWmK0dNyBk",
+          "end": 159,
+          "expanded_url": "https://x.com/careforme123/status/2073744949825421504/photo/1",
+          "media_key": "3_2073744784733446146",
+          "start": 136,
+          "url": "https://t.co/NWmK0dNyBk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073744949825421504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "20年前的中国，言论还很自由\n\n网民可以讨论多党制，军队去党化，司法独立。电视上能看到温家宝赞扬民主、法制、自由、人权。报纸上能看到南方周末宣传普选。和别人聊天还能发送胡锦涛和江泽民的表情包\n\n可从2012年开始，或者说从2008年刘晓波被捕开始，一切都变了\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "20年前的中国，言论还很自由\n\n网民可以讨论多党制，军队去党化，司法独立。电视上能看到温家宝赞扬民主、法制、自由、人权。报纸上能看到南方周末宣传普选。和别人聊天还能发送胡锦涛和江泽民的表情包\n\n可从2012年开始，或者说从2008年刘晓波被捕开始，一切都变了\n\n谢谢大家 https://t.co/NWmK0dNyBk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "3_2073744937594810368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdsCJgacAAGYhI.jpg",
+        "width": 224
+      },
+      {
+        "height": 186,
+        "media_key": "3_2073744784733446146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdr5QDbIAI95Y5.jpg",
+        "width": 267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073744937594810368",
+            "3_2073744784733446146"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073744949825421504",
+        "created_at": "2026-07-05T12:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073744949825421504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWmK0dNyBk",
+              "end": 159,
+              "expanded_url": "https://x.com/careforme123/status/2073744949825421504/photo/1",
+              "media_key": "3_2073744937594810368",
+              "start": 136,
+              "url": "https://t.co/NWmK0dNyBk"
+            },
+            {
+              "display_url": "pic.x.com/NWmK0dNyBk",
+              "end": 159,
+              "expanded_url": "https://x.com/careforme123/status/2073744949825421504/photo/1",
+              "media_key": "3_2073744784733446146",
+              "start": 136,
+              "url": "https://t.co/NWmK0dNyBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073744949825421504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "20年前的中国，言论还很自由\n\n网民可以讨论多党制，军队去党化，司法独立。电视上能看到温家宝赞扬民主、法制、自由、人权。报纸上能看到南方周末宣传普选。和别人聊天还能发送胡锦涛和江泽民的表情包\n\n可从2012年开始，或者说从2008年刘晓波被捕开始，一切都变了\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20年前的中国，言论还很自由\n\n网民可以讨论多党制，军队去党化，司法独立。电视上能看到温家宝赞扬民主、法制、自由、人权。报纸上能看到南方周末宣传普选。和别人聊天还能发送胡锦涛和江泽民的表情包\n\n可从2012年开始，或者说从2008年刘晓波被捕开始，一切都变了\n\n谢谢大家 https://t.co/NWmK0dNyBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 788,
+          "like_count": 7776,
+          "listed_count": 9,
+          "media_count": 790,
+          "tweet_count": 3086
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

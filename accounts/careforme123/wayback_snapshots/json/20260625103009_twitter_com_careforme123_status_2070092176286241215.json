@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2070089619056807953",
+    "created_at": "2026-06-25T10:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070092176286241215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070092176286241215",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070089619056807953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 他模仿的是帕特里斯·卢蒙巴，一个反对比利时的殖民统治的刚果总理，执政三个月后国家爆发政变，他遭残酷拷打后被秘密枪决"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10913,
+        "height": 960,
+        "media_key": "13_2070026102186356736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070026102186356736/img/XUrkB1eHM5-ebM1s.jpg",
+        "public_metrics": {
+          "view_count": 1051
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070026102186356736/vid/avc1/320x426/chsDxcTU9vB0Lj2M.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070026102186356736/vid/avc1/480x640/MMx_et1vfQDCMI5J.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070026102186356736/vid/avc1/720x960/9buS7Bh5l2hcNEHt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070026102186356736/pl/5RLSyb3zg15_e8oE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2070089619056807953",
+        "created_at": "2026-06-25T10:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070092176286241215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070092176286241215",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070089619056807953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 他模仿的是帕特里斯·卢蒙巴，一个反对比利时的殖民统治的刚果总理，执政三个月后国家爆发政变，他遭残酷拷打后被秘密枪决"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070026102186356736"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2070089619056807953",
+        "created_at": "2026-06-25T10:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070089619056807953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgG2UqOs19",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2070089619056807953/video/1",
+              "media_key": "13_2070026102186356736",
+              "start": 86,
+              "url": "https://t.co/rgG2UqOs19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070089619056807953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“雕像人”再现世界杯赛场 90分钟静立抗议刚果东部冲突\n6月24日，在哥伦比亚对阵刚果民主共和国的世界杯比赛中，被称为“雕像人”的刚果球迷Lumumba Vea再次现身。\n他在整场比赛近90分钟内几乎一动不动，以刚果首任总理帕特里斯·卢蒙巴雕像的姿态，单手举起，表达对国际社会长期漠视刚果东部持续二十多年冲突的抗议。\n帕特里斯·卢蒙巴曾在反对比利时支持的分裂主义运动中被暗杀。今年3月，比利时法院命令一名93岁退休外交官出庭受审，他是10名涉嫌参与谋杀的比利时人中最后一位在世者。\n自2013年起，Lumumba Vea便以这种行为艺术方式进行抗议。本届世界杯他因签证问题错过首场比赛。据观察，国际足联的转播画面似乎刻意回避了他的身影。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4152,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“雕像人”再现世界杯赛场 90分钟静立抗议刚果东部冲突\n6月24日，在哥伦比亚对阵刚果民主共和国的世界杯比赛中，被称为“雕像人”的刚果球迷Lumumba Vea再次现身。 https://t.co/rgG2UqOs19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 789,
+          "like_count": 7591,
+          "listed_count": 7,
+          "media_count": 756,
+          "tweet_count": 3007
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238393,
+          "following_count": 1071,
+          "like_count": 9739,
+          "listed_count": 8799,
+          "media_count": 49211,
+          "tweet_count": 56382
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

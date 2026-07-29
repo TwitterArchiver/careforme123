@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062809910581117246",
+    "created_at": "2026-06-05T09:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062835917086159119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "840896509189091328",
+          "start": 0,
+          "username": "snail13890"
+        },
+        {
+          "end": 20,
+          "id": "1984316739363209216",
+          "start": 12,
+          "username": "Ouiwops"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062835917086159119",
+    "in_reply_to_user_id": "840896509189091328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062810588988973294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snail13890 @Ouiwops 无知又可悲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062809910581117246",
+        "created_at": "2026-06-05T09:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062835917086159119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "840896509189091328",
+              "start": 0,
+              "username": "snail13890"
+            },
+            {
+              "end": 20,
+              "id": "1984316739363209216",
+              "start": 12,
+              "username": "Ouiwops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062835917086159119",
+        "in_reply_to_user_id": "840896509189091328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062810588988973294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snail13890 @Ouiwops 无知又可悲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840896509189091328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2062809910581117246",
+        "created_at": "2026-06-05T08:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062810588988973294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1984316739363209216",
+              "start": 0,
+              "username": "Ouiwops"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062810588988973294",
+        "in_reply_to_user_id": "1984316739363209216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 854,
+          "like_count": 1,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062809910581117246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ouiwops 纳你妈的税，你纳了多少税，可以供你受教育、享受公共安全、医疗……这个国家要是值着你纳那点税早玩完了，西方电影看多了傻逼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 746,
+          "like_count": 6859,
+          "listed_count": 5,
+          "media_count": 695,
+          "tweet_count": 2742
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-12T12:05:25.000Z",
+        "description": "",
+        "id": "840896509189091328",
+        "location": "Henan",
+        "name": "蜗牛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036082532027170816/ofSsx6L9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 470,
+          "like_count": 1467,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 1341
+        },
+        "username": "snail13890",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T17:49:28.000Z",
+        "description": "性别男，马克思主义者，元清非中华论（不是皇汉，不反对少数民族同胞）",
+        "id": "1984316739363209216",
+        "name": "阳🇵🇸🇺🇦🇨🇳⚙️☭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062242614695362561/IZNL5PjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 425,
+          "like_count": 2081,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 637
+        },
+        "username": "Ouiwops",
+        "verified": false
+      }
+    ]
+  }
+}

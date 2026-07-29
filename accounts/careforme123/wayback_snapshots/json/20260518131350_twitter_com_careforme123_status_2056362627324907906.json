@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056342553356562938",
+    "created_at": "2026-05-18T13:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056362627324907906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795760823887175680",
+          "start": 0,
+          "username": "ctbz1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056362627324907906",
+    "in_reply_to_user_id": "1795760823887175680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056361783284334680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctbz1234 中间最尊贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2056361774572834817",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HImqI48bEAELUdK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HImqI48bEAELUdK.mp4"
+          }
+        ],
+        "width": 270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056342553356562938",
+        "created_at": "2026-05-18T13:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056362627324907906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795760823887175680",
+              "start": 0,
+              "username": "ctbz1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056362627324907906",
+        "in_reply_to_user_id": "1795760823887175680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056361783284334680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctbz1234 中间最尊贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2056361774572834817"
+          ]
+        },
+        "author_id": "1795760823887175680",
+        "conversation_id": "2056342553356562938",
+        "created_at": "2026-05-18T13:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056361783284334680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6wNSbZO0V9",
+              "end": 42,
+              "expanded_url": "https://x.com/ctbz1234/status/2056361783284334680/photo/1",
+              "media_key": "16_2056361774572834817",
+              "start": 19,
+              "url": "https://t.co/6wNSbZO0V9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056361783284334680",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056342553356562938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 三日凌空 https://t.co/6wNSbZO0V9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 610,
+          "like_count": 5750,
+          "listed_count": 6,
+          "media_count": 630,
+          "tweet_count": 2346
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T10:15:39.000Z",
+        "description": "喜歡嘲笑世界就是一個草台班子～\n反對PUA男性。\nLuv Games. Luv Meme. Don’t like WOKE.\nLuv Noodles！",
+        "id": "1795760823887175680",
+        "location": "Hong Kong",
+        "name": "Mess",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053662448025210880/rLEnjMW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 536,
+          "like_count": 6998,
+          "listed_count": 0,
+          "media_count": 556,
+          "tweet_count": 3676
+        },
+        "username": "ctbz1234",
+        "verified": true
+      }
+    ]
+  }
+}

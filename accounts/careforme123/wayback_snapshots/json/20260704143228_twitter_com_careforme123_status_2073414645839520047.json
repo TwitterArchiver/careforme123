@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2073404465680691470",
+    "created_at": "2026-07-04T14:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073414645839520047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057345121834946560",
+          "start": 0,
+          "username": "maybe_fuckU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073414645839520047",
+    "in_reply_to_user_id": "2057345121834946560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073406076486348870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maybe_fuckU 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2073404465680691470",
+        "created_at": "2026-07-04T14:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073414645839520047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057345121834946560",
+              "start": 0,
+              "username": "maybe_fuckU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073414645839520047",
+        "in_reply_to_user_id": "2057345121834946560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073406076486348870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maybe_fuckU 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057345121834946560",
+        "conversation_id": "2073404465680691470",
+        "created_at": "2026-07-04T13:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073406076486348870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073406076486348870",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073404465680691470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 我可以发起投票让你掰屁穴给我看嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 785,
+          "like_count": 7767,
+          "listed_count": 8,
+          "media_count": 786,
+          "tweet_count": 3081
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-21T06:18:04.000Z",
+        "description": "大号@Zhaodezhu_s_dad被禁言七天/杏努@careforme123/野孙@puzzlerlee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "Zhaodezhu_s_dad"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "careforme123"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "puzzlerlee"
+              }
+            ]
+          }
+        },
+        "id": "2057345121834946560",
+        "location": "Brisbane,Australia",
+        "name": "𝑺𝒂𝒈𝒆𝒓 𝑾𝒂𝒏𝒈🏳️‍🌈🏳️‍⚧️🇦🇺🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070427046568919040/wZtfPwLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 103,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "maybe_fuckU",
+        "verified": false
+      }
+    ]
+  }
+}

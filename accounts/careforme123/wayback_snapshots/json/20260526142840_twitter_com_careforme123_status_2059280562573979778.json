@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059280562573979778",
+    "created_at": "2026-05-26T14:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:27:50.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059280351378145734",
+      "2059280562573979778"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059280562573979778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "b站已经成了男权大本营了\n\n最搞笑的是，一群十多岁的孩子，还没有谈过恋爱，一天到晚就看着那些个别女生情绪失控，发火，对外国人友好，彩礼，尖叫，开车失误的极端例子，疯狂贬低，讽刺女性\n\n这些娃娃连爱都不懂，为何要以偏概全将另一种性别视为下贱的东西，我就不信在他们的生活中真有这么多神人女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059280351378145734",
+        "created_at": "2026-05-26T14:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:27:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059280351378145734",
+          "2059280562573979778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059280351378145734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "b站已经成了男权大本营了\n\n最搞笑的是，一群十多岁的孩子，还没有谈过恋爱，一天到晚就看着那些个别女生情绪失控，发火，对外国人友好，彩礼，尖叫，开车发火的极端例子，疯狂贬低，讽刺女性\n\n这些娃娃连爱都不懂，为何要以偏概全将另一种性别视为下贱的东西，我就不信在他们的生活中真有这么多神人女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059280562573979778",
+        "created_at": "2026-05-26T14:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:27:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059280351378145734",
+          "2059280562573979778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059280562573979778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "b站已经成了男权大本营了\n\n最搞笑的是，一群十多岁的孩子，还没有谈过恋爱，一天到晚就看着那些个别女生情绪失控，发火，对外国人友好，彩礼，尖叫，开车失误的极端例子，疯狂贬低，讽刺女性\n\n这些娃娃连爱都不懂，为何要以偏概全将另一种性别视为下贱的东西，我就不信在他们的生活中真有这么多神人女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人🚸，现居日本大阪，爱党爱国🇨🇳，常来宛平南路600号🏥，曾因偷吃桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 738,
+          "like_count": 6379,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 2571
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

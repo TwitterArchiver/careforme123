@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067135219493474764",
+    "created_at": "2026-06-17T12:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067229262525112670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2004038684274982914",
+          "start": 0,
+          "username": "LiweiY91381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067229262525112670",
+    "in_reply_to_user_id": "2004038684274982914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067214281339498514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiweiY91381 没见过哪个国家拉着美国人要罚款的\n也没见过哪个园区抓美国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067135219493474764",
+        "created_at": "2026-06-17T12:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067229262525112670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2004038684274982914",
+              "start": 0,
+              "username": "LiweiY91381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067229262525112670",
+        "in_reply_to_user_id": "2004038684274982914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067214281339498514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiweiY91381 没见过哪个国家拉着美国人要罚款的\n也没见过哪个园区抓美国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004038684274982914",
+        "conversation_id": "2067135219493474764",
+        "created_at": "2026-06-17T11:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067214281339498514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067214281339498514",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067135219493474764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 那不是亲华不亲华，那是垃圾地方，你们洋爹去了照样挨宰🤡🤡🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 777,
+          "like_count": 7293,
+          "listed_count": 6,
+          "media_count": 736,
+          "tweet_count": 2906
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-25T03:57:26.000Z",
+        "description": "欢迎关注YouTube@老姚不造谣\nhttps://t.co/qpdeXNXBha",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E8%80%81%E5%…",
+                "end": 41,
+                "expanded_url": "https://www.youtube.com/@%E8%80%81%E5%A7%9A%E4%B8%8D%E9%80%A0%E8%B0%A3",
+                "start": 18,
+                "url": "https://t.co/qpdeXNXBha"
+              }
+            ]
+          }
+        },
+        "id": "2004038684274982914",
+        "name": "老姚不造谣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012402333741887488/SlVchcBx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 129,
+          "like_count": 1,
+          "listed_count": 11,
+          "media_count": 231,
+          "tweet_count": 802
+        },
+        "url": "",
+        "username": "LiweiY91381",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2049700638817182042",
+    "created_at": "2026-04-30T04:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049702077077897553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049702077077897553",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049700638817182042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K7qWcfzcdAPW5Y9 毛主席也抽烟，抽烟无罪，烟头有理"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 165302,
+        "height": 720,
+        "media_key": "13_2049700428879716353",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049700428879716353/img/J4IvsvgYSmy9KTz-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049700428879716353/vid/avc1/320x320/MjPXxP0TYeWmjfoz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049700428879716353/vid/avc1/540x540/ojpZHwLaB2P01CvM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049700428879716353/vid/avc1/720x720/dfTzelupLL-Azs2m.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049700428879716353/pl/KijBf58ublpnXkgT.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2049700638817182042",
+        "created_at": "2026-04-30T04:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049702077077897553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049702077077897553",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049700638817182042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K7qWcfzcdAPW5Y9 毛主席也抽烟，抽烟无罪，烟头有理"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049700428879716353"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2049700638817182042",
+        "created_at": "2026-04-30T04:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049700638817182042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMfptEoSzQ",
+              "end": 80,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2049700638817182042/video/1",
+              "media_key": "13_2049700428879716353",
+              "start": 57,
+              "url": "https://t.co/cMfptEoSzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049700638817182042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说得太好了！\n公共场合禁止吸烟！👍\n\n农民工下班就该回家里躺平\n出门瞎转悠就是影响社会稳定\n\n你看习主席也不抽烟 https://t.co/cMfptEoSzQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2049335145208193267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 341,
+          "like_count": 4505,
+          "listed_count": 5,
+          "media_count": 510,
+          "tweet_count": 1850
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "女，汉族，河南驻马店人，小学学历，每天都看浪人新闻和跑路TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25334,
+          "following_count": 332,
+          "like_count": 1901,
+          "listed_count": 69,
+          "media_count": 1568,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

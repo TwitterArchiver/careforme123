@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2070736433711890879",
+    "created_at": "2026-06-27T05:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070736433711890879"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070736433711890879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "别再把流氓国家的失败怪到美国制裁头上了！\n\n恰恰相反，越失败，越流氓，越独裁，越没有人权的国家才越会被美国制裁\n\n对于那些独裁者，“美国制裁”是一个极其完美的挡箭牌。制裁是国家治理失败的终点，而不是起跑线。一个国家的崩盘，远远早于在美国制裁他\n\n再说，如果一个国家的体制 ，经济足够健康，市场充满活力，美国制裁他又能发挥出多大的力气？你要是真像自己宣传的那样遥遥领先，又怎么会怕制裁？\n\n路径是这样的：一个国家因为内部治理失败→经济危机，独裁，激进对外政策→引发国际反弹与美国制裁→统治者宣传“全是制裁害的”\n\n美国制裁你是因为你搞独裁，搞专制，不符合他们的价值观，要不然就是你像伊朗一样耍流氓，想搞核武器，危害了美国利益与全球\n\n谢谢大家"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别再把流氓国家的失败怪到美国制裁头上了！\n\n恰恰相反，越失败，越流氓，越独裁，越没有人权的国家才越会被美国制裁\n\n对于那些独裁者，“美国制裁”是一个极其完美的挡箭牌。制裁是国家治理失败的终点，而不是起跑线。一个国家的崩盘，远远早于在美国制裁他\n\n再说，如果一个国家的体制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2070736433711890879",
+        "created_at": "2026-06-27T05:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070736433711890879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070736433711890879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别再把流氓国家的失败怪到美国制裁头上了！\n\n恰恰相反，越失败，越流氓，越独裁，越没有人权的国家才越会被美国制裁\n\n对于那些独裁者，“美国制裁”是一个极其完美的挡箭牌。制裁是国家治理失败的终点，而不是起跑线。一个国家的崩盘，远远早于在美国制裁他\n\n再说，如果一个国家的体制 ，经济足够健康，市场充满活力，美国制裁他又能发挥出多大的力气？你要是真像自己宣传的那样遥遥领先，又怎么会怕制裁？\n\n路径是这样的：一个国家因为内部治理失败→经济危机，独裁，激进对外政策→引发国际反弹与美国制裁→统治者宣传“全是制裁害的”\n\n美国制裁你是因为你搞独裁，搞专制，不符合他们的价值观，要不然就是你像伊朗一样耍流氓，想搞核武器，危害了美国利益与全球\n\n谢谢大家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别再把流氓国家的失败怪到美国制裁头上了！\n\n恰恰相反，越失败，越流氓，越独裁，越没有人权的国家才越会被美国制裁\n\n对于那些独裁者，“美国制裁”是一个极其完美的挡箭牌。制裁是国家治理失败的终点，而不是起跑线。一个国家的崩盘，远远早于在美国制裁他\n\n再说，如果一个国家的体制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2373,
+          "following_count": 789,
+          "like_count": 7649,
+          "listed_count": 7,
+          "media_count": 762,
+          "tweet_count": 3029
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

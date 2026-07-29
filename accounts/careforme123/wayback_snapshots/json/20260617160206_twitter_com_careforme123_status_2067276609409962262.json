@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067235719169589704",
+    "created_at": "2026-06-17T16:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067276609409962262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1421734076755550213",
+          "start": 0,
+          "username": "mare__xxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067276609409962262",
+    "in_reply_to_user_id": "1421734076755550213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067235719169589704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mare__xxxx 别学了，浪费大脑储存空间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067235719169589704",
+        "created_at": "2026-06-17T16:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067276609409962262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1421734076755550213",
+              "start": 0,
+              "username": "mare__xxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067276609409962262",
+        "in_reply_to_user_id": "1421734076755550213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067235719169589704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mare__xxxx 别学了，浪费大脑储存空间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421734076755550213",
+        "conversation_id": "2067235719169589704",
+        "created_at": "2026-06-17T13:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067235719169589704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067235719169589704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1966,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私が知ってる中国語は谢谢と哥哥と姐姐だけ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2208,
+          "following_count": 777,
+          "like_count": 7316,
+          "listed_count": 6,
+          "media_count": 737,
+          "tweet_count": 2915
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-01T07:26:56.000Z",
+        "description": "251 @Hana_00011100 ♥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "Hana_00011100"
+              }
+            ]
+          }
+        },
+        "id": "1421734076755550213",
+        "location": "Internet Angel",
+        "name": "ゆな",
+        "pinned_tweet_id": "2066493466973237375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988542710391971840/SiVdGN8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 271,
+          "like_count": 2830,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2539
+        },
+        "username": "mare__xxxx",
+        "verified": false
+      }
+    ]
+  }
+}

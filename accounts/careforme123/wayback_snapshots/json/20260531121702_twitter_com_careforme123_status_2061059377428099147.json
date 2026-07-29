@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061059377428099147",
+    "created_at": "2026-05-31T12:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061059377428099147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061059377428099147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🟩毒品合法化\n🟩堕胎合法化\n🟩安乐死合法化\n🟩性工作合法化\n🟩废除死刑\n🟩承认跨性别\n🟩同性婚姻\n🟩第三种性别的存在\n🟩世俗主义\n🟩女性主义\n🟩允许多边恋\n🟩性伴侣\n\n🟥不同意\n🟨中立\n🟩同意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061059377428099147",
+        "created_at": "2026-05-31T12:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061059377428099147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061059377428099147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🟩毒品合法化\n🟩堕胎合法化\n🟩安乐死合法化\n🟩性工作合法化\n🟩废除死刑\n🟩承认跨性别\n🟩同性婚姻\n🟩第三种性别的存在\n🟩世俗主义\n🟩女性主义\n🟩允许多边恋\n🟩性伴侣\n\n🟥不同意\n🟨中立\n🟩同意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 740,
+          "like_count": 6576,
+          "listed_count": 5,
+          "media_count": 673,
+          "tweet_count": 2647
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

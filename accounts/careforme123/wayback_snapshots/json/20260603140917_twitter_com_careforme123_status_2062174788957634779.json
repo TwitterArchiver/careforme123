@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062174548808679425"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062174788957634779",
+    "created_at": "2026-06-03T14:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062174788957634779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ieKzV9CcD",
+          "end": 103,
+          "expanded_url": "https://x.com/careforme123/status/2062174788957634779/photo/1",
+          "media_key": "3_2062174548808679425",
+          "start": 80,
+          "url": "https://t.co/2ieKzV9CcD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062174788957634779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "火车迷，公交迷真的是一个非常神人的群体\n\n到底是什么原因能让他们对着一堆铁皮猴叫，并且毫无下限，打扰人家正常工作\n\n可能是这圈子小孩太多了吧，真的没有一点素质 https://t.co/2ieKzV9CcD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_2062174548808679425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5Q04aXwAElibd.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062174548808679425"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062174788957634779",
+        "created_at": "2026-06-03T14:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062174788957634779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ieKzV9CcD",
+              "end": 103,
+              "expanded_url": "https://x.com/careforme123/status/2062174788957634779/photo/1",
+              "media_key": "3_2062174548808679425",
+              "start": 80,
+              "url": "https://t.co/2ieKzV9CcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062174788957634779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火车迷，公交迷真的是一个非常神人的群体\n\n到底是什么原因能让他们对着一堆铁皮猴叫，并且毫无下限，打扰人家正常工作\n\n可能是这圈子小孩太多了吧，真的没有一点素质 https://t.co/2ieKzV9CcD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 740,
+          "like_count": 6719,
+          "listed_count": 5,
+          "media_count": 688,
+          "tweet_count": 2704
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

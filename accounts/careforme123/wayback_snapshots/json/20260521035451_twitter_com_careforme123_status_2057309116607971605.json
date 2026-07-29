@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057309022663872512"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2057309116607971605",
+    "created_at": "2026-05-21T03:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T04:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057309116607971605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1YT4uLqibd",
+          "end": 112,
+          "expanded_url": "https://x.com/careforme123/status/2057309116607971605/photo/1",
+          "media_key": "3_2057309022663872512",
+          "start": 89,
+          "url": "https://t.co/1YT4uLqibd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057309116607971605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "华为有多恶心\n\n他的汽车，平地崴脚、谁火抄谁、座椅能夹伤小孩、发布会现场都能抛锚。宣传时大打华为招牌，把所有功劳归于自己，但在质量出问题时，又迅速切割成“华为只是零部件供应商”\n\n他的手机，旗舰机能给你上清朝的芯片，万元机还在用usb2.0。拍个乒乓球能给你变成月亮，把P图包装成长焦牛逼，整个手机全是广告，半年价格就能腰斩\n\n他的自研，永远都在抄袭的路上，从靠抄袭起家那一刻就没停过。骂友商是抄袭狗、跪倒在西方供应链下，结果自己像素级致敬苹果就成了惊天自研、突破封锁、国货光环\n\n他的售后，一出事就是消费者操作不当，友商恶意抹黑，来到现场第一件事不是解决问题，是先盖上黑布怕被拍视频\n\n他的宣传，必须绑定爱国，比雷军还会玩文字游戏，一个ppt右下角全是蚂蚁字，同一个供应链友商是组装，自己是自研。暗地里想尽办法将自己塑造成国家希望，不买华为就是汉奸\n\n他的法务，只要你说华为一句坏话，能让抖音在一个小时内下架你的视频，一天内起诉你\n\n买华为的人，以为自己为国家科技发展做出了贡献，可他们把钱交给这种垃圾企业，实则是在助纣为虐，让中国科技永远停滞不前！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "华为有多恶心\n\n他的汽车，平地崴脚、谁火抄谁、座椅能夹伤小孩、发布会现场都能抛锚。宣传时大打华为招牌，把所有功劳归于自己，但在质量出问题时，又迅速切割成“华为只是零部件供应商” https://t.co/1YT4uLqibd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_2057309022663872512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0Hp_EWEAAHl5F.jpg",
+        "width": 647
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057309022663872512"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2057309116607971605",
+        "created_at": "2026-05-21T03:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057309116607971605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1YT4uLqibd",
+              "end": 112,
+              "expanded_url": "https://x.com/careforme123/status/2057309116607971605/photo/1",
+              "media_key": "3_2057309022663872512",
+              "start": 89,
+              "url": "https://t.co/1YT4uLqibd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057309116607971605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "华为有多恶心\n\n他的汽车，平地崴脚、谁火抄谁、座椅能夹伤小孩、发布会现场都能抛锚。宣传时大打华为招牌，把所有功劳归于自己，但在质量出问题时，又迅速切割成“华为只是零部件供应商”\n\n他的手机，旗舰机能给你上清朝的芯片，万元机还在用usb2.0。拍个乒乓球能给你变成月亮，把P图包装成长焦牛逼，整个手机全是广告，半年价格就能腰斩\n\n他的自研，永远都在抄袭的路上，从靠抄袭起家那一刻就没停过。骂友商是抄袭狗、跪倒在西方供应链下，结果自己像素级致敬苹果就成了惊天自研、突破封锁、国货光环\n\n他的售后，一出事就是消费者操作不当，友商恶意抹黑，来到现场第一件事不是解决问题，是先盖上黑布怕被拍视频\n\n他的宣传，必须绑定爱国，比雷军还会玩文字游戏，一个ppt右下角全是蚂蚁字，同一个供应链友商是组装，自己是自研。暗地里想尽办法将自己塑造成国家希望，不买华为就是汉奸\n\n他的法务，只要你说华为一句坏话，能让抖音在一个小时内下架你的视频，一天内起诉你\n\n买华为的人，以为自己为国家科技发展做出了贡献，可他们把钱交给这种垃圾企业，实则是在助纣为虐，让中国科技永远停滞不前！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "华为有多恶心\n\n他的汽车，平地崴脚、谁火抄谁、座椅能夹伤小孩、发布会现场都能抛锚。宣传时大打华为招牌，把所有功劳归于自己，但在质量出问题时，又迅速切割成“华为只是零部件供应商” https://t.co/1YT4uLqibd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2057038855040016499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 661,
+          "like_count": 5928,
+          "listed_count": 6,
+          "media_count": 640,
+          "tweet_count": 2418
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

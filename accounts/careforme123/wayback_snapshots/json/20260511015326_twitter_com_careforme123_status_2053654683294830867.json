@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2053545425240506698",
+    "created_at": "2026-05-11T01:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T02:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053654683294830867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "394797065",
+          "start": 0,
+          "username": "LiYuan6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053654683294830867",
+    "in_reply_to_user_id": "394797065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053545425240506698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiYuan6 发韩国人吃不起西瓜，日本人吃不起米饭，不会下架"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053545425240506698",
+        "created_at": "2026-05-11T01:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053654683294830867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "394797065",
+              "start": 0,
+              "username": "LiYuan6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053654683294830867",
+        "in_reply_to_user_id": "394797065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053545425240506698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiYuan6 发韩国人吃不起西瓜，日本人吃不起米饭，不会下架"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "394797065",
+        "conversation_id": "2053545425240506698",
+        "created_at": "2026-05-10T18:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053545425240506698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2053485208335163453",
+              "start": 29,
+              "url": "https://t.co/umuaDw41bQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053545425240506698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4959,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053485208335163453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个报告真不错。现在还有什么反映生存现实的不会被下架吗？ https://t.co/umuaDw41bQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 504,
+          "like_count": 5222,
+          "listed_count": 5,
+          "media_count": 574,
+          "tweet_count": 2127
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-20T16:55:22.000Z",
+        "description": "NYT Asia tech columnist 不明白播客主持人 Views here are my own  联系请用li.yuan AT nytimes. com 或者 FreeFrom公匙npub1nc3azwxkfaj96n85sujpcvy5mmn72hm3rzxklqqaklmzrwlljrqsfgsyca",
+        "id": "394797065",
+        "location": "New York, NY",
+        "name": "Li Yuan袁莉",
+        "pinned_tweet_id": "2051259366217584894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881149356/LiUdaipur_normal.JPG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139311,
+          "following_count": 1709,
+          "like_count": 12107,
+          "listed_count": 1439,
+          "media_count": 462,
+          "tweet_count": 11314
+        },
+        "username": "LiYuan6",
+        "verified": true
+      }
+    ]
+  }
+}

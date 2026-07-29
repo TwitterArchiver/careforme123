@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063199912695562240"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2063200230158262700",
+    "created_at": "2026-06-06T10:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063200230158262700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AFtZADIyK7",
+          "end": 41,
+          "expanded_url": "https://x.com/careforme123/status/2063200230158262700/video/1",
+          "media_key": "13_2063199912695562240",
+          "start": 18,
+          "url": "https://t.co/AFtZADIyK7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063200230158262700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可怜的狗子，想偷吃东西差点被烫熟了 https://t.co/AFtZADIyK7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31138,
+        "height": 1080,
+        "media_key": "13_2063199912695562240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063199912695562240/img/uu9oaVJm6RyNS6A1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063199912695562240/vid/avc1/720x720/X-f2xgU9hKLFfziN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063199912695562240/vid/avc1/540x540/V4NA1smtxOzwWnLP.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063199912695562240/vid/avc1/320x320/M7gmBaNjT_dYv5HG.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063199912695562240/vid/avc1/1080x1080/P7mUFTAWxIGzyNmq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063199912695562240/pl/-hok1RU0m6y7-iUc.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063199912695562240"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2063200230158262700",
+        "created_at": "2026-06-06T10:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063200230158262700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFtZADIyK7",
+              "end": 41,
+              "expanded_url": "https://x.com/careforme123/status/2063200230158262700/video/1",
+              "media_key": "13_2063199912695562240",
+              "start": 18,
+              "url": "https://t.co/AFtZADIyK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063200230158262700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可怜的狗子，想偷吃东西差点被烫熟了 https://t.co/AFtZADIyK7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 763,
+          "like_count": 6963,
+          "listed_count": 5,
+          "media_count": 700,
+          "tweet_count": 2779
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2063085972376756518",
+    "created_at": "2026-06-06T02:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063088330275803277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063088330275803277",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063085972376756518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 不审稿吗？5月6号是多久？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5224,
+        "height": 1280,
+        "media_key": "13_2063012057885048832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063012057885048832/img/Xeu5Jc0vVD0mxrlz.jpg",
+        "public_metrics": {
+          "view_count": 462
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063012057885048832/vid/avc1/320x702/mr0CGpgacn3HwbEp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063012057885048832/vid/avc1/480x1054/cz79G1O6U4mVH5Xv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063012057885048832/vid/avc1/582x1280/DqhoQM1w1_1Mq-of.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063012057885048832/pl/4Q1wl81cZKN6hJz-.m3u8"
+          }
+        ],
+        "width": 582
+      },
+      {
+        "duration_ms": 5619,
+        "height": 1280,
+        "media_key": "13_2063012064814071808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063012064814071808/img/TyDNPociJX_mLmFq.jpg",
+        "public_metrics": {
+          "view_count": 82
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063012064814071808/vid/avc1/320x702/Q7zd0YvY1TmvVa48.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063012064814071808/vid/avc1/480x1054/bEwdDiC7zR-GiV8O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063012064814071808/vid/avc1/582x1280/E_pFgQqM3rrvYuaS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063012064814071808/pl/-nlEt3jjIGqCFZQl.m3u8"
+          }
+        ],
+        "width": 582
+      },
+      {
+        "duration_ms": 16207,
+        "height": 1280,
+        "media_key": "13_2063012071206211584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063012071206211584/img/vRW-wN84bUqNzxoL.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063012071206211584/vid/avc1/320x702/bRjL-0fnfdmQFuPY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063012071206211584/vid/avc1/480x1054/bHkk4A2pqs-Db47L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063012071206211584/vid/avc1/582x1280/HGgK1sjdS5DnCArk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063012071206211584/pl/NJsmfc89olL-FWRv.m3u8"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2063085972376756518",
+        "created_at": "2026-06-06T02:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063088330275803277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063088330275803277",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063085972376756518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 不审稿吗？5月6号是多久？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063012057885048832",
+            "13_2063012064814071808",
+            "13_2063012071206211584"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2063085972376756518",
+        "created_at": "2026-06-06T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063085972376756518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKyyaDTye0",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063085972376756518/video/1",
+              "media_key": "13_2063012057885048832",
+              "start": 89,
+              "url": "https://t.co/FKyyaDTye0"
+            },
+            {
+              "display_url": "pic.x.com/FKyyaDTye0",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063085972376756518/video/1",
+              "media_key": "13_2063012064814071808",
+              "start": 89,
+              "url": "https://t.co/FKyyaDTye0"
+            },
+            {
+              "display_url": "pic.x.com/FKyyaDTye0",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063085972376756518/video/1",
+              "media_key": "13_2063012071206211584",
+              "start": 89,
+              "url": "https://t.co/FKyyaDTye0"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2062997473979764754",
+              "start": 113,
+              "url": "https://t.co/nPMn6N89pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063085972376756518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2155,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062997473979764754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“韩国全国地方选举涉嫌舞弊，爆发大规模韩国公民抗议”\n\n5月6日晚，为了应对庞大的抗议民众，大批警力介入，手持防暴盾牌的警力在场馆外排开并启动警示灯，抗议的民众们还在继续坚持。 https://t.co/FKyyaDTye0 https://t.co/nPMn6N89pp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 765,
+          "like_count": 6960,
+          "listed_count": 5,
+          "media_count": 698,
+          "tweet_count": 2774
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235760,
+          "following_count": 1068,
+          "like_count": 9635,
+          "listed_count": 8793,
+          "media_count": 48011,
+          "tweet_count": 55161
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

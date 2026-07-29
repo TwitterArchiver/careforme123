@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2052876581455212610",
+    "created_at": "2026-05-09T02:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052942946572673303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845607538512797696",
+          "start": 0,
+          "username": "Justice53_07_27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052942946572673303",
+    "in_reply_to_user_id": "1845607538512797696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052876581455212610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Justice53_07_27 看到这么多人喷你我就知道人类还有希望"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_2052872533494620160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1EsVAaYAAa7hl.jpg",
+        "width": 1805
+      },
+      {
+        "height": 955,
+        "media_key": "3_2052872556773027840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH1EtruasAAr-Ad.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2052876581455212610",
+        "created_at": "2026-05-09T02:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052942946572673303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845607538512797696",
+              "start": 0,
+              "username": "Justice53_07_27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052942946572673303",
+        "in_reply_to_user_id": "1845607538512797696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052876581455212610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Justice53_07_27 看到这么多人喷你我就知道人类还有希望"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052872533494620160",
+            "3_2052872556773027840"
+          ]
+        },
+        "author_id": "1845607538512797696",
+        "conversation_id": "2052876581455212610",
+        "created_at": "2026-05-08T22:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:20:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052876229121089600",
+          "2052876581455212610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLa4PQkfpO",
+              "end": 157,
+              "expanded_url": "https://x.com/Justice53_07_27/status/2052876581455212610/photo/1",
+              "media_key": "3_2052872533494620160",
+              "start": 134,
+              "url": "https://t.co/jLa4PQkfpO"
+            },
+            {
+              "display_url": "pic.x.com/jLa4PQkfpO",
+              "end": 157,
+              "expanded_url": "https://x.com/Justice53_07_27/status/2052876581455212610/photo/1",
+              "media_key": "3_2052872556773027840",
+              "start": 134,
+              "url": "https://t.co/jLa4PQkfpO"
+            },
+            {
+              "display_url": "x.com/yjh29640319/st…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/yjh29640319/status/2052494527777112533",
+              "start": 158,
+              "url": "https://t.co/mo9h5rNDQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052876581455212610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现最心心念念清朝时期割让出去的领土的都是挂着各种梯子的岛上精神日杂（我指在原帖下面冷嘲热讽的那些东西），以后解放后一定要记着让这些人去收复外东北之类的地方，满足它们的愿望。\n\n我就不说天气更恶劣的外东北了，据统计现在东北人口都在不断流出，以后振兴东北就靠岛民了。\n\n认真说的话，如果几百年前的领土都要溯源的话，那现在美国人99%都要哪里来滚回哪里去，白皮们回欧洲，黑蜀黍回非洲，然后把土地还给几百万印第安人。琉球，加拿大，澳洲，英国的各种海外飞地也跑不掉，最后千万别漏了美国的爸爸，人家强抢的土地还不到50年呢，对不对？\n\n现在的局势要打个比喻的话，就好比你爷爷的爷爷的爷爷和你邻居爷爷的爷爷的爷爷曾经闹过矛盾，但是今天你和邻居关系还不错甚至还有点互补。这时候村里有个恶霸拿着刀带着一群小弟在你们门口天天威胁要捅死你和你的邻居，这时候你是应该先和邻居把这个恶霸打死，还是为了你们爷爷的爷爷的爷爷的恩怨拼个你死我活？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4718,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052494527777112533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现最心心念念清朝时期割让出去的领土的都是挂着各种梯子的岛上精神日杂（我指在原帖下面冷嘲热讽的那些东西），以后解放后一定要记着让这些人去收复外东北之类的地方，满足它们的愿望。\n\n我就不说天气更恶劣的外东北了，据统计现在东北人口都在不断流出，以后振兴东北就靠岛民了。 https://t.co/jLa4PQkfpO https://t.co/mo9h5rNDQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2052673804934238647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 456,
+          "like_count": 4989,
+          "listed_count": 5,
+          "media_count": 557,
+          "tweet_count": 2047
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T23:28:34.000Z",
+        "description": "理科男，喜欢搬运事实，喜欢怼谣棍，喜欢原神，喜欢中国，喜欢加州，正义必胜。",
+        "id": "1845607538512797696",
+        "location": "SoCal",
+        "name": "谣言终结者",
+        "pinned_tweet_id": "2048327234189205813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041199539512836096/lor_xCDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3526,
+          "following_count": 290,
+          "like_count": 1859,
+          "listed_count": 48,
+          "media_count": 1371,
+          "tweet_count": 4310
+        },
+        "username": "Justice53_07_27",
+        "verified": true
+      }
+    ]
+  }
+}

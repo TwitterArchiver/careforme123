@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056383704461910309",
+    "created_at": "2026-05-18T15:29:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:29:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056396723430318157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "908577293420728321",
+          "start": 0,
+          "username": "ABQQkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056396723430318157",
+    "in_reply_to_user_id": "908577293420728321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056383704461910309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABQQkg 一个月就抑郁症了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2056383687378534400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIm-EYgbAAALe76.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056383704461910309",
+        "created_at": "2026-05-18T15:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056396723430318157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "908577293420728321",
+              "start": 0,
+              "username": "ABQQkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056396723430318157",
+        "in_reply_to_user_id": "908577293420728321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056383704461910309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABQQkg 一个月就抑郁症了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056383687378534400"
+          ]
+        },
+        "author_id": "908577293420728321",
+        "conversation_id": "2056383704461910309",
+        "created_at": "2026-05-18T14:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056383704461910309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l57I8BhIuC",
+              "end": 55,
+              "expanded_url": "https://x.com/ABQQkg/status/2056383704461910309/photo/1",
+              "media_key": "3_2056383687378534400",
+              "start": 32,
+              "url": "https://t.co/l57I8BhIuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056383704461910309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种傻逼、脑残、极端狗。\n\n现实生活中，应该也是很挫的那种吧。 https://t.co/l57I8BhIuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 615,
+          "like_count": 5775,
+          "listed_count": 6,
+          "media_count": 630,
+          "tweet_count": 2354
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-15T06:24:42.000Z",
+        "description": "此人不简单，因此没有简介！\n•\nHODL $BTC 🧌",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 25,
+                "start": 21,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "908577293420728321",
+        "name": "ABQQ",
+        "pinned_tweet_id": "2038629895446913505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029465993999990784/gOwJkSdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3266,
+          "following_count": 3266,
+          "like_count": 3663,
+          "listed_count": 9,
+          "media_count": 1316,
+          "tweet_count": 10957
+        },
+        "username": "ABQQkg",
+        "verified": true
+      }
+    ]
+  }
+}

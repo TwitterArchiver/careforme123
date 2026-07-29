@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058176027126276592",
+    "created_at": "2026-05-23T13:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058179204970070235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565122117472886785",
+          "start": 0,
+          "username": "ananluluanan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058179204970070235",
+    "in_reply_to_user_id": "1565122117472886785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058176027126276592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ananluluanan 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058176027126276592",
+        "created_at": "2026-05-23T13:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058179204970070235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565122117472886785",
+              "start": 0,
+              "username": "ananluluanan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058179204970070235",
+        "in_reply_to_user_id": "1565122117472886785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058176027126276592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ananluluanan 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565122117472886785",
+        "conversation_id": "2058176027126276592",
+        "created_at": "2026-05-23T13:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058176027126276592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058176027126276592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️ 加州橙縣危機升級！\n加州橙縣34,000加侖易燃化學槽「無法控制」，官員警告可能引發大爆炸！4萬居民緊急疏散中。\n（情況已達臨界，熱失控或災難性洩漏一觸即發）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 717,
+          "like_count": 6081,
+          "listed_count": 6,
+          "media_count": 650,
+          "tweet_count": 2460
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-31T23:39:48.000Z",
+        "description": "台灣比特幣老男孩 💎 |  AI 玩轉加密日常\n BTC 真實手單、即時消息、血淚心得 +台灣人買幣避雷攻略 暴漲暴跌都愛！睡的著 待的久 ⚡ 台北男孩｜1986年生 ⚾ \n#蓝V互关#F4F#相互フォロー 🔥 用我的 OKX 邀請碼註冊，最高45%優惠\nhttps://t.co/knqdblPOdN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "okx.com/join/56829750",
+                "end": 151,
+                "expanded_url": "https://okx.com/join/56829750",
+                "start": 128,
+                "url": "https://t.co/knqdblPOdN"
+              }
+            ]
+          }
+        },
+        "id": "1565122117472886785",
+        "location": "Taipei City, Taiwan",
+        "name": "大橋頭安公子🫂蓝V互关",
+        "pinned_tweet_id": "2045406042759348455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044292050930356224/vMINj_FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326,
+          "following_count": 7102,
+          "like_count": 2551,
+          "listed_count": 1,
+          "media_count": 1150,
+          "tweet_count": 3003
+        },
+        "username": "ananluluanan",
+        "verified": true
+      }
+    ]
+  }
+}

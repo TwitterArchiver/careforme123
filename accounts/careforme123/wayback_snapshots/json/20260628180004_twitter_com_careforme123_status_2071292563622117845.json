@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071291750782816256",
+        "3_2071292443262418944"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2071292563622117845",
+    "created_at": "2026-06-28T18:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T19:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071292563622117845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h2xV2Sojgl",
+          "end": 144,
+          "expanded_url": "https://x.com/careforme123/status/2071292563622117845/photo/1",
+          "media_key": "3_2071291750782816256",
+          "start": 121,
+          "url": "https://t.co/h2xV2Sojgl"
+        },
+        {
+          "display_url": "pic.x.com/h2xV2Sojgl",
+          "end": 144,
+          "expanded_url": "https://x.com/careforme123/status/2071292563622117845/photo/1",
+          "media_key": "3_2071292443262418944",
+          "start": 121,
+          "url": "https://t.co/h2xV2Sojgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071292563622117845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "张桂梅就是个装货，手上绑一堆屁用没有的绷带，每次吃几个淀粉片都要拍个视频\n\n还专门培养做题区，要是中国的学校都像她那一样，那真是完了，越来越卷，却毫无用处。他就是个爱卖惨的张雪峰，这种人不应该被歌颂，应该被全国人民抵制\n\n哎，真是恶心到我了 https://t.co/h2xV2Sojgl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_2071291750782816256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6034ebUAAIDKI.png",
+        "width": 491
+      },
+      {
+        "height": 749,
+        "media_key": "3_2071292443262418944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL61gMKbgAAaDOM.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071291750782816256",
+            "3_2071292443262418944"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2071292563622117845",
+        "created_at": "2026-06-28T18:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071292563622117845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2xV2Sojgl",
+              "end": 144,
+              "expanded_url": "https://x.com/careforme123/status/2071292563622117845/photo/1",
+              "media_key": "3_2071291750782816256",
+              "start": 121,
+              "url": "https://t.co/h2xV2Sojgl"
+            },
+            {
+              "display_url": "pic.x.com/h2xV2Sojgl",
+              "end": 144,
+              "expanded_url": "https://x.com/careforme123/status/2071292563622117845/photo/1",
+              "media_key": "3_2071292443262418944",
+              "start": 121,
+              "url": "https://t.co/h2xV2Sojgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071292563622117845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "张桂梅就是个装货，手上绑一堆屁用没有的绷带，每次吃几个淀粉片都要拍个视频\n\n还专门培养做题区，要是中国的学校都像她那一样，那真是完了，越来越卷，却毫无用处。他就是个爱卖惨的张雪峰，这种人不应该被歌颂，应该被全国人民抵制\n\n哎，真是恶心到我了 https://t.co/h2xV2Sojgl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 790,
+          "like_count": 7685,
+          "listed_count": 6,
+          "media_count": 767,
+          "tweet_count": 3039
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

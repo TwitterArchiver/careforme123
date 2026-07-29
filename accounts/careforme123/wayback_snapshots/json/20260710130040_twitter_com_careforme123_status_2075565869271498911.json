@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075565424813780992"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2075565869271498911",
+    "created_at": "2026-07-10T13:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075565869271498911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hJAhSAKRTj",
+          "end": 45,
+          "expanded_url": "https://x.com/careforme123/status/2075565869271498911/photo/1",
+          "media_key": "3_2075565424813780992",
+          "start": 22,
+          "url": "https://t.co/hJAhSAKRTj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075565869271498911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国的戒网瘾学校，正在成为侵犯幼女的集中营 https://t.co/hJAhSAKRTj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2075565424813780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3jwc4bsAAILzo.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075565424813780992"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2075565869271498911",
+        "created_at": "2026-07-10T13:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075565869271498911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJAhSAKRTj",
+              "end": 45,
+              "expanded_url": "https://x.com/careforme123/status/2075565869271498911/photo/1",
+              "media_key": "3_2075565424813780992",
+              "start": 22,
+              "url": "https://t.co/hJAhSAKRTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075565869271498911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国的戒网瘾学校，正在成为侵犯幼女的集中营 https://t.co/hJAhSAKRTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 793,
+          "like_count": 7828,
+          "listed_count": 9,
+          "media_count": 806,
+          "tweet_count": 3117
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

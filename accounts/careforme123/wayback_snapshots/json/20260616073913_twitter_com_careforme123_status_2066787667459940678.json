@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066787011315556352",
+        "3_2066787046900060160"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2066787667459940678",
+    "created_at": "2026-06-16T07:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:36:58.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066787099127484705",
+      "2066787667459940678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 49,
+          "id": "1797783548545409025",
+          "start": 33,
+          "username": "SpoxCHN_LinJian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oFeCvz9nyp",
+          "end": 123,
+          "expanded_url": "https://x.com/careforme123/status/2066787667459940678/photo/1",
+          "media_key": "3_2066787011315556352",
+          "start": 100,
+          "url": "https://t.co/oFeCvz9nyp"
+        },
+        {
+          "display_url": "pic.x.com/oFeCvz9nyp",
+          "end": 123,
+          "expanded_url": "https://x.com/careforme123/status/2066787667459940678/photo/1",
+          "media_key": "3_2066787046900060160",
+          "start": 100,
+          "url": "https://t.co/oFeCvz9nyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066787667459940678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欧盟称中国长期训练俄罗斯士兵在乌克兰作战\n\n对此，外交部发言人林剑@SpoxCHN_LinJian于今日表示：有关说法没有事实依据，纯属污蔑抹黑\n\n“抹黑”这个词用的就很耐人寻味啊，你们品一下... https://t.co/oFeCvz9nyp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_2066787011315556352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6z1iPa4AA2e9R.jpg",
+        "width": 1050
+      },
+      {
+        "height": 300,
+        "media_key": "3_2066787046900060160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6z3mzbUAAeN4A.jpg",
+        "width": 470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066787011315556352",
+            "3_2066787046900060160"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2066787099127484705",
+        "created_at": "2026-06-16T07:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:36:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066787099127484705",
+          "2066787667459940678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFXyLlowZR",
+              "end": 107,
+              "expanded_url": "https://x.com/careforme123/status/2066787099127484705/photo/1",
+              "media_key": "3_2066787011315556352",
+              "start": 84,
+              "url": "https://t.co/MFXyLlowZR"
+            },
+            {
+              "display_url": "pic.x.com/MFXyLlowZR",
+              "end": 107,
+              "expanded_url": "https://x.com/careforme123/status/2066787099127484705/photo/1",
+              "media_key": "3_2066787046900060160",
+              "start": 84,
+              "url": "https://t.co/MFXyLlowZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066787099127484705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欧盟称中国长期训练俄罗斯士兵在乌克兰作战\n\n对此，外交部发言人林剑于今日表示：有关说法没有事实依据，纯属污蔑抹黑\n\n“抹黑”这个词用的就很耐人寻味啊，你们品一下... https://t.co/MFXyLlowZR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066787011315556352",
+            "3_2066787046900060160"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2066787667459940678",
+        "created_at": "2026-06-16T07:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:36:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066787099127484705",
+          "2066787667459940678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1797783548545409025",
+              "start": 33,
+              "username": "SpoxCHN_LinJian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFeCvz9nyp",
+              "end": 123,
+              "expanded_url": "https://x.com/careforme123/status/2066787667459940678/photo/1",
+              "media_key": "3_2066787011315556352",
+              "start": 100,
+              "url": "https://t.co/oFeCvz9nyp"
+            },
+            {
+              "display_url": "pic.x.com/oFeCvz9nyp",
+              "end": 123,
+              "expanded_url": "https://x.com/careforme123/status/2066787667459940678/photo/1",
+              "media_key": "3_2066787046900060160",
+              "start": 100,
+              "url": "https://t.co/oFeCvz9nyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066787667459940678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欧盟称中国长期训练俄罗斯士兵在乌克兰作战\n\n对此，外交部发言人林剑@SpoxCHN_LinJian于今日表示：有关说法没有事实依据，纯属污蔑抹黑\n\n“抹黑”这个词用的就很耐人寻味啊，你们品一下... https://t.co/oFeCvz9nyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 772,
+          "like_count": 7200,
+          "listed_count": 6,
+          "media_count": 729,
+          "tweet_count": 2880
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-04T00:13:54.000Z",
+        "description": "Spokesperson of Ministry of Foreign Affairs of China\nDeputy Director General, Department of Press, Communication and Public Diplomacy",
+        "id": "1797783548545409025",
+        "name": "Lin Jian 林剑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799684400965140480/d6Mu5BJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112953,
+          "following_count": 217,
+          "like_count": 9,
+          "listed_count": 567,
+          "media_count": 1771,
+          "tweet_count": 2084
+        },
+        "username": "SpoxCHN_LinJian",
+        "verified": true
+      }
+    ]
+  }
+}

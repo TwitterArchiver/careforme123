@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054407204908974081"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2054404637260697746",
+    "created_at": "2026-05-13T03:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054407211313713616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "realQinYuele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kt1Zk1wlnf",
+          "end": 48,
+          "expanded_url": "https://x.com/careforme123/status/2054407211313713616/photo/1",
+          "media_key": "3_2054407204908974081",
+          "start": 25,
+          "url": "https://t.co/kt1Zk1wlnf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054407211313713616",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054404637260697746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realQinYuele 芙宁娜拿公式，第6条 https://t.co/kt1Zk1wlnf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2054407204908974081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK4d9iaQAErnui.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054407204908974081"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2054404637260697746",
+        "created_at": "2026-05-13T03:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054407211313713616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "realQinYuele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kt1Zk1wlnf",
+              "end": 48,
+              "expanded_url": "https://x.com/careforme123/status/2054407211313713616/photo/1",
+              "media_key": "3_2054407204908974081",
+              "start": 25,
+              "url": "https://t.co/kt1Zk1wlnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054407211313713616",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054404637260697746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realQinYuele 芙宁娜拿公式，第6条 https://t.co/kt1Zk1wlnf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950548412140494848",
+        "conversation_id": "2054404637260697746",
+        "created_at": "2026-05-13T03:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054404637260697746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054404637260697746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我红色贵族朋友告诉我，彭丽媛刚出生时，父母给她起的名字叫做彭弟援。后来读小学，去公安局上户口的时候，工作人员实在看不下去才登记为彭丽媛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 541,
+          "like_count": 5416,
+          "listed_count": 5,
+          "media_count": 598,
+          "tweet_count": 2215
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "Senior correspondent at Langxin News focusing on East Asian socio-political dynamics, digital civil rights, and emerging internet subcultures.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "location": "Prague, Czech Republic",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26128,
+          "following_count": 344,
+          "like_count": 1985,
+          "listed_count": 72,
+          "media_count": 1643,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "realQinYuele",
+        "verified": false
+      }
+    ]
+  }
+}

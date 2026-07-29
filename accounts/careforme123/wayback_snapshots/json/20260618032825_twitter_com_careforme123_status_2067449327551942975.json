@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067431471577743619",
+    "created_at": "2026-06-18T03:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067449327551942975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926173104201461760",
+          "start": 0,
+          "username": "BuryatGirlLoveU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067449327551942975",
+    "in_reply_to_user_id": "1926173104201461760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067431471577743619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BuryatGirlLoveU 看来得高分的必要条件是残害几千万本国人民👍👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067431471577743619",
+        "created_at": "2026-06-18T03:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067449327551942975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926173104201461760",
+              "start": 0,
+              "username": "BuryatGirlLoveU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067449327551942975",
+        "in_reply_to_user_id": "1926173104201461760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067431471577743619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BuryatGirlLoveU 看来得高分的必要条件是残害几千万本国人民👍👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926173104201461760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565298094027128832",
+              "name": "Mikhail Gorbachev"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1565298094027128832",
+              "name": "Mikhail Gorbachev"
+            }
+          },
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "2067431471577743619",
+        "created_at": "2026-06-18T02:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067431471577743619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067431471577743619",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Иимэ түүхэтэ хүнүүдые сэгнэгты:\n\nЛенин 98\nТроцкиин 100\nСталин 83\nМаленков 59\nХрущев 77\nБрежневэй 13\nГорбачев 10\nЕльцин 15\nПутин 1\nЧойбалсаан 93\nСухбаатар 93\nУланхүү 96\nБоян Манду 88\nСун Ятсен 72\nЧан Кайши 13\nМао Цзэдун 96\nДэн Сяопин 5\nЦзян Цзэмин 31\nХу Цзиньтао 45\nСи Цзиньпин 0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 778,
+          "like_count": 7348,
+          "listed_count": 6,
+          "media_count": 739,
+          "tweet_count": 2928
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T07:07:19.000Z",
+        "description": "Буряад☭, эхэнэр, уролог, марксист.Мао Зэдун, Троцки, Роза Люксембург нарыг дэмж.Ород гүрэнһөө🇷🇺.\n☭❤️，🇲🇳❤️，🏳️‍⚧️❤️，🇫🇷❤️，🇺🇦❤️\nf**king🇷🇺🇰🇵🇻🇳🇨🇳🇰🇭",
+        "id": "1926173104201461760",
+        "location": "Улаан-Үдэ,Буряад Орон.",
+        "name": "Луралуралура",
+        "pinned_tweet_id": "2064624624231752042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064964323676676096/FsfvF4Hi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 509,
+          "like_count": 13734,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1490
+        },
+        "url": "",
+        "username": "BuryatGirlLoveU",
+        "verified": false
+      }
+    ]
+  }
+}

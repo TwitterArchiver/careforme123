@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2052999546305982674",
+    "created_at": "2026-05-09T13:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053106580531659197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807721946765041664",
+          "start": 0,
+          "username": "zhuh232670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053106580531659197",
+    "in_reply_to_user_id": "1807721946765041664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053105139758571976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuh232670 别顶着你这个路边头像了，你们这些皇汉换毛爷爷来只会被虐的更惨🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2052999546305982674",
+        "created_at": "2026-05-09T13:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053106580531659197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807721946765041664",
+              "start": 0,
+              "username": "zhuh232670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053106580531659197",
+        "in_reply_to_user_id": "1807721946765041664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053105139758571976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuh232670 别顶着你这个路边头像了，你们这些皇汉换毛爷爷来只会被虐的更惨🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807721946765041664",
+        "conversation_id": "2052999546305982674",
+        "created_at": "2026-05-09T13:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053105139758571976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053105139758571976",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052999546305982674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 民国统治时期人均寿命30岁、识字率百分之五、军阀割据连年战乱、大饥荒数不胜数、花园口决堤、何梅协定、东北不抵抗政策、解放战争使用毒气弹、把日本战犯奉为座上宾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 465,
+          "like_count": 5050,
+          "listed_count": 5,
+          "media_count": 561,
+          "tweet_count": 2069
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-01T10:24:51.000Z",
+        "description": "",
+        "id": "1807721946765041664",
+        "name": "周和",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045144334631387136/bLRUE4lJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 26,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 258
+        },
+        "username": "zhuh232670",
+        "verified": false
+      }
+    ]
+  }
+}

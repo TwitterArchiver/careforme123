@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2067135219493474764",
+    "created_at": "2026-06-17T09:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067181685977047351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042906322937499648",
+          "start": 0,
+          "username": "Diaotaida5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067181685977047351",
+    "in_reply_to_user_id": "2042906322937499648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067156041146474545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diaotaida5 免签国家的含金量"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1586,
+        "media_key": "3_2067156031868665856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLADdW7WgAA655h.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2067135219493474764",
+        "created_at": "2026-06-17T09:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067181685977047351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042906322937499648",
+              "start": 0,
+              "username": "Diaotaida5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067181685977047351",
+        "in_reply_to_user_id": "2042906322937499648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067156041146474545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diaotaida5 免签国家的含金量"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067156031868665856"
+          ]
+        },
+        "author_id": "2042906322937499648",
+        "conversation_id": "2067135219493474764",
+        "created_at": "2026-06-17T08:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067156041146474545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1jal4Cg7J",
+              "end": 82,
+              "expanded_url": "https://x.com/Diaotaida5/status/2067156041146474545/photo/1",
+              "media_key": "3_2067156031868665856",
+              "start": 59,
+              "url": "https://t.co/U1jal4Cg7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067156041146474545",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067135219493474764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 中国人旅游别去美国欧洲日本澳大利亚这些地方，中国人旅游就去阿富汗，南苏丹，刚果金，索马里 https://t.co/U1jal4Cg7J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2066850265366769835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 777,
+          "like_count": 7293,
+          "listed_count": 6,
+          "media_count": 736,
+          "tweet_count": 2905
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T10:04:14.000Z",
+        "description": "哎卧槽四个号一起炸了\n此生无悔入华夏，来世还做中国人\n上推特之前：习近平是谁，不认识\n上推特之后：老人瞻仰，轻关易道，通商宽衣，金科律玉，精甚细腻，颐使气指，疯狂宇宙，萨格尔王，PM250，疫情迁灭战，兵帮外交",
+        "id": "2042906322937499648",
+        "location": "以色列",
+        "name": "正球级包蜜5🇮🇱🇺🇸推友寻回中",
+        "pinned_tweet_id": "2066515985268375919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047251250224246785/Nl_EqY2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 99,
+          "like_count": 5584,
+          "listed_count": 1,
+          "media_count": 1297,
+          "tweet_count": 2562
+        },
+        "username": "Diaotaida5",
+        "verified": true
+      }
+    ]
+  }
+}

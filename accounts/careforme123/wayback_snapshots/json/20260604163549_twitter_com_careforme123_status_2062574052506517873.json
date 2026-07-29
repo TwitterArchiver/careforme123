@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2061379423363092483",
+    "created_at": "2026-06-04T16:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062574052506517873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2041394022623956992",
+          "start": 0,
+          "username": "Natsumeann870"
+        },
+        {
+          "end": 26,
+          "id": "1318180670",
+          "start": 15,
+          "username": "puzzlerlee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062574052506517873",
+    "in_reply_to_user_id": "2041394022623956992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061379423363092483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsumeann870 @puzzlerlee 不遮id吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2061379414211149824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt9p9NbwAA1V-7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 944,
+        "media_key": "3_2061379414223699968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt9p9QbQAAL8Lo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2061379423363092483",
+        "created_at": "2026-06-04T16:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062574052506517873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2041394022623956992",
+              "start": 0,
+              "username": "Natsumeann870"
+            },
+            {
+              "end": 26,
+              "id": "1318180670",
+              "start": 15,
+              "username": "puzzlerlee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062574052506517873",
+        "in_reply_to_user_id": "2041394022623956992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061379423363092483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsumeann870 @puzzlerlee 不遮id吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061379414211149824",
+            "3_2061379414223699968"
+          ]
+        },
+        "author_id": "2041394022623956992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061379423363092483",
+        "created_at": "2026-06-01T09:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061379423363092483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1318180670",
+              "start": 2,
+              "username": "puzzlerlee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5iwp37ypgQ",
+              "end": 62,
+              "expanded_url": "https://x.com/Natsumeann870/status/2061379423363092483/photo/1",
+              "media_key": "3_2061379414211149824",
+              "start": 39,
+              "url": "https://t.co/5iwp37ypgQ"
+            },
+            {
+              "display_url": "pic.x.com/5iwp37ypgQ",
+              "end": 62,
+              "expanded_url": "https://x.com/Natsumeann870/status/2061379423363092483/photo/1",
+              "media_key": "3_2061379414223699968",
+              "start": 39,
+              "url": "https://t.co/5iwp37ypgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061379423363092483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼儿@puzzlerlee ，看倪耋窝用倪⌚️梓亇の8964年守敏出🉐大红🤭 https://t.co/5iwp37ypgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 742,
+          "like_count": 6809,
+          "listed_count": 5,
+          "media_count": 694,
+          "tweet_count": 2733
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T05:54:55.000Z",
+        "description": "倪茂森@jueshengshenlan唯一严父，艸肥婆C @fly9981大比的克人|本人四川许开冲实名上推反共，本人身份证号：511321199403253492，电话：18913023816，家庭住址：绵阳市北川自治县永昌镇永平街5-6号电商产业港",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "jueshengshenlan"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "fly9981"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xjpcnm.com",
+                "end": 23,
+                "expanded_url": "http://xjpcnm.com",
+                "start": 0,
+                "url": "https://t.co/6z5FTz14jA"
+              }
+            ]
+          }
+        },
+        "id": "2041394022623956992",
+        "location": "成都市金牛区蓝海天地1栋308",
+        "name": "𝑭𝒖𝑯𝒖𝒂🍥🏳️‍⚧️🇯🇵🇮🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048092005176426496/dtMTwBZg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 360,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/6z5FTz14jA",
+        "username": "Natsumeann870",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-31T11:09:25.000Z",
+        "description": "X上第一遛狗王，战绩可查：https://t.co/fgoA4rIopB\nhttps://t.co/sICEto2KQR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/PinTuZhe_s_dad…",
+                "end": 36,
+                "expanded_url": "https://x.com/PinTuZhe_s_dad/status/2057444190917943584",
+                "start": 13,
+                "url": "https://t.co/fgoA4rIopB"
+              },
+              {
+                "display_url": "x.com/xmliu114514/st…",
+                "end": 60,
+                "expanded_url": "https://x.com/xmliu114514/status/2057848340654800931",
+                "start": 37,
+                "url": "https://t.co/sICEto2KQR"
+              }
+            ]
+          }
+        },
+        "id": "1318180670",
+        "name": "拼图者",
+        "pinned_tweet_id": "1744949709951860904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1146671723565047808/g8-Z8woN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 534,
+          "like_count": 9860,
+          "listed_count": 28,
+          "media_count": 7260,
+          "tweet_count": 60577
+        },
+        "username": "puzzlerlee",
+        "verified": false
+      }
+    ]
+  }
+}

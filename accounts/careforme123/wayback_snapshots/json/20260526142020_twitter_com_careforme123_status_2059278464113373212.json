@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059277123253416208",
+    "created_at": "2026-05-26T14:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059278464113373212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059278464113373212",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059277123253416208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 他们是怎么知道谁是谁的家属，谁又去安徽做了生意？？？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62972,
+        "height": 853,
+        "media_key": "13_2059245950057713666",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059245950057713666/img/Mkxm5IoagdSRjpO-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059245950057713666/vid/avc1/320x568/6dT8tPw1Fjr2G7k9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059245950057713666/vid/avc1/480x852/hi13697jU39q55N3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059245950057713666/pl/OKiCijuQEUl7aUkS.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059277123253416208",
+        "created_at": "2026-05-26T14:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059278464113373212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059278464113373212",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059277123253416208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 他们是怎么知道谁是谁的家属，谁又去安徽做了生意？？？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059245950057713666"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059277123253416208",
+        "created_at": "2026-05-26T14:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059277123253416208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ajZiG5X4f",
+              "end": 162,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2059277123253416208/video/1",
+              "media_key": "13_2059245950057713666",
+              "start": 139,
+              "url": "https://t.co/9ajZiG5X4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059277123253416208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，据国内媒体报道，浙江一处水果批发市场被曝对商户实行跨省“二选一”限制。\n据多名商户反映，市场方面发布通知，要求入驻商户不得前往安徽滁州市 经营或参与相关市场活动，否则将面临清退、停租等处罚。部分商户称，即便是家属在滁州从事水果生意，也会被视为“违规”，遭遇“连坐”处理。\n有商户表示，在压力之下，已有多家店铺被迫拆除门头、暂停经营，还有人被要求在两地市场之间“二选一”。相关消息曝光后，不少网友质疑此类做法涉嫌限制商户正常经营与市场竞争。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2065,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "近日，据国内媒体报道，浙江一处水果批发市场被曝对商户实行跨省“二选一”限制。\n据多名商户反映，市场方面发布通知，要求入驻商户不得前往安徽滁州市 经营或参与相关市场活动，否则将面临清退、停租等处罚。部分商户称，即便是家属在滁州从事水果生意，也会被视为“违规”，遭遇“连坐”处理。 https://t.co/9ajZiG5X4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人🚸，现居日本大阪，爱党爱国🇨🇳，常来宛平南路600号🏥，曾因偷吃桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 738,
+          "like_count": 6375,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 2569
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234420,
+          "following_count": 1065,
+          "like_count": 9597,
+          "listed_count": 8776,
+          "media_count": 47455,
+          "tweet_count": 54586
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

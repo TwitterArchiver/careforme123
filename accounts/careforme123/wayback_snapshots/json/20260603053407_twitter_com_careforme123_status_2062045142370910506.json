@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062044640090419200"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2062045142370910506",
+    "created_at": "2026-06-03T05:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062045142370910506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0UBzsKoFBc",
+          "end": 82,
+          "expanded_url": "https://x.com/careforme123/status/2062045142370910506/photo/1",
+          "media_key": "3_2062044640090419200",
+          "start": 59,
+          "url": "https://t.co/0UBzsKoFBc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062045142370910506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我认为对待李颖一类的罕见，应该根据现实情况对他提出的错误观点进行反驳与批判，而不是用ai生成一张猪咪照挂在百度百科上 https://t.co/0UBzsKoFBc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_2062044640090419200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3arMuWcAAjjSJ.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062044640090419200"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2062045142370910506",
+        "created_at": "2026-06-03T05:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062045142370910506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0UBzsKoFBc",
+              "end": 82,
+              "expanded_url": "https://x.com/careforme123/status/2062045142370910506/photo/1",
+              "media_key": "3_2062044640090419200",
+              "start": 59,
+              "url": "https://t.co/0UBzsKoFBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062045142370910506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为对待李颖一类的罕见，应该根据现实情况对他提出的错误观点进行反驳与批判，而不是用ai生成一张猪咪照挂在百度百科上 https://t.co/0UBzsKoFBc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人，现居日本大阪",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 742,
+          "like_count": 6705,
+          "listed_count": 5,
+          "media_count": 686,
+          "tweet_count": 2701
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

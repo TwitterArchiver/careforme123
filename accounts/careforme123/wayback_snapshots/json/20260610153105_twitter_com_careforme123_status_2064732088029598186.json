@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064660864364691650",
+    "created_at": "2026-06-10T15:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064732088029598186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2015931381642416128",
+          "start": 0,
+          "username": "Diaodaquan250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064732088029598186",
+    "in_reply_to_user_id": "2015931381642416128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064728151318519867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diaodaquan250 不要侮辱国家领导人，谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2064728143143878657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdjTonXwAEpB-c.jpg",
+        "width": 1024
+      },
+      {
+        "height": 960,
+        "media_key": "3_2064728143156412416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdjToqXAAA9QRz.jpg",
+        "width": 720
+      },
+      {
+        "height": 510,
+        "media_key": "3_2064728143798075392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdjTrDWAAA1w5A.jpg",
+        "width": 680
+      },
+      {
+        "height": 960,
+        "media_key": "3_2064728143110316032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdjTofXoAA_zAu.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064660864364691650",
+        "created_at": "2026-06-10T15:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064732088029598186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2015931381642416128",
+              "start": 0,
+              "username": "Diaodaquan250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064732088029598186",
+        "in_reply_to_user_id": "2015931381642416128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064728151318519867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diaodaquan250 不要侮辱国家领导人，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064728143143878657",
+            "3_2064728143156412416",
+            "3_2064728143798075392",
+            "3_2064728143110316032"
+          ]
+        },
+        "author_id": "2015931381642416128",
+        "conversation_id": "2064660864364691650",
+        "created_at": "2026-06-10T15:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064728151318519867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKqkdomrHv",
+              "end": 47,
+              "expanded_url": "https://x.com/Diaodaquan250/status/2064728151318519867/photo/1",
+              "media_key": "3_2064728143143878657",
+              "start": 24,
+              "url": "https://t.co/LKqkdomrHv"
+            },
+            {
+              "display_url": "pic.x.com/LKqkdomrHv",
+              "end": 47,
+              "expanded_url": "https://x.com/Diaodaquan250/status/2064728151318519867/photo/1",
+              "media_key": "3_2064728143156412416",
+              "start": 24,
+              "url": "https://t.co/LKqkdomrHv"
+            },
+            {
+              "display_url": "pic.x.com/LKqkdomrHv",
+              "end": 47,
+              "expanded_url": "https://x.com/Diaodaquan250/status/2064728151318519867/photo/1",
+              "media_key": "3_2064728143798075392",
+              "start": 24,
+              "url": "https://t.co/LKqkdomrHv"
+            },
+            {
+              "display_url": "pic.x.com/LKqkdomrHv",
+              "end": 47,
+              "expanded_url": "https://x.com/Diaodaquan250/status/2064728151318519867/photo/1",
+              "media_key": "3_2064728143110316032",
+              "start": 24,
+              "url": "https://t.co/LKqkdomrHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064728151318519867",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064660864364691650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 再骚能有习近平骚？ https://t.co/LKqkdomrHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 768,
+          "like_count": 7072,
+          "listed_count": 6,
+          "media_count": 713,
+          "tweet_count": 2828
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-26T23:35:34.000Z",
+        "description": "此生无悔入华夏，来世还做中国人\n上推特之前：习近平是谁，不认识\n上推特之后：老人瞻仰，轻关易道，通商宽衣，金科绿玉，精甚细腻，颐使气指，疯狂宇宙，萨格尔王，PM250，疫情迁灭战，兵帮外交",
+        "id": "2015931381642416128",
+        "location": "以色列",
+        "name": "正球级包蜜🇮🇱🇺🇸",
+        "pinned_tweet_id": "2063564047383924985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053787950261952512/42vCJSo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 113,
+          "like_count": 12496,
+          "listed_count": 4,
+          "media_count": 3197,
+          "tweet_count": 5977
+        },
+        "username": "Diaodaquan250",
+        "verified": true
+      }
+    ]
+  }
+}

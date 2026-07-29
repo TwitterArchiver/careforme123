@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2057463459810296123",
+    "created_at": "2026-05-21T14:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057466254718382280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870336533342932992",
+          "start": 0,
+          "username": "AsahinaShikure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057466254718382280",
+    "in_reply_to_user_id": "1870336533342932992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057463459810296123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsahinaShikure 墙内发这个图已经要被屏蔽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 573,
+        "media_key": "3_2057463110701551616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2TzFvWEAAb1ou.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2057463459810296123",
+        "created_at": "2026-05-21T14:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057466254718382280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870336533342932992",
+              "start": 0,
+              "username": "AsahinaShikure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057466254718382280",
+        "in_reply_to_user_id": "1870336533342932992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057463459810296123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsahinaShikure 墙内发这个图已经要被屏蔽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057463110701551616"
+          ]
+        },
+        "author_id": "1870336533342932992",
+        "conversation_id": "2057463459810296123",
+        "created_at": "2026-05-21T14:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:06:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057463122433085857",
+          "2057463459810296123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcX181UMac",
+              "end": 82,
+              "expanded_url": "https://x.com/AsahinaShikure/status/2057463459810296123/photo/1",
+              "media_key": "3_2057463110701551616",
+              "start": 59,
+              "url": "https://t.co/UcX181UMac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057463459810296123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "作為一名身處海外的留學生、MtF🏳️‍⚧️，看到中國政府對「性取向與性別認同」的公開回復時，我的心情其實是很複雜的。\n一方面我能感覺到，中國官方層面開始「承認」社會上確實存在跨性別群體，並且不再完全回避「性別認同」這個概念。截圖里的回復里，多次提到「性別認同」「性別表達」等詞彙，這在十年前幾乎是難以想象的。對於很多長期被忽視、被當作「不存在」的跨性別者來說，這種文字層面的出現，本身就意味著社會現實已經無法再被完全否認。\n但另一方面，這份回復仍然體現出一種非常典型的保守治理邏輯：\n它強調的是「避免擴大解釋」「避免概念泛化」「不宜脫離生理性別」，核心依舊是以傳統的二元性別和社會穩定為基礎，而不是從「個人權利」與「人格尊嚴」出發。（與其說是人權的進步，更不如說是中共為了維穩而被迫做出的抉擇。）\n作為一名 MtF，我最敏感的一點，是它始終沒有真正承認「中國的跨性別者有權按照自己的性別身份生活」。\n它更多是在說：\n「社會上存在這種現象」\n「不要實施歧視」\n「但也不要突破現有框架」\n這種態度其實和很多東亞社會早期面對 LGBT 議題時很像：\n願意討論，但不願意真正給予制度性的認可。\n而對於很多跨性別者來說，真正困難的從來不是「別人知不知道有跨性別存在」，而是：\n能不能合法修改證件性別\n能不能在學校與職場安全生活\n能不能獲得醫療支持\n會不會被家庭、學校、單位強制羞辱或排斥\n能不能不被當成「異常人士」\n這些現實問題，在包括新加坡、台灣在內的華語社會已經逐漸得到了解決。（我們新加坡作為亞洲第一個允許性別重置手術的國家，在東南亞已經算是比較先進了的，而台灣則更不用說了，堪稱為亞洲的LGBT燈塔。）我作長期生活在相對開放的環境後，會更明顯感受到差距。\n在一些國家，跨性別已經逐漸被理解為「人格權」的問題；而在中國大陸互聯網語境里，很多時候仍被視為「社會秩序問題」或者「意識形態問題」。（經常在中國的網路平台上能夠看到以「意識形態」為藉口抨擊LGBT的行為。）這種差異，會讓很多海外跨性別華人產生一種割裂感：\n一邊是自己的文化與語言認同，一邊卻是自己身份長期得不到真正理解。\n不過我也認為，社會變化通常是漸進的。能夠公開討論、能夠留下官方文字記錄、能夠讓公眾看到「性別認同」這些詞彙，本身已經說明議題正在進入公共空間。雖然距離真正的平等還有很長的路，但至少已經不是完全沈默的時代了。\n對於很多年輕的跨性別華人來說，他們真正希望得到的，其實並不是什麼「特殊待遇」，而只是：\n「能夠被當作普通人一樣生活。」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作為一名身處海外的留學生、MtF🏳️‍⚧️，看到中國政府對「性取向與性別認同」的公開回復時，我的心情其實是很複雜的。 https://t.co/UcX181UMac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2057309116607971605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 677,
+          "like_count": 5963,
+          "listed_count": 6,
+          "media_count": 642,
+          "tweet_count": 2428
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "Singaporean🇸🇬/Junior High Sec 3 student/MtF🏳️‍⚧️/Radical transgenderism/Project Sekai/Langs:🇺🇸🇹🇼🇯🇵/President of the Union Republic of Griffin格里芬聯邦共和國總統",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "Asahina Shikure 朝比奈丶志暮🏳️‍⚧️",
+        "pinned_tweet_id": "2055944120376447137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040272432788058113/m7xH-w8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 486,
+          "like_count": 2144,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "AsahinaShikure",
+        "verified": true
+      }
+    ]
+  }
+}

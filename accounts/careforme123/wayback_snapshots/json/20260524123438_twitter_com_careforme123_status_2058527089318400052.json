@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058525923821973967",
+    "created_at": "2026-05-24T12:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058527089318400052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058527089318400052",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058525923821973967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 在民主的国家，蟑螂也有话语权"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 133352,
+        "height": 640,
+        "media_key": "13_2058483102050029568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058483102050029568/img/fq4NJ7Fn52cNGuxs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058483102050029568/vid/avc1/320x568/z_4eAifhQ04IAyXL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058483102050029568/vid/avc1/360x640/cOX6U4nLYXZMwsJO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058483102050029568/pl/hZxmkUmGCZKqV_bm.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058525923821973967",
+        "created_at": "2026-05-24T12:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058527089318400052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058527089318400052",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058525923821973967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 在民主的国家，蟑螂也有话语权"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058483102050029568"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058525923821973967",
+        "created_at": "2026-05-24T12:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058525923821973967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ql8lS4mte",
+              "end": 133,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058525923821973967/video/1",
+              "media_key": "13_2058483102050029568",
+              "start": 110,
+              "url": "https://t.co/2ql8lS4mte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058525923821973967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“笑纳”\n近日，因不满印度年轻人在网络上抱怨，印度首席大法官发表评论，将把年轻人比作寄生虫和蟑螂，该言论立即引发轩然大波。\n随后，印度年轻人索性在网络上成立“蟑螂人民党”\n入党的标准是：你必须失业躺平，且长期泡在网上。\n“蟑螂人民党”在6天内，账号突破2200万粉丝。账号内容以讽刺政治，讨论腐败，以及公民权益等议题。\n发起人，30岁的阿比吉特·迪普克表示，在印度，每年有500万学生大学毕业，但只有200万到220万人最终找到工作。\n印度的年轻人们表示，如果他们是“蟑螂”，那么说明这个体制是不是已经腐烂到了一定程度，才会冒出这么多“蟑螂”？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1650,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“笑纳”\n近日，因不满印度年轻人在网络上抱怨，印度首席大法官发表评论，将把年轻人比作寄生虫和蟑螂，该言论立即引发轩然大波。\n随后，印度年轻人索性在网络上成立“蟑螂人民党”\n入党的标准是：你必须失业躺平，且长期泡在网上。 https://t.co/2ql8lS4mte"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058036853727449111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 729,
+          "like_count": 6211,
+          "listed_count": 6,
+          "media_count": 652,
+          "tweet_count": 2507
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233531,
+          "following_count": 1063,
+          "like_count": 9595,
+          "listed_count": 8769,
+          "media_count": 47347,
+          "tweet_count": 54475
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

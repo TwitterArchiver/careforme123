@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059900506647007399",
+    "created_at": "2026-05-28T07:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059900506647007399"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059900506647007399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "记者问一位市民：“为什么本市的桥梁一年就塌了三次？“\n\n市民严肃的回答：“难道你没看到隔壁省的厕所十年还没修好吗？比起他们，我们的效率难道不值得表扬吗？”\n\n记者问：“为什么你们一个月的工资只能拿来吃饭和租房子？”\n\n市民反问道：“难道你们没看到，月球上连空气都没有吗？”\n\n记者继续追问：“但国民的生存和月球有什么关系？”\n\n市民拍案而起：“你太狭隘了！你应该去问问火星人，他们甚至连TM的货币体系都还没建立起来，你觉得在全宇宙范围内，我们难道不应该感到庆幸吗？”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "记者问一位市民：“为什么本市的桥梁一年就塌了三次？“\n\n市民严肃的回答：“难道你没看到隔壁省的厕所十年还没修好吗？比起他们，我们的效率难道不值得表扬吗？”\n\n记者问：“为什么你们一个月的工资只能拿来吃饭和租房子？”\n\n市民反问道：“难道你们没看到，月球上连空气都没有吗？”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059900506647007399",
+        "created_at": "2026-05-28T07:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059900506647007399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059900506647007399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "记者问一位市民：“为什么本市的桥梁一年就塌了三次？“\n\n市民严肃的回答：“难道你没看到隔壁省的厕所十年还没修好吗？比起他们，我们的效率难道不值得表扬吗？”\n\n记者问：“为什么你们一个月的工资只能拿来吃饭和租房子？”\n\n市民反问道：“难道你们没看到，月球上连空气都没有吗？”\n\n记者继续追问：“但国民的生存和月球有什么关系？”\n\n市民拍案而起：“你太狭隘了！你应该去问问火星人，他们甚至连TM的货币体系都还没建立起来，你觉得在全宇宙范围内，我们难道不应该感到庆幸吗？”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记者问一位市民：“为什么本市的桥梁一年就塌了三次？“\n\n市民严肃的回答：“难道你没看到隔壁省的厕所十年还没修好吗？比起他们，我们的效率难道不值得表扬吗？”\n\n记者问：“为什么你们一个月的工资只能拿来吃饭和租房子？”\n\n市民反问道：“难道你们没看到，月球上连空气都没有吗？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，河南新乡人🚸，现居日本大阪，爱党爱国🇨🇳，常来宛平南路600号🏥，曾因偷吃桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2059206771193901259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 741,
+          "like_count": 6459,
+          "listed_count": 5,
+          "media_count": 664,
+          "tweet_count": 2601
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

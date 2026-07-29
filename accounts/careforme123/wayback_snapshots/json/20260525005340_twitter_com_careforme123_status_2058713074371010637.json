@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2058703570774663219",
+    "created_at": "2026-05-25T00:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058713074371010637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762479983568515073",
+          "start": 0,
+          "username": "yingge001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058713074371010637",
+    "in_reply_to_user_id": "1762479983568515073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058703570774663219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingge001 来来来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_2058703560565837824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJH7-xlb0AAJ0lh.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2058703570774663219",
+        "created_at": "2026-05-25T00:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058713074371010637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762479983568515073",
+              "start": 0,
+              "username": "yingge001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058713074371010637",
+        "in_reply_to_user_id": "1762479983568515073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058703570774663219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingge001 来来来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058703560565837824"
+          ]
+        },
+        "author_id": "1762479983568515073",
+        "conversation_id": "2058703570774663219",
+        "created_at": "2026-05-25T00:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058703570774663219"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sch24vm6l0",
+              "end": 137,
+              "expanded_url": "https://x.com/yingge001/status/2058703570774663219/photo/1",
+              "media_key": "3_2058703560565837824",
+              "start": 114,
+              "url": "https://t.co/Sch24vm6l0"
+            },
+            {
+              "display_url": "x.com/yingge001/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/yingge001/status/2058017858937032785",
+              "start": 138,
+              "url": "https://t.co/azwFDvFGtQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058703570774663219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058017858937032785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GM Everyone! ☀️  Lucky every day \n\n蓝V 今天能上3900吗，怎么感觉越来越难了呢！\n\n#蓝V互关  评论区留言一起进步，包回 包回 包回 \n\n本来想跟你们讲讲我弟弟的故事，算了不讲了 太长了 https://t.co/Sch24vm6l0 https://t.co/azwFDvFGtQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058489714726846617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 728,
+          "like_count": 6228,
+          "listed_count": 6,
+          "media_count": 654,
+          "tweet_count": 2517
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-27T14:09:15.000Z",
+        "description": "#DOGE 粉丝\n21年链游入圈，老韭菜的翻身记 #BNB #HTX\n\n分享真实项目、链上机会和生活态度\n\n享受每一天！\nEnjoy every day ! \n\n空投爱好者*   活动宣发*  KOL矩阵宣发*   诚招冠名\n不做投资建议⚠",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "DOGE"
+              },
+              {
+                "end": 29,
+                "start": 25,
+                "tag": "BNB"
+              },
+              {
+                "end": 34,
+                "start": 30,
+                "tag": "HTX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/heidanya",
+                "end": 23,
+                "expanded_url": "https://t.me/heidanya",
+                "start": 0,
+                "url": "https://t.co/ZPfBO6fQmh"
+              }
+            ]
+          }
+        },
+        "id": "1762479983568515073",
+        "location": "Kol Manager 👉",
+        "name": "闫大胆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034437194119872512/qScw4QTI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32801,
+          "following_count": 6510,
+          "like_count": 80402,
+          "listed_count": 64,
+          "media_count": 1222,
+          "tweet_count": 51288
+        },
+        "url": "https://t.co/ZPfBO6fQmh",
+        "username": "yingge001",
+        "verified": true
+      }
+    ]
+  }
+}

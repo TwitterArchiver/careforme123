@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2050409196420571648",
+    "created_at": "2026-05-02T03:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T04:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050418744992616544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2199048578",
+          "start": 0,
+          "username": "tengr123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050418744992616544",
+    "in_reply_to_user_id": "2199048578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050409196420571648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tengr123 让中国随便一家社交平台分享一下自己的屏蔽系统\n没有一个机器人能发出来广告"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050409183892176896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSESgoXgAAubYl.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2050409196420571648",
+        "created_at": "2026-05-02T03:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050418744992616544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2199048578",
+              "start": 0,
+              "username": "tengr123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050418744992616544",
+        "in_reply_to_user_id": "2199048578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050409196420571648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tengr123 让中国随便一家社交平台分享一下自己的屏蔽系统\n没有一个机器人能发出来广告"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050409183892176896"
+          ]
+        },
+        "author_id": "2199048578",
+        "conversation_id": "2050409196420571648",
+        "created_at": "2026-05-02T02:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050409196420571648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZB1UpSKlRv",
+              "end": 95,
+              "expanded_url": "https://x.com/tengr123/status/2050409196420571648/photo/1",
+              "media_key": "3_2050409183892176896",
+              "start": 72,
+              "url": "https://t.co/ZB1UpSKlRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050409196420571648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克是不是应该找中国人做中文审查，不然外国人不清楚这些中文意思和暗号。\n\n从万达广场到上门服务到这些暗号，源源不断的发展，还能好好的发推吗？ https://t.co/ZB1UpSKlRv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "男(ftm)🍥🍥，河南新乡人🚸，爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2050235797643678119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 382,
+          "like_count": 4634,
+          "listed_count": 5,
+          "media_count": 522,
+          "tweet_count": 1910
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-17T06:43:40.000Z",
+        "description": "一个俗人｜每天吐槽｜生活观察｜世界交朋友\n欢迎评论｜互动交流｜不搞鸡汤｜只说真话 \nWelcome to follow and make friends.",
+        "id": "2199048578",
+        "location": "Universe",
+        "name": "单车",
+        "pinned_tweet_id": "2050229626056699939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038807995585617920/BskCOiN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 2328,
+          "like_count": 3836,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 3219
+        },
+        "username": "tengr123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2056671235572965665",
+    "created_at": "2026-05-19T12:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056712040622809237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1324041664491479040",
+          "start": 0,
+          "username": "jumponline1222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056712040622809237",
+    "in_reply_to_user_id": "1324041664491479040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056701279985148137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jumponline1222 因果倒置\n是民众通过税出钱组建政府，让政府来组织协调各方面发展反馈社会，政府代表人民意志\n税不是政府的工资，不是奖金，是人民拿钱维持政府给自己服务，政府做的事是义务，不是恩赐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2056671235572965665",
+        "created_at": "2026-05-19T12:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056712040622809237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1324041664491479040",
+              "start": 0,
+              "username": "jumponline1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056712040622809237",
+        "in_reply_to_user_id": "1324041664491479040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056701279985148137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jumponline1222 因果倒置\n是民众通过税出钱组建政府，让政府来组织协调各方面发展反馈社会，政府代表人民意志\n税不是政府的工资，不是奖金，是人民拿钱维持政府给自己服务，政府做的事是义务，不是恩赐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324041664491479040",
+        "conversation_id": "2056671235572965665",
+        "created_at": "2026-05-19T11:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056701279985148137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056701279985148137",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056671235572965665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 衣服，馆子，零食饮料，菜，天然气，电，水，网络，出租车，电影院，酒店，租的房子\n\n请问这些东西哪一个不需要政府做事就能存在这个世界上？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2055562423994613943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 617,
+          "like_count": 5810,
+          "listed_count": 6,
+          "media_count": 632,
+          "tweet_count": 2371
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-04T17:31:55.000Z",
+        "description": "皿煮滋油的墙外面值得关注的东西也就这些了",
+        "id": "1324041664491479040",
+        "location": "Jiangsu",
+        "name": "风一岑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774815661543563264/Qb_6044t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 218,
+          "like_count": 268,
+          "listed_count": 10,
+          "media_count": 497,
+          "tweet_count": 10433
+        },
+        "username": "jumponline1222",
+        "verified": false
+      }
+    ]
+  }
+}

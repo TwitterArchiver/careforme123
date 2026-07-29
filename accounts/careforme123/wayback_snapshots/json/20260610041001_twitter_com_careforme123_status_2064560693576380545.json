@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064556905016774656",
+        "3_2064559161254576128"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2064560693576380545",
+    "created_at": "2026-06-10T04:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:03:59.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064559174114238586",
+      "2064560693576380545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/glZNIJkOCA",
+          "end": 153,
+          "expanded_url": "https://x.com/careforme123/status/2064560693576380545/photo/1",
+          "media_key": "3_2064556905016774656",
+          "start": 130,
+          "url": "https://t.co/glZNIJkOCA"
+        },
+        {
+          "display_url": "pic.x.com/glZNIJkOCA",
+          "end": 153,
+          "expanded_url": "https://x.com/careforme123/status/2064560693576380545/photo/1",
+          "media_key": "3_2064559161254576128",
+          "start": 130,
+          "url": "https://t.co/glZNIJkOCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064560693576380545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "杨兰兰到底是谁\n\n2025年7月26日，23岁的华人女子杨兰兰在澳大利亚酒驾发生车祸，导致另一名司机受重伤\n\n她开的劳斯莱斯，住在市中心上千万的豪宅，满身的奢侈品，是香奈儿VVIP\n\n杨兰兰也没有社交媒体账号 ，房产登记纪录，像一个幽灵一般，调查不到任何信息\n\n据透露，她14岁时被送往澳大利亚留学，很少回国，目前是澳永久居民。她在悉尼大學就读商科，但实际上从未上过学。她几乎不出门，并且有心理健康问题。由于英语不好，她只在华人圈子里社交\n\n她长期缺席法庭，导致案件在九个月内经历了八次预审仍未进入实质审理阶段，还有报道称，在今年年初，有人曾试图派出一个外貌相似的女性代替她在警察局露面\n\n被她害的司机乔治·普拉萨拉斯脊椎骨折、肋骨断裂、脾脏和横膈膜破裂、腹部撕裂、髋部两侧骨折、股骨两侧骨折，髋部严重骨折，右髋关节被切除，造成了终身残疾\n\n庆幸的是，她犯事的地方是一个法治社会\n\n我无论如何都想说，杨兰兰，不管你是谁，你就是个人渣。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "杨兰兰到底是谁\n\n2025年7月26日，23岁的华人女子杨兰兰在澳大利亚酒驾发生车祸，导致另一名司机受重伤\n\n她开的劳斯莱斯，住在市中心上千万的豪宅，满身的奢侈品，是香奈儿VVIP\n\n杨兰兰也没有社交媒体账号 ，房产登记纪录，像一个幽灵一般，调查不到任何信息 https://t.co/glZNIJkOCA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2064556905016774656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbHkQ4a0AA4CV-.jpg",
+        "width": 634
+      },
+      {
+        "height": 360,
+        "media_key": "3_2064559161254576128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbJnmBbgAAugyZ.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064556905016774656",
+            "3_2064559161254576128"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064559174114238586",
+        "created_at": "2026-06-10T04:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:03:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064559174114238586",
+          "2064560693576380545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwSrIufiEj",
+              "end": 153,
+              "expanded_url": "https://x.com/careforme123/status/2064559174114238586/photo/1",
+              "media_key": "3_2064556905016774656",
+              "start": 130,
+              "url": "https://t.co/FwSrIufiEj"
+            },
+            {
+              "display_url": "pic.x.com/FwSrIufiEj",
+              "end": 153,
+              "expanded_url": "https://x.com/careforme123/status/2064559174114238586/photo/1",
+              "media_key": "3_2064559161254576128",
+              "start": 130,
+              "url": "https://t.co/FwSrIufiEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064559174114238586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "杨兰兰到底是谁\n\n2025年7月26日，23岁的华人女子杨兰兰在澳大利亚酒驾发生车祸，导致另一名司机受重伤\n\n她开的劳斯莱斯，住在市中心上千万的豪宅，满身的奢侈品，是香奈儿VVIP\n\n杨兰兰也没有社交媒体账号 ，房产登记纪录，像一个幽灵一般，调查不到任何信息\n\n据透露，她14岁时被送往澳大利亚留学，很少回国，目前是澳永久居民。她在悉尼大學就读商科，但实际上从未上过学。她几乎不出门，并且有心理健康问题。由于英语不好，她只在华人圈子里社交\n\n她长期缺席法庭，导致案件在九个月内经历了八次预审仍未进入实质审理阶段，还有报道称，在今年年初，有人曾试图派出一个外貌相似的女性代替她在警察局露面\n\n被她害的司机乔治·普拉萨拉斯脊椎骨折、肋骨断裂、脾脏和横膈膜破裂、腹部撕裂、髋部两侧骨折、股骨两侧骨折，髋部严重骨折，右髋关节被切除，造成了终身残疾\n\n我无论如何都想说，杨兰兰，不管你是谁，你就是个人渣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杨兰兰到底是谁\n\n2025年7月26日，23岁的华人女子杨兰兰在澳大利亚酒驾发生车祸，导致另一名司机受重伤\n\n她开的劳斯莱斯，住在市中心上千万的豪宅，满身的奢侈品，是香奈儿VVIP\n\n杨兰兰也没有社交媒体账号 ，房产登记纪录，像一个幽灵一般，调查不到任何信息 https://t.co/FwSrIufiEj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064556905016774656",
+            "3_2064559161254576128"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2064560693576380545",
+        "created_at": "2026-06-10T04:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:03:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064559174114238586",
+          "2064560693576380545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/glZNIJkOCA",
+              "end": 153,
+              "expanded_url": "https://x.com/careforme123/status/2064560693576380545/photo/1",
+              "media_key": "3_2064556905016774656",
+              "start": 130,
+              "url": "https://t.co/glZNIJkOCA"
+            },
+            {
+              "display_url": "pic.x.com/glZNIJkOCA",
+              "end": 153,
+              "expanded_url": "https://x.com/careforme123/status/2064560693576380545/photo/1",
+              "media_key": "3_2064559161254576128",
+              "start": 130,
+              "url": "https://t.co/glZNIJkOCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064560693576380545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "杨兰兰到底是谁\n\n2025年7月26日，23岁的华人女子杨兰兰在澳大利亚酒驾发生车祸，导致另一名司机受重伤\n\n她开的劳斯莱斯，住在市中心上千万的豪宅，满身的奢侈品，是香奈儿VVIP\n\n杨兰兰也没有社交媒体账号 ，房产登记纪录，像一个幽灵一般，调查不到任何信息\n\n据透露，她14岁时被送往澳大利亚留学，很少回国，目前是澳永久居民。她在悉尼大學就读商科，但实际上从未上过学。她几乎不出门，并且有心理健康问题。由于英语不好，她只在华人圈子里社交\n\n她长期缺席法庭，导致案件在九个月内经历了八次预审仍未进入实质审理阶段，还有报道称，在今年年初，有人曾试图派出一个外貌相似的女性代替她在警察局露面\n\n被她害的司机乔治·普拉萨拉斯脊椎骨折、肋骨断裂、脾脏和横膈膜破裂、腹部撕裂、髋部两侧骨折、股骨两侧骨折，髋部严重骨折，右髋关节被切除，造成了终身残疾\n\n庆幸的是，她犯事的地方是一个法治社会\n\n我无论如何都想说，杨兰兰，不管你是谁，你就是个人渣。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杨兰兰到底是谁\n\n2025年7月26日，23岁的华人女子杨兰兰在澳大利亚酒驾发生车祸，导致另一名司机受重伤\n\n她开的劳斯莱斯，住在市中心上千万的豪宅，满身的奢侈品，是香奈儿VVIP\n\n杨兰兰也没有社交媒体账号 ，房产登记纪录，像一个幽灵一般，调查不到任何信息 https://t.co/glZNIJkOCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 766,
+          "like_count": 7034,
+          "listed_count": 6,
+          "media_count": 711,
+          "tweet_count": 2810
+        },
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

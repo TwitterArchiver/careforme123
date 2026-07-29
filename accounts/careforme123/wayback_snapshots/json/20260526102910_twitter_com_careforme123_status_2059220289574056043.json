@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2059206771193901259",
+    "created_at": "2026-05-26T10:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059220289574056043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1098701397858619392",
+          "start": 0,
+          "username": "jeffrey17773729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059220289574056043",
+    "in_reply_to_user_id": "1098701397858619392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059218913674539485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jeffrey17773729 主要人类还是太喜欢背后说别人坏话了，你跟别人讨论第三者的时候，用goes，另一个人不需要去前后文找主语就知道你在说第三者，还是比较方便的\n不过从逻辑来讲goes这种变形确实也可以去掉，但三单变化这种规则已经很简单了，没有人和他计较罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2059206771193901259",
+        "created_at": "2026-05-26T10:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059220289574056043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1098701397858619392",
+              "start": 0,
+              "username": "jeffrey17773729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059220289574056043",
+        "in_reply_to_user_id": "1098701397858619392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059218913674539485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jeffrey17773729 主要人类还是太喜欢背后说别人坏话了，你跟别人讨论第三者的时候，用goes，另一个人不需要去前后文找主语就知道你在说第三者，还是比较方便的\n不过从逻辑来讲goes这种变形确实也可以去掉，但三单变化这种规则已经很简单了，没有人和他计较罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1098701397858619392",
+        "conversation_id": "2059206771193901259",
+        "created_at": "2026-05-26T10:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059218913674539485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059218913674539485",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059206771193901259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 都用go就行了，为啥要goes，还是不够好啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，灌注maybe小姐喵，灌注maybe小姐谢谢喵",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2058878305739161994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 732,
+          "like_count": 6338,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 2559
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-21T21:50:00.000Z",
+        "description": "抽象派经济学宏观理论创始人。Leben und leben lassen!",
+        "id": "1098701397858619392",
+        "location": "Mainz, Germany",
+        "name": "jeffrey",
+        "pinned_tweet_id": "1941040704450347137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518334171629903877/AynoooqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 549,
+          "like_count": 5608,
+          "listed_count": 5,
+          "media_count": 22,
+          "tweet_count": 6850
+        },
+        "username": "jeffrey17773729",
+        "verified": false
+      }
+    ]
+  }
+}

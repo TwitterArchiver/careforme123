@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053857845276504064"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2053858644215955667",
+    "created_at": "2026-05-11T15:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:20:47.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053857860526997755",
+      "2053858644215955667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 44,
+          "id": "2049036204042006528",
+          "start": 32,
+          "username": "JraxxP73123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QA5zTTLHVu",
+          "end": 103,
+          "expanded_url": "https://x.com/careforme123/status/2053858644215955667/photo/1",
+          "media_key": "3_2053857845276504064",
+          "start": 80,
+          "url": "https://t.co/QA5zTTLHVu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053858644215955667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 44,
+            "id": "2049036204042006528",
+            "start": 32,
+            "username": "JraxxP73123"
+          },
+          {
+            "end": 206,
+            "id": "1785095214761119744",
+            "start": 191,
+            "username": "sanae_takaichi"
+          },
+          {
+            "end": 219,
+            "id": "3221478144",
+            "start": 208,
+            "username": "onoda_kimi"
+          }
+        ]
+      },
+      "text": "日本が外国人に対して示す寛容は、何をもたらしたのか？\n\nこの人物@JraxxP73123（おそらく中国人留学生）は、X上で日本人に対する深刻な人種差別的発言を\n長期間繰り返しています。日本人を「倭寇猿」「鬼子」「亡国滅種」「放射能汚染された」などと呼び、戦没した日本軍人を嘲笑する発言もしています。\n\n日本は、このような人物が日本の教育や福祉を享受することを許すべきではありません。@sanae_takaichi\n @onoda_kimi"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日本が外国人に対して示す寛容は、何をもたらしたのか？\n\nこの人物@JraxxP73123（おそらく中国人留学生）は、X上で日本人に対する深刻な人種差別的発言を https://t.co/QA5zTTLHVu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053857845276504064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDE1Bba8AA7Tfi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053857845276504064"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2053857860526997755",
+        "created_at": "2026-05-11T15:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:20:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053857860526997755",
+          "2053858644215955667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGCcsXyES4",
+              "end": 50,
+              "expanded_url": "https://x.com/careforme123/status/2053857860526997755/photo/1",
+              "media_key": "3_2053857845276504064",
+              "start": 27,
+              "url": "https://t.co/lGCcsXyES4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053857860526997755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 44,
+                "id": "2049036204042006528",
+                "start": 32,
+                "username": "JraxxP73123"
+              },
+              {
+                "end": 205,
+                "id": "1785095214761119744",
+                "start": 190,
+                "username": "sanae_takaichi"
+              },
+              {
+                "end": 218,
+                "id": "3221478144",
+                "start": 207,
+                "username": "onoda_kimi"
+              }
+            ]
+          },
+          "text": "日本が外国人に対して示す寛容は、何をもたらしたのか？\n\nこの人物@JraxxP73123（おそらく中国人留学生）は、X上で日本人に対する深刻な人種差別的発言を長期間繰り返しています。日本人を「倭寇猿」「鬼子」「亡国滅種」「放射能汚染された」などと呼び、戦没した日本軍人を嘲笑する発言もしています。\n\n日本は、このような人物が日本の教育や福祉を享受することを許すべきではありません。@sanae_takaichi\n @onoda_kimi"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本が外国人に対して示す寛容は、何をもたらしたのか？ https://t.co/lGCcsXyES4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053857845276504064"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2053858644215955667",
+        "created_at": "2026-05-11T15:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:20:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053857860526997755",
+          "2053858644215955667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "2049036204042006528",
+              "start": 32,
+              "username": "JraxxP73123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QA5zTTLHVu",
+              "end": 103,
+              "expanded_url": "https://x.com/careforme123/status/2053858644215955667/photo/1",
+              "media_key": "3_2053857845276504064",
+              "start": 80,
+              "url": "https://t.co/QA5zTTLHVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053858644215955667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 44,
+                "id": "2049036204042006528",
+                "start": 32,
+                "username": "JraxxP73123"
+              },
+              {
+                "end": 206,
+                "id": "1785095214761119744",
+                "start": 191,
+                "username": "sanae_takaichi"
+              },
+              {
+                "end": 219,
+                "id": "3221478144",
+                "start": 208,
+                "username": "onoda_kimi"
+              }
+            ]
+          },
+          "text": "日本が外国人に対して示す寛容は、何をもたらしたのか？\n\nこの人物@JraxxP73123（おそらく中国人留学生）は、X上で日本人に対する深刻な人種差別的発言を\n長期間繰り返しています。日本人を「倭寇猿」「鬼子」「亡国滅種」「放射能汚染された」などと呼び、戦没した日本軍人を嘲笑する発言もしています。\n\n日本は、このような人物が日本の教育や福祉を享受することを許すべきではありません。@sanae_takaichi\n @onoda_kimi"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本が外国人に対して示す寛容は、何をもたらしたのか？\n\nこの人物@JraxxP73123（おそらく中国人留学生）は、X上で日本人に対する深刻な人種差別的発言を https://t.co/QA5zTTLHVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！男(ftm)🍥🍥，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2053093001774416301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 528,
+          "like_count": 5302,
+          "listed_count": 5,
+          "media_count": 582,
+          "tweet_count": 2160
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T08:01:29.000Z",
+        "description": "小侄子又点进来查你爹成分呢？",
+        "id": "2049036204042006528",
+        "name": "梼梧（互fo）",
+        "pinned_tweet_id": "2049111010058121287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049041497920819200/Gw-znIPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 91,
+          "like_count": 200,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 107
+        },
+        "username": "JraxxP73123",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-20T15:06:56.000Z",
+        "description": "小野田紀美(おのだきみ)日常呟き＆岡山宣伝アカウント。本人だけど非公式。Twitterでは個人的な趣味や日常話も多いのでご注意下さい。 オフィシャルはFBにて。https://t.co/QEgHLwTyqq 岡山県瀬戸内市邑久町虫明育ち。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "facebook.com/OnodaKimi.Okay…",
+                "end": 103,
+                "expanded_url": "https://www.facebook.com/OnodaKimi.Okayama",
+                "start": 80,
+                "url": "https://t.co/QEgHLwTyqq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onodakimi.com",
+                "end": 23,
+                "expanded_url": "https://onodakimi.com/",
+                "start": 0,
+                "url": "https://t.co/iTrJYSDCzw"
+              }
+            ]
+          }
+        },
+        "id": "3221478144",
+        "location": "日本 岡山",
+        "name": "小野田紀美@岡山",
+        "pinned_tweet_id": "806754382645600257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630921784626401280/IkxN0MHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125226,
+          "following_count": 209,
+          "like_count": 617,
+          "listed_count": 3344,
+          "media_count": 5547,
+          "tweet_count": 30151
+        },
+        "url": "https://t.co/iTrJYSDCzw",
+        "username": "onoda_kimi",
+        "verified": true
+      }
+    ]
+  }
+}

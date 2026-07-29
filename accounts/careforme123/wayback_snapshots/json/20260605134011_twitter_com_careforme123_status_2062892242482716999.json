@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2062864257633665492",
+    "created_at": "2026-06-05T13:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062892242482716999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1370600330287669249",
+          "start": 0,
+          "username": "0notfound2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062892242482716999",
+    "in_reply_to_user_id": "1370600330287669249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062864257633665492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0notfound2 他跑哪去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2062864257633665492",
+        "created_at": "2026-06-05T13:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062892242482716999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1370600330287669249",
+              "start": 0,
+              "username": "0notfound2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062892242482716999",
+        "in_reply_to_user_id": "1370600330287669249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062864257633665492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0notfound2 他跑哪去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370600330287669249",
+        "conversation_id": "2062864257633665492",
+        "created_at": "2026-06-05T11:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062864257633665492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NmsleseResearc…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/NmsleseResearch/status/1799803299958608046",
+              "start": 18,
+              "url": "https://t.co/375X8ENWKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062864257633665492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799803299958608046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怀念迷人的小绿，24年还经常刷到他 https://t.co/375X8ENWKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎来找我做朋友🥰",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2061068078159425935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 749,
+          "like_count": 6881,
+          "listed_count": 5,
+          "media_count": 697,
+          "tweet_count": 2752
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-13T05:00:18.000Z",
+        "description": "中国人能不能冷静一点",
+        "id": "1370600330287669249",
+        "location": "大支国",
+        "name": "💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚 𝐍𝐨𝐭 𝐅𝐨𝐮𝐧𝐝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052772465164922880/rVOPb718_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 2716,
+          "like_count": 40199,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 948
+        },
+        "username": "0notfound2",
+        "verified": false
+      }
+    ]
+  }
+}

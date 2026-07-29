@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2055145092311298483",
+    "created_at": "2026-05-15T04:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055147361459229073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604181895721504771",
+          "start": 0,
+          "username": "mengtunwudaimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055147361459229073",
+    "in_reply_to_user_id": "1604181895721504771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055145092311298483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengtunwudaimu 雪糕kd：0-9-1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55466,
+        "height": 1152,
+        "media_key": "7_2055145056970141697",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2055145056970141697/pu/img/G1praGCAEqvPaVtF.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055145056970141697/pu/vid/avc1/320x640/XBnp4EpKAp3198aI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055145056970141697/pu/vid/avc1/480x960/qyEMtKnr9TCBYLEP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2055145056970141697/pu/vid/avc1/576x1152/RLDGug3qqz827dH1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2055145056970141697/pu/pl/XPFP8GGTaG7nmONA.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2055145092311298483",
+        "created_at": "2026-05-15T04:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055147361459229073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055147361459229073",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055145092311298483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu 雪糕kd：0-9-1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2055145056970141697"
+          ]
+        },
+        "author_id": "1604181895721504771",
+        "conversation_id": "2055145092311298483",
+        "created_at": "2026-05-15T04:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055145092311298483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkt8EAf6kz",
+              "end": 44,
+              "expanded_url": "https://x.com/mengtunwudaimu/status/2055145092311298483/video/1",
+              "media_key": "7_2055145056970141697",
+              "start": 21,
+              "url": "https://t.co/zkt8EAf6kz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055145092311298483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 156,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "张雪峰教你一口气吃9根雪糕。\n冰棒外交🤣 https://t.co/zkt8EAf6kz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互观！女，河南新乡人🚸，现居日本爱党爱国🇨🇳，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留，鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2054532859948638258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 553,
+          "like_count": 5558,
+          "listed_count": 6,
+          "media_count": 612,
+          "tweet_count": 2267
+        },
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "我们终将在没有黑暗的地方相会",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011343699327000576/ngvpFLui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14139,
+          "following_count": 3027,
+          "like_count": 29113,
+          "listed_count": 158,
+          "media_count": 2629,
+          "tweet_count": 16487
+        },
+        "username": "mengtunwudaimu",
+        "verified": true
+      }
+    ]
+  }
+}

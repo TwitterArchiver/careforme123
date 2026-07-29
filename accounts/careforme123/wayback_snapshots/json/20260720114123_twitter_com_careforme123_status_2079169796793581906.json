@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2079169448238624960",
+    "created_at": "2026-07-20T11:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079169796793581906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079169796793581906",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079169448238624960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 基建狂魔说是"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11818,
+        "height": 1280,
+        "media_key": "13_2079131153294897153",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079131153294897153/img/YugGHi7dUIh68JoK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079131153294897153/vid/avc1/320x568/zvRnUyzqbLP6MXSQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079131153294897153/vid/avc1/480x852/o0TixRCH9AXtGWli.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079131153294897153/vid/avc1/720x1280/YSszhbQZ1kEvvkX1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079131153294897153/pl/6uLkjGom2NkEXdCq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2079169448238624960",
+        "created_at": "2026-07-20T11:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079169796793581906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169796793581906",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079169448238624960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 基建狂魔说是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079131153294897153"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2079169448238624960",
+        "created_at": "2026-07-20T11:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079169448238624960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V7IFWLT17x",
+              "end": 77,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2079169448238624960/video/1",
+              "media_key": "13_2079131153294897153",
+              "start": 54,
+              "url": "https://t.co/V7IFWLT17x"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2074029998751822257",
+              "start": 78,
+              "url": "https://t.co/JPoyxstElh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169448238624960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1117,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074029998751822257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近日，网友拍摄到洪灾过后的广西横州：原本干净整洁的街道，如今遍布厚厚的淤泥和泥沙，车辆驶过时扬起漫天灰尘。 https://t.co/V7IFWLT17x https://t.co/JPoyxstElh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2691,
+          "following_count": 789,
+          "like_count": 7819,
+          "listed_count": 8,
+          "media_count": 813,
+          "tweet_count": 3134
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242442,
+          "following_count": 1078,
+          "like_count": 9805,
+          "listed_count": 8825,
+          "media_count": 50734,
+          "tweet_count": 57953
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}
