@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T13:13:20",
+  "last_updated": "2026-07-29T13:14:30",
   "html": {
     "https://web.archive.org/web/20260428131841if_/https://twitter.com/careforme123/status/2049116090538848321": {
       "status": "done",
@@ -11367,9 +11367,9 @@
       "referenced_by": [
         "20260503115206_twitter_com_careforme123_status_2050906242533773490.json"
       ],
-      "last_updated": "2026-07-29T12:53:32",
+      "last_updated": "2026-07-29T13:14:17",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260503115206/https://video.twimg.com/amplify_video/2050562748187049984/vid/avc1/720x1280/Gwr-mdImBOn2CnfT.mp4?tag=27",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2051163218735972352/pu/vid/avc1/1080x1620/1zQj0bMRnqB4WNXf.mp4?tag=25": {
       "status": "done",
@@ -11460,9 +11460,9 @@
       "referenced_by": [
         "20260509133726_twitter_com_careforme123_status_2053107075836993820.json"
       ],
-      "last_updated": "2026-07-29T12:53:33",
+      "last_updated": "2026-07-29T13:14:24",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260509133726/https://video.twimg.com/ext_tw_video/2053101000744120320/pu/vid/avc1/1280x720/zSi2HG-iHT2c0O2P.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2053497052118892544/vid/avc1/960x720/SN38OWUvaXZ5BV87.mp4": {
       "status": "done",
@@ -12023,13 +12023,13 @@
       "last_updated": "2026-07-29T09:14:54"
     },
     "https://video.twimg.com/tweet_video/HLWKvXOaAAA5L5m.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260621151937_twitter_com_careforme123_status_2068715468496744839.json"
       ],
-      "last_updated": "2026-07-29T09:14:58",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260621151937/https://video.twimg.com/tweet_video/HLWKvXOaAAA5L5m.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-29T13:14:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621151937if_/https://video.twimg.com/tweet_video/HLWKvXOaAAA5L5m.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f40f4bd38f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2069026762525474816/vid/avc1/720x1280/p34W1tS3H_DdbFv5.mp4": {
       "status": "done",
@@ -34731,7 +34731,7 @@
       "last_updated": "2026-07-29T09:17:46"
     },
     "20260621151937_twitter_com_careforme123_status_2068715468496744839.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -34742,7 +34742,7 @@
           "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T09:17:49"
+      "last_updated": "2026-07-29T13:14:30"
     },
     "20260621153214_twitter_com_careforme123_status_2068718646332149969.json": {
       "status": "done",
