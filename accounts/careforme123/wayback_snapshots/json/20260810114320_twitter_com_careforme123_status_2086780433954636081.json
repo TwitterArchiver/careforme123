@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086780423296999425"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086780433954636081",
+    "created_at": "2026-08-10T11:43:20.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086780433954636081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lt2ayXP73I",
+          "end": 35,
+          "expanded_url": "https://x.com/careforme123/status/2086780433954636081/photo/1",
+          "media_key": "3_2086780423296999425",
+          "start": 12,
+          "url": "https://t.co/Lt2ayXP73I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086780433954636081",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086780423296999425"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做这种视频的自己笑了没 https://t.co/Lt2ayXP73I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1648,
+        "media_key": "3_2086780423296999425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW7vR7bYAERiWj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086780423296999425"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086780433954636081",
+        "created_at": "2026-08-10T11:43:20.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086780433954636081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lt2ayXP73I",
+              "end": 35,
+              "expanded_url": "https://x.com/careforme123/status/2086780433954636081/photo/1",
+              "media_key": "3_2086780423296999425",
+              "start": 12,
+              "url": "https://t.co/Lt2ayXP73I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086780433954636081",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086780423296999425"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做这种视频的自己笑了没 https://t.co/Lt2ayXP73I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086780433954636081",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3004,
+          "following_count": 825,
+          "like_count": 8091,
+          "listed_count": 10,
+          "media_count": 839,
+          "tweet_count": 3217
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2088141227971813796",
+    "created_at": "2026-08-14T05:50:39.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088141227971813796"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088141227971813796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "功成不必在我\n\n我在必不成功\n\n谢谢大家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2088141227971813796",
+        "created_at": "2026-08-14T05:50:39.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088141227971813796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088141227971813796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "功成不必在我\n\n我在必不成功\n\n谢谢大家"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088141227971813796",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 820,
+          "like_count": 8131,
+          "listed_count": 11,
+          "media_count": 840,
+          "tweet_count": 3233
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

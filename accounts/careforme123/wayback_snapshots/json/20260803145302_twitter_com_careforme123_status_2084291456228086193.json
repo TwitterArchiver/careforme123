@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2084090046022606903",
+    "created_at": "2026-08-03T14:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084291456228086193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "760811174858330112",
+          "start": 0,
+          "username": "Sager_wang07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084291456228086193",
+    "in_reply_to_user_id": "760811174858330112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084090046022606903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sager_wang07 看见苍蝇我也拍死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084090036245659648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOws2JJagAANgqm.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2084090046022606903",
+        "created_at": "2026-08-03T14:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084291456228086193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "760811174858330112",
+              "start": 0,
+              "username": "Sager_wang07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084291456228086193",
+        "in_reply_to_user_id": "760811174858330112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084090046022606903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sager_wang07 看见苍蝇我也拍死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084090036245659648"
+          ]
+        },
+        "author_id": "760811174858330112",
+        "conversation_id": "2084090046022606903",
+        "created_at": "2026-08-03T01:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084090046022606903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sager_wang07/s…",
+              "end": 34,
+              "expanded_url": "https://x.com/sager_wang07/status/2083968132830626292?s=46",
+              "start": 11,
+              "url": "https://t.co/fyArg83Ocd"
+            },
+            {
+              "display_url": "pic.x.com/H5mXMgXwPq",
+              "end": 58,
+              "expanded_url": "https://x.com/Sager_wang07/status/2084090046022606903/photo/1",
+              "media_key": "3_2084090036245659648",
+              "start": 35,
+              "url": "https://t.co/H5mXMgXwPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084090046022606903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 667,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083968132830626292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "民运领袖这么玻璃心？\nhttps://t.co/fyArg83Ocd https://t.co/H5mXMgXwPq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2884,
+          "following_count": 813,
+          "like_count": 7987,
+          "listed_count": 9,
+          "media_count": 828,
+          "tweet_count": 3189
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-03T12:14:54.000Z",
+        "description": "大号@zhaodezhu_s_dad 复活赛中/逃生舱@maybe_fuckU/被我玩死的野儿子@TZzhuanjia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "zhaodezhu_s_dad"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "maybe_fuckU"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "TZzhuanjia"
+              }
+            ]
+          }
+        },
+        "id": "760811174858330112",
+        "location": "Brisbane, Queensland",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "760846539489095680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083942637393092609/uNrDimAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 292,
+          "like_count": 133,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "Sager_wang07",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2083517364067508291",
+    "created_at": "2026-08-01T15:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083573255601025324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604181895721504771",
+          "start": 0,
+          "username": "mengtunwudaimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083573255601025324",
+    "in_reply_to_user_id": "1604181895721504771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083517364067508291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengtunwudaimu 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2083517364067508291",
+        "created_at": "2026-08-01T15:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083573255601025324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083573255601025324",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083517364067508291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604181895721504771",
+        "conversation_id": "2083517364067508291",
+        "created_at": "2026-08-01T11:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083517364067508291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083517364067508291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1600,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "现在有时间了，这里开个互动贴，大家可以来问喵酱问题，或者其他的要求也可以。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 810,
+          "like_count": 7961,
+          "listed_count": 10,
+          "media_count": 826,
+          "tweet_count": 3183
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "大家好，我是一個日本人，中文學習中，希望可以和使用中文的人成為朋友。",
+        "id": "1604181895721504771",
+        "location": "IP属地：美麗的日本",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067680240068083713/vzZpnDsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14635,
+          "following_count": 3117,
+          "like_count": 31376,
+          "listed_count": 145,
+          "media_count": 2905,
+          "tweet_count": 18421
+        },
+        "url": "",
+        "username": "mengtunwudaimu",
+        "verified": true
+      }
+    ]
+  }
+}

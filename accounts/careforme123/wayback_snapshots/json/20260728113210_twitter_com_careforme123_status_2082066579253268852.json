@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082066568591413248"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2082066579253268852",
+    "created_at": "2026-07-28T11:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082066579253268852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/goCZVkeGBQ",
+          "end": 46,
+          "expanded_url": "https://x.com/careforme123/status/2082066579253268852/photo/1",
+          "media_key": "3_2082066568591413248",
+          "start": 23,
+          "url": "https://t.co/goCZVkeGBQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082066579253268852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国媒体说，特朗普当总统当上瘾了\n😱😱😱😱😱 https://t.co/goCZVkeGBQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_2082066568591413248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT8g0ubkAAKtZp.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082066568591413248"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2082066579253268852",
+        "created_at": "2026-07-28T11:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082066579253268852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/goCZVkeGBQ",
+              "end": 46,
+              "expanded_url": "https://x.com/careforme123/status/2082066579253268852/photo/1",
+              "media_key": "3_2082066568591413248",
+              "start": 23,
+              "url": "https://t.co/goCZVkeGBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082066579253268852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国媒体说，特朗普当总统当上瘾了\n😱😱😱😱😱 https://t.co/goCZVkeGBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 808,
+          "like_count": 7920,
+          "listed_count": 10,
+          "media_count": 821,
+          "tweet_count": 3165
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2087917102006972751",
+    "created_at": "2026-08-13T15:00:53.000Z",
+    "display_text_range": [
+      16,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087917310887559238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087917310887559238",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087917102006972751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 宪法可修改，特朗普别怕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15935,
+        "height": 1920,
+        "media_key": "13_2087726557129510912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087726557129510912/img/goKvbVjvJF96cekQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087726557129510912/pl/SrOOcpV_TRylB2mJ.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087726557129510912/vid/avc1/480x852/4zhlre43F_5vQgcf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087726557129510912/vid/avc1/720x1280/UCPN2x7qBi2jCzfH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087726557129510912/vid/avc1/1080x1920/GMo6hPhGqHb7PbRf.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087726557129510912/vid/avc1/320x568/A3BaNBrfkmTh1ep6.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 455,
+        "media_key": "3_2087726569683136512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkYQP4bsAAZP3j.png",
+        "width": 467
+      },
+      {
+        "height": 594,
+        "media_key": "3_2087726596891508738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkYR1PagAIxiE9.png",
+        "width": 458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2087917102006972751",
+        "created_at": "2026-08-13T15:00:53.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087917310887559238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087917310887559238",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087917102006972751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 宪法可修改，特朗普别怕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087726557129510912",
+            "3_2087726569683136512",
+            "3_2087726596891508738"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2087917102006972751",
+        "created_at": "2026-08-13T15:00:03.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087917102006972751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CraLe9kc1H",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2087917102006972751/video/1",
+              "media_key": "13_2087726557129510912",
+              "start": 114,
+              "url": "https://t.co/CraLe9kc1H"
+            },
+            {
+              "display_url": "pic.x.com/CraLe9kc1H",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2087917102006972751/video/1",
+              "media_key": "3_2087726569683136512",
+              "start": 114,
+              "url": "https://t.co/CraLe9kc1H"
+            },
+            {
+              "display_url": "pic.x.com/CraLe9kc1H",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2087917102006972751/video/1",
+              "media_key": "3_2087726596891508738",
+              "start": 114,
+              "url": "https://t.co/CraLe9kc1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087917102006972751",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087726557129510912"
+          },
+          {
+            "media_key": "3_2087726569683136512"
+          },
+          {
+            "media_key": "3_2087726596891508738"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 963,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我很想参选第三任期，但法律非常严格。”\n\n8月12日，澎湃新闻发布特朗普回应“是否谋求第三任期”的视频。\n特朗普称：“我很想参选，但法律非常严格。”\n\n有网友在相关视频留言：\n“能量还是太小了。”\n“这么简单事都做不到吗？” https://t.co/CraLe9kc1H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087917310887559238",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 822,
+          "like_count": 8131,
+          "listed_count": 10,
+          "media_count": 840,
+          "tweet_count": 3231
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2087917102006972751",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249131,
+          "following_count": 1079,
+          "like_count": 9881,
+          "listed_count": 8878,
+          "media_count": 51950,
+          "tweet_count": 59238
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085330910283788288",
+        "3_2085330918718517248"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2085330925278351838",
+    "created_at": "2026-08-06T11:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085330925278351838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/seSVNQugQ3",
+          "end": 136,
+          "expanded_url": "https://x.com/careforme123/status/2085330925278351838/photo/1",
+          "media_key": "3_2085330910283788288",
+          "start": 113,
+          "url": "https://t.co/seSVNQugQ3"
+        },
+        {
+          "display_url": "pic.x.com/seSVNQugQ3",
+          "end": 136,
+          "expanded_url": "https://x.com/careforme123/status/2085330925278351838/photo/1",
+          "media_key": "3_2085330918718517248",
+          "start": 113,
+          "url": "https://t.co/seSVNQugQ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085330925278351838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "河南灭门案凶手夏付钢，一周过去仍未被捕\n\n据传，当地村民称他为民除害的大英雄，并自发往玉米田里丢物资，为他打掩护\n\n关于灭门案内幕，还没有确切说法，流传最广的是：夏付钢因装修纠纷，被村霸联合黑社会毒打后报复，造成起码一死四伤 https://t.co/seSVNQugQ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_2085330910283788288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCVahKbcAAUz7m.jpg",
+        "width": 789
+      },
+      {
+        "height": 365,
+        "media_key": "3_2085330918718517248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCVbAlbMAAex5k.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085330910283788288",
+            "3_2085330918718517248"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2085330925278351838",
+        "created_at": "2026-08-06T11:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085330925278351838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/seSVNQugQ3",
+              "end": 136,
+              "expanded_url": "https://x.com/careforme123/status/2085330925278351838/photo/1",
+              "media_key": "3_2085330910283788288",
+              "start": 113,
+              "url": "https://t.co/seSVNQugQ3"
+            },
+            {
+              "display_url": "pic.x.com/seSVNQugQ3",
+              "end": 136,
+              "expanded_url": "https://x.com/careforme123/status/2085330925278351838/photo/1",
+              "media_key": "3_2085330918718517248",
+              "start": 113,
+              "url": "https://t.co/seSVNQugQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085330925278351838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "河南灭门案凶手夏付钢，一周过去仍未被捕\n\n据传，当地村民称他为民除害的大英雄，并自发往玉米田里丢物资，为他打掩护\n\n关于灭门案内幕，还没有确切说法，流传最广的是：夏付钢因装修纠纷，被村霸联合黑社会毒打后报复，造成起码一死四伤 https://t.co/seSVNQugQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 817,
+          "like_count": 8025,
+          "listed_count": 9,
+          "media_count": 833,
+          "tweet_count": 3197
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

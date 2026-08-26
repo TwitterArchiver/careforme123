@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084961142280187904"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2084961150991835592",
+    "created_at": "2026-08-05T11:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084961150991835592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hr6wkCrSaW",
+          "end": 45,
+          "expanded_url": "https://x.com/careforme123/status/2084961150991835592/photo/1",
+          "media_key": "3_2084961142280187904",
+          "start": 22,
+          "url": "https://t.co/hr6wkCrSaW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084961150991835592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好好的车整成这种，是要干嘛？（还是日本车） https://t.co/hr6wkCrSaW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2084961142280187904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9FHMAacAAsR6C.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084961142280187904"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2084961150991835592",
+        "created_at": "2026-08-05T11:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084961150991835592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hr6wkCrSaW",
+              "end": 45,
+              "expanded_url": "https://x.com/careforme123/status/2084961150991835592/photo/1",
+              "media_key": "3_2084961142280187904",
+              "start": 22,
+              "url": "https://t.co/hr6wkCrSaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084961150991835592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好的车整成这种，是要干嘛？（还是日本车） https://t.co/hr6wkCrSaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2919,
+          "following_count": 816,
+          "like_count": 8016,
+          "listed_count": 9,
+          "media_count": 830,
+          "tweet_count": 3194
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

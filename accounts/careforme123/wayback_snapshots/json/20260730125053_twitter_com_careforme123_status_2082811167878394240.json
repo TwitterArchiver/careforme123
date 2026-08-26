@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082811140170764289"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2082811167878394240",
+    "created_at": "2026-07-30T12:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082811167878394240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wCV6BW2HEs",
+          "end": 89,
+          "expanded_url": "https://x.com/careforme123/status/2082811167878394240/video/1",
+          "media_key": "13_2082811140170764289",
+          "start": 66,
+          "url": "https://t.co/wCV6BW2HEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082811167878394240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在中国，这么小的孩子就要被教育来仇恨日本人\n\n所以日本网友们不用因为某些人的谩骂而生气，因为这是他们从小就被灌输的思想\n\n谢谢大家 https://t.co/wCV6BW2HEs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38870,
+        "height": 852,
+        "media_key": "13_2082811140170764289",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082811140170764289/img/WUIcinRG28BJfegR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082811140170764289/vid/avc1/320x568/2-e2ee4AQ0vfFhmW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082811140170764289/vid/avc1/480x852/QzkFgwE-oIfM637C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082811140170764289/pl/g8Ejka6lMJsV2EXo.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082811140170764289"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2082811167878394240",
+        "created_at": "2026-07-30T12:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082811167878394240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wCV6BW2HEs",
+              "end": 89,
+              "expanded_url": "https://x.com/careforme123/status/2082811167878394240/video/1",
+              "media_key": "13_2082811140170764289",
+              "start": 66,
+              "url": "https://t.co/wCV6BW2HEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082811167878394240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在中国，这么小的孩子就要被教育来仇恨日本人\n\n所以日本网友们不用因为某些人的谩骂而生气，因为这是他们从小就被灌输的思想\n\n谢谢大家 https://t.co/wCV6BW2HEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 808,
+          "like_count": 7938,
+          "listed_count": 10,
+          "media_count": 824,
+          "tweet_count": 3174
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

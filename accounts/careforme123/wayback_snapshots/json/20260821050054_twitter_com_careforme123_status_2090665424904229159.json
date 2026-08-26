@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2090635378223120664",
+    "created_at": "2026-08-21T05:00:54.000Z",
+    "display_text_range": [
+      15,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090665424904229159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090665424904229159",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090635378223120664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 花云ippure的评分很差，cloudflare危险度也高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2090635371965304832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNty0zb0AADW7q.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2090635378223120664",
+        "created_at": "2026-08-21T05:00:54.000Z",
+        "display_text_range": [
+          15,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090665424904229159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090665424904229159",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090635378223120664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 花云ippure的评分很差，cloudflare危险度也高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090635371965304832"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2090635378223120664",
+        "created_at": "2026-08-21T03:01:30.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090635378223120664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "flowercloud.net",
+              "end": 30,
+              "expanded_url": "https://flowercloud.net",
+              "start": 7,
+              "status": 403,
+              "unwound_url": "https://flowercloud.net",
+              "url": "https://t.co/HAmFkASJaD"
+            },
+            {
+              "display_url": "pic.x.com/pJFOIVZw5W",
+              "end": 97,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2090635378223120664/photo/1",
+              "media_key": "3_2090635371965304832",
+              "start": 74,
+              "url": "https://t.co/pJFOIVZw5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090635378223120664",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090635371965304832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 621,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贱畜机场花云（https://t.co/HAmFkASJaD），tg加载不出来图，ChatGPT故意连不上，还有脸卖那么贵，甚至厚颜无耻说不退款？ https://t.co/pJFOIVZw5W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090665424904229159",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3309,
+          "following_count": 812,
+          "like_count": 8198,
+          "listed_count": 11,
+          "media_count": 847,
+          "tweet_count": 3262
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": true,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2090660602121527791",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98405,
+          "following_count": 2706,
+          "like_count": 8276,
+          "listed_count": 204,
+          "media_count": 1054,
+          "tweet_count": 5086
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

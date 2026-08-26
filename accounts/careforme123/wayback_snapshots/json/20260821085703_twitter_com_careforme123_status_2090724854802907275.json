@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2090496158074609993",
+    "created_at": "2026-08-21T08:57:03.000Z",
+    "display_text_range": [
+      43,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090724854802907275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056465065432485888",
+          "start": 0,
+          "username": "wangxi194708"
+        },
+        {
+          "end": 30,
+          "id": "1586890366460067840",
+          "start": 14,
+          "username": "LnssjdjfkdlPhqe"
+        },
+        {
+          "end": 42,
+          "id": "2088633671209414656",
+          "start": 31,
+          "username": "daoguan667"
+        },
+        {
+          "end": 48,
+          "id": "1720665183188922368",
+          "start": 43,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090724854802907275",
+    "in_reply_to_user_id": "2056465065432485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090719356380692559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangxi194708 @LnssjdjfkdlPhqe @daoguan667 @grok 告诉这傻子中国和台湾的收入中位数平价购买力对比"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 513,
+        "media_key": "3_2090719347719458816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQO6K23a0AAoiww.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2090496158074609993",
+        "created_at": "2026-08-21T08:57:03.000Z",
+        "display_text_range": [
+          43,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090724854802907275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056465065432485888",
+              "start": 0,
+              "username": "wangxi194708"
+            },
+            {
+              "end": 30,
+              "id": "1586890366460067840",
+              "start": 14,
+              "username": "LnssjdjfkdlPhqe"
+            },
+            {
+              "end": 42,
+              "id": "2088633671209414656",
+              "start": 31,
+              "username": "daoguan667"
+            },
+            {
+              "end": 48,
+              "id": "1720665183188922368",
+              "start": 43,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090724854802907275",
+        "in_reply_to_user_id": "2056465065432485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090719356380692559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangxi194708 @LnssjdjfkdlPhqe @daoguan667 @grok 告诉这傻子中国和台湾的收入中位数平价购买力对比"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090719347719458816"
+          ]
+        },
+        "author_id": "2056465065432485888",
+        "conversation_id": "2090496158074609993",
+        "created_at": "2026-08-21T08:35:12.000Z",
+        "display_text_range": [
+          43,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090719356380692559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1586890366460067840",
+              "start": 0,
+              "username": "LnssjdjfkdlPhqe"
+            },
+            {
+              "end": 30,
+              "id": "1813561571941183488",
+              "start": 17,
+              "username": "careforme123"
+            },
+            {
+              "end": 42,
+              "id": "2088633671209414656",
+              "start": 31,
+              "username": "daoguan667"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDucBTqjoz",
+              "end": 149,
+              "expanded_url": "https://x.com/wangxi194708/status/2090719356380692559/photo/1",
+              "media_key": "3_2090719347719458816",
+              "start": 126,
+              "url": "https://t.co/HDucBTqjoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090719356380692559",
+        "in_reply_to_user_id": "1586890366460067840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090719347719458816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090717966161829925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LnssjdjfkdlPhqe @careforme123 @daoguan667 来兄弟，看看咱俩谁眼瞎。\n另外同样一款车比如2026款奥迪A3在大陆落地价12.5万人民币在台湾要28.7万RMB噢，而且台湾的还是只有六个气囊的减配版还不包车牌税 https://t.co/HDucBTqjoz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090724854802907275",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3312,
+          "following_count": 813,
+          "like_count": 8204,
+          "listed_count": 11,
+          "media_count": 849,
+          "tweet_count": 3267
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-18T20:02:18.000Z",
+        "description": "",
+        "id": "2056465065432485888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090721481470652822",
+        "name": "溪",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059246530423648256/stuSzE7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 69,
+          "like_count": 2492,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "wangxi194708",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-31T01:19:06.000Z",
+        "description": "",
+        "id": "1586890366460067840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090718533537951746",
+        "name": "円",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813930936519856128/FYQejEMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 218,
+          "like_count": 2456,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 2380
+        },
+        "url": "",
+        "username": "LnssjdjfkdlPhqe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T14:29:55.000Z",
+        "description": "",
+        "id": "2088633671209414656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090675241521713467",
+        "name": "tom",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088853986929479680/NF8QjPQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "daoguan667",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090724870023786760",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8991118,
+          "following_count": 6,
+          "like_count": 132,
+          "listed_count": 7408,
+          "media_count": 9285762,
+          "tweet_count": 136735398
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

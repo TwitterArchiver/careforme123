@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2087808637591044126",
+    "created_at": "2026-08-13T07:49:03.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087808637591044126"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087808637591044126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国天天说要把人民币打造成世界货币，结果自己的储户取个几万块都要走一天的手续，转账要提供各种文件，甚至实行严格的外汇管制\n\n所以直到今天人民币的全球支付份额也只有3%，甚至不如日元。顺便一说，美元占了50%"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2087808637591044126",
+        "created_at": "2026-08-13T07:49:03.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087808637591044126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087808637591044126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国天天说要把人民币打造成世界货币，结果自己的储户取个几万块都要走一天的手续，转账要提供各种文件，甚至实行严格的外汇管制\n\n所以直到今天人民币的全球支付份额也只有3%，甚至不如日元。顺便一说，美元占了50%"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087808637591044126",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 822,
+          "like_count": 8121,
+          "listed_count": 10,
+          "media_count": 840,
+          "tweet_count": 3227
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

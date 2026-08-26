@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083512680305115137"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2083512702304186457",
+    "created_at": "2026-08-01T11:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083512702304186457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NmQeeA0hmE",
+          "end": 46,
+          "expanded_url": "https://x.com/careforme123/status/2083512702304186457/video/1",
+          "media_key": "13_2083512680305115137",
+          "start": 23,
+          "url": "https://t.co/NmQeeA0hmE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083512702304186457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在中国，一个小孩溺水了，其他人只是静静的看着 https://t.co/NmQeeA0hmE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13096,
+        "height": 1016,
+        "media_key": "13_2083512680305115137",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083512680305115137/img/tb3WENOV48BkoA_z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083512680305115137/vid/avc1/320x564/8Z7MUEfgOeUg6l39.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083512680305115137/vid/avc1/480x846/xJitLqyDZXGUfpnM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083512680305115137/vid/avc1/576x1016/Us45KFkHTb8HSljV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083512680305115137/pl/Koa5JEfWUYacrnTW.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083512680305115137"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2083512702304186457",
+        "created_at": "2026-08-01T11:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083512702304186457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmQeeA0hmE",
+              "end": 46,
+              "expanded_url": "https://x.com/careforme123/status/2083512702304186457/video/1",
+              "media_key": "13_2083512680305115137",
+              "start": 23,
+              "url": "https://t.co/NmQeeA0hmE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083512702304186457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在中国，一个小孩溺水了，其他人只是静静的看着 https://t.co/NmQeeA0hmE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 809,
+          "like_count": 7955,
+          "listed_count": 10,
+          "media_count": 825,
+          "tweet_count": 3179
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

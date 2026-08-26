@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2087895812046979453",
+    "created_at": "2026-08-13T15:02:07.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087917624370069684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "760811174858330112",
+          "start": 0,
+          "username": "Sager_wang07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087917624370069684",
+    "in_reply_to_user_id": "760811174858330112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087895812046979453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sager_wang07 😂😂😂😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50642,
+        "height": 1280,
+        "media_key": "13_2087734472552697856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087734472552697856/img/vZiYLCefdJtKaWT_.jpg",
+        "public_metrics": {
+          "view_count": 81
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087734472552697856/vid/avc1/320x568/S65HVy6-uEYU_fFO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087734472552697856/vid/avc1/480x852/BYFAwEz_FZItiOJY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087734472552697856/vid/avc1/720x1280/gH1K6n7ebnXPv0OL.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087734472552697856/pl/1OzZdeEezcd_pCdN.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2087895812046979453",
+        "created_at": "2026-08-13T15:02:07.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087917624370069684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "760811174858330112",
+              "start": 0,
+              "username": "Sager_wang07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087917624370069684",
+        "in_reply_to_user_id": "760811174858330112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087895812046979453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sager_wang07 😂😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087734472552697856"
+          ],
+          "media_source_tweet_id": [
+            "2087734572448415923"
+          ]
+        },
+        "author_id": "760811174858330112",
+        "conversation_id": "2087895812046979453",
+        "created_at": "2026-08-13T13:35:27.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087895812046979453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gs7FQxEWU6",
+              "end": 39,
+              "expanded_url": "https://x.com/lin14637555/status/2087734572448415923/video/1",
+              "media_key": "13_2087734472552697856",
+              "start": 16,
+              "url": "https://t.co/Gs7FQxEWU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087895812046979453",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087734472552697856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山河皆安 缅怀长津湖冰雕连忠魂 https://t.co/Gs7FQxEWU6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087917624370069684",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 822,
+          "like_count": 8132,
+          "listed_count": 10,
+          "media_count": 840,
+          "tweet_count": 3232
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-03T12:14:54.000Z",
+        "description": "讲好中国故事，弘扬爱国精神！🇨🇳🇨🇳🇨🇳\n/大号@zhaodezhu_s_dad 复活赛中\n/逃生舱@maybe_fuckU\n/被我玩死的野儿子@TZzhuanjia\n/以下标签有好内容可以@我来鉴赏\n#DELTARUNE #UNDERTALE #Citlali #原神",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 101,
+                "tag": "DELTARUNE"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "tag": "UNDERTALE"
+              },
+              {
+                "end": 131,
+                "start": 123,
+                "tag": "Citlali"
+              },
+              {
+                "end": 135,
+                "start": 132,
+                "tag": "原神"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "zhaodezhu_s_dad"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "maybe_fuckU"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "TZzhuanjia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/citlalilover07…",
+                "end": 23,
+                "expanded_url": "https://x.com/citlalilover07?s=11",
+                "start": 0,
+                "url": "https://t.co/FQPcJ2H89L"
+              }
+            ]
+          }
+        },
+        "id": "760811174858330112",
+        "is_identity_verified": false,
+        "location": "Brisbane, Queensland",
+        "most_recent_tweet_id": "2087911770367164701",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2087516684445757751",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760811174858330112/1785375072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083942637393092609/uNrDimAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 439,
+          "like_count": 279,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/FQPcJ2H89L",
+        "username": "Sager_wang07",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

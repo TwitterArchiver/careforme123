@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2085270487417163776"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2085270527740924048",
+    "created_at": "2026-08-06T07:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085270527740924048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rBpJSfrQHc",
+          "end": 38,
+          "expanded_url": "https://x.com/careforme123/status/2085270527740924048/video/1",
+          "media_key": "13_2085270487417163776",
+          "start": 15,
+          "url": "https://t.co/rBpJSfrQHc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085270527740924048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神人tv之老师我是中华民国人 https://t.co/rBpJSfrQHc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44011,
+        "height": 1280,
+        "media_key": "13_2085270487417163776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085270487417163776/img/A6dC8Ez3doyxnWrX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085270487417163776/vid/avc1/320x568/hRldbXF_-72QgPTL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085270487417163776/vid/avc1/480x852/-Gzuaf6MwdaGG4Vk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085270487417163776/vid/avc1/720x1280/DCNz5Yrygwoehi6q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085270487417163776/pl/6VAT06KdkOI2RUvV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085270487417163776"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2085270527740924048",
+        "created_at": "2026-08-06T07:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085270527740924048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBpJSfrQHc",
+              "end": 38,
+              "expanded_url": "https://x.com/careforme123/status/2085270527740924048/video/1",
+              "media_key": "13_2085270487417163776",
+              "start": 15,
+              "url": "https://t.co/rBpJSfrQHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085270527740924048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神人tv之老师我是中华民国人 https://t.co/rBpJSfrQHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2920,
+          "following_count": 817,
+          "like_count": 8019,
+          "listed_count": 9,
+          "media_count": 831,
+          "tweet_count": 3195
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

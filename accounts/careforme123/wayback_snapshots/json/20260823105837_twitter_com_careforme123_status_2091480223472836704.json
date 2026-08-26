@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091480191973691392"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2091480223472836704",
+    "created_at": "2026-08-23T10:58:37.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T11:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091480223472836704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x8kamJBYyA",
+          "end": 32,
+          "expanded_url": "https://x.com/careforme123/status/2091480223472836704/video/1",
+          "media_key": "13_2091480191973691392",
+          "start": 9,
+          "url": "https://t.co/x8kamJBYyA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091480223472836704",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091480191973691392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "河南人抢饭就这样 https://t.co/x8kamJBYyA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 1280,
+        "media_key": "13_2091480191973691392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091480191973691392/img/gn6ZuYDsNxYYSrNe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091480191973691392/vid/avc1/320x568/QQrYY6on4D-qu9mW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091480191973691392/vid/avc1/480x852/iC4zHt7uc3cJY43s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091480191973691392/vid/avc1/720x1280/rxq2qnI0yEmFpHrd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091480191973691392/pl/2eJKW1phI2fSQd7j.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091480191973691392"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2091480223472836704",
+        "created_at": "2026-08-23T10:58:37.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091480223472836704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x8kamJBYyA",
+              "end": 32,
+              "expanded_url": "https://x.com/careforme123/status/2091480223472836704/video/1",
+              "media_key": "13_2091480191973691392",
+              "start": 9,
+              "url": "https://t.co/x8kamJBYyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091480223472836704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091480191973691392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "河南人抢饭就这样 https://t.co/x8kamJBYyA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091480223472836704",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3365,
+          "following_count": 812,
+          "like_count": 8226,
+          "listed_count": 11,
+          "media_count": 852,
+          "tweet_count": 3276
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

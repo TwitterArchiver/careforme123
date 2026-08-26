@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2090496158074609993",
+    "created_at": "2026-08-20T18:14:58.000Z",
+    "display_text_range": [
+      12,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T19:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090502868604489897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2088633671209414656",
+          "start": 0,
+          "username": "daoguan667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090502868604489897",
+    "in_reply_to_user_id": "2088633671209414656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090496158074609993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daoguan667 台湾人赚着你们三倍的工资，回来干嘛，和你一起被强制交社保以至于每个月只有两千多入账吗？还是你是未成年，把世界想得很美好啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2090496158074609993",
+        "created_at": "2026-08-20T18:14:58.000Z",
+        "display_text_range": [
+          12,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T19:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090502868604489897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2088633671209414656",
+              "start": 0,
+              "username": "daoguan667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090502868604489897",
+        "in_reply_to_user_id": "2088633671209414656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090496158074609993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daoguan667 台湾人赚着你们三倍的工资，回来干嘛，和你一起被强制交社保以至于每个月只有两千多入账吗？还是你是未成年，把世界想得很美好啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088633671209414656",
+        "conversation_id": "2090496158074609993",
+        "created_at": "2026-08-20T17:48:18.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090496158074609993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090496158074609993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这群傻逼台独狗 要不行来大陆看看吧 大陆有些领域和台湾比就是现代城市vs原始部落 台湾要不是因为你们这群傻狗怎么可能会迟迟不统一 一个个撸吊撸傻了 台湾人只是当时战败国民党残党逃到了台湾 不是什么两个国家 台湾大陆是一个国家 你们这些台独傻狗我操你死妈 欢迎来回复我 我随时奉陪😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090502868604489897",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3305,
+          "following_count": 811,
+          "like_count": 8191,
+          "listed_count": 11,
+          "media_count": 847,
+          "tweet_count": 3261
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T14:29:55.000Z",
+        "description": "",
+        "id": "2088633671209414656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090496158074609993",
+        "name": "tom",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088853986929479680/NF8QjPQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "daoguan667",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

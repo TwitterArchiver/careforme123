@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090337600876036096"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2090337609885381085",
+    "created_at": "2026-08-20T07:18:17.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090337609885381085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CSAwSKfa5q",
+          "end": 31,
+          "expanded_url": "https://x.com/careforme123/status/2090337609885381085/photo/1",
+          "media_key": "3_2090337600876036096",
+          "start": 8,
+          "url": "https://t.co/CSAwSKfa5q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090337609885381085",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090337600876036096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "背锅达人许家印 https://t.co/CSAwSKfa5q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_2090337600876036096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJe-RDbwAASIos.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090337600876036096"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2090337609885381085",
+        "created_at": "2026-08-20T07:18:17.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090337609885381085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSAwSKfa5q",
+              "end": 31,
+              "expanded_url": "https://x.com/careforme123/status/2090337609885381085/photo/1",
+              "media_key": "3_2090337600876036096",
+              "start": 8,
+              "url": "https://t.co/CSAwSKfa5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090337609885381085",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090337600876036096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "背锅达人许家印 https://t.co/CSAwSKfa5q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090337609885381085",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3282,
+          "following_count": 810,
+          "like_count": 8181,
+          "listed_count": 11,
+          "media_count": 848,
+          "tweet_count": 3255
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

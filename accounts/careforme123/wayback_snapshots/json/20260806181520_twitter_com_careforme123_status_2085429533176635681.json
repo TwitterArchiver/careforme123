@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2085330925278351838",
+    "created_at": "2026-08-06T18:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085429533176635681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1234873187382358016",
+          "start": 0,
+          "username": "SexLegalHuman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085429533176635681",
+    "in_reply_to_user_id": "1234873187382358016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085406081128575042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SexLegalHuman 不管他是不是英雄，他已经犯了杀人罪，是不可能申请成功的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2085330925278351838",
+        "created_at": "2026-08-06T18:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085429533176635681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1234873187382358016",
+              "start": 0,
+              "username": "SexLegalHuman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085429533176635681",
+        "in_reply_to_user_id": "1234873187382358016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085406081128575042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SexLegalHuman 不管他是不是英雄，他已经犯了杀人罪，是不可能申请成功的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1234873187382358016",
+        "conversation_id": "2085330925278351838",
+        "created_at": "2026-08-06T16:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085406081128575042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085406081128575042",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085330925278351838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 出国申请政治避难。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 821,
+          "like_count": 8038,
+          "listed_count": 9,
+          "media_count": 833,
+          "tweet_count": 3198
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-03T16:08:26.000Z",
+        "description": "The sex trade is the sacred free power and  solicitation of prostitution is the most basic sexual power and human rights.",
+        "id": "1234873187382358016",
+        "name": "sex-liberal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1286829920727887878/VYYFpFML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 97,
+          "like_count": 4913,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 833
+        },
+        "url": "",
+        "username": "SexLegalHuman",
+        "verified": false
+      }
+    ]
+  }
+}

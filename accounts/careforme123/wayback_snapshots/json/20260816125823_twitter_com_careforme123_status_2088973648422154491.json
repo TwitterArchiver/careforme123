@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088973630004948993",
+        "3_2088973640666939392"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "conversation_id": "2088973648422154491",
+    "created_at": "2026-08-16T12:58:23.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088973648422154491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/opyKXrU5As",
+          "end": 78,
+          "expanded_url": "https://x.com/careforme123/status/2088973648422154491/photo/1",
+          "media_key": "3_2088973630004948993",
+          "start": 55,
+          "url": "https://t.co/opyKXrU5As"
+        },
+        {
+          "display_url": "pic.x.com/opyKXrU5As",
+          "end": 78,
+          "expanded_url": "https://x.com/careforme123/status/2088973648422154491/photo/1",
+          "media_key": "3_2088973640666939392",
+          "start": 55,
+          "url": "https://t.co/opyKXrU5As"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088973648422154491",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088973630004948993"
+      },
+      {
+        "media_key": "3_2088973640666939392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "军旅书画家陈国茂最新作品：永远是个兵\n\n观察面部表情可以发现，陈国茂眼神坚定，表情严肃，表达出中国军人的坚定 https://t.co/opyKXrU5As"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1987,
+        "media_key": "3_2088973630004948993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2GctmacAE1JD6.jpg",
+        "width": 1893
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2088973640666939392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2GdVUbgAAo4QW.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088973630004948993",
+            "3_2088973640666939392"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "conversation_id": "2088973648422154491",
+        "created_at": "2026-08-16T12:58:23.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088973648422154491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/opyKXrU5As",
+              "end": 78,
+              "expanded_url": "https://x.com/careforme123/status/2088973648422154491/photo/1",
+              "media_key": "3_2088973630004948993",
+              "start": 55,
+              "url": "https://t.co/opyKXrU5As"
+            },
+            {
+              "display_url": "pic.x.com/opyKXrU5As",
+              "end": 78,
+              "expanded_url": "https://x.com/careforme123/status/2088973648422154491/photo/1",
+              "media_key": "3_2088973640666939392",
+              "start": 55,
+              "url": "https://t.co/opyKXrU5As"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088973648422154491",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088973630004948993"
+          },
+          {
+            "media_key": "3_2088973640666939392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "军旅书画家陈国茂最新作品：永远是个兵\n\n观察面部表情可以发现，陈国茂眼神坚定，表情严肃，表达出中国军人的坚定 https://t.co/opyKXrU5As"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088973648422154491",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3019,
+          "following_count": 817,
+          "like_count": 8137,
+          "listed_count": 10,
+          "media_count": 844,
+          "tweet_count": 3240
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

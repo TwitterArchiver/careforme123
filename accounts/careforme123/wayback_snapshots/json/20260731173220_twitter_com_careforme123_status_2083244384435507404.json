@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2083222404504113363",
+    "created_at": "2026-07-31T17:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083244384435507404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083244384435507404",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083222404504113363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir ban的好，智商太低会传染请你离我的互关远一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083221900596293632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkXR_1bMAAs75U.jpg",
+        "width": 1984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2083222404504113363",
+        "created_at": "2026-07-31T17:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083244384435507404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083244384435507404",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083222404504113363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir ban的好，智商太低会传染请你离我的互关远一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083221900596293632"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2083222404504113363",
+        "created_at": "2026-07-31T16:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083222404504113363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigjusir/statu…",
+              "end": 66,
+              "expanded_url": "https://x.com/bigjusir/status/2056029309035512172?s=20",
+              "start": 43,
+              "url": "https://t.co/VKBjqkp5zh"
+            },
+            {
+              "display_url": "pic.x.com/WGDocYdW7h",
+              "end": 90,
+              "expanded_url": "https://x.com/bigjusir/status/2083222404504113363/photo/1",
+              "media_key": "3_2083221900596293632",
+              "start": 67,
+              "url": "https://t.co/WGDocYdW7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083222404504113363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056029309035512172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "jusir懒得说什么坏话。\n\n只能说一开始不太认识互相看走了眼，没有了解对方的本质。\nhttps://t.co/VKBjqkp5zh https://t.co/WGDocYdW7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 811,
+          "like_count": 7944,
+          "listed_count": 10,
+          "media_count": 824,
+          "tweet_count": 3176
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "bigjusir"
+              },
+              {
+                "end": 40,
+                "start": 28,
+                "username": "littlejusir"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2026283442259017729",
+        "location": "中华人民共和国",
+        "name": "jusir",
+        "pinned_tweet_id": "2082312956562583682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 2344,
+          "like_count": 6473,
+          "listed_count": 10,
+          "media_count": 760,
+          "tweet_count": 3254
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true
+      }
+    ]
+  }
+}

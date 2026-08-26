@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2085631633613606941",
+    "created_at": "2026-08-07T07:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085631633613606941"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085631633613606941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "中国有强迫劳动吗？有，到处都有\n\n中国的强迫劳动，是你随时随地都要被喊去无偿加班，一周甚至能工作80个小时，不去就扣工资，被针对，绩效垫底\n\n中国的强迫劳动，是你不工作就要饿死，因为你卡里的钱连活半个月都不够，每个月被房贷车贷压到喘不过气\n\n中国的强迫劳动，是你这个月的工资要等到下个月底发，让你不敢轻易离职\n\n中国的强迫劳动，是天气预报最高只有39度，工人要在极高温的环境下去上班，甚至连补贴都没有\n\n中国的强迫劳动，是环卫工一天12个小时只能挣50元\n\n中国的强迫劳动，是这片土地上到处都充斥着996文化，拿奉献精神pua你的人民企业家，和屁用没有，伙同企业一起来坑你的废物工会！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国有强迫劳动吗？有，到处都有\n\n中国的强迫劳动，是你随时随地都要被喊去无偿加班，一周甚至能工作80个小时，不去就扣工资，被针对，绩效垫底\n\n中国的强迫劳动，是你不工作就要饿死，因为你卡里的钱连活半个月都不够，每个月被房贷车贷压到喘不过气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2085631633613606941",
+        "created_at": "2026-08-07T07:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085631633613606941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085631633613606941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国有强迫劳动吗？有，到处都有\n\n中国的强迫劳动，是你随时随地都要被喊去无偿加班，一周甚至能工作80个小时，不去就扣工资，被针对，绩效垫底\n\n中国的强迫劳动，是你不工作就要饿死，因为你卡里的钱连活半个月都不够，每个月被房贷车贷压到喘不过气\n\n中国的强迫劳动，是你这个月的工资要等到下个月底发，让你不敢轻易离职\n\n中国的强迫劳动，是天气预报最高只有39度，工人要在极高温的环境下去上班，甚至连补贴都没有\n\n中国的强迫劳动，是环卫工一天12个小时只能挣50元\n\n中国的强迫劳动，是这片土地上到处都充斥着996文化，拿奉献精神pua你的人民企业家，和屁用没有，伙同企业一起来坑你的废物工会！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国有强迫劳动吗？有，到处都有\n\n中国的强迫劳动，是你随时随地都要被喊去无偿加班，一周甚至能工作80个小时，不去就扣工资，被针对，绩效垫底\n\n中国的强迫劳动，是你不工作就要饿死，因为你卡里的钱连活半个月都不够，每个月被房贷车贷压到喘不过气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 821,
+          "like_count": 8052,
+          "listed_count": 9,
+          "media_count": 834,
+          "tweet_count": 3200
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      }
+    ]
+  }
+}

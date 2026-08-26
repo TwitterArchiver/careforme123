@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2087118672670425521",
+    "created_at": "2026-08-12T07:26:31.000Z",
+    "display_text_range": [
+      14,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T08:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087440580133695981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1787287410554134528",
+          "start": 0,
+          "username": "gary_liu2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087440580133695981",
+    "in_reply_to_user_id": "1787287410554134528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087363498884178336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gary_liu2024 环球时报，观察者网，人民日报，这几个最会编故事了😂😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 384,
+        "media_key": "3_2087363424112320512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfN-ZNboAAh0hx.png",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2087118672670425521",
+        "created_at": "2026-08-12T07:26:31.000Z",
+        "display_text_range": [
+          14,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087440580133695981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1787287410554134528",
+              "start": 0,
+              "username": "gary_liu2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087440580133695981",
+        "in_reply_to_user_id": "1787287410554134528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087363498884178336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gary_liu2024 环球时报，观察者网，人民日报，这几个最会编故事了😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087363424112320512"
+          ]
+        },
+        "author_id": "1787287410554134528",
+        "conversation_id": "2087118672670425521",
+        "created_at": "2026-08-12T02:20:14.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087363498884178336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FoZO8mycHA",
+              "end": 51,
+              "expanded_url": "https://x.com/gary_liu2024/status/2087363498884178336/photo/1",
+              "media_key": "3_2087363424112320512",
+              "start": 28,
+              "url": "https://t.co/FoZO8mycHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087363498884178336",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087363424112320512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087118672670425521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 太好了，美国人也吃不起了！ https://t.co/FoZO8mycHA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087440580133695981",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 821,
+          "like_count": 8104,
+          "listed_count": 10,
+          "media_count": 840,
+          "tweet_count": 3224
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-06T01:05:17.000Z",
+        "description": "分享一下澳洲悉尼的趣事，惨事。\n也分享自己的炒币分析，操作（亏钱经历），不作为投资建议。",
+        "id": "1787287410554134528",
+        "is_identity_verified": false,
+        "location": "Sydney",
+        "most_recent_tweet_id": "2087413760881508742",
+        "name": "澳洲盖瑞",
+        "pinned_tweet_id": "2031132554443763881",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788775803637108736/DrHxFK3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 628,
+          "like_count": 1732,
+          "listed_count": 5,
+          "media_count": 835,
+          "tweet_count": 4427
+        },
+        "url": "",
+        "username": "gary_liu2024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

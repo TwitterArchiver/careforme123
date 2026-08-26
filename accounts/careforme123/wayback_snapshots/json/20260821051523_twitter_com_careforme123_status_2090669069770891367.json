@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2090485629264310276",
+    "created_at": "2026-08-21T05:15:23.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T06:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090669069770891367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2089008656117587969",
+          "start": 0,
+          "username": "ComboNelly3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090669069770891367",
+    "in_reply_to_user_id": "2089008656117587969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090491842890797501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ComboNelly3 无意冒犯，不接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_2090491834149863424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLrP0xbgAA7AZ7.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2090485629264310276",
+        "created_at": "2026-08-21T05:15:23.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090669069770891367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2089008656117587969",
+              "start": 0,
+              "username": "ComboNelly3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090669069770891367",
+        "in_reply_to_user_id": "2089008656117587969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090491842890797501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ComboNelly3 无意冒犯，不接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090491834149863424"
+          ]
+        },
+        "author_id": "2089008656117587969",
+        "conversation_id": "2090485629264310276",
+        "created_at": "2026-08-20T17:31:09.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090491842890797501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJXBXTktrQ",
+              "end": 37,
+              "expanded_url": "https://x.com/ComboNelly3/status/2090491842890797501/photo/1",
+              "media_key": "3_2090491834149863424",
+              "start": 14,
+              "url": "https://t.co/aJXBXTktrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090491842890797501",
+        "in_reply_to_user_id": "2089008656117587969",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090491834149863424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 724,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090485629264310276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们看好了，这个是毛主席 https://t.co/aJXBXTktrQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090669069770891367",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3309,
+          "following_count": 812,
+          "like_count": 8201,
+          "listed_count": 11,
+          "media_count": 847,
+          "tweet_count": 3263
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T15:18:34.000Z",
+        "description": "【政治内容账号】\n“胸怀祖国，放眼世界，共产主义是我们的理想”\n马克思主义-毛派，账号内容仅个人观点\n反毛贼走资派最严厉的父亲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mzdbl.cn",
+                "end": 23,
+                "expanded_url": "http://mzdbl.cn",
+                "start": 0,
+                "url": "https://t.co/yWeMHhU4In"
+              }
+            ]
+          }
+        },
+        "id": "2089008656117587969",
+        "is_identity_verified": false,
+        "location": "安徽省革命委员会",
+        "most_recent_tweet_id": "2090666591692415423",
+        "name": "Combo Nelly",
+        "pinned_tweet_id": "2089657883839602834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089008656117587969/1787200663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089191177006497792/RfdZP0RI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 18,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/yWeMHhU4In",
+        "username": "ComboNelly3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

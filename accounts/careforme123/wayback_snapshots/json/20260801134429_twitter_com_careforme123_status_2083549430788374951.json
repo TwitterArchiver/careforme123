@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2083512702304186457",
+    "created_at": "2026-08-01T13:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083549430788374951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2079218539299209216",
+          "start": 0,
+          "username": "Liangrizefeibai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083549430788374951",
+    "in_reply_to_user_id": "2079218539299209216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083534624060236128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangrizefeibai 你家老黑关注我了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2083512702304186457",
+        "created_at": "2026-08-01T13:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083549430788374951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2079218539299209216",
+              "start": 0,
+              "username": "Liangrizefeibai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083549430788374951",
+        "in_reply_to_user_id": "2079218539299209216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083534624060236128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangrizefeibai 你家老黑关注我了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079218539299209216",
+        "conversation_id": "2083512702304186457",
+        "created_at": "2026-08-01T12:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083534624060236128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083534624060236128",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083512702304186457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 把这个视频给俺家老黑看了，老黑表示难以置信，连说了几个WTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，现居日本，欢迎互关",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 810,
+          "like_count": 7961,
+          "listed_count": 10,
+          "media_count": 826,
+          "tweet_count": 3182
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-20T14:56:33.000Z",
+        "description": "此生无悔入华夏，来世还做中国人\n上推特之前：习近平是谁，不认识\n上推特之后：老人瞻仰，轻关易道，通商宽衣，金科律玉，精甚细腻，颐使气指，疯狂宇宙，撒胡椒面，萨格尔王，PM250，疫情迁灭战，兵帮外交",
+        "id": "2079218539299209216",
+        "location": "以色列",
+        "name": "两日则肥白9🇮🇱🇺🇸推友寻回中",
+        "pinned_tweet_id": "2083151193434448319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082706750566711296/e0qCNEYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 91,
+          "like_count": 2744,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "Liangrizefeibai",
+        "verified": true
+      }
+    ]
+  }
+}
