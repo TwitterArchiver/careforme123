@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2098386071973229027",
+    "created_at": "2026-09-11T12:27:06.000Z",
+    "display_text_range": [
+      16,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T13:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098387858650476748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098387858650476748",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098386071973229027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 没有网络曝光，是永远不会管的，不知道还有多少这种人.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_2098274042533064704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6RH-KbMAARTLy.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2405,
+        "media_key": "3_2098274060832849920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6RJCVbwAA3P-Z.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2405,
+        "media_key": "3_2098274060908314624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6RJCnbQAAEl5J.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2098386071973229027",
+        "created_at": "2026-09-11T12:27:06.000Z",
+        "display_text_range": [
+          16,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098387858650476748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098387858650476748",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098386071973229027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 没有网络曝光，是永远不会管的，不知道还有多少这种人.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098274042533064704",
+            "3_2098274060832849920",
+            "3_2098274060908314624"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2098386071973229027",
+        "created_at": "2026-09-11T12:20:00.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098386071973229027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9U2Y44uMsw",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098386071973229027/photo/1",
+              "media_key": "3_2098274042533064704",
+              "start": 90,
+              "url": "https://t.co/9U2Y44uMsw"
+            },
+            {
+              "display_url": "pic.x.com/9U2Y44uMsw",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098386071973229027/photo/1",
+              "media_key": "3_2098274060832849920",
+              "start": 90,
+              "url": "https://t.co/9U2Y44uMsw"
+            },
+            {
+              "display_url": "pic.x.com/9U2Y44uMsw",
+              "end": 113,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098386071973229027/photo/1",
+              "media_key": "3_2098274060908314624",
+              "start": 90,
+              "url": "https://t.co/9U2Y44uMsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098386071973229027",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098274042533064704"
+          },
+          {
+            "media_key": "3_2098274060832849920"
+          },
+          {
+            "media_key": "3_2098274060908314624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "记者被打耳光\n\n9月10日，江西广播电视台记者吴忠敏赴深圳就”夏尔巴巴”民宿加盟押金纠纷及商标侵权问题进行实地采访时，遭涉事公司实际负责人之父掌掴，导致持续性耳鸣，采访被迫中断。\n深圳警方介入调查后，肇事者披露了真实身份。中国记协次日发表公告随即表态，坚决支持记者依法履职，对殴打记者、阻挠采访行为零容忍，呼吁依法严惩肇事者。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2505,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "记者被打耳光\n\n9月10日，江西广播电视台记者吴忠敏赴深圳就”夏尔巴巴”民宿加盟押金纠纷及商标侵权问题进行实地采访时，遭涉事公司实际负责人之父掌掴，导致持续性耳鸣，采访被迫中断。 https://t.co/9U2Y44uMsw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098387858650476748",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 805,
+          "like_count": 8286,
+          "listed_count": 13,
+          "media_count": 858,
+          "tweet_count": 3316
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2098386071973229027",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264152,
+          "following_count": 1083,
+          "like_count": 10480,
+          "listed_count": 8901,
+          "media_count": 53589,
+          "tweet_count": 60919
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

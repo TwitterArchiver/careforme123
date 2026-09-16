@@ -1,0 +1,588 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2092438543104897058",
+    "created_at": "2026-08-26T05:32:28.000Z",
+    "display_text_range": [
+      108,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092485307031822455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2038274775374581760",
+          "start": 0,
+          "username": "LKJ4908"
+        },
+        {
+          "end": 22,
+          "id": "760811174858330112",
+          "start": 9,
+          "username": "Sager_wang07"
+        },
+        {
+          "end": 39,
+          "id": "2086366757720363008",
+          "start": 23,
+          "username": "tangangqinmao12"
+        },
+        {
+          "end": 56,
+          "id": "2090124573882867712",
+          "start": 40,
+          "username": "tangangqinmao15"
+        },
+        {
+          "end": 73,
+          "id": "2086802364183539712",
+          "start": 57,
+          "username": "tangangqinmao13"
+        },
+        {
+          "end": 90,
+          "id": "2091139986154532864",
+          "start": 74,
+          "username": "tangangqinmao16"
+        },
+        {
+          "end": 107,
+          "id": "2089402671686123521",
+          "start": 91,
+          "username": "tangangqinmao14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092485307031822455",
+    "in_reply_to_user_id": "2038274775374581760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092469289601450322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LKJ4908 @Sager_wang07 @tangangqinmao12 @tangangqinmao15 @tangangqinmao13 @tangangqinmao16 @tangangqinmao14 腊肉配不上mtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2092438543104897058",
+        "created_at": "2026-08-26T05:32:28.000Z",
+        "display_text_range": [
+          108,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092485307031822455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2038274775374581760",
+              "start": 0,
+              "username": "LKJ4908"
+            },
+            {
+              "end": 22,
+              "id": "760811174858330112",
+              "start": 9,
+              "username": "Sager_wang07"
+            },
+            {
+              "end": 39,
+              "id": "2086366757720363008",
+              "start": 23,
+              "username": "tangangqinmao12"
+            },
+            {
+              "end": 56,
+              "id": "2090124573882867712",
+              "start": 40,
+              "username": "tangangqinmao15"
+            },
+            {
+              "end": 73,
+              "id": "2086802364183539712",
+              "start": 57,
+              "username": "tangangqinmao13"
+            },
+            {
+              "end": 90,
+              "id": "2091139986154532864",
+              "start": 74,
+              "username": "tangangqinmao16"
+            },
+            {
+              "end": 107,
+              "id": "2089402671686123521",
+              "start": 91,
+              "username": "tangangqinmao14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092485307031822455",
+        "in_reply_to_user_id": "2038274775374581760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092469289601450322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LKJ4908 @Sager_wang07 @tangangqinmao12 @tangangqinmao15 @tangangqinmao13 @tangangqinmao16 @tangangqinmao14 腊肉配不上mtf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038274775374581760",
+        "conversation_id": "2092438543104897058",
+        "created_at": "2026-08-26T04:28:49.000Z",
+        "display_text_range": [
+          99,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092469289601450322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "760811174858330112",
+              "start": 0,
+              "username": "Sager_wang07"
+            },
+            {
+              "end": 30,
+              "id": "2086366757720363008",
+              "start": 14,
+              "username": "tangangqinmao12"
+            },
+            {
+              "end": 47,
+              "id": "2090124573882867712",
+              "start": 31,
+              "username": "tangangqinmao15"
+            },
+            {
+              "end": 64,
+              "id": "2086802364183539712",
+              "start": 48,
+              "username": "tangangqinmao13"
+            },
+            {
+              "end": 81,
+              "id": "2091139986154532864",
+              "start": 65,
+              "username": "tangangqinmao16"
+            },
+            {
+              "end": 98,
+              "id": "2089402671686123521",
+              "start": 82,
+              "username": "tangangqinmao14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092469289601450322",
+        "in_reply_to_user_id": "760811174858330112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092438543104897058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sager_wang07 @tangangqinmao12 @tangangqinmao15 @tangangqinmao13 @tangangqinmao16 @tangangqinmao14 MTF不配站在主席的雕像下"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092485307031822455",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3390,
+          "following_count": 812,
+          "like_count": 8247,
+          "listed_count": 11,
+          "media_count": 853,
+          "tweet_count": 3284
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T15:19:20.000Z",
+        "description": "Enjoy every day you live on this world.",
+        "id": "2038274775374581760",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2092469289601450322",
+        "name": "国家反炸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038274775374581760/1784781614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091742257057873920/loq2GccL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 74,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "LKJ4908",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-03T12:14:54.000Z",
+        "description": "讲好中国故事，弘扬爱国精神！🇨🇳🇨🇳🇨🇳\n/逃生舱@maybe_fuckU\n/被我玩死的野儿子@TZzhuanjia\n/以下标签有好内容可以@我来鉴赏\n#DELTARUNE #UNDERTALE #Citlali #原神",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 76,
+                "tag": "DELTARUNE"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "tag": "UNDERTALE"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Citlali"
+              },
+              {
+                "end": 110,
+                "start": 107,
+                "tag": "原神"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "maybe_fuckU"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "TZzhuanjia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/citlalilover07…",
+                "end": 23,
+                "expanded_url": "https://x.com/citlalilover07?s=11",
+                "start": 0,
+                "url": "https://t.co/FQPcJ2H89L"
+              }
+            ]
+          }
+        },
+        "id": "760811174858330112",
+        "is_identity_verified": false,
+        "location": "Brisbane, Queensland",
+        "most_recent_tweet_id": "2092483881425649821",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2092119283128005074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760811174858330112/1785375072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083942637393092609/uNrDimAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 485,
+          "like_count": 368,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/FQPcJ2H89L",
+        "username": "Sager_wang07",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T08:21:44.000Z",
+        "description": "反毛贼最严厉的父亲\n（此号将作为主号使用 不参与对反毛贼的辱骂）\n（此号仅关注我认可的毛左）\n目前存在(未被封禁)的老婆\n@tangangqinmao13\n@tangangqinmao14\n@tangangqinmao15\n@tangangqinmao16",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "tangangqinmao13"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "tangangqinmao14"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "tangangqinmao15"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "tangangqinmao16"
+              }
+            ]
+          }
+        },
+        "id": "2086366757720363008",
+        "is_identity_verified": false,
+        "location": "反毛贼屠宰场",
+        "most_recent_tweet_id": "2092475989419073938",
+        "name": "弹钢琴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086366757720363008/1786263952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086367481892130817/t61i4vY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 14,
+          "like_count": 578,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 475
+        },
+        "url": "",
+        "username": "tangangqinmao12",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T17:12:31.000Z",
+        "description": "反毛贼我操你妈\n老公@tangangqinmao12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "tangangqinmao12"
+              }
+            ]
+          }
+        },
+        "id": "2090124573882867712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092451587528732696",
+        "name": "弹钢琴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090124573882867712/1787159656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090125203485687808/QDjUZngx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 3,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "tangangqinmao15",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T13:11:54.000Z",
+        "description": "反毛贼我操你妈\n老公@tangangqinmao12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "tangangqinmao12"
+              }
+            ]
+          }
+        },
+        "id": "2086802364183539712",
+        "is_identity_verified": false,
+        "location": "反毛贱畜屠宰场",
+        "most_recent_tweet_id": "2092477628720849344",
+        "name": "弹钢琴永不投降",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086802364183539712/1786367609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086803120353681408/mnWOI6Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 7,
+          "like_count": 464,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "tangangqinmao13",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T12:27:26.000Z",
+        "description": "反毛贼你知道我要说什么\n老公@tangangqinmao12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "tangangqinmao12"
+              }
+            ]
+          }
+        },
+        "id": "2091139986154532864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092436951202959397",
+        "name": "弹钢琴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091139986154532864/1787401767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091140253608550400/Ou9YGAg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 1,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "tangangqinmao16",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:23:53.000Z",
+        "description": "老公@tangangqinmao12\n反毛贼我操你妈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "tangangqinmao12"
+              }
+            ]
+          }
+        },
+        "id": "2089402671686123521",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092452741948039284",
+        "name": "弹钢琴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089402671686123521/1787159289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090123659134578688/7Q_x4ZcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 2,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "tangangqinmao14",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094271376131862528",
+        "3_2094271385925455872"
+      ]
+    },
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2094271394452574683",
+    "created_at": "2026-08-31T03:49:44.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T04:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094271394452574683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ox8hmlI23N",
+          "end": 114,
+          "expanded_url": "https://x.com/careforme123/status/2094271394452574683/photo/1",
+          "media_key": "3_2094271376131862528",
+          "start": 91,
+          "url": "https://t.co/ox8hmlI23N"
+        },
+        {
+          "display_url": "pic.x.com/ox8hmlI23N",
+          "end": 114,
+          "expanded_url": "https://x.com/careforme123/status/2094271394452574683/photo/1",
+          "media_key": "3_2094271385925455872",
+          "start": 91,
+          "url": "https://t.co/ox8hmlI23N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094271394452574683",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094271376131862528"
+      },
+      {
+        "media_key": "3_2094271385925455872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国著名说唱歌手在新歌中提及六四\n\n成都说唱歌手四口LSGCsikoriot在新歌中提到了“中心广场吃子弹（六四）”以及“饥荒”,“用试卷脚踩同胞”等字眼\n\n目前，此歌已被全网下架 https://t.co/ox8hmlI23N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_2094271376131862528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBYuH2bsAAjFpt.jpg",
+        "width": 1884
+      },
+      {
+        "height": 2494,
+        "media_key": "3_2094271385925455872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRBYusVaEAA1cDH.jpg",
+        "width": 1889
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094271376131862528",
+            "3_2094271385925455872"
+          ]
+        },
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2094271394452574683",
+        "created_at": "2026-08-31T03:49:44.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T04:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094271394452574683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ox8hmlI23N",
+              "end": 114,
+              "expanded_url": "https://x.com/careforme123/status/2094271394452574683/photo/1",
+              "media_key": "3_2094271376131862528",
+              "start": 91,
+              "url": "https://t.co/ox8hmlI23N"
+            },
+            {
+              "display_url": "pic.x.com/ox8hmlI23N",
+              "end": 114,
+              "expanded_url": "https://x.com/careforme123/status/2094271394452574683/photo/1",
+              "media_key": "3_2094271385925455872",
+              "start": 91,
+              "url": "https://t.co/ox8hmlI23N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094271394452574683",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094271376131862528"
+          },
+          {
+            "media_key": "3_2094271385925455872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国著名说唱歌手在新歌中提及六四\n\n成都说唱歌手四口LSGCsikoriot在新歌中提到了“中心广场吃子弹（六四）”以及“饥荒”,“用试卷脚踩同胞”等字眼\n\n目前，此歌已被全网下架 https://t.co/ox8hmlI23N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094271394452574683",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3474,
+          "following_count": 810,
+          "like_count": 8270,
+          "listed_count": 11,
+          "media_count": 857,
+          "tweet_count": 3299
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
