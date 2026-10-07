@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2103792637623009708",
+    "created_at": "2026-09-26T14:33:00.000Z",
+    "display_text_range": [
+      7,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103855361539076301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2091604791436677120",
+          "start": 0,
+          "username": "vn6jb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/careforme123/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/careforme123/status/2070067954189041998",
+          "start": 9,
+          "url": "https://t.co/LkWxlabrnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103855361539076301",
+    "in_reply_to_user_id": "2091604791436677120",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070067954189041998",
+        "type": "quoted"
+      },
+      {
+        "id": "2103853723592118379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vn6jb 。 https://t.co/LkWxlabrnS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2103792637623009708",
+        "created_at": "2026-09-26T14:33:00.000Z",
+        "display_text_range": [
+          7,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103855361539076301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2091604791436677120",
+              "start": 0,
+              "username": "vn6jb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/careforme123/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/careforme123/status/2070067954189041998",
+              "start": 9,
+              "url": "https://t.co/LkWxlabrnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103855361539076301",
+        "in_reply_to_user_id": "2091604791436677120",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070067954189041998",
+            "type": "quoted"
+          },
+          {
+            "id": "2103853723592118379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vn6jb 。 https://t.co/LkWxlabrnS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091604791436677120",
+        "conversation_id": "2103792637623009708",
+        "created_at": "2026-09-26T14:26:30.000Z",
+        "display_text_range": [
+          14,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103853723592118379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103853723592118379",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103792637623009708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 哈哈，贩毒GDP 拉的确实高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2070067954189041998",
+        "created_at": "2026-06-25T08:53:54.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070067954189041998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070067954189041998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3711,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "欧洲为何发达？祖上是强盗！家底好！\n\n美国为何发达？发战争财！搞霸权！\n\n新加坡为何发达？地理位置好，收过路费！\n\n加拿大为何发达？地广人稀，资源丰富！\n\n日本，韩国为何发达？财阀压榨！美国驻军！\n\n台湾为何发达？因为给美国当狗！有台积电！\n\n香港为何发达？英国人送钱！挑拨离间！\n\n😅😅😅😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103855361539076301",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3675,
+          "following_count": 798,
+          "like_count": 8351,
+          "listed_count": 14,
+          "media_count": 861,
+          "tweet_count": 3355
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-23T19:15:26.000Z",
+        "description": "世界人民友好 无产阶级伟大  根本不必反驳我，反正我也不怎么上号",
+        "id": "2091604791436677120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103853723592118379",
+        "name": "金永勋🇨🇳🇰🇷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091604791436677120/1790308441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103332150665715713/QFWEPCnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "vn6jb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

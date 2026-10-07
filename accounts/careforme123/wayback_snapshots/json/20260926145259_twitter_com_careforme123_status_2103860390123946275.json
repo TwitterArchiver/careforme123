@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2103792637623009708",
+    "created_at": "2026-09-26T14:52:59.000Z",
+    "display_text_range": [
+      10,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103860390123946275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1106514747527036928",
+          "start": 0,
+          "username": "edgaryu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103860390123946275",
+    "in_reply_to_user_id": "1106514747527036928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103809488130380274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edgaryu7 国家的强大与个人的苦难并不冲突，或者说，国家的强大是可以建立在个人的苦难上的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2103792637623009708",
+        "created_at": "2026-09-26T14:52:59.000Z",
+        "display_text_range": [
+          10,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103860390123946275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1106514747527036928",
+              "start": 0,
+              "username": "edgaryu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103860390123946275",
+        "in_reply_to_user_id": "1106514747527036928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103809488130380274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edgaryu7 国家的强大与个人的苦难并不冲突，或者说，国家的强大是可以建立在个人的苦难上的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1106514747527036928",
+        "conversation_id": "2103792637623009708",
+        "created_at": "2026-09-26T11:30:43.000Z",
+        "display_text_range": [
+          14,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103809488130380274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103809488130380274",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2409,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103792637623009708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 講人均就說自己有14億人\n講總量就不提自己有14億人\n\n反正中國都要贏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103860390123946275",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3676,
+          "following_count": 798,
+          "like_count": 8355,
+          "listed_count": 14,
+          "media_count": 861,
+          "tweet_count": 3356
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-15T11:17:28.000Z",
+        "description": "Architecture specialized ,I am a Taiwanese and want to make friends with theworld.  But no blue check, no reply to Chinese propaganda.",
+        "id": "1106514747527036928",
+        "is_identity_verified": false,
+        "location": "台灣國",
+        "most_recent_tweet_id": "2103853025039380653",
+        "name": "edgar yu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1106514747527036928/1748746177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040063298444697600/Q9GUnl-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 1576,
+          "like_count": 86072,
+          "listed_count": 26,
+          "media_count": 1929,
+          "tweet_count": 35910
+        },
+        "url": "",
+        "username": "edgaryu7",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

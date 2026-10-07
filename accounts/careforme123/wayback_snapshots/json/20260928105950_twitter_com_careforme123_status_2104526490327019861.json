@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2104441961558274086",
+    "created_at": "2026-09-28T10:59:50.000Z",
+    "display_text_range": [
+      21,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104526490327019861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967848341401899008",
+          "start": 0,
+          "username": "lasigebonixin"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104526490327019861",
+    "in_reply_to_user_id": "1967848341401899008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104524217064862159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lasigebonixin @grok 赞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2104441961558274086",
+        "created_at": "2026-09-28T10:59:50.000Z",
+        "display_text_range": [
+          21,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104526490327019861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967848341401899008",
+              "start": 0,
+              "username": "lasigebonixin"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104526490327019861",
+        "in_reply_to_user_id": "1967848341401899008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104524217064862159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lasigebonixin @grok 赞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967848341401899008",
+        "conversation_id": "2104441961558274086",
+        "created_at": "2026-09-28T10:50:48.000Z",
+        "display_text_range": [
+          14,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104524217064862159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            },
+            {
+              "end": 159,
+              "id": "1720665183188922368",
+              "start": 154,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104524217064862159",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104441961558274086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 墙内也是一样，北京有什么好的不如老家小县城物价便宜房价三千，网线一插碳水一造就猪生幸福了。\n粉红基本盘主要在小地方，说国民收入GNI不行就用物价挽尊，实际上有钱人不这么做因为他自己收入高。粉红难道不知道有一个结合了国民收入和物价的数据叫人均购买力PPP吗？中国排名也没见怎么靠前。@grok"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104526490327019861",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3706,
+          "following_count": 796,
+          "like_count": 8379,
+          "listed_count": 12,
+          "media_count": 861,
+          "tweet_count": 3368
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-16T07:09:48.000Z",
+        "description": "Just waste time online. Techno,punk and philosophy.",
+        "id": "1967848341401899008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104524217064862159",
+        "name": "Momo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967848341401899008/1758096536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097194129763823616/yCPnOecb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 647,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "lasigebonixin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104526504994488341",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9107929,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7685,
+          "media_count": 3964123,
+          "tweet_count": 137565876
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

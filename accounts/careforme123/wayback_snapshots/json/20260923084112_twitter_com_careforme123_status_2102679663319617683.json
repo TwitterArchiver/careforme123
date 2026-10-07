@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2102631800178655236",
+    "created_at": "2026-09-23T08:41:12.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102679663319617683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1445386175703916544",
+          "start": 0,
+          "username": "Johnny97394632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102679663319617683",
+    "in_reply_to_user_id": "1445386175703916544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102677628633411907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Johnny97394632 人家有三块钱的汉堡，不用你担心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2102631800178655236",
+        "created_at": "2026-09-23T08:41:12.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102679663319617683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1445386175703916544",
+              "start": 0,
+              "username": "Johnny97394632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102679663319617683",
+        "in_reply_to_user_id": "1445386175703916544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102677628633411907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Johnny97394632 人家有三块钱的汉堡，不用你担心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445386175703916544",
+        "conversation_id": "2102631800178655236",
+        "created_at": "2026-09-23T08:33:07.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102677628633411907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102677628633411907",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102631800178655236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 你们要不先吃饱饭再说？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102679663319617683",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3662,
+          "following_count": 798,
+          "like_count": 8322,
+          "listed_count": 15,
+          "media_count": 860,
+          "tweet_count": 3343
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-05T13:51:45.000Z",
+        "description": "Alibaba Cloud Intl SMB Business Manager. Cloud infrastructure, GPU, AI models, all in one station.",
+        "id": "1445386175703916544",
+        "is_identity_verified": false,
+        "location": "Chengdu",
+        "most_recent_tweet_id": "2102677628633411907",
+        "name": "Johnny",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445386175703916544/1664367259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088239416209010688/GheylYPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 51,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Johnny97394632",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

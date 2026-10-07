@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2104199943934382485",
+    "created_at": "2026-09-28T08:00:21.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104481322026868776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1729845368593297408",
+          "start": 0,
+          "username": "jiangjieshi888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104481322026868776",
+    "in_reply_to_user_id": "1729845368593297408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104199943934382485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangjieshi888 反了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2104199943934382485",
+        "created_at": "2026-09-28T08:00:21.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104481322026868776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1729845368593297408",
+              "start": 0,
+              "username": "jiangjieshi888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104481322026868776",
+        "in_reply_to_user_id": "1729845368593297408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104199943934382485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangjieshi888 反了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729845368593297408",
+        "conversation_id": "2104199943934382485",
+        "created_at": "2026-09-27T13:22:15.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104199943934382485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104199943934382485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1195,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我不了解中国：\n独裁官僚资本主义\n\n当我了解完中国：\n\n中国特色社会主义\n\n全过程民主\n\n灵活就业\n\n新就业形态\n\n共同富裕\n\n房住不炒\n\n深化改革\n\n动态清零\n\n全面依法治国\n\n乡村振兴\n\n新质生产力\n\n人民至上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104481322026868776",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3705,
+          "following_count": 796,
+          "like_count": 8374,
+          "listed_count": 12,
+          "media_count": 861,
+          "tweet_count": 3365
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-29T12:51:06.000Z",
+        "description": "中華民國總統｜中國國民黨總裁｜國民政府軍事委員會委員長｜國民革命軍總司令｜黃埔陸軍軍官學校校長\n怪我當年剿匪不力，對不住大家。\n（虛假身份）",
+        "id": "1729845368593297408",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2104383234293575785",
+        "name": "蔣介石（反攻大陸）🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729845368593297408/1790314907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103737458437603328/0gyXNXuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 90,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "jiangjieshi888",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

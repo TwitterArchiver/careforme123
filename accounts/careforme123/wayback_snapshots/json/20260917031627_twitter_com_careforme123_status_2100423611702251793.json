@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2100399442776162622",
+    "created_at": "2026-09-17T03:16:27.000Z",
+    "display_text_range": [
+      20,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100423611702251793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065104601855209472",
+          "start": 0,
+          "username": "YukiyaMuza"
+        },
+        {
+          "end": 19,
+          "id": "1945331416528539649",
+          "start": 12,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100423611702251793",
+    "in_reply_to_user_id": "2065104601855209472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100404137703948725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiyaMuza @bpmiea 吃了舍曲林也喝不下去酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2100399442776162622",
+        "created_at": "2026-09-17T03:16:27.000Z",
+        "display_text_range": [
+          20,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100423611702251793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065104601855209472",
+              "start": 0,
+              "username": "YukiyaMuza"
+            },
+            {
+              "end": 19,
+              "id": "1945331416528539649",
+              "start": 12,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100423611702251793",
+        "in_reply_to_user_id": "2065104601855209472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100404137703948725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiyaMuza @bpmiea 吃了舍曲林也喝不下去酒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065104601855209472",
+        "conversation_id": "2100399442776162622",
+        "created_at": "2026-09-17T01:59:04.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100404137703948725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100404137703948725",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100399442776162622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 主要是禁酒确实很难受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100423611702251793",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3569,
+          "following_count": 802,
+          "like_count": 8305,
+          "listed_count": 13,
+          "media_count": 860,
+          "tweet_count": 3330
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T16:11:51.000Z",
+        "description": "",
+        "id": "2065104601855209472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100404137703948725",
+        "name": "Yukiya",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065104860727721984/V_TGlWoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 60,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "YukiyaMuza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "最爱的妹妹 @Reverix0x\n今天心情好不反跨 | 2011 | HRT:26.1 | 自恨\n纯良女初中生 吸毒✕自残✕键政✕滥交✕\narchlinux | py/kotlin/nodejs\ngfwfucker 防火长城我操你妈\n日常和碎碎念，可能会有负面内容…\n同类互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Reverix0x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/l1qu1db0unce",
+                "end": 23,
+                "expanded_url": "https://t.me/l1qu1db0unce",
+                "start": 0,
+                "url": "https://t.co/Mlt6SoHHEd"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "is_identity_verified": false,
+        "location": "台灣 花蓮縣",
+        "most_recent_tweet_id": "2100400097851002902",
+        "name": "叶洛夜🍥𝓑.𝓜.",
+        "pinned_tweet_id": "2097595680273621130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945331416528539649/1789402828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086111140371976192/HP6Eex1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 804,
+          "like_count": 1300,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/Mlt6SoHHEd",
+        "username": "bpmiea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

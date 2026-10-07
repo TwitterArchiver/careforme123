@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2100084827500458047",
+    "created_at": "2026-09-17T00:50:42.000Z",
+    "display_text_range": [
+      15,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100386930127188420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1345007599461101571",
+          "start": 0,
+          "username": "Xiang67526167"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100386930127188420",
+    "in_reply_to_user_id": "1345007599461101571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100247207824052550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiang67526167 人家说点好话给你点面子你还得寸进尺上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2100084827500458047",
+        "created_at": "2026-09-17T00:50:42.000Z",
+        "display_text_range": [
+          15,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100386930127188420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1345007599461101571",
+              "start": 0,
+              "username": "Xiang67526167"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100386930127188420",
+        "in_reply_to_user_id": "1345007599461101571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100247207824052550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiang67526167 人家说点好话给你点面子你还得寸进尺上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345007599461101571",
+        "conversation_id": "2100084827500458047",
+        "created_at": "2026-09-16T15:35:29.000Z",
+        "display_text_range": [
+          14,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100247207824052550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ],
+          "urls": [
+            {
+              "description": "中國時報【黃琮淵╱廣州報導】蘋果公司執行長庫克（Tim Cook）昨日現身2017《財富》全球論壇，對於中國的創新表達高度肯定，他更透露，蘋果之所以選擇中國製造 ...",
+              "display_url": "tw.yahoo.com/news/%E5%BA%AB…",
+              "end": 46,
+              "expanded_url": "https://tw.yahoo.com/news/%E5%BA%AB%E5%85%8B-%E8%98%8B%E6%9E%9C%E5%9C%A8%E4%B8%AD%E5%9C%8B-%E6%98%AF%E5%9B%A0%E4%BA%BA%E6%89%8D%E6%8A%80%E8%A1%93-215006597--finance.html",
+              "start": 23,
+              "status": 200,
+              "title": "庫克：「蘋果在中國」是因人才技術",
+              "unwound_url": "https://tw.news.yahoo.com/%E5%BA%AB%E5%85%8B-%E8%98%8B%E6%9E%9C%E5%9C%A8%E4%B8%AD%E5%9C%8B-%E6%98%AF%E5%9B%A0%E4%BA%BA%E6%89%8D%E6%8A%80%E8%A1%93-215006597--finance.html",
+              "url": "https://t.co/KqrSujmZJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100247207824052550",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 700,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100188477510021382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 無知透頂愚不可及\nhttps://t.co/KqrSujmZJI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100386930127188420",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3567,
+          "following_count": 802,
+          "like_count": 8305,
+          "listed_count": 13,
+          "media_count": 860,
+          "tweet_count": 3329
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-01T14:03:06.000Z",
+        "description": "你是基督，是永生神的兒子",
+        "id": "1345007599461101571",
+        "is_identity_verified": false,
+        "location": "Vancouver, British Columbia",
+        "most_recent_tweet_id": "2100247207824052550",
+        "name": "Xiang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345007599461101571/1691863223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840322217105936384/ibiAG0UN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 499,
+          "like_count": 11965,
+          "listed_count": 23,
+          "media_count": 385,
+          "tweet_count": 36043
+        },
+        "url": "",
+        "username": "Xiang67526167",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

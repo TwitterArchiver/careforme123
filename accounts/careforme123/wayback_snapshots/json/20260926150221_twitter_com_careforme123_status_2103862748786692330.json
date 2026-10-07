@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1813561571941183488",
+    "conversation_id": "2103792637623009708",
+    "created_at": "2026-09-26T15:02:21.000Z",
+    "display_text_range": [
+      16,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T16:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103862748786692330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1738284660269146112",
+          "start": 0,
+          "username": "alexdajun80695"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103862748786692330",
+    "in_reply_to_user_id": "1738284660269146112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103846923841257546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexdajun80695 第三岛链都到家门口了，你去硬刚吧\n\n日本像条狗都是发达国家，那你是不是狗都不如？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561571941183488",
+        "conversation_id": "2103792637623009708",
+        "created_at": "2026-09-26T15:02:21.000Z",
+        "display_text_range": [
+          16,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103862748786692330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1738284660269146112",
+              "start": 0,
+              "username": "alexdajun80695"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103862748786692330",
+        "in_reply_to_user_id": "1738284660269146112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103846923841257546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexdajun80695 第三岛链都到家门口了，你去硬刚吧\n\n日本像条狗都是发达国家，那你是不是狗都不如？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738284660269146112",
+        "conversation_id": "2103792637623009708",
+        "created_at": "2026-09-26T13:59:28.000Z",
+        "display_text_range": [
+          14,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103846923841257546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "careforme123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103846923841257546",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103792637623009708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@careforme123 自豪的原因就是可以和美国硬刚，并且使它尊重你。而不是像日本一样，像条狗，毫无尊严。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "女，日本人，欢迎互关",
+        "id": "1813561571941183488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103862748786692330",
+        "name": "maybe🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813561571941183488/1777202857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3676,
+          "following_count": 798,
+          "like_count": 8355,
+          "listed_count": 14,
+          "media_count": 861,
+          "tweet_count": 3356
+        },
+        "url": "",
+        "username": "careforme123",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-22T19:45:50.000Z",
+        "description": "",
+        "id": "1738284660269146112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103858272835195340",
+        "name": "吃瓜群众",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738285364295680000/RRTZZMp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 7,
+          "like_count": 209,
+          "listed_count": 12,
+          "media_count": 72,
+          "tweet_count": 5032
+        },
+        "url": "",
+        "username": "alexdajun80695",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
